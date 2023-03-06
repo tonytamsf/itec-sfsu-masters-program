@@ -1,0 +1,807 @@
+Designing effective instructional models for increasing student achievement
+Download Complete Dissertation (1.62MB)
+Learn by Design Model
+©Nathan Balasubramanian, Ph.D.
+LEARNING BY DESIGN: TEACHERS AND STUDENTS AS CO-CREATORS OF KNOWLEDGE
+
+Nathan Balasubramanian
+Overland High School, USA
+sbalasubramania@cherrycreekschools.org
+Brent G. Wilson
+University of Colorado at Denver and Health Sciences Center, USA
+brent.wilson@cudenver.edu
+Draft of Chapter 3, in K. Kumpulainen (Ed.). Educational Technology:
+Opportunities and Challenges. (2007). Oulu, Finland: University of Oulu Press
+pp. 30 - 51
+ABSTRACT
+This chapter addresses several concerns of teacher-practitioners as schools strive towards increasing student
+achievement. It shows how one classroom teacher analyzed students’ academic performance, as measured
+through pre- and post-test scores, online think-writes, product designs, explanations and reflections in a
+guided-inquiry module, to find that his students made significant gains in specific learning outcomes in
+science and technology. Using activity theory as a framework, the authors present a conceptual model of
+teaching and learning as an evolving activity system that adapts and improves over time through increased
+student and teacher participation. The case study and narrative in this chapter illustrate how learning is
+enhanced when students are recognized as co-creators of knowledge in the classroom and are able to build on
+their existing knowledge.
+1. INTRODUCTION
+The problem of improving performance of students with diverse needs and abilities has concerned teachers
+throughout the history of modern education. More than fifty years ago the behavioral psychologist B. F.
+Skinner designed his first “teaching machine” after observing these challenges in his daughter’s math class
+(Skinner, n. d.). Today’s classrooms have similar challenges and are more demanding as teachers are expected
+to reach all subgroups of learners–by ethnicity, socio-economic status, pupil services, and English language
+proficiency. With limited contact time (Balasubramanian, 2005a; Bransford, 2000; Popham, 2003), teachers
+and schools alone seem to be held accountable for helping all students meet established educational standards
+and perform well on high-stakes assessments.
+American classrooms have not fully succeeded in this effort. Results from the 2003 Program for International
+Student Assessment (PISA) tests showed that 15-year-old students from 27 countries outperformed the United
+States in mathematics literacy; students from 28 countries outperformed the United States in problem solving
+(NL, 2005). These results have reopened the debate about what and how students are taught in secondary
+schools in the United States (Balasubramanian, 2004).
+Here is a report of how one secondary school (Grade 6–Grade 12) classroom teacher has coped with these
+
+challenges by co-opting technology as an aid since December 2000, and consequently improved student
+performance in his classes. In sections three and four, we assume Nathan’s voice as he provides a practitioner’s
+perspective on efforts to help a diverse range of learners reach high educational standards in his science and
+pre-engineering classes. Overall, the research is a collaborative effort between Nathan and Brent, with Brent
+in an advisory role providing scholarly leadership, and Nathan in the classroom trenches solving problems and
+building successful designs for instruction.
+2. CONCEPTUAL MODEL
+In this section we provide a conceptual frame for viewing the activities of Nathan and his students. In the next
+section, Nathan traces the development of his ideas about teaching and their translation into a workable
+method for guided-inquiry lessons, which he terms the teacher's embodied theory – that is, theory embodied
+by a template of specific practices in the classroom. The simple model below illustrates how a teacher’s
+embodied theory can be combined with a core set of tools – in this case a course management system and
+related Web 2.0 tools – to create a meaningful learning environment for students (see Figure 1).
+
+Fig. 1. Creating meaningful technology-mediated learning environments
+Psychology-based learning theory can clarify how individuals process information, form and revise schemas,
+and develop skills and knowledge (e.g., Driscoll, 2005). Activity theory moves beyond individual cognition to
+see classroom interactions in a more objective way – as a set of nested activities within an overall system
+meant to pursue educational outcomes (Kuutti, 1996). Activity theory, growing out of the work of Soviet
+psychologist Lev Vygotsky, views learning as the inevitable result of intentional activity over time. Activity
+systems are composed of individual agents or "subjects" (teacher and students), each pursuing objects
+(learning goals, or more often, performance goals related to an activity). Teachers and students make use of
+tools (technologies but also a whole host of other tools and resources). They collaborate within a specific set of
+rules or conventions that dictate meaningful interactions – including some division of labor, particularly
+between teacher and students, but also between students, especially in working teams.
+Michael Cole and Yrjo Engeström pioneered the basic analysis of an activity in activity theory (cited by
+Bellamy, 1996). Their ideas are widely used for understanding human-computer interactions, workgroup
+processes, and learning communities. Fig. 2 represents an activity analysis applied to developing “higher
+literacy skills” (see section 3.2) in K-12 students (adapted from Bellamy, 1996, p. 126).
+
+Fig. 2 Cole and Engeström’s activity theory framework (adapted from Bellamy, 1996, p. 126)
+The basic activity system may be defined as the entire class or a working team within the classroom, using
+tools and adhering to established rules and community norms to pursue objects of value. The activity leads to
+learning outcomes, whether intended by the curriculum or sometimes independent of a curriculum
+(Lompscher, 1999).
+An alternate model of Fig. 1 using activity theory (Fig. 2) as a framework, illustrated in Fig. 3, reflects
+classroom reality. In this model, teaching and learning are part of a complex evolving activity system that
+adapts and improves over time through increased student and teacher participation.
+
+Fig 3. Student learning environment as an evolving activity system
+
+This figure highlights the bounded activity system typical of classrooms and how that system takes shape over
+time. The classroom and its corresponding online environment contain the basic elements of an activity
+system, including a guiding set of learning goals and objects for activity, tools and resources, division of labor,
+and a sense of community. The technology-based course management system and websites house the artifacts
+of activity, namely, the learning resources developed by the instructor, students, and the outside world.
+Through an activity-theory lens, we see the central tenet of activity and people's use of tools in pursuit of
+goals. The learning that happens in Nathan's classes (described in sections three and four) is the result of
+complex, group-based, intentional activity, using available tools and resources and following established rules
+and roles for interaction.
+3. NATHAN’S JOURNEY – A CASE STUDY
+3.1 Opportunity
+
+For 17 years, I have taught physics, applied technology and pre-engineering in middle and high schools across
+three continents. Since emigrating to the United States four years ago, I have immersed myself in two full-time
+professional responsibilities. First, I had started a doctoral program in educational leadership and innovation
+in fall 2002 at the University of Colorado at Denver and Health Sciences Center. Second, I had taught applied
+technology and pre-engineering at a middle school for three years, and now teach physics and physics
+engineering technology at a high school in Colorado. Both schools are considered “high-needs” because they
+have a large population of students from low-income migrant families and the schools’ overall academic
+performances were “average” in 2004-2005 according to the federal School Accountability Reports (CDE,
+2006). I have viewed these school environments as exciting professional opportunities – their “average”
+performance providing a correspondingly greater potential for improving performance.
+3.2 “Higher Literacy Skills”
+While interviewing students for my master’s thesis (Balasubramanian, 2002) and preparing a presentation for
+the first Teachers-Teach-Teachers workshop at Emirates International School in Dubai, United Arab Emirates,
+in fall 2000, I recognized the need for making classroom resources available online for students and parents.
+In December 2000, I designed my first website (http://www.innathansworld.com/). This website includes
+extensive resources on various topics that I am passionate about, including physics, career development, and
+study skills. While this website afforded an opportunity to present students and their parents with up-to-theminute curriculum information and help on physics, I recognized for the first time how few resources were
+available to document my effective classroom practices over the previous eleven years.
+In fall 2000, I also wondered about the real purpose of teaching physics to secondary school students. Clearly,
+it had to be beyond helping these students be successful in their International Baccalaureate (IB) and
+International General Certificate of Secondary Education (IGCSE) physics examinations. I was really
+interested in developing students’ critical thinking, mathematical reasoning, inference-making and creative
+problem-solving skills, what I consider “higher literacy skills” that would sustain students’ lifelong learning,
+regardless of the career they choose. In discussions on ITForum (2003), I explored some ideas for developing
+enduring “higher literacy skills” by promoting deliberate reflective, critical and breakthrough thinking in our
+classrooms. I proposed integrating conceptual physics with career development to make learning meaningful
+to the students. I now know that focusing on applied science, technology and pre-engineering education in K12 can do much to help develop students’ “higher literacy skills” and enhance their career options.
+Acknowledging the importance of developing students’ “higher literacy skills” through technology, the
+International Baccalaureate Organization (IBO, 2000) concluded
+Schools’ technology courses should integrate theory and practice, including
+much that is scientific, ethical, mathematical, graphical, cultural, aesthetic and
+historical. They should encourage students to explore the synthesis of ideas and
+practices, and the effects of technology on societies and environments . . . (p. 9)
+These conclusions have been validated by the 90% of K-12 teachers surveyed by the American Society for
+Engineering Education (Douglas et al., 2004) who agreed with the statements: “Understanding more about
+engineering can help me become a better teacher; a basic understanding of engineering is important for
+understanding the world around us; engineering can be a way to help teach students about business; and
+engineering can be a way to help teach students history” (pp. 8-10). Clearly, pre-engineering education in K-12
+is supportive and not conflicting with a renewed emphasis on core academic subjects in schools.
+3.3 Course Management Systems
+In spite of my heavy Web use, it was not until fall 2005, when I first had access to a free course management
+system (CMS), that I started consistently monitoring and using students’ diagnostic, formative, and summative
+assessments (see Fig. 5) in my classes to create a learning repository and critical mass of authentic classroom
+learning materials. Some of these resources have been recently featured in an educational technology
+magazine (Scrogan, 2006).
+Course management systems (CMS) are resource-sharing environments meant to support delivery of courses
+
+from a distance. Examples are BlackBoard®, Moodle®, and FirstClass®. Services typically supported include
+document sharing, discussion forums, multimedia presentations, games and simulations, assessments, and
+grade management. In spite of some criticism concerning their embedded ideologies (e.g., Rose, 2004), CMS
+have proven useful supports for classroom-based, blended, and online instruction (Wilson et al., 2006).
+This has proven true in my case. Throughout the 2005-06 school year, I used Schoolfusion® – a commercial
+course management systems effectively in my classroom to
+Monitor and manage middle-school students’ work and provide them immediate feedback
+Collect real-time data on students’ understanding of science and engineering concepts
+Use the information gathered to guide subsequent instruction
+My students accessed these online resources while engaged in inquiry-learning activities. An analysis of
+students’ academic performance, as measured through pre- and post-test scores, online think-writes, product
+designs, explanations and reflections, showed that these students made significant gains on target learning
+outcomes in science and technology (see Balasubramanian, 2006a).
+Popham (2003) noted that the target learning outcomes handed down by the states and districts are “often less
+clear than teachers need them to be for the purpose of day-to-day instructional planning” (p. 6). In the
+following section, I illustrate how I used 41 target learning outcomes from the state science standards
+(Balasubramanian, 2005b) to design and develop a guided-inquiry module (Balasubramanian, 2006b). The
+module:
+
+(a) presents water filtration and the associated concepts in an engaging
+way to middle school students
+(b) reviews the water (hydrologic) cycle and related vocabulary with
+students
+(c) provides students an opportunity to design and build a water filter
+using only activated carbon, sand, gravel, cotton, plastic cup, wood
+structural supports, and hot glue
+(d) empowers students to test their filtered water for
+conductivity (remove conducting particles so electricity cannot pass),
+pH (neutralize pH to make it ~ 7 for a basic solution of salt and baking
+soda in water),
+turbidity (clean dirty water with tea, vinegar and coffee grounds), and
+flow rate (captured filter water should have a flow rate greater than 2
+ml/s).
+Even as students learn extensive content from the science standards through the water filter project, the
+embodied theory (section 3.4.3) provides a roadmap for designing guided-inquiry lessons that engage
+secondary school students. More importantly, these lessons focus on developing students’ “higher literacy
+skills” and prepare them for their standardized tests in reading, writing, math, and science. Finally, the module
+empowers students by providing them valuable skills for lifelong learning. Implementation of this guidedinquiry module led to significant increases in student achievement for all subgroups of learners in spring
+2006.
+3.4 Embodied Theory behind Student Achievement
+To foster a nurturing learning environment and student-centered instruction in my science and technology
+classrooms, I have students work in teams on authentic and challenging, yet fun problems. By facilitating these
+activities in the classroom and reflecting on my own learning, I recognize the importance of both motivational
+and cognitive elements in this adaptive process (Balasubramanian, Wilson & Cios, 2005; Balasubramanian &
+Wilson, 2006). Motivation in particular is a key for many students – one that is sometimes neglected in the
+
+compulsory educational systems now in place. The educational theories I encountered in my doctoral program
+are both embedded and embodied within guided-inquiry modules. The modules are a product of these learning
+theories, combined with my best creative thinking about how to embody and apply these ideas in real-life
+classrooms. Finally, a significant element of serendipity enters as students encounter challenges and learning
+materials – and respond to them thoughtfully. To some extent the modules are a product of negotiation and
+conversation with constituents – similar to the idea of design-based research that is increasingly popular in the
+literature (The Design-based Research Collective, 2003). Indeed I consider students to be my collaborators in
+designing effective learning experiences for them. The sections below give more detail about the waterfiltration module and its conceptual basis.
+3.4.1 Motivating Students through a Token “Microeconomy”
+Helping secondary school students understand and be excited about science and engineering can be
+challenging, partly due to negative experiences many have already had in science classrooms. After presenting
+students with some initial challenging activities as a springboard to capture their attention, like moving a pingpong ball from one beaker to another without touching either beaker (Movie #5, Balasubramanian, 2006c), I
+explain that science is a systematic inquiry directed toward an understanding of natural systems, which in turn
+creates new knowledge. The essence of “science” is not so much what the subject of the inquiry is, but in how
+the inquiry is carried out. A complete science education includes learning the processes, themes, principles,
+and tools of science. Technology and science are closely related. You can unlock the power of technology when
+you understand the science behind it. You can find out about new technology when you explore the frontiers of
+science. Engineering, on the other hand, requires the careful use of limited resources for solving problems in
+creative ways using science and technology. Besides, access to resources is always a challenge at high needs
+secondary schools. Although the thinking of scientists, engineers and technologists are not so stereotypical, I
+use Gilbert’s (1978) synthesis of science and engineering to highlight two distinct approaches to problemsolving (Fig. 4).
+Thinking like a Scientist
+
+Thinking like an Engineer
+
+Approaches nature with humility, for
+Approaches nature with certainty,
+there is so much we do not know – we are because there is so much we know that
+surrounded by a vast sea of ignorance
+we have not applied – we are surrounded
+by a vast sea of intelligence
+Is content to find out what the world is
+like as it is
+
+Is intent on remaking the world
+
+Has a well-developed methodology, and Knows precisely where to go, and will use
+will do wherever it leads
+any methodology to get there
+Makes no value judgment of nature – it is Begins with value judgment of nature –
+what it is
+and seeks to create changes that people
+will value
+Seeks knowledge as an end, valuable for Seeks knowledge as a costly means that
+its own sake; and worth great
+should be applied efficiently if the costs
+expenditures to gain it
+are not to detract from the valuable ends
+Fig. 4 Indicators of how scientist’s and engineer’s think
+
+To motivate secondary school students and sustain their full interest and engagement throughout the learning
+process, I have used fake money for students to spend on supplies since fall 2004 in all my classes, after
+accidentally discovering its effectiveness in also motivating students. These token "microeconomy” dollars are
+not only an incentive mirroring choices and constraints in the real world, but the money also provides students
+both individually and collectively constant, immediate, and objective feedback on their performance in each
+class. The use of dollars challenges them to become creative problem solvers who are trying to maximize their
+limited resources. Before fall 2004, I talked to students about using resources wisely at the beginning of each
+school year and before each project. However, it was not very effective. In fact, when students were building air
+racers with railroad board paper in fall 2004, they used both paper and glue sticks recklessly. In just one class,
+students would consume one packet of 24 hot glue sticks. However, from the second week, when I decided that
+students had to pay five "dollars" to buy a glue stick, they suddenly became very responsible and used each
+stick almost to the last bit before they bought another. This serendipitous discovery was an eye-opener for me,
+as I no longer have to walk around monitoring resource use in my classes.
+Here is how the system is presently implemented. Students start each year/semester/quarter with seed money
+of $50. Subsequently, they earn money in their classes through their active participation (Balasubramanian,
+2005c) and then in turn buy all the materials or lease tools used in the classroom (like hot glue sticks, foam
+boards, cardboard, railroad board, string, marbles, straws, glue, x-acto knives, glue guns, laptops, probe-ware
+and so on). These resources cost varying amounts, from $ 1 - $200, and students use them to build and test
+their creations in their classes.
+The monetary system of earning and trading with money has grown beyond the physical resources. The
+“microeconomy” is now tied in with students acting as consultants, earning royalties from patenting their
+prototypes, etc. Enjoying the opportunities afforded with money – or borrowing money – in a few cases, from
+Good Bank Inc., (if they had good credit history) or the alternate Shark Loans Inc. – coupled with the social
+capital they earn (green “I helped” card – or red “I asked for pointers” card) has been fascinating in its
+dynamic and its power (Balasubramanian, 2005c). In particular, observing a handful of students borrowing
+money from my loan shark company because of their poor credit history (of classroom behavior), when they
+ran out of money, was interesting. These students are desperate to earn and return the money at the earliest to
+avoid hefty interest payment (20% per week). It makes me wonder if the statistic of more individuals declaring
+bankruptcy in the United States than the numbers graduating from college (Godfrey et al., 2006) could not
+easily be reversed if more teachers instituted a “microeconomy” model of classroom management in their
+secondary school classrooms. Besides, the social capital component helps more students move beyond a
+mercenary approach to a more give-and-take collaborative approach afforded through meaningful interactions
+in the classroom. These goals of collaboration and empowerment stand in contrast to some uses of token
+economies, which place more emphasis on behavioral control.
+The way in which students, colleagues and parents have resonated with this token economy amazes me.
+Moreover, the instantaneous feedback students receive, its highly contextual nature, and ability to support
+over a dozen interactions a minute during teacher-led instruction – all of these things make it a highly
+motivating classroom management strategy. With a concrete number for processing their learning gains,
+students easily recognize where they started (in $) every class and how far they have reached (in $) at the end
+of each class.
+In fall 2005 I started the school year with the idea of studying the impact of monetary monitoring on resource
+utilization and student performance in two of my applied technology block classes (90 minutes each). One
+class served as a control group where students did not use monetary monitoring and got whatever they
+wanted. The other class was the experimental group – they had to buy their classroom resources. I presented
+both groups with the same problem – build a tallest free standing structure that is wind resistant and
+resembles a real building using only paper clips and straws (Movie #14, Balasubramanian, 2006c).
+I abandoned the study after just the first week because students in the experimental group were careful with
+the use of resources and came up with elegant designs. They had to pay $2 for each straw and $10 for each
+paper clip. Conversely, the control-group students, however, nonchalantly depleted these resources.
+Specifically, while students in the experimental group barely used one box of paper clips (100 count/box) and
+
+one box of straws (100 count/box) in two classes, students in the control group used over seven boxes of paper
+clips (over 700) and four-and-a-half boxes of straws (over 450) in the same time.
+Beginning fall 2006, I moved to teach physics and physics engineering technology at a high-needs high school
+in Colorado. In this school, again, the juniors and seniors, and their parents, have resonated with the
+“microeconomy” model, just like the earlier middle-school students and their parents. These students also use
+their resources carefully while creating elegant and well thought out designs and experiments because they
+have to buy and lease their classroom resources.
+3.4.2 Bloom’s Revised Taxonomy and Levels of Thinking
+When I asked middle-school students why and what they liked about hands-on activities, I heard several
+fascinating perceptions. One group said they liked “doing it, figuring out how it works.” Others said: “Putting
+stuff together was easy; don’t have to think as much; don’t have to write as much; and just have to pay
+attention instead of having to read a lot of stuff.” These same students however thought hands-on activities
+were sometimes difficult. They added:
+Building it might sometimes be hard because you have it the wrong way; write-ups and explanations after the
+hands-on are sometimes hard; not knowing how to solve a problem, thinking about it, measuring it right;
+making choices, reading a blueprint, putting it together; sometimes it is frustrating because you can’t figure it
+out; sometimes your team disagrees about doing things and it’s majority; not knowing how to put things
+together; and remembering all the stuff sometimes like in a digital multimeter.
+As teachers, we know that organizing hands-on activities can be challenging because these activities require
+extensive planning, time commitment, organization, and modified teaching strategies. These challenges are
+compounded by other constraints in the classroom, like resolving group dynamics when working in teams,
+participating effectively during individual teams’ discussions and building activities (with 7 – 10 teams,
+typically in each class), promoting greater social collaboration within and between teams, and coping with
+students’ “been there, done that” attitude that hinders their learning (Balasubramanian, Wilson, & Cios,
+2005). In spite of these obstacles, I use hands-on activities extensively in my classes as culminating activities
+because even as students build and test their creations or improve their product's performance, they
+spontaneously generate interesting questions. As the subject-matter expert in the classroom, it becomes much
+easier for me to seize these teachable moments and help my students think through their designs, carry out
+their investigations, and answer their own questions.
+Hands-on activities, as valuable as they are, must be connected to formal terms and the established content of
+the science curriculum. Recognizing this, I embraced a revised two-dimensional Bloom's Taxonomy (Anderson
+& Krathwohl, 2001) to plan and organize the cognitive elements of my instruction. I framed the learning
+outcomes in such a way that students could easily see the transition from simple to complex levels of thinking
+for the different projects. For the filter project, even as students design, build and test their water filters, they
+discovered the answers to over 37 leading questions in a revised two-dimensional Bloom's Taxonomy
+(Balasubramanian, 2005b).
+The two-dimensional framework also gave me an opportunity to present the learning outcomes using a
+medals-podium analogy. Although the fundamental intent was to have all students assume greater
+responsibility for what they learn and win, I believed that even when students demonstrated simple forms of
+thinking, like remembering factual knowledge, their thinking must be recognized with a bronze medal. The
+farther and deeper students were willing to think, the more creative and metacognitive they became, and
+consequently their thinking and actions must be recognized with a gold medal. While the intent was to have
+more students be reflective and creative “gold medal” winners, the structure provided a hierarchy for those
+learners who were predisposed towards linear and sequential thinking. This kind of epistemological
+development, helping students understand the value of creative and higher-order thinking, is a valuable
+learning outcome in its own right.
+3.4.3 Embodied Theory Revisited
+
+The active “doing” aspect of inquiry activities motivated several middle-school students who talked about
+“putting stuff together” being “easy.” Others suggested that “you don’t have to think as much” when doing
+hands-on activities. The same students were quick to point out, though, that building was “sometimes hard”
+and “frustrating” because, when they had a problem and “couldn’t figure it out,” they had to think about it.
+Clearly, hands-on activities were highly motivating for these middle-school students but were sometimes
+cognitively challenging too – even for students preconditioned to avoid thinking whenever possible. Now could
+I balance the two – motivation and cognition – to make learning engaging for these students and consequently
+increase their conceptual understanding? This question and the updated Gilbert's Behavior Engineering Model
+(Chevalier, 2003) continue to drive the embodied theory for increasing student achievement (see Figure 5).
+The see-saw analogy is intended to show the need for both cognitive and motivational elements – and that
+motivational elements seem to have a significantly greater leverage than the cognitive elements. Further, the
+embedded four-step reasoning process becomes a cycle as students' actions turn back into reflections.
+Middle-school students have a natural tendency for just completing activities without reflection. To extend
+Schön’s (1983) idea of “reflection-in-action,” I added the “stop” before "reflect" in the conceptual framework to
+add an element of cognitive dissonance, anticipation and intentionality to students’ learning. I wanted to break
+their rhythm and force reflection at the outset. In an effort to uncover mistaken preconceptions, I begin by
+asking students to respond to a hypothetical scenario and question (Balasubramanian, 2006e) – similar to a
+story problem about the content.
+Students’ responses to these think-writes offer insights about their background knowledge. The built-in
+feedback in the pretest then gives them an opportunity to find out what they know and do not know. Having
+activated their background knowledge with my diagnostic assessments, students then access an online
+crossword (Balasubramanian, 2006d) to learn the essential vocabulary in a game-like environment.
+
+Fig. 5 Embodied theory for increasing student achievement
+In my initial design, I did not provide a paper handout. However, at the high school, one student suggested
+that she would benefit from a paper version of the essential vocabulary in her kinematics module.
+Consequently, I started using a paper handout to supplement the online crosswords. While using a paper
+
+handout that contains all the clues for the crossword, students quickly learn the essential vocabulary while
+trying to achieve their highest percentage scores. I have had no restrictions on the number of times they may
+attempt the online crossword, either at school or at home. The more they practice and demonstrate their
+mastery, the greater their monetary gains. The “microeconomy” stimulates them to try to do their best and
+earn plenty of dollars before they are presented their next challenge. Students have to solve, using a simulation
+and/or a small hands-on activity, a simple problem. For the filter-project, students have to arrange six
+containers, each containing anthracite, fine sand, garnet gravel, garnet sand, gravel, and rocks, in the correct
+order in which they are arranged in a real filter at the water treatment plant. Then they write down their
+reasons for their arrangement using both photographs and the actual samples. Through this activity, students
+are introduced to two concepts: weight and density. And again, their writing offers “a good deal of insight into
+their understanding, revealing if they are on the mark or conceptualizing something very differently” (Popham,
+2003, p. 88).
+By this time, most students have found a clear purpose: to look, listen, and learn the concepts I then present
+through direct instruction. By direct instruction, I mean teaching students explicitly how and why things work
+by telling them. To give them adequate opportunities to review the resources presented during direct
+instruction, I use an online PowerPoint® slide show and movies of students explaining the tests for the filterproject (Balasubramanian, 2006f). In some classes where I have a prescribed textbook, students review the
+material with their textbook, my concept map designed with Inspiration®, follow-up homework, and mini
+classroom quizzes.
+Once students have this rudimentary understanding, I present their final challenge as a guided-inquiry, handson lab activity. By guided-inquiry hands-on activity, I mean helping students learn by doing, including asking
+them questions, identifying questions to investigate (different from simply answering questions), thinking
+about them, designing investigations, conducting investigations, and finally formulating and communicating
+their conclusions in a structured, challenging and goal-oriented environment. For the filter project, students
+have to design a water filter using only activated carbon, sand, gravel, cotton, plastic cups, wood structural
+supports, and hot glue to neutralize pH, reduce turbidity, remove conducting particles, and capture the filtered
+water. After drawing their designs and planning how much material they would buy, students have to purchase
+the material for building their teacher-approved designs.
+The guided-inquiry hands-on activity, followed by tests of students’ designs and evaluation by their peers,
+leads to deeper understanding of the underlying concepts. According to Perkins (1998), students’ flexibility in
+thinking and performing hands-on activities, beyond the rote and the routine, is one metric for measuring
+their deep understanding. The results of students' tests of their water filters showed several students asking
+more questions (Balasubramanian, 2006f), making modifications to their designs and undertaking more
+investigations. Finally, when they have all had a chance to build, test, modify, and test their designs, as a class
+we review the concepts that we set out to learn in the two-dimensional Bloom's taxonomy (Balasubramanian,
+2005b). Students then take their post-tests to complete the module. The individualized feedback received via
+the “microeconomy” also keeps them motivated along the way. This 7-step process (illustrated in Fig. 5), I have
+found, results in significant learning gains for all subgroups of students in my classes. In the following section
+we see how inquiry activities, including some unforeseen by the instructor, led to substantial learning gains for
+students.
+4. RESULTS FROM A PILOT STUDY IN NATHAN’S CLASS
+4.1 Facilitation, Teachable Moments & Media
+Several researchers (Balasubramanian, Wilson, & Cios, 2005; Yeo, Loss, Zadnik, Harrison, & Treagust, 2004)
+have observed that hands-on inquiry learning without domain knowledge merely entertains students and
+results in their inadequate conceptual understanding. Many resource-deprived students reach schools with
+limited cognitive skills and are consequently less motivated. Wilson (1997) observed that direct instruction to
+impart domain knowledge in sterile learning environments left students unenlightened and unable to see its
+real-world relevance. The intentional, technology-mediated "stops" thrust on students as diagnostic
+assessment (pretests, pre-writes, online crossword) and direct instruction (movies, PowerPoint® instruction,
+and concept maps designed with Inspiration®) have served as checkpoints for reflection. The periodic stops
+
+afford students more time and opportunity to access, process, review, and utilize these resources both in and
+outside the classroom.
+However, the real fun begins, for both the students and teacher, when students actually design and engage in
+hands-on learning activities. For the materials module, students designed and built their water filters by using
+only activated carbon, sand, gravel, cotton, plastic cup, wood structural supports, and hot glue. When they
+tested their filters, they spontaneously started asking questions: "How do you design a filter to get a better flow
+rate? Does the amount of sand affect the flow rate? Does the order of the layers make a difference for filtration
+and flow rate? Did compressing the cotton make a difference? How many tests do you have to pass to drink the
+water?" and on and on (Balasubramanian, 2006e). These spontaneously generated questions are major
+indicators of schemas in revision. As some sixth graders reflected, "most people passed three of the four tests
+and none of the people passed the turbidity test with the laser." Students' passion for designing filters that
+could pass all four tests (conductivity, pH, turbidity, and flow rate) was fascinating and led to a remarkable
+investigation involving measurement, unit conversions, hypotheses testing, and density. The teachable
+moment serendipitously surfaced when students wanted to know how they could "pass" the turbidity test. This
+gave me an opportunity to highlight sand's adsorbing and absorbing abilities.
+The supplementary activity started one day when I asked a sixth grade student to bring a piece of sponge (used
+to remove flux and excess solder in a soldering iron) from the tool room at the back of my class to illustrate
+absorption. She brought one along and I then asked the class, "What would happen to this sponge if we soak it
+in water?" They said it would become bigger and heavier because the sponge absorbs the water. They visually
+and physically verified their hypothesis by soaking it in running water. However, one student was skeptical and
+asked "How do you know the sponge become bigger when its wet then its dry? [sic]" This was a legitimate
+question and we had not been diligent enough to record the dimensions or masses of the dry and wet sponge.
+Thinking nonchalantly that I could resolve it by bringing another piece of dry sponge from the back of the
+class, I asked the student to bring another piece of sponge. However, when she could not find one, I had to
+bring a "compressed" sponge from a new soldering iron. Just then, another student had a new question:
+"Which would be denser, the dry or the wet sponge?" Acknowledging that it was a great question, I went on to
+explain how density depends on both mass and volume and then guided them through the design of an
+experiment for investigating the density of dry and wet sponge. We made our educated guesses about the
+densities of the wet and dry sponge before experimenting and students demonstrated their measuring skills
+with a ruler and a triple beam balance. When we started recording and calculating the density with our
+measurements, the problem became interesting.
+Initially, almost the entire class and I guessed that the wet sponge would be denser. Our reasoning was that the
+change in mass was more likely to outweigh the change in volume. However, the two girls who asked these
+questions to start with, guessed that the dry sponge would be denser and seemed bent on proving their
+hypothesis. Students took turns carefully measuring the dimensions and masses, and then had their
+measurements verified by their peers. Since the first student started measuring the length using the standard
+English units, the others continued using the same units. I recorded the results on a data table
+(Balasubramanian, 2006g) and showed them how I use Google® to change units from the English to the
+metric system. For example, I typed in the search box, 2 3/8 inches = ? cm and clicked on search, and bingo,
+Google® immediately returned (2 3/8) inches = 6.0325 centimeters. Students were thrilled to see this and one
+student immediately asked "Can Google® convert decimals into percents? [sic]” This one student was
+disappointed that it could not. At any rate, after recording their measurements, we converted them to metric
+units and calculated the density in metric units. Instead of confirming the hypothesis of the majority of our
+class, the hypothesis of the two girls seemed to be validated from our initial results. We were now close to the
+end of our class and I asked them what they had learned from this activity.
+Students said this experiment showed them:
+"that the wet sponge has less density than dry sponge; we learned numbers like
+g, cm, length, of wet and dry sponge, that the absorption goes in the middle and
+the adsorption goes around it. I also learned that Google® cannot convert
+decimals into percents, and also if you squeeze cotton it traps dirt easier; I
+
+learned that the skinny little sponge can grow up to the size of the big one and
+can weigh the same; I learned that the wet sponge has less density; I learned
+that the wet sponge has less density by measuring the mass, the weight, and the
+length and the height of the wet and dry sponge. I also learned that there is
+absorption and adsorption. Absorption is when the particles go to the inside and
+adsorption when the particles stay on the outside; I learned that when you get a
+sponge wet, it gets bigger; I learned that the wet sponge is less dense than dry
+sponge; I learned that Google® will give you answers to equations; I learned
+that absorption goes to the middle of the sponge and adsorption is on the
+outside [sic]."
+Although school ended and I had to rush to a class at the University, I could not stop thinking about the results
+of our experiment. I was thinking about these results all night and decided to investigate our findings further
+the next day with my eighth graders. I told them about what had happened the previous day and repeated the
+student's question "Which would be denser, the dry or the wet sponge?" I asked them to design an experiment
+to investigate this and they repeated the activity. This time though, we used the same sponge, first for the dry
+sponge activity and then for the wet sponge activity, during our investigation. The results this time, in contrast,
+confirmed our initial hypothesis that the wet sponge was indeed denser. This was a fascinating learning
+experience for all of us and I thought my students had done almost a semester's worth of science in just one
+class. When I shared this thought with the eighth graders and asked them to give me an honest rating from 110 on my gut statement, based on their three years of middle-school experience, the average class rating was
+an eight. I repeated this claim after sharing the new findings with my second sixth grade class as well and
+commended the two girls from the first sixth grade class for leading us into this interesting investigation. The
+girl, who asked the question "How do you know the sponge become bigger when its wet then its dry? [sic],"
+spontaneously took ownership for preparing a PowerPoint® slide show and came up with this interesting
+presentation (Balasubramanian, 2006g). She was one of my English language learners and a student with
+pupil services, and her outstanding slide show is further testimony to what might be accomplished when
+technology becomes an aide to motivated students and competent teachers.
+4.2 Pretest and Post-test Comparisons
+The results from the pilot study using a pretest-post-test design with 56 students (one Grade 8 and two Grade
+6 classes), taught at a high-needs middle-school north of Denver during the school’s “waning days” (Lyman,
+2006) in spring 2006, are summarized below. I developed the 60 multiple-choice questions from the twodimensional Bloom’s taxonomy (Balasubramanian, 2005b) to assess students’ science, technology and preengineering knowledge and skills. I used the same 60 questions for both the pretest and post-test.
+Interestingly, despite the small sample sizes and minimal teacher intervention, the mean test scores increased
+significantly (except for direct instruction for Caucasian male students) from pretest to post-test for the entire
+class, even with disaggregated data by gender, ethnic minorities (African-Americans and Latinos) and pupil
+services (SPED, ILP, IEP & Math Lab). These gains are statistically significant (at the established 0.05 level
+and p < .001) suggesting less than .1% probability that the observed differences happened by chance. The
+number after ± in the pretest and post-test mean scores is the error, the standard error of the mean – the
+standard deviation of the distribution of the mean of samples.
+Group
+
+N
+
+Pretest Pretest Post-test Postt- p- value Pre-Post
+Mean SD (%) Mean test SD value
+∆
+(%)
+(%)
+(%)
+(%)
+
+Entire
+Class
+
+56 37.9±2.3
+
+17.1
+
+52.4±2.4
+
+18.1
+
+6.230 <.001 14.5±4.7
+
+Caucasian
+Male
+
+13 50.8±5.0
+
+18.1
+
+57.7±4.0
+
+14.4
+
+1.326
+
+.209
+
+6.9±9.0
+
+Girls
+
+29 34.3±2.6
+
+14.2 50.6±3.8 20.3
+
+5.011
+
+Ethnic
+26 33.8±2.7
+Minorities
+
+14.0 49.6±3.0 15.3
+
+5.448 <.001 15.8±5.7
+
+Pupil
+Services
+
+12.7 44.4±3.6 16.6
+
+4.238 <.001 15.0±6.4
+
+21 29.4±2.8
+
+<.001 16.3±6.4
+
+Fig. 6. Summary of two-tailed, paired sample t-tests on hydrologic cycle test
+(before and after direct instruction)
+Group
+
+N
+
+Pretest Pretest Post-test Post- t-value p- Pre-Post
+Mean SD (%) Mean test SD
+value
+∆
+(%)
+(%)
+(%)
+(%)
+
+Entire
+Class
+
+56
+
+39.4±1.4
+
+10.6 58.5±2.2 16.6
+
+Caucasian
+Male
+
+13
+
+40.7±2.2
+
+8.1
+
+65.4±5.0
+
+17.9
+
+5.556 <.001 24.7±7.2
+
+Girls
+
+29 40.5±2.1
+
+11.2
+
+57.2±2.9
+
+15.6
+
+7.593 <.001 16.7±5.0
+
+Ethnic
+26 38.5±2.0
+Minorities
+
+10.1 53.4±3.0 15.3
+
+5.336 <.001 14.9±5.0
+
+Pupil
+Services
+
+9.4
+
+4.975 <.001 15.2±5.1
+
+21
+
+35.1±2.0
+
+50.3±3.1
+
+14.1
+
+10.282 <.001 19.1±3.6
+
+Fig. 7. Summary of two-tailed, paired sample t-tests on water test
+(before and after guided-inquiry hands-on activity)
+I further examined the pretest and post-test scores of these 56 students and found that the questions were
+highly correlated. This suggests that the observed changes in students’ scores may not be attributed to the
+regression effect, a regression towards the mean. Instead, all subgroups had actually made significant gains in
+their post-test scores as Figures 8 and 9 illustrate.
+
+Fig. 8. Pretest and Post-test scores of four subgroups in the 18-item
+hydrologic cycle test in the filter project, before and after direct instruction
+The y-intercept of the trend lines in Figures 8 and 9 for the pretest and post-test data provides interesting
+information. For the direct instruction, student achievement increased from 47.4% to 58.2%, showing a 10.8%
+performance gain. However, for the guided-inquiry hands-on activity, the increase in student achievement
+almost doubled, increasing from 42.1% to 65.5%, showing a 23.4% performance gain.
+
+Fig. 9. Pretest and Post-test scores of four subgroups in the 42-item
+water test in the filter project, before and after guided-inquiry hands-on activity
+These numbers are promising when we consider the stark inequities in engineering education in American
+society. With decreasing trends in engineering in recent years (Douglas et al., 2004), “Female students make
+up 20% of engineering undergraduates, but 55% of all undergraduates; African-Americans, 5.3% in
+engineering, 10.8% overall; and Latinos, 5.4%, compared to 6.4% overall” (p. 5). Experts nationally have
+noticed these trends and consciously try to recruit more minorities in science and engineering through
+outreach programs. However, the Caucasian male students and their parents, who are not aware of these
+trends often feel left out when institutions or teachers talk about these equity issues. The findings from this
+study might comfort them, because they show that with well designed guided-inquiry hands-on science and
+technology instruction, Caucasian male students also make significant learning gains in the post-test scores,
+24.7%, more than the 23.4% gain in the trend line. Evidently, guided-inquiry hands-on learning not only
+addresses equity issues and increases student achievement for all subgroups of learners but it also results in
+significant learning gains for the Caucasian male students.
+5. CONCLUSION
+We started this chapter by introducing the challenges and questions that teacher practitioners have to deal
+with in today’s classrooms. While students might come from different backgrounds and differing abilities,
+learning is enhanced when students are recognized as co-creators of knowledge in the classroom and are able
+to build on their existing knowledge. In addition to providing content expertise, a teacher’s role is more of a
+facilitator who is responsive to learner needs and actions. We described how the curriculum standards were
+
+operationalized by a teacher through design of a guided-inquiry module that resulted in significant learning
+gains for all subgroups of learners. While substantially hands-on and inquiry-based, the module included
+elements of direct instruction and game-like activities. Moreover, the narrative in section 4.1 illustrated how
+inquiry activities lend themselves to unforeseen teachable moments based on students’ questions, adding a
+spontaneous level of true inquiry for teacher and students alike.
+Our secondary school students arrive in our classrooms ready to collaborate in both face-to-face and online
+environments. Teaching and learning are enhanced when teachers use tools like online discussion forums and
+interactive games and simulations, which can be embedded in course management systems to aid reflection,
+data collection, and student engagement (Balasubramanian, 2006a; Balasubramanian & Wilson, 2006; Wilson
+et al., 2006).
+In this chapter we presented a conceptual model of teaching and learning as an evolving activity system in
+which the “higher literacy skills” of critical thinking, mathematical reasoning, inference making, and creative
+problem solving are nurtured through guided-inquiry hands-on activities. Everyone is a winner when students
+and teachers accept and exploit the evolving nature of such learning environments. Evidently, using these
+techniques require innovative teacher-leaders who are willing to contribute their time for planning, reflecting,
+sharing and collaborating with their peers and students to create engaging technology-mediated learning
+activities in their classrooms.
+6. REFERENCES
+Balasubramanian, N. (2002). Student perceptions on career education: a case study in an international
+secondary school. Unpublished master’s thesis, University of Sheffield, Sheffield, United Kingdom. Retrieved
+January 14, 2007, from http://www.innathansworld.com/aboutme/thesispdf.pdf
+Balasubramanian, N. (2003, June 2-9). Smart education: Blending subject expertise with the concept of
+career development for effective classroom management. Retrieved January 14, 2007, from University of
+Georgia, Instructional Technology Forum (ITFORUM) Web site:
+http://itech1.coe.uga.edu/itforum/paper73/paper73.html
+Balasubramanian, N. (2004). Response from Nathan Balasubramanian on 12/26/2004 in response to U. S.
+Math and Science Skills: Improving or Not? Retrieved January 14, 2007, from
+http://www.edweek.org/tb/2004/12/14/82.html
+Balasubramanian, N. (2005a). Where I should learn: Interactive worksheet. Retrieved January 14, 2007, from
+http://doers.us/laser_challenge/PDF_Laser_Challenge/learnwhere.pdf
+Balasubramanian, N. (2005b). Learning outcomes for the filter project. Retrieved January 14, 2007, from
+http://www.innathansworld.com/technology/NathansRevisedBloomQuestionsForFilters.html
+Balasubramanian, N. (2005c). Recording students’ monetary monitoring in Mr. Bala’s classes. Retrieved
+January 14, 2007, from
+http://doers.us/laser_challenge/PDF_Laser_Challenge/microeconomy_data_collection_student_version.pdf
+Balasubramanian, N., Wilson, B. G., & Cios, K. J. (2005). Innovative methods of teaching and learning science
+and engineering in middle schools. In F. Malpica, F. Welsch, A. Tremante, & J. Lawler (Eds.), The 3rd
+International Conference on Education and Information Systems: Technologies and Applications: Vol. 1.
+Proceedings (pp. 174–178), Orlando, FL. July 14 - 17, 2005. Retrieved January 14, 2007, from
+http://doers.us/EISTA.pdf
+Balasubramanian, N. (2006a). Increasing Student Achievement Through Meaningful, Authentic Assessment.
+In C. Crawford et al. (Eds.), Proceedings of Society for Information Technology and Teacher Education
+International Conference 2006 (pp. 3-8). Chesapeake, VA: AACE. Retrieved January 14, 2007,
+http://www.innathansworld.com/KART/MeaningfulAuthenticAssessment.pdf
+
+Balasubramanian, N. (2006b). The filter project. Retrieved October 10, 2006, from
+http://doers.us/filter_project_lesson_plan.html
+Balasubramanian, N. (2006c). Movies from the classroom. Retrieved January 14, 2007, from
+http://www.innathansworld.com/technology/macromedia_flash_movies.html
+Balasubramanian, N. (2006d). Water filtration vocabulary. Retrieved January 14, 2007, from
+http://doers.us/filter_vocabulary.htm
+Balasubramanian, N. (2006e). Water filtration study: Students’ perspective. Retrieved January 14, 2007,
+from http://doers.us/water_filtration_students'_perspective.html
+Balasubramanian, N. (2006f). Online resources for the filter project. Retrieved January 14, 2007, from
+http://doers.us/more_data_for_filter_project.html
+Balasubramanian, N. (2006g). Wet sponge and dry sponge inquiry. Retrieved January 14, 2007, from
+http://doers.us/sponge_inquiry.pdf
+Balasubramanian, N. & Wilson, B. G. (2006). Games and Simulations, In C. Crawford et al. (Eds.), ForeSITE
+(http://site.aace.org/pubs/foresite/), Volume One, 2005, Proceedings of Society for Information Technology
+and Teacher Education International Conference 2006. Chesapeake, VA: AACE (p. 2).
+Bellamy, R. K. E. (1996). Designing educational technology: Computer-mediated change. In B. A. Nardi (Ed.).
+Context and consciousness: Activity theory and human-computer interaction. Cambridge, MA: The MIT
+Press.
+Bransford, J. D., Brown, A. L., Cocking, R. R., Donovan, M. S., Bransford, J. D., & Pellegrino, J. W. (2000).
+How People Learn: Brain, Mind, Experience, and School (Expanded Ed.). Washington, D.C.: National
+Academy Press.
+Chevalier, R. (2003). Updating the behavior engineering model. Performance
+Improvement, 42(5), 8-14.
+Colorado Department of Education (CDE), (2006). School Accountability Reports. Retrieved January 14,
+2007, from http://reportcard.cde.state.co.us/reportcard/CommandHandler.jsp
+Douglas, J., Iversen, E., & Kalyandurg, C. (2004). Engineering in the K-12 classroom: An analysis of current
+practices & guidelines for the future. Washington, DC: American Society for Engineering Education.
+Driscoll, M. P. (2004). Psychology of learning for instruction (3rd ed.). Boston: Allyn & Bacon.
+Gilbert, T. F. (1978). Human competence: Engineering worthy performance. New York: McGraw-Hill.
+Godfrey, N. S., Edwards, C., & Richards, T. (2006). Money doesn't grow on trees: A parent's guide to raising
+financially responsible children. New York: Simon & Schuster.
+International Baccalaureate Organization. (2000). Middle Years Programme Technology, Book One. Geneva,
+Switzerland: International Baccalaureate Organization.
+Kuutti, K. (1996). Activity theory as a potential framework for human-computer interaction research. In B. A.
+Nardi (Ed.). Context and consciousness: Activity theory and human-computer interaction. Cambridge, MA:
+The MIT Press.
+Lompscher, J. (1999). Learning activity and its formation: Ascending from the abstract to the concrete. In M.
+Hedegaard, & J. Lompscher (Eds.). Learning activity and development. Oxford: Aarhus University Press.
+Lyman, R. (2006, June 22). In School's Waning Days, a Focus on the Focus: June Tempts With Distractions,
+but There Is Still Learning to Be Done. The New York Times, p. B1.
+
+Newsleader (NL). (2005, January). PISA results support need for high school reform. Newsleader, 52(5), 1, 10
+Novak, J. D., Mintzes, J. J., & Wandersee, J. H. (1999). Learning, teaching, and assessment: A human
+constructivist perspective. In J. J. Mintzes, J. H. Wandersee, & J. D. Novak (Eds.). Assessing science
+understanding: A human constructivist view. San Diego, CA: Academic Press.
+Perkins, D. (1998). What is understanding? In M. S. Wiske (Ed.), Teaching for Understanding: Linking
+Research with Practice. San Francisco: Jossey-Bass, 1998, pp. 39-57.
+Popham, W. J. (2003). Test better, teach better: The instructional role of assessment. Alexandria, VA:
+Association for Supervision and Curriculum Development.
+Rose, E. (2004). “Is there a class with this content?” WebCT and the limits of individualization. Journal of
+Educational Thought, 38(1), 43-65.
+Russell, H. H. (2004). Connections among factors in education. Curriculum Inquiry, 34(3), 267-282.
+Scrogan, L. (2006). Compelling stories. EdTech: Focus on K-12. Retrieved January 14, 2007. from
+http://edtech.texterity.com/article/20060607/25/
+Skinner, J. (n.d.). Brief biography of B. F. Skinner. Retrieved January 14, 2007, from
+http://www.bfskinner.org/briefbio.html
+The Design-based Research Collective (2003). Design-based research: An emerging paradigm for educational
+inquiry. Educational Researcher, 32(1), 5-8.
+Wilson, B. G. (1997). The postmodern paradigm. In C. R. Dills & A. J. Romiszowski (Eds.), Instructional
+Development Paradigms. Englewood Cliffs, NJ: Educational Technology Publications, 297-309.
+Wilson, B. G., Parrish, P., Balasubramanian, N., & Switzer, S. (2006). Open Learning Meets the Business of
+Education: Trends in Distance Learning. In A. Méndez-Vilas, A. Solano Martín, J. A. Mesa González & J. Mesa
+González (Eds.), Current Developments in Technology-Assisted Education (2006) Vol. I: General Issues,
+Pedagogical Issues (pp. 125-129). Badajoz, Spain. Retrieved January 14, 2007,
+http://www.formatex.org/micte2006/pdf/125-129.pdf
+About the Authors
+Balasubramanian Nathan, - sbalasubramania@cherrycreekschools.org teaches physics, honors physics,
+physics engineering technology and AP-Physics at Overland High School in Cherry Creek School District . A
+physicist by training, he has been teaching science, technology and pre-engineering in middle and high
+schools, across three continents for 17 years. Nathan is also a Ph.D. candidate in the Educational Leadership
+and Innovation program at UCDHSC. His research interests include: Why is physics worth teaching and
+learning? How do we design and use innovative approaches to teach science and engineering in secondary
+schools? How can schools teach for transfer? Resume at
+http://www.innathansworld.com/aboutme/resume.html
+Wilson Brent, PhD - brent.wilson@cudenver.edu is a Professor of Information and Learning Technologies at
+the University of Colorado at Denver and Health Sciences Center (UCDHSC), where he teaches classes in
+action research, instructional design, learning and cognition, and technology trends and issues. He has
+published widely on topics in instructional design and technology. Online Webpage
+http://carbon.cudenver.edu/~bwilson/
+
+
