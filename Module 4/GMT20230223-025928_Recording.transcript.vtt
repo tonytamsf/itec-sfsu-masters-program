@@ -1,0 +1,2486 @@
+WEBVTT
+
+1
+00:00:01.800 --> 00:00:02.540
+Brian Beatty: From
+
+2
+00:00:03.530 --> 00:00:13.020
+Brian Beatty: well welcome. This is Section 4 0f I take 8 30 tonight. We are talking about more about using emerging technologies and newer technologies
+
+3
+00:00:13.960 --> 00:00:28.630
+Brian Beatty: to provide, content to give students access to content, and and you never get just access to content there's always some sort of activity that goes around it. So it's. It's accessing content and doing something with it. It could be just as simple as listening to a recording or watching a recording or
+
+4
+00:00:28.630 --> 00:00:44.580
+Brian Beatty: reading something. But there's always something to be done, and oftentimes with our technology tools we can do a lot more than just passively read something. though I do want to acknowledge passively. Reading can sometimes be still supporting your learning
+
+5
+00:00:46.020 --> 00:01:00.180
+Brian Beatty: before we jump into session. For though, let's take a quick look back, you spent a lot of time it looked like. and a lot of effort learning some things, exploring some things around AI and Session 3
+
+6
+00:01:00.250 --> 00:01:03.060
+Brian Beatty: session 3, which was fully, asynchronously
+
+7
+00:01:03.190 --> 00:01:08.210
+Brian Beatty: just to remind you. For you asynchronous learners who are listening to the recording
+
+8
+00:01:08.820 --> 00:01:17.080
+Brian Beatty: when you are an asynchronous learner. There is, of course, the discussion requirement for you to do. But there are als0 0ther things
+
+9
+00:01:17.420 --> 00:01:27.410
+Brian Beatty: to, and I think that probably became a little more clear during session 3, for most of you at least, but there are oftentimes when we do breakout notes
+
+10
+00:01:27.640 --> 00:01:34.850
+Brian Beatty: we do a breakout room discussion. You're obviously not part of that breakout room discussion, but I do provide a place for you to add notes
+
+11
+00:01:34.850 --> 00:01:52.260
+Brian Beatty: associated with the topic that we're talking about. We never talk about something that you have no idea about. It's usually off, based off the readings or some other thing that we've done, and so make sure that you look through that list to make, to play and make sure your stuff is there because you don't get credit for participation unless you're doing all the things that i'm asking you to do.
+
+12
+00:01:52.260 --> 00:02:03.450
+Brian Beatty: There's also sometimes a centimeter, or the kind of activity to do. I I didn't have one in here for session 3, so that's fine. But there certainly was a notes for you to be participating in.
+
+13
+00:02:04.690 --> 00:02:14.180
+Brian Beatty: Alright, so let's go back and let's look at those notes. I guess those are posted. Probably should have been posted in session 3 to. But I think I put those in the breakout room share notes.
+
+14
+00:02:14.300 --> 00:02:16.010
+Brian Beatty: Is that right? Hmm.
+
+15
+00:02:17.470 --> 00:02:24.090
+Brian Beatty: Let's find out. It might have been a special.
+
+16
+00:02:24.110 --> 00:02:25.490
+I'll drop it into chat.
+
+17
+00:02:26.060 --> 00:02:31.960
+Brian Beatty: Yeah, right here. Thank you. I put the link. I put the link to it in the me. It's probably because I figured
+
+18
+00:02:32.100 --> 00:02:43.000
+Brian Beatty: we're not going to remember to link that problem. Is it linked? It should be linked hopefully. It's linked. Maybe it's linked. If not, i'll link it into the class. Okay, so this should be opening up here. We are.
+
+19
+00:02:43.420 --> 00:02:50.730
+Brian Beatty: AI overview. And so here I was just asking you to find something interesting to you
+
+20
+00:02:51.120 --> 00:02:54.720
+Brian Beatty: about artificial intelligence in education.
+
+21
+00:02:55.320 --> 00:03:10.350
+Brian Beatty: and put a summary together for us and cite your source. We saw your re rate resource, and I also let you know it. You want to use an AI tool to explore this, using AI tool to explore it. Some of you did that, some of you, some of you did more
+
+22
+00:03:10.350 --> 00:03:28.680
+Brian Beatty: looking at resources about AI, and all of all of that was valid right, especially since I modeled using AI, you know, saying, hey, here's a prompt, you know. And what what did we get? And how would I critique it? I just did a real simple analysis, and I think that was pretty clear, it's more more. Your analyses were usually much more in depth. In this
+
+23
+00:03:28.880 --> 00:03:31.130
+Brian Beatty: they were all more in depth in this, to be honest.
+
+24
+00:03:31.360 --> 00:03:43.710
+Brian Beatty: all right, so where, as we go, as we take a look at these you guys are here synchronously. So you have the opportunity. If you want to to say a few words about what you found.
+
+25
+00:03:45.950 --> 00:03:57.210
+Brian Beatty: if you remember. so we'll go through this slow, as slow as we need to to give everyone an opportunity. You don't want to say anything about it. That's okay. You don't have to say anything about it.
+
+26
+00:03:59.300 --> 00:04:00.150
+Brian Beatty: Dalton.
+
+27
+00:04:02.270 --> 00:04:09.220
+Dalton Lobo Dias (he/him): Yeah, I've been having some really actually helpful chats with chat gpt
+
+28
+00:04:09.360 --> 00:04:22.120
+Dalton Lobo Dias (he/him): especially around critiquing, and
+
+29
+00:04:22.250 --> 00:04:32.180
+Dalton Lobo Dias (he/him): you know something like a cover letter or a you know, applying to a particular job, and then using Cha Gbt to
+
+30
+00:04:32.490 --> 00:04:36.540
+Brian Beatty: re-work. My resume.
+
+31
+00:04:36.880 --> 00:04:43.070
+Dalton Lobo Dias (he/him): You know, sort of align my skills, my existing skills in a way that it's going to align more with the job description.
+
+32
+00:04:43.190 --> 00:04:47.310
+Brian Beatty: right? So it's a I I but I was very careful to edit it and make sure that it wasn't.
+
+33
+00:04:48.360 --> 00:05:03.360
+Dalton Lobo Dias (he/him): adding skills that I didn't have. And so they team things up. Yeah, so. But it it was pretty accurate. I didn't have to do that very much. Editing the cover letters was also also really great. I also asked Cha Gp. To critique
+
+34
+00:05:03.670 --> 00:05:07.110
+Dalton Lobo Dias (he/him): my own writing from the perspective of a higher manager
+
+35
+00:05:24.260 --> 00:05:31.310
+Dalton Lobo Dias (he/him): and develop characters, and give me ideas of how you know what could happen with these characters in the story. So
+
+36
+00:05:31.390 --> 00:05:45.690
+Dalton Lobo Dias (he/him): it's. It's really really helpful. I think it also helped me to get less nervous about it with students, and what students could do, because I think it's like it's a it's a nice creative tool and editing tool.
+
+37
+00:05:45.690 --> 00:05:54.800
+Dalton Lobo Dias (he/him): I mean seeing a lot of the things with this. Do you have the opportunity to be kind of a voice at your school about this? Because i'm sure other teachers are talking.
+
+38
+00:05:55.580 --> 00:06:01.140
+you know, in in in schools a lot of times. It's like, you know, if something is not a crisis, it's just not going to get attention
+
+39
+00:06:06.410 --> 00:06:23.390
+Dalton Lobo Dias (he/him): There Isn't a strong enough outcry to demand action. So right now there's sort of feeling things out
+
+40
+00:06:23.390 --> 00:06:35.960
+Dalton Lobo Dias (he/him): then. Yes, it is saved. Oh, sorry, yes, it is safe to use. No, then you should not use Chat Chipet, so things like flow charts, I think, will be helpful. But I've tried, you, you know, pitching it, but it's it. It just kind of fell flat.
+
+41
+00:06:36.270 --> 00:06:39.080
+So I think it. It just depends on
+
+42
+00:06:39.100 --> 00:06:40.700
+Dalton Lobo Dias (he/him): what the stakeholders want.
+
+43
+00:06:40.780 --> 00:06:41.490
+Brian Beatty: Yeah.
+
+44
+00:06:42.440 --> 00:06:59.000
+Brian Beatty: Well, I tell you out there, you know, if you have. If you feel like you want to write more about this, there's an audience out there in education, whether it's at your school or not that would love to hear kind of the the explorations you're doing informally, you know, through through blogs or other kinds of things. Or
+
+45
+00:06:59.000 --> 00:07:16.030
+Brian Beatty: you know people who sponsor blogs and education, especially in in K. 12 education. Think about that. If if you, if you're interested in that at all, because I hear I I i'm seeing more and more people writing about it, and you know a lot of what I see. It's kind of surface level stuff
+
+46
+00:07:16.030 --> 00:07:32.920
+Brian Beatty: where it's clear. They haven't really done a lot of this themselves, and it's like ideas. Well, you could use it for this so you could use it for this, but it sounds like you're developing a lot more actually first person experience in ways that most people Aren't really thinking about this to be to be
+
+47
+00:07:33.160 --> 00:07:36.800
+Brian Beatty: useful, useful, or, I guess, useful.
+
+48
+00:07:37.210 --> 00:07:41.950
+Brian Beatty: practical, and really helpful. Not a threat. not a threat. This is really helping you
+
+49
+00:07:42.610 --> 00:07:50.750
+Brian Beatty: right. And I think that's I think that's the that's an important takeaway for people to hear from their colleagues, from their peers, from other other teachers.
+
+50
+00:07:52.140 --> 00:08:02.250
+Brian Beatty: Only the people who care about it are interested are going to listen. I'm going to read it and listen to it, anyway. So you don't have to worry about people in the who aren't interested. I guess they're not even going to see it.
+
+51
+00:08:02.930 --> 00:08:04.440
+Brian Beatty: I tell myself all that time.
+
+52
+00:08:05.940 --> 00:08:07.420
+Brian Beatty: Just say what you want to say.
+
+53
+00:08:09.000 --> 00:08:10.250
+Brian Beatty: Okay, thanks, Dalton.
+
+54
+00:08:10.920 --> 00:08:12.760
+Who else wants to talk about
+
+55
+00:08:12.990 --> 00:08:18.640
+Brian Beatty: what they found, or maybe what, even with someone else found it. Take a little bit little bit of time for this. Then we'll get on to tonight's
+
+56
+00:08:19.330 --> 00:08:20.610
+Brian Beatty: more specialty. But
+
+57
+00:08:26.240 --> 00:08:33.250
+Adam Hill: I I found it interesting. using Chat Gpt to help me like narrow research that I was doing, and help me
+
+58
+00:08:33.760 --> 00:08:47.860
+Adam Hill: get to the heart of a question I had, or so I thought so. I did a little, considering my work. I did a little bit of research on like what it's like to study. AI, if you're going to go to grad school for it, to understand how those programs are designed.
+
+59
+00:08:48.170 --> 00:08:57.570
+Adam Hill: and it is pretty hard to sift through a bunch of like marketing materials for something like that, because I think a lot of universities are trying to seize the moment
+
+60
+00:08:57.680 --> 00:09:01.750
+Adam Hill: and market their programs in.
+
+61
+00:09:01.960 --> 00:09:14.700
+Adam Hill: Go in asking what that learning experience is like to chat TV key. I did get some answers just just the ways that you might city robotics and mathematics and computing, and also ethics and philosophy.
+
+62
+00:09:15.720 --> 00:09:22.140
+Adam Hill: and then so I. And then, when we were doing some of the discussion forums, I also found that it was much easier to get
+
+63
+00:09:22.210 --> 00:09:38.430
+Adam Hill: answers to research questions I had. If I was just trying to like, gain more knowledge on a topic it almost felt like this is like a a more like a directed form of Wikipedia
+
+64
+00:09:38.510 --> 00:09:44.990
+Adam Hill: Chat, Dbt. And literally like. sometimes like you really have to question the accuracy of what you're getting in there, because, like
+
+65
+00:09:45.200 --> 00:09:50.300
+Adam Hill: there were literally like legal cases that Jack Tbd. Cited that were just made up.
+
+66
+00:09:50.480 --> 00:09:51.550
+Adam Hill: So
+
+67
+00:09:53.430 --> 00:10:00.220
+Adam Hill: I don't know. Yeah, like the accuracy of the information that we're getting from Chat gpt like it's not really cited and like.
+
+68
+00:10:00.280 --> 00:10:12.550
+Adam Hill: so i'm as much as i'm excited for it. I'm trying to understand, like how useful it can be for trying to get more niche knowledge. And then, like, is that also a helpful way to
+
+69
+00:10:12.700 --> 00:10:18.700
+Adam Hill: you know we always were concerned about, especially like the outside Wikipedia, like, oh, well, students just use Wikipedia.
+
+70
+00:10:19.070 --> 00:10:23.860
+Adam Hill: especially when it's an accurate Well, it seems like Chat Tpt can be similar.
+
+71
+00:10:23.880 --> 00:10:34.670
+Brian Beatty: Yes, I mean to me it feels a lot more like the kinds of stuff i'd see written on on blogs that are that are still are very useful, but they're not usually very rigorous.
+
+72
+00:10:34.670 --> 00:10:52.470
+Brian Beatty: They can be, but more often than not you know it's more generalization and kinds of things, and telling stories about something, maybe having a link to an example, or something like that. It may be a reference or 2, but it doesn't seem to be doing it. It doesn't seem to have that capability, and I think it's probably because of how it's being trained.
+
+73
+00:10:52.520 --> 00:10:58.060
+Brian Beatty: and what is learning from, because it's learning. If I think, from publicly available stuff you can find on the Internet.
+
+74
+00:10:58.670 --> 00:11:06.930
+Brian Beatty: I you know, actually, that would. I would be very interested in how these things are. Actually. you know what what is the database? And I think I think that's the database.
+
+75
+00:11:07.350 --> 00:11:08.170
+Brian Beatty: Primarily.
+
+76
+00:11:08.210 --> 00:11:22.200
+Brian Beatty: I don't think it's being deep into like all of the databases that are available online of, you know, reference articles like a pub met or things like that, and maybe it is. But I I don't think so.
+
+77
+00:11:24.410 --> 00:11:33.050
+Brian Beatty: because if they if you think about it. I don't know i'm as I think about. I should say if it was looking that deep into things like that.
+
+78
+00:11:33.350 --> 00:11:51.160
+Brian Beatty: Well, that's that. That that maybe it is that big of a training kind of information that that's it's being trained on, or why it does these it. The the responses are so fast. Literally
+
+79
+00:11:51.280 --> 00:11:53.260
+Brian Beatty: it starts answering pretty quickly
+
+80
+00:11:53.540 --> 00:11:54.870
+pretty quickly.
+
+81
+00:11:54.940 --> 00:11:59.910
+Brian Beatty: And Tony, I know, is who I don't think is here, live with us.
+
+82
+00:12:00.150 --> 00:12:19.450
+Brian Beatty: has paid pays for the upgrade. He pays for the dollar a month, and I don't know if he's getting, you know, quicker responses, or if he's getting more detailed responses, or anything like that, but that that at some point may become part of the part of the business model for tools like this, especially, you know, for the for the publicly publicly available tool access
+
+83
+00:12:19.620 --> 00:12:22.330
+Brian Beatty: you want. You want more depths. Pay for it.
+
+84
+00:12:22.390 --> 00:12:24.480
+Brian Beatty: You want more speed. You pay for it
+
+85
+00:12:24.720 --> 00:12:30.500
+Brian Beatty: right, and that that's also a selling. If If these tools can do that at some point
+
+86
+00:12:30.570 --> 00:12:36.170
+Brian Beatty: that could be a really powerful sailing point to go into someone else's system, though of course
+
+87
+00:12:36.330 --> 00:12:42.890
+Brian Beatty: I use our system, and we can get you this through our AI. You know our our open AI powered.
+
+88
+00:12:43.750 --> 00:12:44.690
+Brian Beatty: you know.
+
+89
+00:12:45.770 --> 00:12:47.300
+whenever you want to call it
+
+90
+00:12:49.950 --> 00:12:51.320
+Brian Beatty: helper.
+
+91
+00:12:52.610 --> 00:12:57.020
+Dalton Lobo Dias (he/him): So I do. You think it's going to get? I mean, would it be helpful to have
+
+92
+00:12:57.060 --> 00:12:59.710
+Dalton Lobo Dias (he/him): these language models actually offer.
+
+93
+00:13:00.000 --> 00:13:11.490
+Dalton Lobo Dias (he/him): you know. Which database? Do you want to pull the data from right, or is it just not enough data? Does it really need a much, much more massive. You know, breath of data from the Internet
+
+94
+00:13:11.540 --> 00:13:17.600
+Dalton Lobo Dias (he/him): to properly act as a language model, or like like the pubmatics. If I really like right, right, if it's just
+
+95
+00:13:17.700 --> 00:13:18.630
+Dalton Lobo Dias (he/him): published.
+
+96
+00:13:20.650 --> 00:13:34.580
+Brian Beatty: Yeah. Well, I I have no idea how long it would take for it to kind of build. The the ability to create answers like it's doing now from a specific data set, if it's not already, if it's not already data that's in there.
+
+97
+00:13:34.710 --> 00:13:38.540
+Brian Beatty: There's got to be a time time period for that to happen.
+
+98
+00:13:38.550 --> 00:13:56.410
+Brian Beatty: you know, just for it, and I think a lot of it depends upon the rigor and how how well trained it has to be for it to be really functional. And it, you know it really interesting to hear. May. Maybe there's some stuff out there we could find where someone could find and share with us, or to hear someone talk about some of those
+
+99
+00:13:56.410 --> 00:14:06.520
+Brian Beatty: pragmatic details about how this is really working, because understanding more about how it really works, can can sometimes help us better understand what you know, what what we can trust it for.
+
+100
+00:14:06.690 --> 00:14:08.450
+Brian Beatty: and where we should be suspect.
+
+101
+00:14:08.800 --> 00:14:20.750
+Brian Beatty: right. And when we worked when the university worked with Eab on our advising system, I I may have mentioned that before, but we were training to model. They would not tell us they would not show us.
+
+102
+00:14:20.810 --> 00:14:28.440
+Brian Beatty: You know exactly how they're creating their recommendations or their their determinations. That a student is is at risk
+
+103
+00:14:28.500 --> 00:14:42.390
+Brian Beatty: this and that. That's proprietary, and we we don't share that they could talk about General. Well, we look at this kind of stuff, and we look at this kind of stuff. We look at this kind of stuff, but we have data scientists on our own campuses, and we want to know what you're doing with our students data.
+
+104
+00:14:42.510 --> 00:14:49.640
+Brian Beatty: and of course they said no. And the University said, okay? Well, we asked because they wanted the service.
+
+105
+00:14:49.750 --> 00:14:51.120
+And so
+
+106
+00:14:51.350 --> 00:14:53.030
+Brian Beatty: so, anyway, we don't know.
+
+107
+00:14:54.040 --> 00:14:57.020
+and we may never know unless you're on the inside of this.
+
+108
+00:14:57.270 --> 00:15:07.330
+Brian Beatty: So what we need is an insider. Actually, I know some people in computer science over across the across the campus, and maybe someone over there could could give me some leads on all I could find out.
+
+109
+00:15:07.680 --> 00:15:10.000
+Brian Beatty: you know, in a way that might be interesting to you guys.
+
+110
+00:15:10.660 --> 00:15:12.570
+Brian Beatty: All right. Anything else?
+
+111
+00:15:14.700 --> 00:15:16.200
+Brian Beatty: You're all part of this.
+
+112
+00:15:18.080 --> 00:15:19.860
+Brian Beatty: N0 0ne wants to talk about their stuff.
+
+113
+00:15:28.350 --> 00:15:35.040
+Brian Beatty: Linda got. So look. She got cited not only in this document, but also brought it over into the discussion.
+
+114
+00:15:37.220 --> 00:15:40.130
+Brian Beatty: Actually, it was decided in the chat tonight, too.
+
+115
+00:15:41.200 --> 00:15:42.550
+Brian Beatty: Talk about impact.
+
+116
+00:15:45.350 --> 00:15:47.810
+Linda Kim: Oh, thanks, Sultan. I didn't see the chat.
+
+117
+00:15:49.080 --> 00:15:50.700
+Linda Kim: so I guess
+
+118
+00:15:50.790 --> 00:15:57.070
+Linda Kim: I guess I can kinda talk about it.
+
+119
+00:15:57.250 --> 00:16:12.200
+Linda Kim: So I kind of started wondering about. I mean chat. It is amazing. It can do a lot of things, but sort of wondering about the authenticating, I think, are like authentication. But how do we authenticate the information that it's generating.
+
+120
+00:16:12.430 --> 00:16:18.530
+Linda Kim: So because it gotta pull be pulling their information from a certain data source, right?
+
+121
+00:16:18.620 --> 00:16:26.500
+Linda Kim: And I was wondering, how do we? What if it's pulling their data? They're generating the answers from like.
+
+122
+00:16:26.810 --> 00:16:38.590
+Linda Kim: not correct that source. So I just
+
+123
+00:16:39.250 --> 00:16:55.720
+Linda Kim: that's indicating it. Generate information. Jere, for AI can be a conflict test. Yeah, but there is a way to you to cross check it basically bottom line, and it gave me like 5 prompts or 5 ways how we can.
+
+124
+00:16:55.870 --> 00:17:17.750
+Linda Kim: people having humans having to kind of double check the fact source of it. So which I I was pretty interesting. So I was like, okay, I mean. And then this kind of thing reminded me of. I don't know. If you guys use turn it in.com before I You know high school. I used it. It's a basically a pleasure i'm detecting.
+
+125
+00:17:17.819 --> 00:17:27.440
+Linda Kim: I guess. Saw sites. I haven't used it since high school, so I don't know how much it got better. But before, when I was in high school, the problem it had was it was
+
+126
+00:17:27.510 --> 00:17:29.900
+Linda Kim: ha flagging.
+
+127
+00:17:30.100 --> 00:17:51.710
+Linda Kim: Things are plagiarized things like ward like da, or that, or something very simple, or if it's like a site from something else. And obviously, if it's like an Ap. Stop citation, it's probably been the same, or it's similar for a lot of people, and it was keep flagging as if it was like pleasure. I
+
+128
+00:17:51.840 --> 00:18:05.550
+Linda Kim: that I was kind of like I don't know, like I was in a lot of thoughts with my head, and I didn't really get to the bottom of like like, oh, how do we actually authenticated like by yourself, like AI, s0 0ther than
+
+129
+00:18:05.720 --> 00:18:14.970
+Linda Kim: it was telling me? Oh, you have to vindicate it. You have to double check it. So it was. I thought it was pretty interesting. It didn't do everything for us. Yeah.
+
+130
+00:18:15.610 --> 00:18:23.980
+Brian Beatty: yeah, you know, I think I think the this last one it came up with human oversight. It that's basically an element of every single thing is talking about. To some extent
+
+131
+00:18:24.040 --> 00:18:30.410
+Brian Beatty: this idea of data governance this kind, this this becomes really important when you're training an AI tool on your own data.
+
+132
+00:18:30.410 --> 00:18:49.450
+Brian Beatty: You don't need a You don't need a general purpose. AI, You know that's gonna search in the whole Internet. You want it to. Just look at your data. And that's how that's how AI has typically been used. More often than not at least the the kind of the the specific uses that have been Have the most of us are aware of so far.
+
+133
+00:18:49.660 --> 00:18:56.990
+Brian Beatty: really the this integration into an and and I guess integration into now are coming in soon into the search Tools, apparently
+
+134
+00:18:57.040 --> 00:19:02.550
+is. is looking at much more general data sources.
+
+135
+00:19:02.920 --> 00:19:06.220
+Brian Beatty: Basically the data source of the of the Internet at some point.
+
+136
+00:19:14.870 --> 00:19:19.270
+Brian Beatty: What document? The breakout room notes this one?
+
+137
+00:19:19.990 --> 00:19:27.040
+Linda Kim: Yeah.
+
+138
+00:19:27.050 --> 00:19:29.110
+Linda Kim: It was just a breakout room.
+
+139
+00:19:33.620 --> 00:19:37.230
+Brian Beatty: Oh, it must have been in a different window or something. Okay, Sorry about that.
+
+140
+00:19:37.510 --> 00:19:38.380
+Linda Kim: That's okay.
+
+141
+00:19:39.060 --> 00:19:42.270
+Brian Beatty: I need to have another monitor. That just shows me what you guys are seeing.
+
+142
+00:19:45.530 --> 00:19:46.610
+Brian Beatty: Okay.
+
+143
+00:19:46.650 --> 00:19:49.950
+Brian Beatty: all right. Well, I won't. Try to pull any more teeth here.
+
+144
+00:19:50.820 --> 00:20:05.440
+Brian Beatty: So let's move on AI. So i'm sure AI will come back int0 0ur conversation. Start the semester, and you're welcome to bring it back up into any any of our discussions it is, it is. I would consider it. You know kind of the cutting cusp of a
+
+145
+00:20:05.440 --> 00:20:24.190
+Brian Beatty: largely publicly accessible emerging technology that we're all gonna be dealing with, no matter what role we're playing and where what level we're at, and what context we're at in in this kind of instructional environment that we are, and because it's about information, information is so key to
+
+146
+00:20:24.230 --> 00:20:29.480
+Brian Beatty: much of what we're trying to do, right. We we we deal in information.
+
+147
+00:20:30.040 --> 00:20:47.320
+Brian Beatty: right. That's that's a big part of what I think a lot of us are doing. We're providing access into information where we we're asking people to generate information. Right we are. We are kind of the epitome in some ways of information workers or knowledge workers. I guess
+
+148
+00:20:47.520 --> 00:20:58.720
+Brian Beatty: you know, depending on how you want to look at this. So it makes sense. I think to kind of this is a good. This is a good point for us to be talking now about other kinds of technologies that I'll give us
+
+149
+00:20:58.760 --> 00:21:08.040
+Brian Beatty: access to information and ability ways to work with information, you in educational terms. We usually talk about content, right?
+
+150
+00:21:08.060 --> 00:21:17.140
+Brian Beatty: We we need content. We have such it matter experts, and what do they do? They give us content and then explain things to us. Not just content, though.
+
+151
+00:21:17.400 --> 00:21:20.140
+Brian Beatty: Right? Like I said earlier, we don't. Just
+
+152
+00:21:20.150 --> 00:21:27.940
+Brian Beatty: you don't. Yeah, you never have content just to have it sitting there. You have to. Students have to do something with it. The learners have to do something with it, so it's content.
+
+153
+00:21:28.090 --> 00:21:45.970
+Brian Beatty: and it's activities around them. So for today, for today I asked you to prepare by looking at a couple of things. and this was the not very much. Actually this this one, this typology of free web-based resources. Have you seen that before
+
+154
+00:21:47.650 --> 00:21:57.500
+Brian Beatty: anyone seen that before? I've seen some of the stuff in there. This is like a version, 2 0f this typology. They did it first in 2,015,
+
+155
+00:21:57.550 --> 00:22:16.480
+Brian Beatty: I believe, and then 2,016. They redid it, and they they don't redo this every year, because, and they don't think it changes enough for them to do whatever, but they will probably do it again in another year or 2 edge of cause is one of the major. It and education kind of groups around the world, really and dominant here in the Us.
+
+156
+00:22:16.650 --> 00:22:26.420
+Brian Beatty: And North America, I say. But when if you go into this, what they're doing here is they're talking about the different kinds of and they're focused on free
+
+157
+00:22:26.460 --> 00:22:28.630
+Brian Beatty: web-based learning technologies.
+
+158
+00:22:28.720 --> 00:22:40.300
+Brian Beatty: Right? So these are. These are technologies that you can use reasonably well for free. Some of them may be premium models. I don't think they I don't think that's something they would not do, but it has to be substantially functional
+
+159
+00:22:40.300 --> 00:22:56.740
+Brian Beatty: for for you to use free, you know, like I don't know centimeters a tool. I don't know if it's in here or not, but that has a free version, and it has a paid version of pro version, just like a lot of these do. So if you look through here, you'll see how they you know they do some explaining about what they're doing. Of course this is a kind of a
+
+160
+00:22:56.900 --> 00:23:09.110
+Brian Beatty: what is this called? This is a isn't it? It's not really data visualization. I don't know. Maybe it's not really numbers, though it's just talking with it like ideas. It's more like a concept map.
+
+161
+00:23:09.180 --> 00:23:13.410
+Brian Beatty: It's just a visual representation of the the landscape as they see it.
+
+162
+00:23:13.560 --> 00:23:28.060
+Brian Beatty: and they use some color coding here. You can decide for yourself whether or not this is helpful for you, but you don't have to just rely on that, because there is the traditional pros text-based explanation here, and then they go through the different tools.
+
+163
+00:23:29.330 --> 00:23:32.180
+Brian Beatty: Yes, Steven has a question or comment.
+
+164
+00:23:38.860 --> 00:23:40.340
+Brian Beatty: You're muted.
+
+165
+00:23:41.400 --> 00:23:44.190
+Brian Beatty: It sounds like you have a deep thought to share.
+
+166
+00:23:44.760 --> 00:23:47.210
+Yeah, when we were looking at the concept map.
+
+167
+00:23:47.440 --> 00:23:51.580
+Stephen Cadette: is it? Is it incorrect to call information
+
+168
+00:23:51.870 --> 00:23:55.630
+Stephen Cadette: data not necessarily numerical. But
+
+169
+00:23:55.880 --> 00:24:01.810
+Stephen Cadette: when we have information that's organized in this way. I would want to call this
+
+170
+00:24:02.030 --> 00:24:13.110
+Stephen Cadette: data visualization or David data representation
+
+171
+00:24:13.150 --> 00:24:16.180
+Stephen Cadette: between each other and hierarchical.
+
+172
+00:24:16.770 --> 00:24:24.550
+Stephen Cadette: I just wonder, I mean. And I know this is probably the wrong class to ask this in. But is it? Is it too generous to call this data?
+
+173
+00:24:26.340 --> 00:24:31.650
+Brian Beatty: I don't know what the rest of you think. Half of you probably either took that class or in that class as well.
+
+174
+00:24:32.720 --> 00:24:35.140
+Brian Beatty: The 740 classes Where we talk about that
+
+175
+00:24:35.650 --> 00:24:52.690
+Brian Beatty: does it? Is this: a data visualization is really the question. I guess you could count right. You could count the the tack and see which one has more numbers there. Well, you know, I don't think You' to account it's basically using a picture to represent information and the information as well. What are the different categories? The types of systems
+
+176
+00:24:52.690 --> 00:24:56.290
+Brian Beatty: we see are the platforms being used to support learning.
+
+177
+00:24:56.710 --> 00:24:59.800
+Brian Beatty: you know, with technology free and on the web.
+
+178
+00:25:00.690 --> 00:25:11.510
+Brian Beatty: And so it's kind of it's. It's like, I would consider this similar to a concept map. It's not really a concept map. but it's that kind of organizational scheme. It's a visual organizational scheme. So
+
+179
+00:25:12.440 --> 00:25:14.810
+Brian Beatty: yeah, and it does show relationships like you. Mentioned.
+
+180
+00:25:15.370 --> 00:25:19.180
+Brian Beatty: So I think there you go. I think the answer is, it's not incorrect.
+
+181
+00:25:20.790 --> 00:25:21.510
+Stephen Cadette: Thank you.
+
+182
+00:25:21.570 --> 00:25:22.370
+Brian Beatty: All right.
+
+183
+00:25:25.210 --> 00:25:31.280
+Brian Beatty: Yeah. Would it be nice if you could? Well, what about an interactive to like image based tools. What if I click this?
+
+184
+00:25:31.290 --> 00:25:36.370
+Brian Beatty: I go right to them. So it's a little bit interactive. And then, if I go back.
+
+185
+00:25:37.040 --> 00:25:43.040
+Brian Beatty: I don't go back to the picture. Unfortunately, so it's not really interactive. It's clickable.
+
+186
+00:25:43.100 --> 00:25:44.430
+Brian Beatty: So it's a clip.
+
+187
+00:25:44.690 --> 00:25:52.070
+Brian Beatty: clickable map. I'm. K: I care about. Let's say 3D modeling tools. Okay. So now I can go to modeling tools. Here we go.
+
+188
+00:25:52.400 --> 00:26:01.520
+Brian Beatty: I haven't looked at all of these. I don't know if you've looked at any. Sometimes they go away. Of course it's been what 2 years it's probably been 3 years since this was written.
+
+189
+00:26:01.530 --> 00:26:10.930
+and so some of these may have gone along the wayside, although they all the names I see that I recognize are still are still there. But sometimes they change. Of course
+
+190
+00:26:11.270 --> 00:26:17.900
+Brian Beatty: you as you go through this, you'll see tools that you've used, or you've heard about, or I' you've had colleagues use.
+
+191
+00:26:18.290 --> 00:26:36.520
+Brian Beatty: and these are some things that you might want to pick, take a look at and and try out and play around with. As a matter of fact, when you're looking at newer technologies or different technologies to do different things. If you know that there there's a tool, a whole group of tools here that you just have never explored, or just aren't in use in your your
+
+192
+00:26:36.520 --> 00:26:39.840
+your instance. You might want to take a look and say, Well, what's here?
+
+193
+00:26:39.880 --> 00:26:49.230
+Brian Beatty: What is there something here that could be actually useful. Now, some of these are really interesting, like the social networking systems. Well, Research Gate.
+
+194
+00:26:49.510 --> 00:27:17.140
+Brian Beatty: it's up this. This is what tool I use, and it's a it's a way of me kind of summarizing and and and linking like to the abstracts and the titles of some of the works. I want other people to know i'm doing, or I have done, and a way for them to contact me. And and I can add a full full full, a full print of the copy of whatever it is that's being there, or maybe I have them ask me so would they? They allow you to connect to people and ask questions.
+
+195
+00:27:17.140 --> 00:27:31.970
+Brian Beatty: but it's all around academic research. Is it a social networking system? Well, it has some social networking capabilities. But I don't consider it a social network. I consider it is another place for people to find the work i'm doing, and for me to search for other People's work as Well.
+
+196
+00:27:32.070 --> 00:27:34.720
+Brian Beatty: so. Is it a social network? Yeah, I guess so.
+
+197
+00:27:34.960 --> 00:27:44.290
+Brian Beatty: So you'll find some of that in here, too. You might. You might see something classified in a way that you perhaps wouldn't classify it that way. Has anyone in here use seesaw?
+
+198
+00:27:46.250 --> 00:27:51.780
+Brian Beatty: That's something I I know has come up in some of our some of conversations in some class I've been in.
+
+199
+00:27:52.170 --> 00:27:54.730
+I've like, used it minimally
+
+200
+00:27:54.980 --> 00:28:02.180
+Amanda Deigan: during distance, Learning our school is trying to decide if they were going to do like Google classroom as an Lms. Or
+
+201
+00:28:02.250 --> 00:28:12.660
+Amanda Deigan: he saw as an Lms. And the school is pretty divided. So we did like, see, software like K. 4, I think, and Google classroom for 5 8.
+
+202
+00:28:14.110 --> 00:28:20.600
+Amanda Deigan: But I worked for that a little bit because I read a lot of articles on like houses, and, like the interactiveness could be like effective for middle schoolers.
+
+203
+00:28:21.460 --> 00:28:27.580
+Amanda Deigan: but most of it was like effective because we use it in the classroom. So
+
+204
+00:28:28.380 --> 00:28:37.640
+Amanda Deigan: I didn't really get to interested in the Con cause I stopped once. It's not being relevant to my context.
+
+205
+00:28:37.910 --> 00:28:38.710
+Brian Beatty: Okay?
+
+206
+00:28:38.790 --> 00:28:42.040
+Well, maybe you brought it to a conversation at some point. I don't know.
+
+207
+00:28:42.660 --> 00:28:55.250
+Adam Hill: I actually thought the the topic of learning manage systems is really interesting because it kind of depending on how the learning management is designed. It does provide multiple tools within, so it's not just like
+
+208
+00:28:55.650 --> 00:29:15.390
+Adam Hill: a whenever they call it, facilitate the delivery of courses, but it also has assessment, tools, and canvas or discussion forums, or like moodle. Is it incredibly robust if you know how to use it
+
+209
+00:29:20.070 --> 00:29:26.370
+Adam Hill: t0 0ne. Think about learning management systems is kind of like housing all these other tools potentially, but also they
+
+210
+00:29:26.470 --> 00:29:45.900
+Brian Beatty: they can get their toes int0 0ther other areas as well.
+
+211
+00:29:45.900 --> 00:29:58.090
+Brian Beatty: and they are they. They tend to do engagement. They have engagement tools, they have content, sharing tools, they have assessment tools. They have Administrative tools are often part of Lms's.
+
+212
+00:29:58.280 --> 00:30:07.430
+Brian Beatty: There's some data analytics and some Lms that are built in here. I have to. I have to keep reminding myself that this they're limiting their list here to things that are free online.
+
+213
+00:30:07.710 --> 00:30:20.360
+Brian Beatty: And so there's obviously there's a lot of Lms here that are not on the list because they're not free, even though they are all online. And we the other thing we're finding in and tech space at least we have over the years is that other tools
+
+214
+00:30:20.410 --> 00:30:32.200
+Brian Beatty: have been kind of reaching out into the world of the Lms. And trying to kind of take over a little bit of the Lms function of saying, hey, you can just use our tool instead of your Lms to manage your course
+
+215
+00:30:32.350 --> 00:30:40.830
+Brian Beatty: right. There's some publisher sites that have. They have been moving in that direction. There was a ech0 360 was a lecture capture system.
+
+216
+00:30:40.880 --> 00:31:04.480
+Brian Beatty: and what they started doing a number of years ago was building in and and at kind of an active learning component. So they were bringing in discussion forums and other kinds of things. So you could do your lecture, capture your video capture, and then you would automatically kind of connect in different ways, and that was one reason why we we used to be a customer. There is a at San Francisco State, and we went away from them because we felt that they were getting away from their core business
+
+217
+00:31:04.480 --> 00:31:14.320
+Brian Beatty: and we wanted it. We wanted a lecture capture solution that was still focused on their core business because we did not want to have faculty who were starting to think of doing discussion forums
+
+218
+00:31:14.470 --> 00:31:22.110
+Brian Beatty: outside in the in the lecture capture software system platform, Not in the learning management system.
+
+219
+00:31:24.290 --> 00:31:29.740
+Brian Beatty: anyway. Yeah, there's a lot there's a lot in here. And as you as you as you.
+
+220
+00:31:29.810 --> 00:31:41.150
+Brian Beatty: I've read through this, maybe, or maybe you'll scan through it. You'll They'll be there. Talk about how how the landscape changes in Dalton and others who are in LED Tech or are dabbling in that area. At least
+
+221
+00:31:41.150 --> 00:31:50.770
+Brian Beatty: you'll recognize that there's a lot of change that happens when a tool actually gets designed, developed and implemented, and it's really successful. And then what is what often happens?
+
+222
+00:31:51.050 --> 00:31:52.430
+Brian Beatty: Part of the business model
+
+223
+00:31:52.980 --> 00:32:12.940
+Brian Beatty: gets bought by someone bigger right? Because brought into another suite, usually to to capture that functionality and to use it sometimes to kill that right? They they will buy it and just kind of say, okay, we're you. We're done with you because we're gonna. We're doing that another way. And you were a threat to us. So sometimes that happens in the business of.
+
+224
+00:32:13.470 --> 00:32:15.250
+Brian Beatty: And the tech also.
+
+225
+00:32:16.350 --> 00:32:24.600
+Brian Beatty: Okay questions or comments about this. So many different things listed here. You know
+
+226
+00:32:25.970 --> 00:32:28.970
+Brian Beatty: It's hard to keep a track. Keep track of something like this.
+
+227
+00:32:29.030 --> 00:32:36.820
+Adam Hill: Yeah. And another thing that was interesting to me was, I think, opening up this. I was really excited to think like, oh, i'm gonna learn about all these
+
+228
+00:32:37.310 --> 00:32:47.060
+Adam Hill: LED tech tools that, like I read about on Edge surge that like, I just can't keep track of all them, because there's just so many, and what I was surprised was that there was
+
+229
+00:32:47.320 --> 00:32:58.680
+Adam Hill: a lot of stuff that Aren't is not specifically designed for education, but is free, and can be used for education like we'll keep Google Docs Twitter. We're all mentioned here because they're free.
+
+230
+00:33:05.590 --> 00:33:10.330
+Adam Hill: Does. Does it necessarily have to be because you are could
+
+231
+00:33:10.390 --> 00:33:22.450
+Adam Hill: selling your tool to
+
+232
+00:33:22.880 --> 00:33:24.630
+Adam Hill: to facilitate learning in some way.
+
+233
+00:33:25.450 --> 00:33:44.510
+Brian Beatty: Very true. very true. Microsoft teams, I don't think, was ever really designed for an educational market. I think it was really designed for their core business market. And yet it's become. It is. Now, you know, it's a major educational technology using a lot of a lot of schools, especially higher education schools.
+
+234
+00:33:44.560 --> 00:33:53.910
+Brian Beatty: because it's because of its. You know, the deep functionality it has, including, you know, good web, conferencing and connections to calendaring all that good stuff.
+
+235
+00:33:54.480 --> 00:33:55.330
+Brian Beatty: Stephen.
+
+236
+00:34:00.640 --> 00:34:02.700
+Brian Beatty: I think you're muted again.
+
+237
+00:34:02.970 --> 00:34:09.550
+Stephen Cadette: Sorry it thank you. It was. Looks like this was written in or published in April of 2,020.
+
+238
+00:34:09.699 --> 00:34:13.820
+Brian Beatty: I am so looking forward to seeing
+
+239
+00:34:13.960 --> 00:34:20.620
+Stephen Cadette: what a post pandemic post, lockdown, post distance, learning year
+
+240
+00:34:20.639 --> 00:34:23.150
+Stephen Cadette: list, what is going to look like.
+
+241
+00:34:25.350 --> 00:34:33.780
+Brian Beatty: Yes, but you know I like edge of cause resources because they do a lot. They have a lot of due diligence in their process and in their publishing
+
+242
+00:34:33.800 --> 00:34:46.420
+Brian Beatty: it's. It goes through a bunch of different eyes, and they get panels of experts and all that kind of stuff you can find other sources for, like more current versions of something like this by just by searching online
+
+243
+00:34:46.429 --> 00:34:55.270
+Brian Beatty: Kathy Shrock's blog. which is around technology and education, like K. 12. I think she's kind of more focused on K. 12. She does one around.
+
+244
+00:34:55.270 --> 00:35:13.790
+Brian Beatty: I think, like free online tools for formative assessment or formative evaluation, or something like that kind of like the you know, the the things we might do with quizzes or or mentimeter, or other kinds of polling and kind of quizzing. Software, and it list. I think it was 75, and sometimes I cite her site. I notice I I know that her
+
+245
+00:35:13.790 --> 00:35:30.690
+Brian Beatty: her list of that was most recently updated in 2,022, I believe so. Blog Blog sites that do this are more likely to be updated like this. This. Is this is main. It looks like piece of paper. It's not a piece of paper, but it's gone through that kind of rigorous of of print publishing to get to this point.
+
+246
+00:35:30.910 --> 00:35:45.370
+Brian Beatty: which means it takes time. And so then they're not a it's not in a format where they can make just a couple of tweaks. Oh, these 5 things have dropped off this last month. And here's another. Here's Here's like 5 more that came on this quarter. This is not that kind of a document.
+
+247
+00:35:46.490 --> 00:35:54.430
+Brian Beatty: Other more dynamic documents. Perhaps, like you know, blogs or other kinds of list websites might be that so if you do a search for that, you might find it.
+
+248
+00:35:57.330 --> 00:36:04.300
+Brian Beatty: I mean I I could find it if I wanted to search for, but I don't want to search for it right now. It was called ech0 360, Adam.
+
+249
+00:36:04.350 --> 00:36:13.240
+Brian Beatty: and I believe they're still in the game. I think they're still a player in the game. They're probably doing pretty well, because overall, though the quality of what they were doing was pretty good.
+
+250
+00:36:15.430 --> 00:36:19.770
+Brian Beatty: All right. Okay. So let me stop that share
+
+251
+00:36:21.360 --> 00:36:23.460
+Brian Beatty: where we at all. Right, let's see.
+
+252
+00:36:23.740 --> 00:36:26.470
+What else did I show you?
+
+253
+00:36:27.210 --> 00:36:29.750
+Brian Beatty: Oh, the other chat, Gpt Link.
+
+254
+00:36:30.320 --> 00:36:41.100
+Brian Beatty: I put that in there originally because we hadn't done the other one in a couple of videos around the graphics. If you're in the 740 class, you probably have plenty of that. Was there anything that
+
+255
+00:36:41.190 --> 00:36:53.460
+Brian Beatty: you notice, or you got it got out of the especially. You know the the of creating visual representations of information in ways that are, you know, useful.
+
+256
+00:36:53.770 --> 00:36:56.670
+Brian Beatty: Or, Adam, you have a hand up. Question to comment.
+
+257
+00:36:56.970 --> 00:37:02.220
+Adam Hill: Oh, yeah, just a quick question just for for the that diagram in that article. Does that
+
+258
+00:37:02.310 --> 00:37:14.290
+Adam Hill: does that in some ways become the like a foundational text for our projects. That will be doing the to use that to eventually think about what we want to do. Research and present on.
+
+259
+00:37:15.730 --> 00:37:33.640
+Brian Beatty: You mean, like the tools in there or the
+
+260
+00:37:33.640 --> 00:37:41.640
+Adam Hill: so? Yeah, you could use that as a starting point. At least.
+
+261
+00:37:41.880 --> 00:37:46.130
+Brian Beatty: you know, I like to focus on. Okay, what are we trying to do here to support learning
+
+262
+00:37:46.220 --> 00:37:58.400
+Brian Beatty: and the talk about it from a functional basis and then look for okay? Well what tools will do this. And this is one of the reasons why you might find tools that we're never designed for what we're trying to do, that we might grab onto, because it turns out it actually does this really well.
+
+263
+00:37:58.720 --> 00:38:09.910
+Brian Beatty: So it's not being sold to us as an educator to develop content. But yet we find, hey, this is a great thing for having students build, content, or share, content, or find content, or aggregate content, or whatever it might be
+
+264
+00:38:10.260 --> 00:38:14.710
+Brian Beatty: so. I think the answer is, you could use this as a place, a starting point for all that.
+
+265
+00:38:14.780 --> 00:38:18.110
+Adam Hill: Gotcha, and they they have a list of 200, and I don't have to put them anywhere.
+
+266
+00:38:18.210 --> 00:38:18.960
+Adam Hill: Hmm.
+
+267
+00:38:19.610 --> 00:38:24.960
+Brian Beatty: So you'll also find that, you know, as we start talking about technologies more.
+
+268
+00:38:25.570 --> 00:38:43.340
+Brian Beatty: You guys will come in, and you'll be able to do little demos of what you're using for various things, and that'll also be a place where you might find something. Oh, I think I want to explore that the and re the the idea on the project is that you're looking. You're working with technologies that are that are not ones you are already using every day
+
+269
+00:38:43.520 --> 00:39:01.160
+Brian Beatty: right because you for you. It's not emerging. It's emerged. It's already there. It's functional for you. You could you could take a technology that has a whole, another area of functionality you've never used or explored and do with that. But that's not normally. What happens. Usually you find a different technology, either Haven't used
+
+270
+00:39:01.160 --> 00:39:07.470
+Brian Beatty: or you've just kind of dabbled with, but never really applied. And now you want to figure out how to apply it and use it to support learning.
+
+271
+00:39:09.400 --> 00:39:10.710
+Brian Beatty: Okay.
+
+272
+00:39:10.730 --> 00:39:24.470
+Brian Beatty: So the the emerging aspect of it doesn't have to be really it doesn't really have to be emerging for anyone but you. Normally, it's emerging for at least some of us, because we're often in similar boats or in in the same similar places. I guess.
+
+273
+00:39:24.870 --> 00:39:28.410
+Brian Beatty: Okay. So you don't have to find a technology that's new for everybody.
+
+274
+00:39:29.170 --> 00:39:30.820
+Brian Beatty: That might be a little hard to do.
+
+275
+00:39:32.740 --> 00:39:33.340
+Wow!
+
+276
+00:39:33.900 --> 00:39:36.740
+Brian Beatty: Harder than we wanted to make it. What do you think, Danny?
+
+277
+00:39:40.390 --> 00:39:50.560
+Danny Cheng: I mean, it sounds good to me, you know. Look, I definitely agree, finding new technology that's new to everybody. It's quite difficult. and
+
+278
+00:39:50.590 --> 00:39:57.170
+Danny Cheng: i'm, you know, for my work i'm more more like administrative as a staff
+
+279
+00:39:57.240 --> 00:40:05.280
+Danny Cheng: when it comes to it within the educational field. So for me at least experience, you know, kind of with the emerging technology. We'll probably try to see
+
+280
+00:40:05.510 --> 00:40:13.070
+Danny Cheng: from like the faculty aspect of it, like you know how they can work with technologies in education that's definitely new to me.
+
+281
+00:40:14.630 --> 00:40:27.480
+Brian Beatty: Yeah. I mean when you're not living and working every day in an educational, in the active educational supporting learning space. Then a lot more of this is is a lot there's, I think there's a lot more exploration.
+
+282
+00:40:27.760 --> 00:40:43.890
+Brian Beatty: and so I you know what we what I need to hear from you especially is if we're getting to the point where we're not making sense to you or our it's really confusing, or you feels a little uncoordinated because we're talking about
+
+283
+00:40:43.960 --> 00:41:01.100
+Brian Beatty: instructional stuff. That is really kind of the life of a teacher that you're not able. You you are not able to connect to as well as you want, and this is something that you could just bring up to me to also individually, if you got that way, and I don't think it. I don't think it will. But it I just want to make sure you know that.
+
+284
+00:41:02.050 --> 00:41:16.960
+Brian Beatty: Okay, I I also put a whole bunch of links in the in the agenda document of different kinds, of examples of different ways of accessing content. Some of what you may or may, you may have never used before. There are these, you know, the in the 3D interactive.
+
+285
+00:41:17.180 --> 00:41:29.980
+Brian Beatty: you know, multimedia models. You can find especially places like museums or other kinds of places where they want to give you, this being their experience with, even though they know you're never going to be there the whole idea of virtual field trips.
+
+286
+00:41:30.090 --> 00:41:32.310
+Have any of you ever taken
+
+287
+00:41:32.350 --> 00:41:34.980
+Brian Beatty: a class or gone on a virtual field trip
+
+288
+00:41:37.850 --> 00:41:39.390
+Brian Beatty: anyone ever?
+
+289
+00:41:41.600 --> 00:41:44.740
+Dalton Lobo Dias (he/him): Yeah, we've done some with my students.
+
+290
+00:41:45.020 --> 00:41:53.780
+Dalton Lobo Dias (he/him): I think we did so during Lockdown to go t0 0uter space in NASA. No, we were doing like nature nature stuff. Oh.
+
+291
+00:41:54.340 --> 00:42:04.410
+Brian Beatty: did you use any? Was Was it a particular? Did they do a really good job with it? I mean, Was it like really interesting, like immersive, or just more of a kind of flat.
+
+292
+00:42:04.870 --> 00:42:11.320
+Dalton Lobo Dias (he/him): Well, it was. We kind of created a package of self-paced trips. So we we didn't do it with the students.
+
+293
+00:42:11.390 --> 00:42:21.970
+Dalton Lobo Dias (he/him): This was during that time when you were trying to figure out how we were going to d0 0nline school. So we just sent some material home. We found some that we liked, and then we just had students do it in a
+
+294
+00:42:22.000 --> 00:42:33.740
+Brian Beatty: so they did it. They did a physical down, a virtual field trip. They did a real real real field trip on their own.
+
+295
+00:42:33.930 --> 00:42:42.590
+Brian Beatty: All right. Yeah. Yeah, there are. Really. There are some really interesting spaces out there that you can. You have free access to a lot of these places.
+
+296
+00:42:42.720 --> 00:42:45.780
+A lot of you know the the public
+
+297
+00:42:45.890 --> 00:42:58.730
+Brian Beatty: public, any any any group that has partial public funding like public, you know, Pbs or i'd be, I don't know. But the BBC. But they make a lot of their stuff publicly available to a lot of the stuff's really high production quality.
+
+298
+00:42:58.780 --> 00:43:05.790
+Brian Beatty: if you can find it, discover network. Nova, that no whole Nova place, I mean, of course. Then you got things like NASA,
+
+299
+00:43:05.820 --> 00:43:23.660
+Brian Beatty: and there's their their spaces. There's a lot of immersive kinds of things that they've been building that are really interesting, and a lot of teachers and a lot of students have really never come across that stuff. They've never seen it, and they, and especially never had kind of a curated experience with it. And that's what you would be doing as a teacher as you're creating there you're curating their experience with it.
+
+300
+00:43:23.890 --> 00:43:30.900
+Brian Beatty: Other kinds of things, other kinds of content that might be relatively new to you. This idea of interactive inf for graphics.
+
+301
+00:43:31.200 --> 00:43:47.810
+Brian Beatty: Right? We talk about infographics and some of our classes, and we've seen more and more of them, I guess, but interactive inter graphics where you can actually point, click and pull things around and explore the kind of the data underneath the infographics or the connections among different elements, you know, can be really useful.
+
+302
+00:43:48.930 --> 00:43:51.170
+Brian Beatty: And what else do we have here?
+
+303
+00:43:51.520 --> 00:43:53.160
+Let's see
+
+304
+00:43:53.220 --> 00:44:05.230
+Brian Beatty: data, visualization. This is a link from the tableau tableau. As an example, you can take a look at these kinds of things. There are so many different examples out here, and I think that
+
+305
+00:44:05.700 --> 00:44:17.010
+Brian Beatty: I think the best thing to do is to encourage you to explore some of these we have. Obviously we have limited time in our class session type. But I think what we're going to do next is we're going to take a break
+
+306
+00:44:17.490 --> 00:44:19.650
+Brian Beatty: and then we're going to
+
+307
+00:44:19.760 --> 00:44:25.490
+come back and then give you a chance to explore some of these in smaller groups. We'll probably d0 3 breakouts.
+
+308
+00:44:25.560 --> 00:44:41.460
+Brian Beatty: so that you can take a look at these or other tools that you might use to explore content and and expose students to content in different ways, especially ways that are a little bit more, maybe more engaging in interactive than just, you know, Reading reading something, you know. Kind of like Dr. Baby does read this Watch this
+
+309
+00:44:41.680 --> 00:44:55.710
+Brian Beatty: right, this going to be outside the box for that one. So let's let's take a break for roughly 5 min. We'll come back at the top of the hour. and then we will go into breakouts and do some debrief and and talk about what's coming next.
+
+310
+00:44:56.240 --> 00:45:00.800
+Brian Beatty: All right. I'm going to stop sharing and pause the recording, and we'll be back in 5 min.
+
+311
+00:45:03.610 --> 00:45:05.940
+Brian Beatty: Okay. we're back.
+
+312
+00:45:06.360 --> 00:45:12.710
+I'm: back. At least couple of people are back. I just there. There are lots of different
+
+313
+00:45:12.860 --> 00:45:21.910
+Brian Beatty: places. I just found this other place. Do you see the screen here that says virtual reality? Eeg: based mental wellness lessons that showing up?
+
+314
+00:45:23.660 --> 00:45:24.970
+Brian Beatty: Yes, do you see that
+
+315
+00:45:25.310 --> 00:45:26.990
+Dalton Lobo Dias (he/him): now? We're just seeing the canvas page.
+
+316
+00:45:27.110 --> 00:45:30.410
+Brian Beatty: Oh. dumb thing. Okay.
+
+317
+00:45:31.850 --> 00:45:37.630
+Brian Beatty: I think whenever I change I I can't split monitors on this, too Well. for whatever reason.
+
+318
+00:45:37.740 --> 00:45:50.480
+Brian Beatty: here it is. Here here is something that you probably haven't done in school or in training. Yeah, this is a VR. And Eeg: based mental wellness lesson site.
+
+319
+00:45:50.570 --> 00:45:52.960
+Brian Beatty: You can buy a special headset
+
+320
+00:45:52.990 --> 00:46:02.880
+Brian Beatty: that must have also some electrical surface electrical connections to kind of measure an Eeg electro, except for whatever it's called something Gram
+
+321
+00:46:03.880 --> 00:46:05.680
+Brian Beatty: measures electrical signals.
+
+322
+00:46:06.030 --> 00:46:16.690
+Brian Beatty: and it will, it will teach You will help you kind of import, or support your mental health through some particular lessons. I don't know what kind of lessons they are.
+
+323
+00:46:16.810 --> 00:46:18.330
+Brian Beatty: Don't know if it works.
+
+324
+00:46:18.500 --> 00:46:37.730
+Brian Beatty: but they're sold out, so someone must be buying them. They probably had more than 3 0r 4, and then you can you? But these these are the kinds of tools that you can do with some of these technologies that for many of us is still emerging, and yet for others, people have been playing with headsets for a long time in some places, especially some of your students, maybe, but probably not for learning.
+
+325
+00:46:37.730 --> 00:46:40.250
+Brian Beatty: at least not learning in any kind of formal sense.
+
+326
+00:46:40.280 --> 00:46:53.340
+Brian Beatty: So for most of us, i'd say a lot of the VR. Applications are probably still emerging technologies, and even sites that are using them like some of your school sites might use them. How much? How much do you have available to use?
+
+327
+00:46:53.520 --> 00:47:03.200
+Brian Beatty: Right? I i've been through some really interesting in-depth immersive VR experiences like at Universities Arizona state I went through there. They have. They have a whole
+
+328
+00:47:03.220 --> 00:47:15.860
+Brian Beatty: you know, 3 in an in an environment, a multi-story environment that was built in construction with one of the Hollywood VR people forget the Company. But it's all it's for a biology class.
+
+329
+00:47:15.920 --> 00:47:32.810
+Brian Beatty: And so you go in and you're you kind of are entering into this environment, and it's all these you kind of going inside a a biosphere into the very small levels. And you're seeing all the little creatures and things like that, and you're walking up and downstairs, and you you have 3 0r 4 people in there. You're interacting with each other and
+
+330
+00:47:32.810 --> 00:47:43.270
+Brian Beatty: driving these little carts around that's pretty cool, hugely expensive, though Right 30 0r 40 million dollar project. And it does one thing
+
+331
+00:47:43.530 --> 00:47:58.750
+Brian Beatty: I mean clearly it could probably be reprogrammed, and to do some other things. But that that kind of the scope or the cost of that makes it something. That is just it's it's it's for fun and interesting and engagement, and probably research. It is not for everyday school.
+
+332
+00:47:58.890 --> 00:48:03.300
+Brian Beatty: It just was just not there yet for that kind of that kind of immersive kind of experience.
+
+333
+00:48:06.040 --> 00:48:16.460
+Brian Beatty: Yeah, I'm: i'm a little familiar with these bio feedback tools, right?
+
+334
+00:48:16.560 --> 00:48:22.840
+Those are interesting because they're it's collecting some kind of brain data like different kind of brainwaves.
+
+335
+00:48:22.970 --> 00:48:24.780
+Dalton Lobo Dias (he/him): And there are some patterns
+
+336
+00:48:25.240 --> 00:48:44.360
+Dalton Lobo Dias (he/him): that indicate things like calm and focus, so they claim. But I've I've I've tried some, and I think there's something to it. and there's also even toys like the Star Wars themed one.
+
+337
+00:48:44.480 --> 00:48:49.320
+Dalton Lobo Dias (he/him): It creates a huge data set which will be perfect for a tableau.
+
+338
+00:48:51.730 --> 00:49:02.690
+Dalton Lobo Dias (he/him): Yeah. This, you know, this could be a way that we can actually teach some form of social, emotional learning and or self-regulation right? That is actually data backed right? And the students can actually see the data coming out in real time.
+
+339
+00:49:02.860 --> 00:49:07.590
+and so you can train yourself. you know. So I could imagine something like.
+
+340
+00:49:08.050 --> 00:49:16.520
+Dalton Lobo Dias (he/him): you know, VR. Landscape that you could only join if you're calm, and if you're not calm, you go into some other space that helps you get back into that.
+
+341
+00:49:16.680 --> 00:49:21.430
+Dalton Lobo Dias (he/him): So you know. And then, of course, this can also stretch into wearables as well.
+
+342
+00:49:21.460 --> 00:49:23.780
+Brian Beatty: Yeah. Well, it's it. This is a
+
+343
+00:49:24.090 --> 00:49:40.120
+Brian Beatty: it, it it's it's sort of a where it's a wearable device, right? And it's connecting to your, you know, to your body in different ways, and and getting that data kinda like your your fitbit or your apple watch, or whatever other kind of tracker. It's getting some sort of body data
+
+344
+00:49:40.120 --> 00:49:48.820
+Brian Beatty: to do that. And so it that's very interesting. There's a there's some really interesting research going on. I I I know. If I mentioned I don't think I mentioned this in this class.
+
+345
+00:49:49.370 --> 00:49:55.950
+Brian Beatty: I forget when the last time I actually showed people this. But there was this. There was this research going on in in China at a school.
+
+346
+00:49:56.390 --> 00:50:10.090
+Brian Beatty: and they were really. They were doing bio biometric measurements of students looking for attention. and so they were trying to decide to track when students were paying attention throughout the school day.
+
+347
+00:50:10.150 --> 00:50:16.260
+Brian Beatty: and they were tracking that, and they would get that information to the teachers, but they'd also give that information to this to parents.
+
+348
+00:50:16.280 --> 00:50:21.960
+Brian Beatty: So at the end of the school day the kids would get home, and if they hadn't been paying attention so well.
+
+349
+00:50:22.030 --> 00:50:37.950
+Brian Beatty: they they had to. They were held accountable by their parents and some when they interviewed the students. That was one of the things that they were saying is that they don't really like this so much if they're not paying attention, because then, you know they get home, and it's not. It's not. Maybe it's not a pleasant experience for them.
+
+350
+00:50:38.050 --> 00:50:42.070
+Brian Beatty: and there's, you know so clearly. There are questions about
+
+351
+00:50:42.340 --> 00:50:52.570
+Brian Beatty: for really all of these tools, but especially once they get a lot more capture, a lot more personalized data. How are we? How are you handling the data? Who has access to it.
+
+352
+00:50:52.610 --> 00:51:06.570
+Brian Beatty: How is it being used outside of? You know me right? Because I know you're using this data, and they all do. I mean they're using it to improve products and lots of other things. But that's important things. Those are important things to question. So when you decided to use Muse
+
+353
+00:51:06.580 --> 00:51:10.410
+Brian Beatty: Dalton with your students. Did you go through any kind of
+
+354
+00:51:10.460 --> 00:51:11.980
+that kind of
+
+355
+00:51:12.120 --> 00:51:15.850
+Brian Beatty: analysis or questioning, or did you have to answer any questions about that?
+
+356
+00:51:16.100 --> 00:51:30.860
+Dalton Lobo Dias (he/him): No, and this was something that student brought t0 0ur project. It was a science fair project, so the student who was familiar with it brought it to class. We looked at it. We tested it a bit, and we're like, okay, Sure, there's enough data here that we can actually run an experiment. She submitted it to
+
+357
+00:51:30.890 --> 00:51:40.830
+Dalton Lobo Dias (he/him): Semito Science Fair. This is a few years ago, and one won some kind of prize. So she had a really valid, a really clear hypothesis, clear, measurable data
+
+358
+00:51:40.930 --> 00:51:51.740
+Dalton Lobo Dias (he/him): it was. It was pretty neat. and I I was one of the test subjects she was testing. Now it's coming back to me. She was testing like the the effect of different music
+
+359
+00:51:51.920 --> 00:51:59.680
+Dalton Lobo Dias (he/him): on your brain. So some people were listening to like pop music. Some people were listening to white noise, so people were listening to classical music and then looked at the data.
+
+360
+00:51:59.950 --> 00:52:00.730
+Brian Beatty: Okay.
+
+361
+00:52:00.950 --> 00:52:11.970
+Brian Beatty: yeah, that might be really relevant, especially with the number of students who probably use music or listen to music while they're doing their studies. You know they're reading, or they're doing some homework or whatever, even taking tests.
+
+362
+00:52:12.400 --> 00:52:21.490
+Brian Beatty: Okay, just another example. So this first group of of technologies that we're really talking about today are where we're contents out there, and we're not really generating content.
+
+363
+00:52:21.490 --> 00:52:33.000
+Brian Beatty: you know, to some extent this is a little different, because your your physical activity is generating the information. Next week we're going to talk more about students actually producing content themselves. But tonight let's focus more on students.
+
+364
+00:52:34.380 --> 00:52:39.970
+Brian Beatty: Students generate or accessing content content that's out there content that may be.
+
+365
+00:52:40.180 --> 00:52:48.390
+Brian Beatty: is being experienced. and as it's being experienced. There's some aspect of it being experienced uniquely every time it's being experienced. You know that kind of thing
+
+366
+00:52:48.530 --> 00:53:01.640
+Brian Beatty: walk, you know you never take the same walk. You never see the same water in a river going by you. That kind of thing yet being at the river is something that okay? We're at a river, you know we're not creating the river for that.
+
+367
+00:53:02.210 --> 00:53:09.160
+Brian Beatty: So in the in the breakout I like you to do for discussion. Let's let me pull this up
+
+368
+00:53:11.100 --> 00:53:21.610
+Brian Beatty: session 4. Think about this. The tools you have already are using that may be considered emerging in some contexts.
+
+369
+00:53:22.380 --> 00:53:41.070
+Brian Beatty: Right. What are you using now, have you a Have you evaluated them for the back private things we're talking about? Have you read their terms of service? Maybe, or maybe not? What are, what are the ones you're using now? For? What? For what purposes, what functions? So maybe some of the functions we talked about earlier in that kind of that.
+
+370
+00:53:41.520 --> 00:53:46.120
+Brian Beatty: that typology. And what are the what are the where, where the gaps?
+
+371
+00:53:46.210 --> 00:53:56.670
+Brian Beatty: Where do you think the gaps are in your situation for technologies to do things that you don't know exist yet, or maybe there exists. But you know you don't have access to them for some particular reason.
+
+372
+00:53:56.990 --> 00:54:08.220
+Brian Beatty: Let's just have that conversation for a bit. We'll put how many we we have 7. We, by someone must have dropped off didn't want to do a didn't want to do a
+
+373
+00:54:08.430 --> 00:54:13.640
+Brian Beatty: break out. Maybe we're gonna still d0 3 breakouts, because 4 people's too big for a breakout like this.
+
+374
+00:54:13.660 --> 00:54:20.270
+Brian Beatty: You have to be able to talk. You have to have that social pressure to talk. And so i'm going to stop sharing.
+
+375
+00:54:20.390 --> 00:54:24.280
+Brian Beatty: You have the we'll put this. We'll put this
+
+376
+00:54:25.040 --> 00:54:28.350
+Brian Beatty: link in the chat again. All right.
+
+377
+00:54:28.380 --> 00:54:30.080
+Brian Beatty: that's done.
+
+378
+00:54:30.120 --> 00:54:43.130
+Brian Beatty: We're going to pause the recording, and we'll do the breakout for oh, roughly 20 min or so, and then we'll come back and do a debrief. So the recording will pause here. I'll be right here with a smile.
+
+379
+00:54:47.320 --> 00:54:57.600
+Brian Beatty: Okay? Oh, I missed my, I I was a jump cut. Now, in the video. I missed it. Anyway, we have room one group on to start our little debrief reporter. What did you guys talk about?
+
+380
+00:54:59.490 --> 00:55:02.760
+Danny Cheng: Hi, everyone. So I will be meeting the
+
+381
+00:55:02.920 --> 00:55:17.080
+Danny Cheng: I guess, to the talk about what we discussed in our group session. So for the first one we're looking at it really a lot of times. We notice a lot of those terms of services or privacy
+
+382
+00:55:17.110 --> 00:55:29.680
+Danny Cheng: policies when it comes to those software's or kind of use, really. They use a lot of. I guess, legal languages, and then it's really lengthy to read through them it
+
+383
+00:55:29.740 --> 00:55:32.290
+Danny Cheng: like it's it's kind of difficult.
+
+384
+00:55:32.310 --> 00:55:34.680
+frankly, from time to time for us.
+
+385
+00:55:34.920 --> 00:55:52.140
+Danny Cheng: and in terms of the needs for support to for supporting students accessing contents. Our team we're looking more from like a instructor's perspective. You know it to help students, you know, with the multilingual language support
+
+386
+00:55:52.330 --> 00:56:00.260
+Danny Cheng: and just more opportunities to engage more and video game vide0 0r games to make the context more engaging.
+
+387
+00:56:00.510 --> 00:56:08.480
+Danny Cheng: and also also definitely like us, whatever successful, like for mobile device, or, like you know, quick access from anywhere.
+
+388
+00:56:08.830 --> 00:56:22.920
+Danny Cheng: And also I was talking about from my perspective as a staff about like file, sharing like trying to find, like a secure way to share documents like from student to students, or even like for students to instructors.
+
+389
+00:56:23.280 --> 00:56:28.640
+Danny Cheng: And for our notes we were looking for some of the tools like one on one computer
+
+390
+00:56:28.760 --> 00:56:32.730
+Danny Cheng: Google classroom near pad which is interactive
+
+391
+00:56:32.760 --> 00:56:34.410
+Danny Cheng: learning platform
+
+392
+00:56:34.590 --> 00:56:44.630
+Danny Cheng: zoom and for file transfer we were talking about. There is some auto file transfers, but I was talking about, probably like a dopp sign as an example.
+
+393
+00:56:44.890 --> 00:56:48.050
+docusign mainly only focusing on like
+
+394
+00:56:49.380 --> 00:57:00.030
+Danny Cheng: paper documents like.
+
+395
+00:57:00.440 --> 00:57:05.030
+Danny Cheng: And we're looking at the needs that, you know there are
+
+396
+00:57:05.040 --> 00:57:12.200
+Danny Cheng: no come now these between students and tutor and in need, there's a need, any device
+
+397
+00:57:12.290 --> 00:57:17.960
+Danny Cheng: not only translate for like written words, but also like, speak to it. And
+
+398
+00:57:18.230 --> 00:57:24.420
+Danny Cheng: this was before Google translate could do it. And we're also talking about tools to make content
+
+399
+00:57:24.450 --> 00:57:25.350
+Danny Cheng: now
+
+400
+00:57:25.720 --> 00:57:27.050
+Danny Cheng: can make
+
+401
+00:57:27.260 --> 00:57:29.400
+Danny Cheng: kind of boring content More
+
+402
+00:57:29.430 --> 00:57:46.920
+Danny Cheng: try to make context more interesting, like less boring to make it more fun engaging and even competitive with my example. I think we're talking also talking about, like you know. Try to find it easy to use, but also secure way to share documents, share files.
+
+403
+00:57:47.240 --> 00:57:50.750
+Danny Cheng: That's as far as for our group. And
+
+404
+00:57:51.000 --> 00:58:06.380
+Amanda Deigan: yeah, so that first bullet point under the what are the needs? That was in reference to an experience that Saudi had, and she was a tutor for a student who spoke a language
+
+405
+00:58:06.470 --> 00:58:16.610
+Amanda Deigan: that she didn't speak. and so she needed to find a way to translate what she was saying into the language that student needed
+
+406
+00:58:16.620 --> 00:58:24.790
+Amanda Deigan: or understood. And then, once that happened, the student could not read it on Google, classroom or on glue classroom, Google translate. And so
+
+407
+00:58:24.930 --> 00:58:39.740
+Amanda Deigan: the need there was to have a software that not only translated written word, but tr like int0 0ther written word in another language, but also to translate it into spoken words. So that if a student is too young to read or cannot read, yet regardless of age
+
+408
+00:58:39.790 --> 00:58:43.400
+Amanda Deigan: that way, that that tool becomes useful
+
+409
+00:58:43.590 --> 00:58:47.650
+Amanda Deigan: because it became like, not useful when she realized the student couldn't read it.
+
+410
+00:58:48.250 --> 00:58:54.800
+Amanda Deigan: So that was the context behind that point.
+
+411
+00:58:55.340 --> 00:58:58.010
+Amanda Deigan: And like compiling our information.
+
+412
+00:58:58.080 --> 00:58:59.400
+Danny Cheng: cool thanks.
+
+413
+00:59:00.510 --> 00:59:02.550
+Brian Beatty: Okay. Questions from the rest of you.
+
+414
+00:59:03.050 --> 00:59:05.750
+Linda Steven, Adam Dalton.
+
+415
+00:59:11.500 --> 00:59:14.490
+Brian Beatty: do any of these? Would you consider them emerging
+
+416
+00:59:14.540 --> 00:59:31.760
+Brian Beatty: like, for example, the docusign for file, transferring Danny that this is your world. Really, would you consider this emerging in an emerging technology at our campus, Though I think our campus, a lot of the promise offices are have been using docusign. And
+
+417
+00:59:31.830 --> 00:59:45.670
+Danny Cheng: but you know there is some things like our office. We're still trying to look into it to see whether for, like it's really a good fit for some of the documents.
+
+418
+00:59:45.720 --> 00:59:53.890
+Danny Cheng: And as a State there was a time period that we had a lot of fishing emails, and we have seen, like their fishing emails. That's basically
+
+419
+00:59:54.040 --> 01:00:08.270
+Danny Cheng: copy symbols or like images from like emails we might have seen for of just frequently
+
+420
+01:00:08.460 --> 01:00:18.680
+Brian Beatty: our perspective. Yeah, it it. It's this is a very interesting thing. This is a huge educational system. We have here right San Francisco State, administratively quite complex.
+
+421
+01:00:18.830 --> 01:00:35.000
+Brian Beatty: and also relatively decentralized. In some ways. For example, the use of docusign docusign's been on campus for quite a number of years. Now a trickle to start, and more and more. I I see more and more phones, but I still know there are a lot of forms out there that are not being used with docusign
+
+422
+01:00:35.000 --> 01:00:45.720
+Brian Beatty: docusign as a service, and as a company as a software platform has been around, for I don't know how long, but i'd have to say at least, a decade and probably longer.
+
+423
+01:00:46.360 --> 01:01:01.510
+Brian Beatty: and then the fact that it's still emerging in some of the units here on San Francisco state says a lot about. I think it says a lot more about the way we govern it on our campus than it does about the quality of the docusign product product.
+
+424
+01:01:02.470 --> 01:01:05.150
+Brian Beatty: That may be an editorial comment. But
+
+425
+01:01:05.230 --> 01:01:18.620
+Brian Beatty: yeah, that that that if you don't, if you don't use it as a unit, you don't know how to put forms into it. You don't know what the what, the what the strengths are, what the caveats are, what the cautions are for using it. So it would still be emerging. How about this? Google translate.
+
+426
+01:01:19.640 --> 01:01:23.580
+Brian Beatty: You know the with the spoken in particular. I've just been exploring with that
+
+427
+01:01:23.640 --> 01:01:24.940
+myself.
+
+428
+01:01:26.180 --> 01:01:28.290
+Brian Beatty: I'm pretty impressed in general.
+
+429
+01:01:28.740 --> 01:01:34.500
+Amanda Deigan: Yeah, I feel like that's at least in my world like that's definitely something that's emerging, because
+
+430
+01:01:34.760 --> 01:01:45.560
+Amanda Deigan: I like early for me like I went to Spain last year, and I don't know.
+
+431
+01:02:02.680 --> 01:02:14.730
+Brian Beatty: Yeah.
+
+432
+01:02:15.650 --> 01:02:32.460
+Brian Beatty: there have been apps around for a while that you could do this. You could train even for your own voice. These are I don't. I don't remember exactly what they were not Google translate. But there were other apps you could pay for, and you could basically have it do that kind of translation for you, and actually be a you know it could listen to your voice
+
+433
+01:02:32.460 --> 01:02:48.690
+Brian Beatty: and speak it out in another language and in and that kind of thing. I never bought it, because I didn't really have a specific need for it. So I imagine the technology has just gotten better, especially with the advancements in that artificial intelligence kind of engines to support this.
+
+434
+01:02:48.700 --> 01:02:54.230
+Brian Beatty: But I'm. I've been impressed with my little dabbling with it just in the last, you know, last couple of months or so.
+
+435
+01:02:55.610 --> 01:02:57.860
+so I would say it's certainly emerging still
+
+436
+01:02:57.900 --> 01:03:09.490
+Brian Beatty: in many ways, especially in education. I mean we don't, do we don't really teach a lot with foreign languages in regular classes. In most of our schools in this country. in most schools, at least.
+
+437
+01:03:09.970 --> 01:03:23.610
+Brian Beatty: individual like private schools can do, could do what they want. But, like the public school system, I think pretty much. Every State is a unless it's a special specific class. It's pretty much English, only instruction. I think, isn't it even in California.
+
+438
+01:03:25.610 --> 01:03:26.400
+Brian Beatty: So
+
+439
+01:03:26.500 --> 01:03:37.840
+Brian Beatty: what happens when these translators become so popular that kids can actually get away with not learning English, at least not early learning English like we. We are expecting them to. What would that happen?
+
+440
+01:03:37.910 --> 01:03:39.510
+Brian Beatty: Would they be able to learn better?
+
+441
+01:03:41.220 --> 01:03:49.300
+Brian Beatty: Would it? Would it? You know, kind of d0 0ur democracy. So you imagine the the the political noise around stuff like this?
+
+442
+01:03:49.560 --> 01:03:56.480
+Brian Beatty: We're just talking about AI, but what about AI? Where the language doesn't have to be shared. Okay, what does that do? The cultural aspects?
+
+443
+01:03:56.520 --> 01:04:03.550
+Brian Beatty: Well, maybe people keep more of their their own culture. Maybe they don't assimilate in culture as much. I don't know consequences for all of them.
+
+444
+01:04:03.750 --> 01:04:04.660
+Brian Beatty: So
+
+445
+01:04:06.160 --> 01:04:12.200
+Brian Beatty: we're not here really here to kind of debate the the values that. But I do think that some of these technologies have potentially
+
+446
+01:04:12.410 --> 01:04:22.160
+Brian Beatty: significant impacts, and education is, would just be part of like this big thing going on. you know, in our in our systems.
+
+447
+01:04:24.640 --> 01:04:28.820
+Brian Beatty: Yeah, Think about that for a moment. All right. Thank you. Anything else from group one
+
+448
+01:04:30.520 --> 01:04:32.110
+Brian Beatty: Sadia anything to add.
+
+449
+01:04:34.340 --> 01:04:53.690
+Sadia Shaheed: No, I think, Amanda said what I was talking about. I worked with a Afghani family, and they they were pushed through speaking, and I don't understand, push to. So it was very difficult situation for me to like help her communicate in English.
+
+450
+01:04:55.920 --> 01:05:04.570
+Sadia Shaheed: So yeah, I was talking about that like how to help students who
+
+451
+01:05:04.790 --> 01:05:06.300
+Sadia Shaheed: So yeah.
+
+452
+01:05:06.490 --> 01:05:08.560
+Brian Beatty: it could be very useful.
+
+453
+01:05:08.830 --> 01:05:12.230
+Brian Beatty: Okay, let's g0 0n to group 2. Adam Dalton.
+
+454
+01:05:14.490 --> 01:05:32.890
+Adam Hill: Yeah, and we will go first, you know. Add in the teacher.
+
+455
+01:05:33.360 --> 01:05:51.190
+Adam Hill: Bio digital is a big one, or something also like zigo body, which is what dog brought up so like 3D images of the human body that make you know that reduce the need to have go to the dissection lab, if you on your campus that you can actually get a really good understanding of human anatomy by
+
+456
+01:05:51.540 --> 01:06:02.400
+Adam Hill: by the advances in 3D body imaging, and the way you can hide different parts of the body. You can view different pathologies through through through through 3 bodies is pretty cool. So
+
+457
+01:06:02.610 --> 01:06:11.310
+Adam Hill: that was something that that was building what you had said. That was one of the ideas I had come up with that. I I've been using before.
+
+458
+01:06:13.740 --> 01:06:18.210
+Adam Hill: And then, Dalton, you what you had something similar. Right?
+
+459
+01:06:19.840 --> 01:06:26.490
+Dalton Lobo Dias (he/him): Yeah, I mean, i'm not sure if many of the technologies I'm using now in teaching would be considered emerging.
+
+460
+01:06:26.650 --> 01:06:33.660
+But at the end of the day i'm the person of vets it. I am the person that that looks, searches for it, and it posts it.
+
+461
+01:06:33.840 --> 01:06:48.410
+Dalton Lobo Dias (he/him): So yeah, this page is where I've collected the best simulations and videos and articles for my students based on the product that we do. So right now. We're about to start electromagnetism. We've we're a few weeks into it now.
+
+462
+01:06:48.440 --> 01:06:54.290
+Dalton Lobo Dias (he/him): and this is kind of like a link farm type thing I you know I don't think it's great, but
+
+463
+01:06:54.440 --> 01:07:01.250
+Dalton Lobo Dias (he/him): it's a place where I can park a lot of content for myself and also for students. So if there's like, if we're learning about
+
+464
+01:07:01.360 --> 01:07:04.570
+magnetism, we can click on this fer of fluid link.
+
+465
+01:07:04.700 --> 01:07:10.610
+Dalton Lobo Dias (he/him): Oh, and by the way, I would access this with my paid Google premium account, so that
+
+466
+01:07:10.730 --> 01:07:21.690
+Dalton Lobo Dias (he/him): the students wouldn't get distracted by the AD. Of course. And then yeah, and so I I put links in there with simulations and videos and articles.
+
+467
+01:07:21.760 --> 01:07:24.850
+And so also it's a place where
+
+468
+01:07:25.240 --> 01:07:33.370
+Dalton Lobo Dias (he/him): it it. It also allows for differentiation. Right. So for students who are more advanced, who do want something a little spicier. It's it's in there
+
+469
+01:07:33.390 --> 01:07:36.330
+if they want to do some something self-paced.
+
+470
+01:07:36.450 --> 01:07:43.050
+Dalton Lobo Dias (he/him): and a lot of you know pretty much. Everything is on me. I'm the one that's finding the links. I'm the one that's repairing the links. If they're broken.
+
+471
+01:07:43.060 --> 01:07:44.850
+Dalton Lobo Dias (he/him): or if they're no longer supported.
+
+472
+01:07:44.920 --> 01:07:52.140
+Dalton Lobo Dias (he/him): and i'm the one that's aggregating things. So. But you know, I do realize that putting them all into a Google Doc
+
+473
+01:07:52.900 --> 01:07:56.990
+Dalton Lobo Dias (he/him): is not super fancy or flashy, but it gets a job done
+
+474
+01:07:57.380 --> 01:08:03.510
+for myself and students, and there's no login required right there's no nothing. So it's just a Google Doc that's visible
+
+475
+01:08:03.600 --> 01:08:04.510
+Dalton Lobo Dias (he/him): by
+
+476
+01:08:04.560 --> 01:08:10.110
+Dalton Lobo Dias (he/him): anybody with the link. So you know again you get the job done. It's not super sleek.
+
+477
+01:08:10.200 --> 01:08:11.690
+Dalton Lobo Dias (he/him): but it is what it is.
+
+478
+01:08:12.050 --> 01:08:24.770
+Brian Beatty: Well, you know. 30 years ago I was a physics teacher. and I had. I was the first one to put websites up at our school, and one of my first sites I built was basically a physics website for my for my glass.
+
+479
+01:08:24.930 --> 01:08:30.859
+So the fact that you're just using a you know, a a web page essentially to to add links.
+
+480
+01:08:30.950 --> 01:08:32.609
+Brian Beatty: certainly not emerging.
+
+481
+01:08:32.819 --> 01:08:34.960
+I don't think
+
+482
+01:08:36.080 --> 01:08:44.189
+Brian Beatty: it is. You know the specific things that you're finding here for your students are really helpful for them. Yeah, is it emerging?
+
+483
+01:08:44.560 --> 01:08:50.060
+Brian Beatty: I don't know. Maybe maybe it's not. But maybe it is because maybe people don't do this anymore.
+
+484
+01:08:50.939 --> 01:09:06.700
+Brian Beatty: You know we're just a lot of people are. Instead of putting all this, you know, a collection of links together. What do we do? We go to Google or Bing, or something like that, and do a search and boom. There's our web page that comes up, and there's all the links we're going to pick from, you know typically not curated very well, and not the way we would do it.
+
+485
+01:09:06.970 --> 01:09:10.200
+Brian Beatty: Yeah, we g0 0, yeah, that one I like and and g0 0n to that.
+
+486
+01:09:12.779 --> 01:09:16.790
+Brian Beatty: I think this is cool stuff, of course. having taught some of this myself.
+
+487
+01:09:18.140 --> 01:09:26.260
+Brian Beatty: and there's a lot of I mean the animations and the the kinds of things you can find these days are just a pretty fascinating emerging. I don't know
+
+488
+01:09:26.420 --> 01:09:28.430
+Brian Beatty: for some of us, probably. Yes.
+
+489
+01:09:28.609 --> 01:09:44.729
+Brian Beatty: I haven't really thought about that, you know, using things like that, and for others who who are kind of in the field where this stuff has been around for a while well not not emerging. I've never built it, but I I have used it with with students it means it kind of the idea of using simulated labs, too.
+
+490
+01:09:44.740 --> 01:09:50.180
+Brian Beatty: lab simulations rather than physical lab environments for science, classes and things like that
+
+491
+01:09:50.310 --> 01:10:03.660
+Brian Beatty: new not really, but for some of us. Yeah. Totally new, because we've never done it before. We never had the resource, the the body, the 3D body. Do you remember when the first kind of a 3D model became available through the the slices.
+
+492
+01:10:03.860 --> 01:10:19.830
+Brian Beatty: you know, that was a class quite a while ago, I believe, at least at least in Internet. Time, quite a while ago. And that was pretty fascinating. You know, when that became available for people to actually use the technology has gotten.
+
+493
+01:10:20.000 --> 01:10:26.660
+Brian Beatty: I mean the representation just pretty fantastic. Nothing like it was before. So
+
+494
+01:10:31.480 --> 01:10:41.410
+Dalton Lobo Dias (he/him): schools hiring like a consultant or some kind of aggregator. you know. Team of people like, hey? Okay, we're going to do a study on
+
+495
+01:10:41.550 --> 01:10:50.190
+Dalton Lobo Dias (he/him): the great. You know the the big civilizations in the world like. Can you give us a set of simulations? VR. Field trips right like this could be
+
+496
+01:11:07.230 --> 01:11:24.550
+Brian Beatty: like a librarian's helper. Who's Who's a You know, a contact to do those kinds of projects
+
+497
+01:11:24.550 --> 01:11:29.530
+Brian Beatty: my team, like pre generated content
+
+498
+01:11:29.580 --> 01:11:39.050
+Adam Hill: like is that like going into the library's website where you would have that access. And we were just thinking about the ways that it can be hard for teachers to.
+
+499
+01:11:39.730 --> 01:11:47.780
+Adam Hill: and or any subject matter expert to be that subject matter expert. But then, like all that, knowledge is still like a huge barrier for them, because that
+
+500
+01:11:47.810 --> 01:12:00.350
+Adam Hill: it's really expensive to get that whether that might be a textbook or or what they can't just like, take their take their their students word for it like this is this is what I know that
+
+501
+01:12:00.670 --> 01:12:17.880
+Brian Beatty: one of the huge well, obviously one of the biggest problems we have with the wealth of information we have available, is indexing and finding what we need when we need it. It's kind of like a memory, right? Your memory is incredibly tuned to do that. But when your memory starts changing right. Maybe when you get a little older
+
+502
+01:12:17.880 --> 01:12:25.810
+Brian Beatty: that becomes that's what people really struggle with is indexing and getting queuing and finding that you know you know something, but you can't get to it.
+
+503
+01:12:26.070 --> 01:12:40.730
+Brian Beatty: That's the that's the frustration. I think that a lot of a lot of people have with the the wealth of information we have available. We know there's some information out there, but I don't how I don't know how to get to it and just doing Google searches is a really that's a really blunt tool.
+
+504
+01:12:40.730 --> 01:12:47.740
+Brian Beatty: you know. Maybe the chat chat, Gpt stuff will be helpful for that. But we've seen that maybe maybe not.
+
+505
+01:12:48.220 --> 01:12:55.000
+you know, based on what the the data we've been or the results will be again so far. But if we could get that answer.
+
+506
+01:12:57.240 --> 01:13:04.860
+Brian Beatty: Yeah, that would be wonderful access to information right when you, when you need it at the right time, is just it's golden right.
+
+507
+01:13:06.070 --> 01:13:09.070
+Anything else in here? Let's see
+
+508
+01:13:09.400 --> 01:13:14.950
+Brian Beatty: the vetting. Someone else has done that. Not that Don't know who, Probably not being done.
+
+509
+01:13:16.260 --> 01:13:18.190
+Brian Beatty: maybe not being down. Who knows?
+
+510
+01:13:20.900 --> 01:13:29.480
+We also talked about like, Who's the burden. Who's burden? Is it to vet? Because it can be a huge burden on teachers? But they are the front lines and the ones you really using it
+
+511
+01:13:30.500 --> 01:13:42.020
+Adam Hill: typically, then, like the people further away, are the one further away from students are often vetting it. But then you're just as a teacher. You're just given something that you might not actually be very useful.
+
+512
+01:13:42.140 --> 01:13:51.200
+Brian Beatty: Yeah. Why, I yeah, what? I don't know what the law says. However, I would think that whoever's making the choice to adopt and use something
+
+513
+01:13:51.460 --> 01:14:00.330
+Brian Beatty: probably has has frontline call to build or re, I guess. Accountability for doing that or making sure it's been done by someone else.
+
+514
+01:14:00.520 --> 01:14:10.670
+Brian Beatty: When teachers have a choice to use technologies or not, they're making that choice, and so that's a volitional choice. And if there, if it's putting students at risk, and if there is some sort of harm done.
+
+515
+01:14:10.680 --> 01:14:18.350
+Brian Beatty: then you would think that the you know that would be one place where where someone could be held accountable. But you made that choice.
+
+516
+01:14:18.820 --> 01:14:37.700
+Brian Beatty: Didn't know if it was safe for students. Well, that's that's that's bad on you. You should have done that someone should have made sure. You knew that that was important, and the administrator of the schools probably. Well, we got this, you know this blah blah blah thing that signed by the teachers saying, yeah, we've gone through this training, and we understand that you know
+
+517
+01:14:37.700 --> 01:14:53.560
+Brian Beatty: you know damage, security, privacy, and all that. And yet there is some I'm sure there is some umbrella liability policy for teachers in general which makes it a school then, or a school system responsibility, and then they would be the ones who held accountable, and that would probably be where it would go anyway.
+
+518
+01:14:54.340 --> 01:15:08.790
+Brian Beatty: Means teachers would have to be, I think, pretty far out of the lines, from what the school expectations would be for them to be completely exposed in that sense. in in in our institution higher. LED: Typically, what we're concerned with are not about
+
+519
+01:15:09.140 --> 01:15:13.430
+Brian Beatty: individual harms for students or things like that it's really about exposing data.
+
+520
+01:15:13.800 --> 01:15:28.450
+Brian Beatty: right? When someone's using a system, and somehow they get access. The system gets that they get access to sensitive data or stuff. That's Pi I. In some way personally identifiable information, and it gets exposed on the Internet. And then there's a per like a per record charge
+
+521
+01:15:28.490 --> 01:15:34.050
+Brian Beatty: that that typically institutions are held that there could find huge fines.
+
+522
+01:15:34.660 --> 01:15:42.310
+Brian Beatty: millions of dollars of fine. So which is why the University has assurance. and the Csu has insurance to pay basically pay for that.
+
+523
+01:15:43.430 --> 01:15:50.610
+Brian Beatty: And then those insurance requirements. Then start dictating some of our requirements around the systems that we can use
+
+524
+01:15:51.000 --> 01:15:52.000
+Brian Beatty: because of risk.
+
+525
+01:15:53.590 --> 01:16:02.940
+Brian Beatty: Okay, didn't mean to go there. But that's an that's a that's a consideration with all of these kinds of technologies. When you're looking at using more and more interesting kinds of data.
+
+526
+01:16:03.000 --> 01:16:11.340
+Brian Beatty: Yeah, think about biometric data. Hmm. There's a big bucket with that. Let's g0 0n a group 3
+
+527
+01:16:14.420 --> 01:16:26.650
+Stephen Cadette: i'm When i'll, i'll go ahead. We both are in careers where I don't think there's much that we're doing this really in our J. So
+
+528
+01:16:27.040 --> 01:16:33.400
+Stephen Cadette: for for my students they're doing some things this year for the first time.
+
+529
+01:16:33.650 --> 01:16:39.930
+Stephen Cadette: But that's not really emerging to have their own laptops, and my students are using a tool
+
+530
+01:16:40.270 --> 01:16:47.420
+Stephen Cadette: pretty frequently that not a lot of other teachers have adopted. and you could maybe make an argument that's
+
+531
+01:16:47.590 --> 01:16:49.560
+Stephen Cadette: emerging
+
+532
+01:16:50.880 --> 01:16:54.150
+Stephen Cadette: the tool that we're using happens to be
+
+533
+01:16:54.740 --> 01:17:01.130
+Stephen Cadette: sanctioned by the it department. In other words, they've They've reviewed it. They've.
+
+534
+01:17:02.310 --> 01:17:13.490
+Stephen Cadette: they've accepted it, and in order for students to use it, they do have to sign in. but they sign. In using their school accounts they can't sign in, not without using a school account.
+
+535
+01:17:13.650 --> 01:17:21.380
+Stephen Cadette: And it's it. It reminds me of like back in the day where people were being zoom bombed because
+
+536
+01:17:22.260 --> 01:17:28.810
+Stephen Cadette: people could just join anonymously. And so there is a safety and privacy to an automated. But there's also a liability.
+
+537
+01:17:28.860 --> 01:17:34.180
+Stephen Cadette: And when I, when my students sign in to
+
+538
+01:17:34.230 --> 01:17:37.500
+Stephen Cadette: the app that i'm using. I can then
+
+539
+01:17:38.120 --> 01:17:40.130
+Stephen Cadette: collect data
+
+540
+01:17:40.160 --> 01:17:47.130
+Stephen Cadette: that's useful to me, which I can't do if it's anonymous, I mean, I can kind of like with ment meter, you know you can get a sense of
+
+541
+01:17:47.270 --> 01:17:49.020
+Stephen Cadette: where the class is at.
+
+542
+01:17:49.110 --> 01:17:52.090
+Stephen Cadette: but I you know I wouldn't know
+
+543
+01:17:52.260 --> 01:18:03.060
+Stephen Cadette: who specifically to help. You know, Linda has. Oh, like like me, we're not using anything particularly emerging. But
+
+544
+01:18:03.740 --> 01:18:10.570
+Stephen Cadette: Linda is using tools through the software. That she has that's really useful
+
+545
+01:18:10.760 --> 01:18:15.550
+for finding the actual employees.
+
+546
+01:18:16.700 --> 01:18:23.230
+Stephen Cadette: and she also has a a program that makes
+
+547
+01:18:23.270 --> 01:18:30.900
+Linda Kim: basically mooc. If if I understand this correctly, please correct me, i'm wrong, Linda.
+
+548
+01:18:31.030 --> 01:18:42.690
+Stephen Cadette: it it. So this this program takes information from a coworker, and Linda creates a like a training program.
+
+549
+01:18:58.300 --> 01:19:25.780
+Linda Kim: So i'm sorry. So software, where you can make your a learning courses. This is simply put in the way. So what I I told Steven was I, you know. Sometimes I work with the contractors as a freelancing that they will give me their existing Powerpoint formatted training courses. And then to to tell me to put this in, create, turn this into rice course. And then, so I basically kind of cut me a piece of content.
+
+550
+01:19:25.800 --> 01:19:41.490
+prettier no way. So so a lot of the like lengthy learning courses are done via rice, or maybe our rice, or in you had a course U.S.A. or coursera ones, or one like that, too. So that's the one I think
+
+551
+01:19:41.850 --> 01:19:56.810
+Linda Kim: I mean, I guess instructional technologies standpoint and rise to this. Is not that emerging, but it it's been around for a bit, and then a lot of people are using it. But to me, who, as a somebody who's kind of getting into that field I thought it was. It was very
+
+552
+01:19:56.980 --> 01:20:17.420
+Linda Kim: brilliant tool for me to start learning and using it. And then to that point, Steven, you were saying that having a one on like each student having laptop, is not that emerging. But to me, as somebody who graduated high school in 2,007, that's pretty damn emerging. So I thought I, it's like I think it was kind of perspective being, too.
+
+553
+01:20:17.430 --> 01:20:25.490
+Linda Kim: So in the Google classroom thing. So I thought that was pretty cool to learn how. Now these students get to use technologies to learn and everything.
+
+554
+01:20:25.530 --> 01:20:27.090
+Linda Kim: So yeah.
+
+555
+01:20:28.650 --> 01:20:37.550
+Brian Beatty: okay. yeah, Rice has been been around for a while, and the functionality of the e-learning development software has been out, for you know quite a quite a long time.
+
+556
+01:20:37.690 --> 01:20:54.410
+Brian Beatty: I remember the days when we had the everything was done by hand, and this is so much better you can do so much more. But you are also. You also look kind of limited to the rise, the limits on their creativity, and what they'll what they'll support. I thought it was interesting. They you you compared it to a mooc.
+
+557
+01:20:54.410 --> 01:21:11.900
+Brian Beatty: because the people who work for mooc companies right would probably say moocs are different than in learning. And yet when I first heard about moocs, and I think 2007 0r so I thought this in this isn't this e-learning where it's both mostly, you know. Not very interactive. That's not really facilitated it's
+
+558
+01:21:11.900 --> 01:21:19.400
+Brian Beatty: great information to some in interactivity, perhaps or maybe discussions, maybe not just great, really great content.
+
+559
+01:21:19.480 --> 01:21:21.340
+and then
+
+560
+01:21:21.410 --> 01:21:32.990
+Brian Beatty: and then but it but it was mostly what I would call independent, self-paced kind of learning. Environment. So I know they've changed somewhat in some some ways, and become a lot more specific. So.
+
+561
+01:21:33.700 --> 01:21:36.740
+Brian Beatty: anyway, I thought that was. I just have to smile when I heard that.
+
+562
+01:21:41.230 --> 01:21:41.870
+Linda Kim: Yep.
+
+563
+01:21:42.210 --> 01:21:58.010
+Linda Kim: that's what we basically kind of talked about. And we kind of also kind of talked about what in these areas improvements, even to point out like the security things that they have to go through. And then
+
+564
+01:21:58.020 --> 01:22:02.610
+Linda Kim: my issue was, or for Linkedin. I just put better work.
+
+565
+01:22:02.610 --> 01:22:26.550
+Linda Kim: Fill keyword function, applied. Linkedin recruiter is, if you don't know, linkedin recruiter is a a tool that recruiters use. Only you have to pay for it
+
+566
+01:22:26.670 --> 01:22:32.030
+Linda Kim: so. But it could use a lot more work on in terms of better keyword filtering.
+
+567
+01:22:32.560 --> 01:22:39.820
+Linda Kim: So that's like good.
+
+568
+01:22:40.090 --> 01:22:50.140
+Linda Kim: and then rice 362 it's it's great, but like it doesn't give you a whole lot of freedom to be very creative to it. It has a limitation on certain functions.
+
+569
+01:22:51.100 --> 01:22:52.710
+Linda Kim: I think you're on mute.
+
+570
+01:22:56.700 --> 01:22:58.120
+Linda Kim: Oh, you're still on mute.
+
+571
+01:23:01.810 --> 01:23:02.750
+Linda Kim: There you go.
+
+572
+01:23:02.950 --> 01:23:04.250
+Brian Beatty: Okay, Thank you.
+
+573
+01:23:04.410 --> 01:23:08.330
+Brian Beatty: That's why you kept talking when I was when I was trying to talk over you.
+
+574
+01:23:09.720 --> 01:23:13.370
+Brian Beatty: Linkedin learning, I think, is a good example of a system that
+
+575
+01:23:13.420 --> 01:23:26.280
+Brian Beatty: we mo most of us use for free. Nope. Most of us don't pay for that, or some, you know, at least my most of people. I know that I have talked to Don't pay for anything in the advanced services. And yet we're providing
+
+576
+01:23:26.280 --> 01:23:40.880
+Brian Beatty: the data that linkedin then gets to sell t0 0thers basically to recruiters in this in this sense. And there's probably other ways They're monetizing this. And so we're we're we're kind of paying with our data. We're giving them a valuable resources, and they can do that. And everybody knows that.
+
+577
+01:23:40.900 --> 01:23:50.850
+Brian Beatty: And actually a lot of people on linkedin They don't mind, because maybe everyone on there is sort of always looking for a job, you know. Is there something better out there? You know that kind of thing so well.
+
+578
+01:23:51.210 --> 01:23:55.100
+Brian Beatty: Yet I I bet n0 0ne's ever read that in the document.
+
+579
+01:23:56.030 --> 01:24:06.210
+Linda Kim: Yeah, Probably not. I think it linked it as a pro platform for for people to be discovered.
+
+580
+01:24:06.230 --> 01:24:21.980
+Brian Beatty: That's right. It's it's a it's a networking environment, and you network because you know part of it's to to share and to take advantage of opportunities. All right. Thank you. Any Any comments or other questions or comments from some of anyone else on this.
+
+581
+01:24:26.780 --> 01:24:33.180
+Adam Hill: I was just thinking when we think about like the prompt around like accessing content. And that's what we're talking about. I
+
+582
+01:24:33.410 --> 01:24:40.480
+Adam Hill: one of the things that I think is still kind of a need is that, like you know, a lot of the links that you provided here around like different, like.
+
+583
+01:24:40.580 --> 01:24:41.580
+Adam Hill: you know, like
+
+584
+01:24:41.670 --> 01:24:46.090
+Adam Hill: 3D interactive multimedia models like virtual field trips. There's
+
+585
+01:24:46.620 --> 01:24:50.190
+Adam Hill: sometimes it's hard to make as an instructor to make that active learning, like
+
+586
+01:24:50.720 --> 01:25:02.120
+Adam Hill: students might just like click around and do something, or you like. Give them some prompts and some Sometimes those prompts are more just like, Did you find the thing? And it almost becomes like a scavenger hunt. So I
+
+587
+01:25:02.130 --> 01:25:06.030
+Adam Hill: How do you make those content accessing accessing tools really like a
+
+588
+01:25:06.330 --> 01:25:15.520
+Brian Beatty: an active learning experience? Or students are like getting to higher levels of thinking.
+
+589
+01:25:33.260 --> 01:25:48.080
+Brian Beatty: And basically it was. Go to this site, find this information out, you know. You know, blah blah blah do something with that, maybe maybe write some. You know what it what I don't know what you would do me for. Find this blob about. Go to another site. Do this there
+
+590
+01:25:48.150 --> 01:25:54.510
+Brian Beatty: and then that's this part of the little project doing. Then go to this other site. So you might go through a series of projects, kind of touring them
+
+591
+01:25:54.550 --> 01:26:11.270
+Brian Beatty: through the web to create this, to to finish this quest, and maybe the quest is to come up with an a, an explanation of why something happened, or to understand some historical thing, or whatever it might be. But there was. It was a big thing. As a matter of fact, Bernie Dodge is San Diego State
+
+592
+01:26:11.400 --> 01:26:29.280
+Brian Beatty: made a career out of this for like 20 years wrote: I think you brought a book on, and everything it's called a Web quest. If You've never! You never explored a web quest, or if you, if that was something you heard about in the ancient history of the Web you haven't export. You might take a look at that, because that that that's what comes to mind with some of these sites.
+
+593
+01:26:29.280 --> 01:26:37.150
+Brian Beatty: Yeah, you wouldn't just send them to the said, oh, just go play around unless that's all you really wanted them to do. What are the possibilities? Let's say you're gonna go somewhere with them
+
+594
+01:26:37.150 --> 01:26:50.580
+Brian Beatty: like to a museum, maybe a local museum, and they have a virtual tour available. Well, here's a link, you know. Your assignment for tonight is to go home and explore this for 20 0r 30 min, and to find 3 things that you want to see when we actually go there.
+
+595
+01:26:50.580 --> 01:26:57.760
+Brian Beatty: or or something like that, to give them the the. But the point is that you can do that kind of thing at these web at these sites.
+
+596
+01:26:57.980 --> 01:27:08.880
+Brian Beatty: And so this is where you. This is the instructional preparation You Here's a link. You access this information, and here's what you do with it. and then you go here, and then you do this with that? Those kinds of things that would be.
+
+597
+01:27:08.900 --> 01:27:20.790
+Brian Beatty: That would be the thing to do rather than I. I send. I I tend to give you a lot of links and things, because I know that, you know, you guys typically know how to explore. And you know what you're looking for, kids. Not so much necessarily.
+
+598
+01:27:21.030 --> 01:27:27.250
+Brian Beatty: you know. If they are being. if they have to go somewhere, they may just go there and not know what to do unless you tell them what to do.
+
+599
+01:27:29.340 --> 01:27:34.380
+Brian Beatty: so that might be an approach I was. I've been I was. I was looking for my chat window
+
+600
+01:27:35.350 --> 01:27:40.060
+Brian Beatty: just so I could spell web quest for you, W. E. To.
+
+601
+01:27:40.290 --> 01:27:44.490
+Brian Beatty: Well, they probably used to have a website, too. I don't know if it still does. Web Quest.
+
+602
+01:27:46.120 --> 01:27:52.400
+Brian Beatty: Yeah, I think I think Bernie Dodge is not retired. He's his hair is wider than mine. So
+
+603
+01:27:52.590 --> 01:28:05.280
+Brian Beatty: okay, well, thank you for the conversation. There that was really interesting for those of you who are watching online. In the recording you will find that there is a group for, and this is gonna be for asynchronous learners.
+
+604
+01:28:05.980 --> 01:28:11.450
+Brian Beatty: You can all be part of the same big group. and so you can add your notes to
+
+605
+01:28:11.500 --> 01:28:18.520
+Brian Beatty: this this last group for, and make sure you add your names as well. I'm gonna actually say add your names.
+
+606
+01:28:18.700 --> 01:28:30.300
+Brian Beatty: So if you get to this part of the recording or the transcript, i'll speak very clearly for the transcript. Please go to the shared Bo breakout notes, page, and add your contribution to it. Group 4
+
+607
+01:28:30.450 --> 01:28:31.300
+Brian Beatty: All right
+
+608
+01:28:31.350 --> 01:28:48.130
+Brian Beatty: Now for the rest of us as we wrap up real quickly. What are we going to be doing? The discussion Forum actually changed the prompt a little bit to focus more on. Think technologies that we would consider emerging or emerging. Ish.
+
+609
+01:28:48.140 --> 01:28:57.590
+Brian Beatty: right? So think about the technologies that you are using now that are new to you. or or what you would consider. You know i'm just kind of i'm still learning how to do this
+
+610
+01:28:57.610 --> 01:29:00.920
+Brian Beatty: to me that still kind of fits within our our big
+
+611
+01:29:00.930 --> 01:29:14.660
+Brian Beatty: envelope inside the big tent of emerging technologies. But if you don't have any technologies like that like I heard from some of you tonight not really doing anything new, No new technologies. I'm: pretty comfortable with what I'm using. Then think about the next technology you might want to explore
+
+612
+01:29:14.790 --> 01:29:29.070
+Brian Beatty: and take this as an opportunity to start dabbling around with that, because in 2 weeks I think it's in 2 weeks you get a chance to talk about any more and a a technology that is what you would consider emerging for you, and how you might apply it with your students.
+
+613
+01:29:29.610 --> 01:29:30.540
+Brian Beatty: Okay.
+
+614
+01:29:30.860 --> 01:29:32.960
+Brian Beatty: So you can start that. Now.
+
+615
+01:29:33.010 --> 01:29:42.140
+Brian Beatty: with this discussion. This is about content. Once once again accessing content. That's not really creating content. Next week we'll take a same similar approach, and we'll talk about
+
+616
+01:29:42.360 --> 01:29:45.740
+Brian Beatty: content creation. You, having students, create content
+
+617
+01:29:45.820 --> 01:29:54.630
+Brian Beatty: students, as you know, consumers. You may have heard that term before, where they're producing content as well as perhaps consuming content. Oftentimes when students create content
+
+618
+01:29:54.860 --> 01:30:07.290
+Brian Beatty: their effect, we're actually asking them to create content, so that other students can learn from what they're creating. That's what we do in this class all the time. Hope you recognize that that's where we're going. That's what we talk about next week.
+
+619
+01:30:08.730 --> 01:30:10.220
+Brian Beatty: Are there any questions?
+
+620
+01:30:15.610 --> 01:30:23.980
+Brian Beatty: Okay? I waited my 5 s. I don't hear any questions, so i'm gonna pause them. So i'm gonna stop the recording, and i'll see you online in the Forum
+
+621
+01:30:24.390 --> 01:30:29.710
+Brian Beatty: and als0 0nline next week. Live or you hope. back here. Wednesday night.
+

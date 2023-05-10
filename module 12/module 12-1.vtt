@@ -1,0 +1,2978 @@
+WEBVTT
+
+00:00:14.000 --> 00:00:15.000
+This week, we're gonna focus more on the adaptive assessment.
+
+00:00:15.000 --> 00:00:24.000
+And essentially the use of AI in assessment as part of that.
+
+00:00:24.000 --> 00:00:39.000
+Last week we talked more about some classic ideas about assessment, and as a way of starting I wanted to look back through the discussion just a little bit, because, as I've only I didn't get a chance to get in there much today or yesterday, and so I know there was a lot of action
+
+00:00:39.000 --> 00:00:44.000
+in there after Monday. Looks like a lot of busy people today.
+
+00:00:44.000 --> 00:00:52.000
+So what I like to do is see who's here, who has a post in that that I haven't had a chance to comment on yet.
+
+00:00:52.000 --> 00:00:57.000
+So we have, Steven and Amanda not here, or at least not yet.
+
+00:00:57.000 --> 00:01:03.000
+Tony. Not here yet. Mostly asynchronous, typically users.
+
+00:01:03.000 --> 00:01:07.000
+That's good. Saadiah. I haven't had a chance, I think, to even look at yours.
+
+00:01:07.000 --> 00:01:08.000
+I I wanna say that you you use graphics pretty nicely in these posts.
+
+00:01:08.000 --> 00:01:14.000
+Yeah, look like blog posts to me sometimes. And I appreciate I appreciate the effort you put into that.
+
+00:01:14.000 --> 00:01:18.000
+Thank you so much. I was great, actually.
+
+00:01:18.000 --> 00:01:22.000
+Yeah, yeah, so, so I just wanted to give you a chance to.
+
+00:01:22.000 --> 00:01:31.000
+You're talking about. VR, AI, ml machine learning kind of the new directions for assessment and learning.
+
+00:01:31.000 --> 00:01:36.000
+Looks pretty psychedelic over here.
+
+00:01:36.000 --> 00:01:46.000
+Yeah. So this, I guess the child on the right is in the VR space, and the person on the left is an AR space. I think right.
+
+00:01:46.000 --> 00:01:47.000
+Yes.
+
+00:01:47.000 --> 00:01:56.000
+Yeah, so how do you think that changes assessment?
+
+00:01:56.000 --> 00:02:00.000
+Can we do things differently with AR and VR in assessment?
+
+00:02:00.000 --> 00:02:04.000
+Then we can do just with regular kind of like, whatever you want to call flat file assessment.
+
+00:02:04.000 --> 00:02:13.000
+So I think the environment, especially for the like a students point of view, like the environment, they're getting like, I used to in my biology class, I have to do everything on page and paper.
+
+00:02:13.000 --> 00:02:20.000
+I never imagined like having something in front of me.
+
+00:02:20.000 --> 00:02:27.000
+A sale, or something like in a 3D version floating in front of me, so I never imagined that.
+
+00:02:27.000 --> 00:02:29.000
+But it's it's very normal for now students who are learning.
+
+00:02:29.000 --> 00:02:38.000
+So I think it makes a huge difference.
+
+00:02:38.000 --> 00:02:41.000
+Yeah, I just put into the chat. I just Khan Academy.
+
+00:02:41.000 --> 00:02:45.000
+You may be familiar with, and they do a lot of online training essentially.
+
+00:02:45.000 --> 00:02:51.000
+And, you know, started out with lots of simple class support, and have gotten pretty big on that.
+
+00:02:51.000 --> 00:02:57.000
+And they talk about personalizing learning. I'm not sure exactly how much AI they use in their regular programming.
+
+00:02:57.000 --> 00:03:01.000
+They do adaptive, some adaptive content and practicing.
+
+00:03:01.000 --> 00:03:08.000
+I'm not sure about the testing, but they're also they're introducing this new AI powered tutor I think it's called.
+
+00:03:08.000 --> 00:03:15.000
+I'm not quite sure. But if you go to the website I'm sure it'll pop up they're they're marketing it, and you you can.
+
+00:03:15.000 --> 00:03:16.000
+Basically this, so students can ask questions. And then the system can kind of walk through through trying to find answers to it.
+
+00:03:16.000 --> 00:03:24.000
+Without just giving them the answer. Right? Maybe walking through the structure of well, here's how you would solve that problem.
+
+00:03:24.000 --> 00:03:43.000
+What would you do next? Kinda like things? A good, real tutor might do kind of the next step in what we might call intelligent tutoring systems, intelligent tutoring systems as a technology have been around for decades, and there's a lot written about them and and they kind.
+
+00:03:43.000 --> 00:03:52.000
+Of have shown up at various places in different ways. And so that's it's an example of some of this. It's not using virtual reality or augmented reality using VR and A, I'm sure you can do some different things right?
+
+00:03:52.000 --> 00:03:58.000
+Because you can have some different experiences, typically in assessment.
+
+00:03:58.000 --> 00:04:02.000
+What we're trying to do is give students some experience.
+
+00:04:02.000 --> 00:04:03.000
+Maybe it's just asking them a question or giving them a problem to solve.
+
+00:04:03.000 --> 00:04:22.000
+But it's an experience that at they can use to demonstrate their understanding in a way that we can see it in it, seeing it, seeing it just as a general see not necessarily visually seeing it, but seeing what they know, or helping us understand what they know so that we can provide some you know feedback and
+
+00:04:22.000 --> 00:04:23.000
+correction. Perhaps you know, maybe feedback and praise.
+
+00:04:23.000 --> 00:04:29.000
+Maybe just assessing how much they know, so that they can be sorted.
+
+00:04:29.000 --> 00:04:37.000
+If that's the function for assessment or advanced or not, lots of different things.
+
+00:04:37.000 --> 00:04:40.000
+It'll be interesting. I'm not. I haven't seen VR. And A.
+
+00:04:40.000 --> 00:04:41.000
+Are used in asses me yet, but I also haven't seen full instructional programs.
+
+00:04:41.000 --> 00:04:51.000
+In VR. And they probably do exist. There are people who are teaching in, you know, virtual spaces.
+
+00:04:51.000 --> 00:05:00.000
+Now, and have been, and and so I'm sure that some of this is actually being done.
+
+00:05:00.000 --> 00:05:04.000
+Anyone else have comments on that.
+
+00:05:04.000 --> 00:05:13.000
+I was just thinking about the more VR is used it kind of blends all the lines between engagement, assessment and instruction delivery cause.
+
+00:05:13.000 --> 00:05:25.000
+It kind of seems to happen all at once. You're like immersed in learning and then getting feedback as you're doing it and getting in engaged and assessed. And it rather than like in a lot of classroom environments where it's like production.
+
+00:05:25.000 --> 00:05:28.000
+Right? That's right. The days of just a kind of discrete buckets of instruction right?
+
+00:05:28.000 --> 00:05:38.000
+This is your content. This is your engagement, this is your assessment.
+
+00:05:38.000 --> 00:05:51.000
+You're right. I think those days are fastly kind of going by the wayside, for most of us, the more we blend other kinds of things like we're blending content and engagement through online tools when we talk about students producing content.
+
+00:05:51.000 --> 00:05:57.000
+Usually we're doing that in some engaging manner or through engagement activities to kinda draw it out from them.
+
+00:05:57.000 --> 00:06:04.000
+Give them an opportunity. Then, when we talk about using games or gamification, all that's kind of wrapping the stuff together.
+
+00:06:04.000 --> 00:06:09.000
+And if we have students doing interactions with content, why can't we put some assessment in their especially formative assessment to give them an idea how well they're learning?
+
+00:06:09.000 --> 00:06:15.000
+It's probably a really good idea.
+
+00:06:15.000 --> 00:06:24.000
+Kind of like real life. Other people used to learn before formal schools.
+
+00:06:24.000 --> 00:06:27.000
+Well by experience, and if they were trying to do something intentionally, it might have been, or probably often been, in some sort of apprenticehip.
+
+00:06:27.000 --> 00:06:35.000
+Even an informal imprenticeship. How did you learn?
+
+00:06:35.000 --> 00:06:36.000
+What's how to live your life. You follow the people who came before you right?
+
+00:06:36.000 --> 00:06:43.000
+The elders whether they're, you know, a family unit or just a community group.
+
+00:06:43.000 --> 00:06:52.000
+But you learn how to auto. You know how to do things by watching others, and and in helping them do it, and then eventually take it over for for yourself.
+
+00:06:52.000 --> 00:07:06.000
+You know that sometimes back in the late eighties, and when we started talking about cognitive apprenticeships and things like that, I was like, Wow, we discovered this new way to help people learn it's called apprenticeship based on a model that has existed throughout human history, that we sort of forgot happened when
+
+00:07:06.000 --> 00:07:15.000
+we created a lot of our formal schools and kind of extracted, you know, took them out of that environment, taught them all the stuff that they would never have to use in their real life, at least not immediately.
+
+00:07:15.000 --> 00:07:22.000
+So anyway. Alright! Adam, I haven't looked at yours either.
+
+00:07:22.000 --> 00:07:26.000
+That I remember. What were you talking about here?
+
+00:07:26.000 --> 00:07:49.000
+I was talking about the use of data in formative assessment in particular, to then help teachers assess their own teaching, and direct students especially, 'cause in a lot of the Lms environments I've worked in, they're actually for a variety of reasons there just hasn't been able good systems for getting
+
+00:07:49.000 --> 00:07:50.000
+Yeah.
+
+00:07:50.000 --> 00:07:52.000
+meeting full data. And like, it's sad.
+
+00:07:52.000 --> 00:08:02.000
+And soiliously bad sometimes. What we've had in the past, and so like the more it's like the better systems we can have to collect data, the more I think we can takeore instruction.
+
+00:08:02.000 --> 00:08:07.000
+However, like it quickly can get into these ethical and privacy areas.
+
+00:08:07.000 --> 00:08:08.000
+Right.
+
+00:08:08.000 --> 00:08:16.000
+When what kinds of data are you collecting? We certainly don't necessarily wanna have like, I think from last week's class, like brain Eeg activity.
+
+00:08:16.000 --> 00:08:17.000
+There. Yeah.
+
+00:08:17.000 --> 00:08:18.000
+Next week. But we want we want something better than what I've seen in a lot of other systems.
+
+00:08:18.000 --> 00:08:22.000
+So, yeah.
+
+00:08:22.000 --> 00:08:36.000
+Yeah, yeah, you know, one of the things that we sometimes run into is the fact that when we've tried to use systems to give us more of this kind of insightful information about what's really going on with students is there's always interpretation that goes on with that.
+
+00:08:36.000 --> 00:08:51.000
+So the student performs, or does something that that generates data and the system has to say, Okay, you's some data now to make this really useful for you, we're going to interpret that in a way, you've trained us to do right.
+
+00:08:51.000 --> 00:08:54.000
+You've given us an algorithm that following, we're going to spit out a result.
+
+00:08:54.000 --> 00:08:56.000
+Oh, student at risk or student not learning well or student learning well, and you know, maybe they're not so that's one of the challenges.
+
+00:08:56.000 --> 00:09:11.000
+Is that a lot of teachers in fact, I think I'm most familiar with higher education faculty that don't trust kind of a lot of the black box kind of systems that they often get exposed to cause.
+
+00:09:11.000 --> 00:09:12.000
+They don't know how they're, how they're generating.
+
+00:09:12.000 --> 00:09:21.000
+You know the results, the highly processed results that they're being fed, and they don't know if they should trust them or not.
+
+00:09:21.000 --> 00:09:24.000
+At least at some level. Sometimes it's not much of an issue, but sometimes it is, especially when you know more unique.
+
+00:09:24.000 --> 00:09:36.000
+And specific student data is being used like their history. You know, they're academic history or other kinds of factors.
+
+00:09:36.000 --> 00:09:39.000
+Sometimes they'll work in demographic factors, too.
+
+00:09:39.000 --> 00:09:51.000
+Older students, students from a particular background and use that in a way to generate information about maybe what's a Bath pest for best password?
+
+00:09:51.000 --> 00:09:52.000
+This student based on who they are. Maybe their demographics, maybe their profile.
+
+00:09:52.000 --> 00:10:14.000
+Maybe it's maybe other kinds of things that may not be always accurate, but they're based on statistically kind of the statistics would say, well, the probability is a student like this is, gonna have this ch you know, do best in a program like
+
+00:10:14.000 --> 00:10:21.000
+this or in a course like this, or in a course like this, or in a course like this, or with the next set of questions, whenever reality it might be based on some assumptions that are valid.
+
+00:10:21.000 --> 00:10:35.000
+For you know the students sitting right in front of you or in your class, and so that's that's also always one of the challenges, I think, with bunch of this, it's kinda like, you know, basing input from the data you have.
+
+00:10:35.000 --> 00:10:39.000
+And it's not. It's not usually unique for individual students.
+
+00:10:39.000 --> 00:10:51.000
+Now, when you get down to the individual students in the adaptive assessment approaches that we're talking about tonight, you know, those are based on usually very specific sets of content and activities with that content.
+
+00:10:51.000 --> 00:10:57.000
+We're still asking students to answer questions. Do you know, basic recall information or generate solutions to simple problems?
+
+00:10:57.000 --> 00:11:01.000
+Can you solve problems like this? And so you you might say that.
+
+00:11:01.000 --> 00:11:05.000
+Well, that seems to be a lot cleaner, and perhaps it is you know, but it's also an not very broad it's just really specific.
+
+00:11:05.000 --> 00:11:12.000
+And that's probably the best role for that. At this.
+
+00:11:12.000 --> 00:11:20.000
+At this stage it says, relatively specific states kind of stay in your lane kind of source predicting, you know, something about students based on their immediate.
+
+00:11:20.000 --> 00:11:26.000
+Can they answer questions like this? Yes, we have data that shows they can answer questions like this correctly.
+
+00:11:26.000 --> 00:11:29.000
+9 out of 10 times.
+
+00:11:29.000 --> 00:11:37.000
+But there's a student likely to succeed, you know, after they leave your instructional, you know, setting your class or your training program, or whatever can they do?
+
+00:11:37.000 --> 00:11:46.000
+The well that might be more more of a interpretation and more more probabilistic, as opposed to deterministic.
+
+00:11:46.000 --> 00:11:54.000
+Okay. Anything else. Anyone else wanna pipe in here with, I think everyone alright, Joanna, I didn't get a chance to look at her post, either.
+
+00:11:54.000 --> 00:11:58.000
+Her thread.
+
+00:11:58.000 --> 00:12:02.000
+And let's see what else.
+
+00:12:02.000 --> 00:12:05.000
+Everything else, I've been able to participate in. Okay.
+
+00:12:05.000 --> 00:12:12.000
+Well any remaining questions or comments from last week.
+
+00:12:12.000 --> 00:12:19.000
+None. Great. Super cause I really wanna move on to Uhhuh. Let's go on.
+
+00:12:19.000 --> 00:12:22.000
+Let's talk about adapt it. Assessment!
+
+00:12:22.000 --> 00:12:29.000
+So let me ask you a question and have any of you ever used adaptive assessment tools, either as a learner or as a teacher?
+
+00:12:29.000 --> 00:12:39.000
+Facilitator, trainer, or designer. Anyone tried to design any of these, not the tool itself, but the stuff that go into the tool.
+
+00:12:39.000 --> 00:12:44.000
+So I have a question on canvas.
+
+00:12:44.000 --> 00:12:51.000
+I am able to set my quizzes so that students can see their their questions that were wrong.
+
+00:12:51.000 --> 00:12:59.000
+It doesn't tell them the right answer, but it just says this was not right, and then they can retake it.
+
+00:12:59.000 --> 00:13:02.000
+Another time, and then I just I set it to like.
+
+00:13:02.000 --> 00:13:10.000
+Give them the average of both attempts is that the same thing as adaptive in some way?
+
+00:13:10.000 --> 00:13:13.000
+Or is that not?
+
+00:13:13.000 --> 00:13:19.000
+Well, so I'm gonna type a question into the chat, and maybe we can spend a few minutes addressing this.
+
+00:13:19.000 --> 00:13:23.000
+Actually, there's there's a there's an active question in the chat before I post mine.
+
+00:13:23.000 --> 00:13:26.000
+Marie. This was from a few minutes ago. I missed it.
+
+00:13:26.000 --> 00:13:27.000
+Wait. You bought the VR program right for your students.
+
+00:13:27.000 --> 00:13:31.000
+You told us that?
+
+00:13:31.000 --> 00:13:41.000
+Oh, okay. I applied for the grant, and in the process of review I think I can get a grant.
+
+00:13:41.000 --> 00:13:53.000
+So I contacted that website. Call what.com.
+
+00:13:53.000 --> 00:13:57.000
+Yeah.
+
+00:13:57.000 --> 00:13:58.000
+Okay.
+
+00:13:58.000 --> 00:14:02.000
+And they gave us a quote. No, actually, not a quote good, the content, the content of the VR.
+
+00:14:02.000 --> 00:14:07.000
+Teaching, Material.
+
+00:14:07.000 --> 00:14:15.000
+If the get approved, I think I will.
+
+00:14:15.000 --> 00:14:16.000
+We will start using next just a semester.
+
+00:14:16.000 --> 00:14:20.000
+Right? Yeah. You showed us that. Right? So so you don't have it yet.
+
+00:14:20.000 --> 00:14:21.000
+No, no, not yet!
+
+00:14:21.000 --> 00:14:25.000
+That's that's okay. Alright. Well, next semester class with us, you can tell us all about it.
+
+00:14:25.000 --> 00:14:29.000
+Yeah.
+
+00:14:29.000 --> 00:14:34.000
+Okay, alright. So my question is alright.
+
+00:14:34.000 --> 00:14:37.000
+It's a simple question. You think we can answer this one?
+
+00:14:37.000 --> 00:14:43.000
+What is adaptive assessment? You can define it verbally.
+
+00:14:43.000 --> 00:14:59.000
+You can type into the chat, you can start a definition and not finish it, and someone else can pick up on it what is adaptive assessment?
+
+00:14:59.000 --> 00:15:09.000
+I'm not sure I gave you resources that could cover just the really super basics unless you want to, unless you look to some of the videos or so looked around on your own.
+
+00:15:09.000 --> 00:15:18.000
+And so we have some elements of answers in their Adriene assessment that adjusts to students learning level.
+
+00:15:18.000 --> 00:15:23.000
+Yes, that's true, I would say so. How does it adjust?
+
+00:15:23.000 --> 00:15:24.000
+Adjusting the difficulty level. That's true.
+
+00:15:24.000 --> 00:15:31.000
+Adjustments, assessment, adjust for what students knows and doesn't.
+
+00:15:31.000 --> 00:15:40.000
+For Mari also true Adam computer based assessment that takes in student learning data to adapt to students needs.
+
+00:15:40.000 --> 00:15:44.000
+That's more. That's is this most more specific in general.
+
+00:15:44.000 --> 00:15:50.000
+At the same time, I think there I mean all the adaptive assessment pieces.
+
+00:15:50.000 --> 00:15:54.000
+I see these days, and have ever seen really, our computer base.
+
+00:15:54.000 --> 00:16:02.000
+But that doesn't mean you couldn't do adaptive assessment verbally or with pencil and paper.
+
+00:16:02.000 --> 00:16:09.000
+As a matter of fact, the first adaptive assessments we're done with pencil and paper where students would be given questions in in an order and based on the answer to a particular question that might determine the next question.
+
+00:16:09.000 --> 00:16:29.000
+They get to. So they might actually you know, go through a little section, and if they scored well on that section which could be scored relatively quickly with a quick glance if it's simple, simple grading, okay, here's the next section of your your test and it might be different.
+
+00:16:29.000 --> 00:16:33.000
+Than someone else's, based on their answers. So you can envision.
+
+00:16:33.000 --> 00:16:35.000
+This being done manually, although today, it's all computer based.
+
+00:16:35.000 --> 00:16:36.000
+Why cause it's so much faster and it can be a lot more complex.
+
+00:16:36.000 --> 00:16:44.000
+So you can use a lot more different, decision making factors based on the data that's been gathered.
+
+00:16:44.000 --> 00:16:54.000
+And then processed. To set what comes next. The point is that it's assessment that really adapts to the students level of learning.
+
+00:16:54.000 --> 00:17:01.000
+Do you wanna ask questions that students know the answers to all the time?
+
+00:17:01.000 --> 00:17:02.000
+It's a good question, you know, in a perfect exam.
+
+00:17:02.000 --> 00:17:17.000
+And if you really want to know what's students know, I wanna know exactly how much they know about this particular topic is the ideal test, something that they can get all the answers correct on.
+
+00:17:17.000 --> 00:17:18.000
+Not a rhetorical question.
+
+00:17:18.000 --> 00:17:20.000
+No!
+
+00:17:20.000 --> 00:17:25.000
+Okay? Why not?
+
+00:17:25.000 --> 00:17:30.000
+Well, I mean, I guess I don't know. I guess I guess it depends.
+
+00:17:30.000 --> 00:17:46.000
+I think the ideal test is one that has varying levels of difficulty, but not necessarily one that is so easy that students can get everything right on.
+
+00:17:46.000 --> 00:17:57.000
+But, for example, if I created an exam, that is, student got a hundred percent on, I wouldn't necessarily see it as a failure of my exam.
+
+00:17:57.000 --> 00:18:09.000
+If that makes sense, unless everybody was getting a hundred percent, then I would know, like, Okay, this, this is this is not really tested.
+
+00:18:09.000 --> 00:18:16.000
+How do I know if this is testing learning, as much as if it's it's testing just basic common knowledge that maybe students have.
+
+00:18:16.000 --> 00:18:23.000
+You know that it's way too easy, you know. To what extent are I assessing what they've learned.
+
+00:18:23.000 --> 00:18:29.000
+Some of them react to that.
+
+00:18:29.000 --> 00:18:36.000
+You might ask yourself, What's the goal of the test?
+
+00:18:36.000 --> 00:18:38.000
+Hey, Adrianne, you have a comment on chat sounds good so choose your adventure, style, experience of video games with branches starting possibilities based response.
+
+00:18:38.000 --> 00:18:51.000
+Yeah, essentially, your response. What you get next depends upon what you just did, what you just what you just indicated in some way.
+
+00:18:51.000 --> 00:19:00.000
+I I was gonna say that my only exposure to designing something that's close to branching and I'm not even that immersive.
+
+00:19:00.000 --> 00:19:01.000
+But I'm kind of familiar with directing people to it.
+
+00:19:01.000 --> 00:19:08.000
+Is like our articulate 3. 60, I think, has like a branching thing you can do.
+
+00:19:08.000 --> 00:19:20.000
+But I almost don't even call that adaptive learning, because from what I understand it doesn't really provide data or it doesn't like, you can't really get data out of the thing.
+
+00:19:20.000 --> 00:19:26.000
+It's more of just like a as you click buttons.
+
+00:19:26.000 --> 00:19:33.000
+It takes you to a different thing, but it like it doesn't seem like it's really providing the teacher with data.
+
+00:19:33.000 --> 00:19:47.000
+Rather it's a slideshow that can take different paths, which seems slightly. It's close to adaptive learning. But I don't necessarily know if it's providing, like strong data for a teacher.
+
+00:19:47.000 --> 00:19:50.000
+It's really not an assessment kind of thing going on.
+
+00:19:50.000 --> 00:19:53.000
+It can show you a path that they take, but it doesn't necessarily.
+
+00:19:53.000 --> 00:19:54.000
+Right.
+
+00:19:54.000 --> 00:19:58.000
+It depends on how you design it doesn't necessarily tell you what they know along the way.
+
+00:19:58.000 --> 00:19:59.000
+Right, exactly.
+
+00:19:59.000 --> 00:20:01.000
+If they're just decisions that they're making or guessing quite honestly.
+
+00:20:01.000 --> 00:20:02.000
+Yeah, exactly.
+
+00:20:02.000 --> 00:20:03.000
+A lot of branches and people just click through and see.
+
+00:20:03.000 --> 00:20:06.000
+Well, where does this take me, or where does this take me?
+
+00:20:06.000 --> 00:20:07.000
+Yeah.
+
+00:20:07.000 --> 00:20:08.000
+Don't!
+
+00:20:08.000 --> 00:20:13.000
+Yeah, it seems like that from the videos that we watched the end service.
+
+00:20:13.000 --> 00:20:25.000
+It seems like that thing does track all that data, and then I thought it was also interesting how they also had that awareness button is also that you make your choice.
+
+00:20:25.000 --> 00:20:28.000
+And then you can. You can. There's an added confidence, awareness button that also gets filtered into the data out of.
+
+00:20:28.000 --> 00:20:34.000
+They didn't show the algorithm what that looks like.
+
+00:20:34.000 --> 00:20:42.000
+But it did. It would create a little quick or sort of for each person.
+
+00:20:42.000 --> 00:20:51.000
+And then if you click on that on that person, and it would record into like the skills and the various, no learning goals and objectives.
+
+00:20:51.000 --> 00:20:55.000
+So I thought that that's I think that's pretty interesting, right?
+
+00:20:55.000 --> 00:21:04.000
+Because it's that way. You don't just have people go through the experience, and it goes into some kind of black box that's not accessible.
+
+00:21:04.000 --> 00:21:07.000
+Yeah, there is a I'm gonna put a link into a into a to an article that some of you may find interesting.
+
+00:21:07.000 --> 00:21:12.000
+It's about building adaptive assessments for Moocs and this is from a team at Harvard.
+
+00:21:12.000 --> 00:21:31.000
+So it must have been. Whatever Mooc's system Harvard was in one of the first, probably one of the first ones from a few years ago back, when this was still kind of all the rage in higher education actually talks about the edx platform.
+
+00:21:31.000 --> 00:21:34.000
+Yeah, there you go. So and it's a team.
+
+00:21:34.000 --> 00:21:42.000
+I I know of some of those people, so I'm sure that reading it would be very interesting if you're really interested in that kind of stuff.
+
+00:21:42.000 --> 00:21:46.000
+And because they talk about how what they go about a little bit.
+
+00:21:46.000 --> 00:21:54.000
+It's very short, so I think the question, though, Ashley, is, what's the goal of the of the of the assessment or of the program?
+
+00:21:54.000 --> 00:21:58.000
+If you're if the assessment is really trying to appreci, what exactly does someone know?
+
+00:21:58.000 --> 00:22:04.000
+You really you can't know that if all you're doing is asking questions that they can answer or give them problems that they can solve, why?
+
+00:22:04.000 --> 00:22:08.000
+Because you don't know the limit of their knowledge in those particular areas.
+
+00:22:08.000 --> 00:22:12.000
+You don't really find the limits until you understand also what they can't do right.
+
+00:22:12.000 --> 00:22:15.000
+Remember the Zone of proximal development with the Gatski and all that.
+
+00:22:15.000 --> 00:22:21.000
+Well, if everything you ask them, they can answer where which area are you in? Are you in the zone of approximately development?
+
+00:22:21.000 --> 00:22:24.000
+No, you're inside that inner circle. This is obviously what they know, but you don't know how far out that extends. You.
+
+00:22:24.000 --> 00:22:30.000
+To have to start asking them questions that they can't answer.
+
+00:22:30.000 --> 00:22:38.000
+Or that they need help to answer. And that's what helps tell you exactly where to kind of where their knowledge is to the extent that you can actually measure that.
+
+00:22:38.000 --> 00:22:53.000
+When I took the gr for the I only took it once, but when that was the first time this was back in the nineties, it it was when they were just coming out with the adaptive the well, the adaptive version, which is the computer based one and I don't think they were using the term
+
+00:22:53.000 --> 00:23:01.000
+adaptive at that point, because the.
+
+00:23:01.000 --> 00:23:03.000
+The adaptive it it it was just computer based.
+
+00:23:03.000 --> 00:23:04.000
+And so you could do. At that time you could choose. You could do the paper based one or the computer based one.
+
+00:23:04.000 --> 00:23:15.000
+And what I had heard from people was that if you do, the paper based one, you will probably get a better score. Why?
+
+00:23:15.000 --> 00:23:16.000
+Because you can all the questions you get, all the easy questions.
+
+00:23:16.000 --> 00:23:23.000
+And so you build up this record of being able to answer a lot of the easy questions.
+
+00:23:23.000 --> 00:23:27.000
+But it but it supports your score. If you take the computer based one.
+
+00:23:27.000 --> 00:23:30.000
+What it'll do is once it figures out. Oh, you know this stuff.
+
+00:23:30.000 --> 00:23:40.000
+It stops asking you that level of question and moves on to the next higher level, and in the next higher level, and the next higher level so that you you might get the same level of questions right?
+
+00:23:40.000 --> 00:23:44.000
+But you have fewer correct answers to support your score.
+
+00:23:44.000 --> 00:23:50.000
+And so I don't know. At that point it was still probably within a year or 2 of them kind of given the option for this one.
+
+00:23:50.000 --> 00:23:53.000
+And so that that was the that was that was that was what was on the street, at least with students.
+
+00:23:53.000 --> 00:23:58.000
+And so I took the. I took the paper based on but the point was that kind of exam is not trying to see.
+
+00:23:58.000 --> 00:24:02.000
+Do you know all of us? He wants to know? What do you know?
+
+00:24:02.000 --> 00:24:08.000
+Where are the limits of your knowledge in these particular areas?
+
+00:24:08.000 --> 00:24:11.000
+And there are some students who do go through, and they answer every question correctly.
+
+00:24:11.000 --> 00:24:12.000
+But the tests are designed. So that that's a very small number of students.
+
+00:24:12.000 --> 00:24:14.000
+Very, you know. Sats were classically done that way as well. They didn't.
+
+00:24:14.000 --> 00:24:24.000
+They didn't want test that a lot of people can answer all the questions for, because then they couldn't sort students right?
+
+00:24:24.000 --> 00:24:36.000
+That was one of the main roles, for those is giving in institutions an indication of how likely someone is to succeed, not high correlation or not really good data showing how effective that was.
+
+00:24:36.000 --> 00:24:52.000
+But it was the best individual tool that many could find. Yet it also was designed so that the top score not that many people would get, and of course there are also all any kind of times you do.
+
+00:24:52.000 --> 00:24:58.000
+These kinds of assessments. You're always building bias into the testing because you're asking questions making assumptions about the what people know or should know in particular fields, etc.
+
+00:24:58.000 --> 00:25:05.000
+So. But the point about the testing is they're not designed to test for.
+
+00:25:05.000 --> 00:25:09.000
+Something you might call mastery. Kind of an old term these days.
+
+00:25:09.000 --> 00:25:20.000
+But if you want a test to see whether or not everybody can achieve the learning outcomes an exam like that, you ought to be fine with everyone, getting everything correctly, because that tells you they've achieved.
+
+00:25:20.000 --> 00:25:28.000
+Maybe they already had achieved them, but at least when they're leaving the training they can do the things that they you told them they should be able to do when they're finished.
+
+00:25:28.000 --> 00:25:31.000
+Right. So I this is where I don't really know why.
+
+00:25:31.000 --> 00:25:35.000
+A lot of training programs. You'll walk away and say, 80% is on this.
+
+00:25:35.000 --> 00:25:37.000
+Assessment is good enough. Okay, so what 20% was useless?
+
+00:25:37.000 --> 00:25:40.000
+You know that they don't need to know.
+
+00:25:40.000 --> 00:25:45.000
+In order to do this on the job, or you know, the next place, they're going with with their learning, you know, school class, or whatever it happens to be, or we just saying 80%.
+
+00:25:45.000 --> 00:25:52.000
+Cause, you know no one's perfect. Yeah? And you know, you know, we know they're not gonna really.
+
+00:25:52.000 --> 00:26:01.000
+They'll do everything. So there are some I saw, I guess the answer to my question is that there are some places where you want a test that everybody can.
+
+00:26:01.000 --> 00:26:02.000
+Aunt, get everything correct, because that's all you care about.
+
+00:26:02.000 --> 00:26:08.000
+Do. I don't care how much you know.
+
+00:26:08.000 --> 00:26:13.000
+I wanna know you know this. This is what the system needs you to be able to prove.
+
+00:26:13.000 --> 00:26:20.000
+You know, before you can move on. But a lot of times we developed tests where we don't really want a hundred percent.
+
+00:26:20.000 --> 00:26:36.000
+We wanna if we wanna know exactly kind of where they're now, if you're trying to figure out what they know so that you can help them move on to the next appropriate level you kind of need to know what their knowledge stated is as clearly as you can so exams like that you don't want
+
+00:26:36.000 --> 00:26:51.000
+all the correct answers. So adaptive assessments. Typically, are that kind of exams or that kind of practice where they get harder and harder and harder because they need to find out where you're gonna where your knowledge failure point is.
+
+00:26:51.000 --> 00:26:55.000
+Mara, you talked about the zone of proximal debt.
+
+00:26:55.000 --> 00:26:57.000
+You can talk about that if you'd like.
+
+00:26:57.000 --> 00:26:58.000
+What do you mean by that?
+
+00:26:58.000 --> 00:26:59.000
+And then development. I I corrected it underneath it.
+
+00:26:59.000 --> 00:27:03.000
+It's alright!
+
+00:27:03.000 --> 00:27:05.000
+Well, I bet I didn't know if that was actually a term.
+
+00:27:05.000 --> 00:27:18.000
+Oh, no! I slightly remember reading about Thegotsky's zone of proximal development. But can you just kind of summarize it again?
+
+00:27:18.000 --> 00:27:19.000
+Okay.
+
+00:27:19.000 --> 00:27:24.000
+No, but I know there's someone in here who can.
+
+00:27:24.000 --> 00:27:29.000
+I remember it has to do with everything right. It has to do with like.
+
+00:27:29.000 --> 00:27:33.000
+Well, scaffolding is what you would use to work within the zone of proximal development.
+
+00:27:33.000 --> 00:27:34.000
+Okay.
+
+00:27:34.000 --> 00:27:36.000
+Anyone, Anyone.
+
+00:27:36.000 --> 00:27:37.000
+Isn't it? The idea? There's kind of like 3 areas.
+
+00:27:37.000 --> 00:27:41.000
+There's like what a learner can do without help, with help, and can't even do with help.
+
+00:27:41.000 --> 00:27:45.000
+And you wanna get.
+
+00:27:45.000 --> 00:27:50.000
+Exactly. Yes, yeah. There's like 3 look, space looking kind of things.
+
+00:27:50.000 --> 00:27:53.000
+And you'd mentioning space. Dalton, you had your hand up.
+
+00:27:53.000 --> 00:27:55.000
+Is there like the black hole of the Zpd.
+
+00:27:55.000 --> 00:27:58.000
+Yeah, no, that's I think that's exactly it.
+
+00:27:58.000 --> 00:28:00.000
+Yeah, because it's, I think one element that I've noticed that people forget to include is that social element.
+
+00:28:00.000 --> 00:28:01.000
+It's not like just what you can do on your own.
+
+00:28:01.000 --> 00:28:10.000
+It's with help, with people around you.
+
+00:28:10.000 --> 00:28:16.000
+With a Yeah, we the term that's often uses a more knowledgeable other or more capable other.
+
+00:28:16.000 --> 00:28:20.000
+And so the zone approximately you think about.
+
+00:28:20.000 --> 00:28:27.000
+Well, let's look at the set of everything that student knows in a particular topic, that, and we would represent in a 2 dimensional.
+
+00:28:27.000 --> 00:28:32.000
+You know, diagram with a circle. And inside that circle I know all that I can answer, all those questions.
+
+00:28:32.000 --> 00:28:40.000
+I can solve those problems. You know, I can do whatever it is, whatever the tasks are inside there, and yet there are other tests I could do, but I can't do them on my own yet.
+
+00:28:40.000 --> 00:28:41.000
+I can do them with help, and that would be outside of that circle.
+
+00:28:41.000 --> 00:28:53.000
+You know, so kind of expand the circle to include all of those tasks and all that knowledge, and that would be what I can do with a more knowledgeable other, that more knowledgeable other could be a person.
+
+00:28:53.000 --> 00:29:00.000
+It could be a teacher, it could be a parent, it could be a it could be a peer, it could be a it could be a stranger who just interacts with you like learning language, right?
+
+00:29:00.000 --> 00:29:05.000
+They can help you. Maybe use language appropriately, you know that you can't use on your own.
+
+00:29:05.000 --> 00:29:08.000
+Oh, yeah, I recognize I just don't really how to use.
+
+00:29:08.000 --> 00:29:09.000
+Oh, that's how I do it! Now let me try it.
+
+00:29:09.000 --> 00:29:13.000
+You know that kind of thing. So that would be where scaffolding would be.
+
+00:29:13.000 --> 00:29:14.000
+And then outside of there, there's other things that are.
+
+00:29:14.000 --> 00:29:19.000
+There's you're just not ready for this, so you don't have any of the stuff that's there's other things that are. There's you're just not ready for this.
+
+00:29:19.000 --> 00:29:23.000
+You don't have the kind of the you don't have the basics down enough so that you can actually do something like this. You know.
+
+00:29:23.000 --> 00:29:29.000
+So working with length right? Especially when you know when kids are learning language or when adults are learning language right, they can usually do something.
+
+00:29:29.000 --> 00:29:37.000
+What do we learn how to do first like? So you're gonna learn a different language because you're gonna travel somewhere. What do you learn first?
+
+00:29:37.000 --> 00:29:38.000
+Basic survival basic things like time of day location, transportation, things.
+
+00:29:38.000 --> 00:29:47.000
+How to ask for help, how to ask for this. You know how you know these days.
+
+00:29:47.000 --> 00:29:48.000
+You can, you know, talk into your phone and get it spitting out even your on your own voice. Sometimes.
+
+00:29:48.000 --> 00:29:54.000
+Now in a different language. But let's say that's not on the table.
+
+00:29:54.000 --> 00:30:00.000
+Well, maybe that does like super expand our Zpd for language, learning all of a sudden thought of that, you know.
+
+00:30:00.000 --> 00:30:01.000
+But that's what you would start with. You don't start with.
+
+00:30:01.000 --> 00:30:07.000
+Okay, let's write a. Let's write a paragraph to answer an academic question.
+
+00:30:07.000 --> 00:30:10.000
+You know, at at a college level, you know. Kind of exam.
+
+00:30:10.000 --> 00:30:13.000
+That's not where you you wouldn't be able to do that yet, even with help.
+
+00:30:13.000 --> 00:30:15.000
+Most likely.
+
+00:30:15.000 --> 00:30:23.000
+Yeah, and we have a a link in there for Zpd, a Jpeg, would you probably show that really nice thing?
+
+00:30:23.000 --> 00:30:28.000
+Okay.
+
+00:30:28.000 --> 00:30:32.000
+Okay, all right. Well, let's let's go back to this week.
+
+00:30:32.000 --> 00:30:47.000
+I think we're so I yet I had put some articles in here this first one was about this idea is getting a lot of attention.
+
+00:30:47.000 --> 00:30:49.000
+That was a video. This is what I want to put them.
+
+00:30:49.000 --> 00:30:52.000
+The future of testing in education artificial intelligence. What did you?
+
+00:30:52.000 --> 00:31:16.000
+What did you bring out of this? Is there any hope? What is the hope?
+
+00:31:16.000 --> 00:31:25.000
+What do you think about this idea? Stealth, assessments?
+
+00:31:25.000 --> 00:31:27.000
+Dalton.
+
+00:31:27.000 --> 00:31:30.000
+Yeah, a couple of things. One is the stealth assessment, you know.
+
+00:31:30.000 --> 00:31:34.000
+I think about this a lot as a teacher, about.
+
+00:31:34.000 --> 00:31:51.000
+You know that that you know I don't. I don't know if we can ever get to a point where, like school is not a stressful thing, right where we have to dance around the stress of students and like the how schools sort of they're down on families.
+
+00:31:51.000 --> 00:31:55.000
+And kids like, I you know. I wonder if is that how it really should be?
+
+00:31:55.000 --> 00:32:00.000
+And then we, and then educators and instructors are trying to figure out ways to sneak in assessment, almost like putting sugar in the medicine for kids right?
+
+00:32:00.000 --> 00:32:05.000
+I don't know. I think this is. I think this is wrong.
+
+00:32:05.000 --> 00:32:16.000
+The wrong with society in general, but I think people are still going to push that, because there there is demand to have medicine with sugar in it.
+
+00:32:16.000 --> 00:32:18.000
+And so, yeah, I guess I guess this is one way to do it is have artificial intelligence.
+
+00:32:18.000 --> 00:32:42.000
+Do it, remove some of the stressors have have some more autonomy on the student, or maybe at the family or stakeholder side, but I'm also wondering, too, about how this artificial intelligence can be used to have education be more of a you know student driven thing it's like
+
+00:32:42.000 --> 00:32:50.000
+okay, well, let's let's have students be more in charge of their own learning, so that it doesn't have to be something that's imposed.
+
+00:32:50.000 --> 00:32:55.000
+Of course, kids cannot make full decisions for themselves, but I think it like, what if?
+
+00:32:55.000 --> 00:33:03.000
+What if that was a possibility? Right? We're like, here's something that you have to do right, that your parents have signed you up for.
+
+00:33:03.000 --> 00:33:04.000
+Yeah.
+
+00:33:04.000 --> 00:33:05.000
+But what if the rest of the stuff something that can be guided through artificial intelligence?
+
+00:33:05.000 --> 00:33:13.000
+It didn't. Adults. Instructors can be more taking on the role of facilitators right?
+
+00:33:13.000 --> 00:33:16.000
+And then, with access to Smes and things like that. So yeah, I think about that.
+
+00:33:16.000 --> 00:33:20.000
+The sort of slide to stealth assessment.
+
+00:33:20.000 --> 00:33:30.000
+And also, you know, having students be more in charge, right, more more active in participating in decision, making.
+
+00:33:30.000 --> 00:33:39.000
+Yeah, yeah, the the idea of stealth assessment to me seems to be something that actually, if we could do that in in ways.
+
+00:33:39.000 --> 00:33:43.000
+And you, you know, assess legitimately.
+
+00:33:43.000 --> 00:34:01.000
+I think that would be kind of wonderful for things, because I think in most situations outside of this formal school environments, assessments may not be stealth, but there are a lot of stealth assessments going on which basically means that you don't know you're being assessed
+
+00:34:01.000 --> 00:34:05.000
+at least it's not. A. It's not a discrete assess now you're being assessed.
+
+00:34:05.000 --> 00:34:09.000
+No, you're actually living your life and practicing something and doing something.
+
+00:34:09.000 --> 00:34:13.000
+And you're in someone, maybe watching. Maybe it's observation.
+
+00:34:13.000 --> 00:34:14.000
+Maybe it's looking at the results. And you're being assessed through how you actually are performing.
+
+00:34:14.000 --> 00:34:21.000
+It's not a it's not a separate kind of thing, right?
+
+00:34:21.000 --> 00:34:23.000
+When do we add in the extra the separate assessments?
+
+00:34:23.000 --> 00:34:29.000
+Oh, let's make well, you're gonna have to pass this exam before you can do this job, or you're gonna have to pass this exam before you can go on to these other kinds of problems.
+
+00:34:29.000 --> 00:34:48.000
+It's usually when we can't do the stealth assessments to really what know what people are doing in practice, or for some other reasons, one of the challenges with having the just screwed assessments from my perspective is that when we take you out of the performance environment the regular
+
+00:34:48.000 --> 00:34:57.000
+knowledge, environment, right, the situation that you're learning in. And we take you out of that and put you into an assessment environment that changes some things.
+
+00:34:57.000 --> 00:34:59.000
+That's where stress comes in for a lot of students.
+
+00:34:59.000 --> 00:35:00.000
+That's where artificial environment comes in for a lot of people.
+
+00:35:00.000 --> 00:35:11.000
+That's where we ask questions that like multiple choice questions that we think are giving us answers as to whether or not you can do this job.
+
+00:35:11.000 --> 00:35:13.000
+Can you solve that problem right? When that's just it's extracted.
+
+00:35:13.000 --> 00:35:19.000
+It's it's an abstract abstraction of what we really want you to be able to do.
+
+00:35:19.000 --> 00:35:24.000
+Wouldn't it be better to have that assessment from what you're really doing when you're really doing it?
+
+00:35:24.000 --> 00:35:27.000
+And if we can do that, why not help that kind of help for formative assessment?
+
+00:35:27.000 --> 00:35:28.000
+Let you know. Hey, this is going really well, keep going.
+
+00:35:28.000 --> 00:35:32.000
+You're you're doing a great job, or things are.
+
+00:35:32.000 --> 00:35:51.000
+Things may not be working out the way you think maybe it's time to stop rethink this and move forward that's what a a adaptive of of, you know, practice and feedback connect to the content and the learning experience itself can really do we assess the hope for they can kind of catch you you know or
+
+00:35:51.000 --> 00:36:02.000
+help you when you need that help, while you're trying to do something that's relatively new to you, that you're not quite doing right. Or maybe you want to know you're doing it right.
+
+00:36:02.000 --> 00:36:05.000
+Yeah, Charlie, and the trophy factory in the chat.
+
+00:36:05.000 --> 00:36:12.000
+Yeah, so, yeah, so it's that point. And to the second part, you were talking about kids making some their own decisions.
+
+00:36:12.000 --> 00:36:29.000
+I read some a while ago on this kind of concept of something called the Light Directed study, and this, this is some stuff dot being done in non traditional school environments like you know, not a scripted kind of environment oftentimes, while clearly smaller
+
+00:36:29.000 --> 00:36:37.000
+schools and a lot of independent learning situations, maybe even homeschooling situations where students were given choices to ask them, Well, what?
+
+00:36:37.000 --> 00:36:41.000
+What would you like to be able to do? Let's let's take this next year of your curriculum.
+
+00:36:41.000 --> 00:36:47.000
+What do you want to do? And there's a kind of a classic example that there was a 2 siblings, and they wanted to.
+
+00:36:47.000 --> 00:36:58.000
+They wanted to start a magazine for kids, and so their entire school year was all focused around them, launching a magazine for kids right?
+
+00:36:58.000 --> 00:37:01.000
+And so that was like the delight of their heart, or something that's kind of where the language comes from.
+
+00:37:01.000 --> 00:37:08.000
+And so there, whoever I think it was, I think it was home schooling, environment.
+
+00:37:08.000 --> 00:37:09.000
+So the parents were to figure out, what do you need and help them try to figure out what?
+
+00:37:09.000 --> 00:37:16.000
+What do you need to start a magazine? How do you get that? What do you have to know?
+
+00:37:16.000 --> 00:37:19.000
+What kind of masks you need to know what kind of other things.
+
+00:37:19.000 --> 00:37:22.000
+What about you know, writing and technology all these other kinds of things?
+
+00:37:22.000 --> 00:37:25.000
+And so that was, that was a, you know, a success story.
+
+00:37:25.000 --> 00:37:27.000
+It's not. It's not easy to do that.
+
+00:37:27.000 --> 00:37:32.000
+And how could you do that at scale?
+
+00:37:32.000 --> 00:37:37.000
+Probably very difficult. Now, what if you have AI tutors who can tool out of that you know that kind of like parental guidance along?
+
+00:37:37.000 --> 00:37:39.000
+Well, you know, help them through that whole big kind of problem, solving.
+
+00:37:39.000 --> 00:37:47.000
+It's really a project based. I guess, a learning environment. You know.
+
+00:37:47.000 --> 00:37:53.000
+Maybe that's something becomes something that could be easier to do at scale.
+
+00:37:53.000 --> 00:38:00.000
+Yeah, Adrian, that's a good example of the self-assessment we're just having a conversation, but we're really, you know, this is really an interview.
+
+00:38:00.000 --> 00:38:02.000
+But it's gonna be we're just gonna have.
+
+00:38:02.000 --> 00:38:06.000
+I'm saying why? Because that's how we're gonna interact on a day to day.
+
+00:38:06.000 --> 00:38:09.000
+We're not gonna interact by you coming into the office and us asking you a question.
+
+00:38:09.000 --> 00:38:21.000
+You know, sort of 3 questions for the day, and you know that kind of thing which is more like more like interviews are.
+
+00:38:21.000 --> 00:38:25.000
+Alright. Well, okay. What? What is? What else did you guys come out of here?
+
+00:38:25.000 --> 00:38:28.000
+Anything. There's that intelligent tutoring system term.
+
+00:38:28.000 --> 00:38:42.000
+Again. I had mentioned before.
+
+00:38:42.000 --> 00:38:47.000
+I haven't seen this before snapping a picture of the equation and leaving a machine grade.
+
+00:38:47.000 --> 00:39:08.000
+It based on visual. Oh, look! I can tweet this!
+
+00:39:08.000 --> 00:39:09.000
+Uhhuh.
+
+00:39:09.000 --> 00:39:10.000
+I thought it was interesting kind of when they got to the I think this is the end where they're talking about like the policy prescriptions, and how like this part actually kind of went over my head a little bit.
+
+00:39:10.000 --> 00:39:20.000
+But it's like how the how we need more government regulations around this. And maybe it's because, like, I don't.
+
+00:39:20.000 --> 00:39:35.000
+I kind of like. It's in such a fledgling state, like the use of AI here that yeah, like, once we get to the bias area that we need, that there needs to be like more government investment.
+
+00:39:35.000 --> 00:39:40.000
+And even maybe even some regulations around the use of AI.
+
+00:39:40.000 --> 00:39:42.000
+In education.
+
+00:39:42.000 --> 00:39:45.000
+Yeah, it's that's a tough one.
+
+00:39:45.000 --> 00:39:53.000
+Cause in. Well, my my experience with government is that it's typically for a lot of things like this.
+
+00:39:53.000 --> 00:39:57.000
+It's always. It's always legging it's sometimes pretty severe, right?
+
+00:39:57.000 --> 00:39:58.000
+So the fact that that are, you know, the Congress is talking about putting.
+
+00:39:58.000 --> 00:40:05.000
+Let's put a break on AI. It's like, wait a minute.
+
+00:40:05.000 --> 00:40:14.000
+This, the breaks don't apply here right there may be some guardrails and things like that, but just saying, Well, let's just stop this for like 6 months.
+
+00:40:14.000 --> 00:40:18.000
+What are you talking about? So the fact that I don't know. I guess I have.
+
+00:40:18.000 --> 00:40:19.000
+Yeah.
+
+00:40:19.000 --> 00:40:27.000
+I don't have a really good attitude towards it, as far as what they can actually do, but I I don't dispute that there needs to be some controls.
+
+00:40:27.000 --> 00:40:35.000
+And this is a perfect example. The biases is all over this stuff, and you can't avoid it.
+
+00:40:35.000 --> 00:40:42.000
+And to the, you know. So we, with something that we have to have on the table and let's talk about this, and let's see how things these things are being designed.
+
+00:40:42.000 --> 00:40:48.000
+Every vendor I've ever talked to in my administrative role, that they were coming in with adaptive systems.
+
+00:40:48.000 --> 00:40:51.000
+Whether it was about learning, or whether it was a student performance.
+
+00:40:51.000 --> 00:40:57.000
+You know, like advising systems that were using some algorithms, but they would never share, never share.
+
+00:40:57.000 --> 00:41:00.000
+How they actually come up to the you know the determinations that they're making.
+
+00:41:00.000 --> 00:41:06.000
+This student knows this, or, even more importantly, this student is likely to succeed, or likely not to succeed.
+
+00:41:06.000 --> 00:41:21.000
+This student needs this kind of intervention, they would tell us the general parameters of what they were looking at, but they were never, it would never reveal exactly what they were doing, and like in a higher education campus like we actually have data scientists and they say, well, we'd like to see what you're doing.
+
+00:41:21.000 --> 00:41:26.000
+Because we wanna know that we representing San Francisco State, you know, approve essentially of what you're doing with data.
+
+00:41:26.000 --> 00:41:38.000
+The biases that you're introducing, that and that's just not something that they've been willing to do, because it's proprietary.
+
+00:41:38.000 --> 00:41:42.000
+You know kinda how, how, how they make make their soup.
+
+00:41:42.000 --> 00:41:43.000
+So that would be something that actually might be something that the governments could, you know, could help with.
+
+00:41:43.000 --> 00:41:58.000
+Like. Well, let's make sure that we've got transparency where we are putting all this data in that, we have a way of knowing what's how that data is being processed in a spit out.
+
+00:41:58.000 --> 00:42:01.000
+So that's one area. How are these decisions being made?
+
+00:42:01.000 --> 00:42:09.000
+Especially when it's around. You know the quality of people learning, or the or the likelihood of people succeeding in the various past, you know, especially with this, our, you know, human history is just full of full, you know, manipulation, and all sorts of bad things.
+
+00:42:09.000 --> 00:42:22.000
+But there's another part of that that's not just about how how, how you're doing this, but also most of these vendors.
+
+00:42:22.000 --> 00:42:28.000
+Also, they're taking in all this data and they're processing in a way that's returning valuable to the company.
+
+00:42:28.000 --> 00:42:32.000
+Why? Why would you buy this? Book? Because we can help your faculty? Know. You know, they can have a class of 1,000 students and never have to lift a finger for practice homework activities?
+
+00:42:32.000 --> 00:42:42.000
+And their students will learn better than ever before. Probably true right?
+
+00:42:42.000 --> 00:42:46.000
+But all that data that's being brought in they're using to kind of improve their systems.
+
+00:42:46.000 --> 00:42:52.000
+And who else? What you know I don't know. I also using it, but that wouldn't never give that data back to schools.
+
+00:42:52.000 --> 00:42:56.000
+Right. That was another thing we often ask, can we get the data back?
+
+00:42:56.000 --> 00:42:59.000
+No, we give you the results of our processing of your data.
+
+00:42:59.000 --> 00:43:02.000
+We don't give you the data back. We don't show you how we're processing.
+
+00:43:02.000 --> 00:43:05.000
+We don't give you the data back for yourself.
+
+00:43:05.000 --> 00:43:09.000
+Yeah, cause you might, well, we might want to use this ourselves, you know.
+
+00:43:09.000 --> 00:43:16.000
+Maybe something a process in a different way that you're not processing not not to replace you, but to do some other things that we care about.
+
+00:43:16.000 --> 00:43:19.000
+No, that was never used, a possibility.
+
+00:43:19.000 --> 00:43:31.000
+That would be another thing, you know, who owns the data where I think governments could really be involved.
+
+00:43:31.000 --> 00:43:35.000
+Yeah, yeah. And Adam, I did hear something about that were.
+
+00:43:35.000 --> 00:43:44.000
+And actually wasn't there also suggestion that you know there ought to be, you know, people in Congress who know enough about AI.
+
+00:43:44.000 --> 00:44:01.000
+They can actually be, not the expert in the room, but be able to understand what the experts are saying when they're talking about things like this, because, you know, like a lot of things, most people in Congress like the general public I have really no idea what this is they get what they know from I don't
+
+00:44:01.000 --> 00:44:11.000
+know the Evening News, or something like that.
+
+00:44:11.000 --> 00:44:15.000
+Okay. Well, the.
+
+00:44:15.000 --> 00:44:23.000
+You looked at some of these other things. So that's some papers, generally speaking, we're talking about different tools, a lot of details in here.
+
+00:44:23.000 --> 00:44:28.000
+H. O. Ts high order thinking skills is something that we have a faculty in our department.
+
+00:44:28.000 --> 00:44:37.000
+Stanley Pogo, who has done a lot of work in that area over the last 30 years, or something like that.
+
+00:44:37.000 --> 00:44:44.000
+Nothing with AI, as far as I know, but you know, if you're interested in that, I want to talk to someone about that, you can talk to Dr.
+
+00:44:44.000 --> 00:45:03.000
+Crow, and he he might be something that would be really interesting to show you, and shows you some of the details, the detailed levels, analysis they're able to do with this right, this other one, this other one is talking about students success systems.
+
+00:45:03.000 --> 00:45:11.000
+So when we talk about academic success or student success, oftentimes it comes down to academic success.
+
+00:45:11.000 --> 00:45:15.000
+Alright, and they define it.
+
+00:45:15.000 --> 00:45:19.000
+Yeah, how do they define it?
+
+00:45:19.000 --> 00:45:22.000
+How to define student success. How would you define students?
+
+00:45:22.000 --> 00:45:30.000
+Success.
+
+00:45:30.000 --> 00:45:40.000
+Is there trying to predict it right? They're trying to predict the likelihood of a student succeeding in a particular path.
+
+00:45:40.000 --> 00:45:47.000
+Given a particular background. And you know variety of other kind of factors that they can input into the into their calculation machine.
+
+00:45:47.000 --> 00:45:55.000
+Their computator.
+
+00:45:55.000 --> 00:45:59.000
+So Dalton has an answer copied from somewhere. What is what is?
+
+00:45:59.000 --> 00:46:06.000
+Tell, give us, give us the 15 s version of this.
+
+00:46:06.000 --> 00:46:15.000
+Yeah, I mean, success is a lot of things for them. Right?
+
+00:46:15.000 --> 00:46:16.000
+Yeah.
+
+00:46:16.000 --> 00:46:27.000
+It was I. I thought it was interesting that they also include to post college performance. I think that's that's over the key one that usually isn't is not talked about, because when when a lot of folks, you know, expressed like Hey education should really lead to these certain
+
+00:46:27.000 --> 00:46:34.000
+outcomes and careers. Sometimes there's pushback about while education should be for its own sake, and like this and that.
+
+00:46:34.000 --> 00:46:40.000
+But very few people actually go to call your university for just learn and hang out.
+
+00:46:40.000 --> 00:46:47.000
+So I appreciate that that bit in there.
+
+00:46:47.000 --> 00:46:55.000
+Right, yeah, that that's a great case of point, because every student success system in the world is going to, at least for higher education.
+
+00:46:55.000 --> 00:47:04.000
+It's going to try to identify students or like to likely to see the particular path in their often degree past, and pieces.
+
+00:47:04.000 --> 00:47:15.000
+So that's the institution knows where they should invest their intervention funds like advising time or tutoring time, who needs the most help, and we'll try to do is identify students who are.
+
+00:47:15.000 --> 00:47:19.000
+They're likely to succeed, no matter what you do, so don't bother them, you know.
+
+00:47:19.000 --> 00:47:28.000
+You don't need to throw advising at them or tutoring at them, you know, forcefully at least you let them go because they're gonna be fine, and then you have the students.
+
+00:47:28.000 --> 00:47:32.000
+They will always identify students. This is some of the controversial part that you know.
+
+00:47:32.000 --> 00:47:33.000
+There's like I don't know what the percent would be.
+
+00:47:33.000 --> 00:47:43.000
+1020 30%. These 2 are not likely to succeed, no matter what you do, based on their path through so far they changed their major 4 or 5 times.
+
+00:47:43.000 --> 00:47:45.000
+They failed. All these courses we got a relatively low EPA.
+
+00:47:45.000 --> 00:47:51.000
+Their poor performance in this class means the following class, they're likely to fail.
+
+00:47:51.000 --> 00:47:52.000
+So they almost are saying, look, these students are not, are likely not to succeed.
+
+00:47:52.000 --> 00:48:02.000
+Maybe what you need to do is counsel them out. Maybe there's a different way for them to be spending their time, money, and resources that would be more successful for them.
+
+00:48:02.000 --> 00:48:07.000
+Than in the path that you've got them on right now and then.
+
+00:48:07.000 --> 00:48:10.000
+You've got the people in the middle, and the people in the middle.
+
+00:48:10.000 --> 00:48:16.000
+Your systems will say, Okay, these are students who who could succeed, but they need some intervention.
+
+00:48:16.000 --> 00:48:19.000
+They need some help at some point. Maybe they just need to talk to an advisor.
+
+00:48:19.000 --> 00:48:20.000
+Maybe they need to get some tutoring. Maybe they need this.
+
+00:48:20.000 --> 00:48:28.000
+Maybe they need that. Maybe they need to reorder their course, load a little bit, take a little less load next semester so they can get caught up, whatever it might be.
+
+00:48:28.000 --> 00:48:32.000
+So they try to identify these kind of 3 groups of students. You know.
+
+00:48:32.000 --> 00:48:33.000
+Likely to succeed. Don't really need intervention likely to fail.
+
+00:48:33.000 --> 00:48:38.000
+Try to counsel them into a different path and a the ones in the middle.
+
+00:48:38.000 --> 00:48:47.000
+Sometimes they call it the murky middle, for whatever reason that need your help and it's modeled after healthcare.
+
+00:48:47.000 --> 00:48:50.000
+Most of these systems are some of the big players in the system.
+
+00:48:50.000 --> 00:48:58.000
+The actually the one that we contract with for our student success system basically made their made their system in the healthcare environment cause.
+
+00:48:58.000 --> 00:49:06.000
+There was a lot of, you know, a lot of reason that healthcare which is in the countries like ours is very expensive to produce, which provide.
+
+00:49:06.000 --> 00:49:11.000
+You know, so they wouldn't be spending a lot of extra money on things that people who are very healthy don't need.
+
+00:49:11.000 --> 00:49:16.000
+You'll meet you every year you'd have an exam, and you know we got a certain age.
+
+00:49:16.000 --> 00:49:17.000
+You know, you did do different testing at various points every single year.
+
+00:49:17.000 --> 00:49:34.000
+And now now that doesn't happen that much. If you need the testing, you'll get it. But you don't often get the testing unless you know it's been like 3 or 4 years, and you know, or something else has happened so you've got those students for those students those people where you know the
+
+00:49:34.000 --> 00:49:45.000
+healthcare system. You know we're here if you need us, but you know we're not gonna push ourselves on you because one, it's expensive for us to do that and 2, you don't really need it. And then you got the students at the healthcare system.
+
+00:49:45.000 --> 00:49:46.000
+This, you know, is saying, there's not a lot we can do.
+
+00:49:46.000 --> 00:49:50.000
+You know there are so many things going on here. We can treat a condition, but it's likely just to be overcome by another condition.
+
+00:49:50.000 --> 00:50:02.000
+So at some point there are cost decisions. Made in our healthcare system based on the likelihood of success and then there's a whole bunch in the middle.
+
+00:50:02.000 --> 00:50:09.000
+These are the ones who you would get more interaction with the healthcare system, because that's a likelihood that they can actually help.
+
+00:50:09.000 --> 00:50:12.000
+So this, this is you know, for what it's worth.
+
+00:50:12.000 --> 00:50:20.000
+That system financially resource wise is something we've been doing in our country for quite a while since we've had these kind of computer systems.
+
+00:50:20.000 --> 00:50:26.000
+So probably at least 10 or 50 years, maybe longer. And now they've kind of rolled it into this idea.
+
+00:50:26.000 --> 00:50:32.000
+Of. Well, maybe we can do this to help education because we have similar problems.
+
+00:50:32.000 --> 00:50:38.000
+Huge, you know, range of students and what they know and where they're going and what they knew, and some are on track.
+
+00:50:38.000 --> 00:50:42.000
+Some are off track, some are in the right past, some are probably in the wrong pass, but don't know it.
+
+00:50:42.000 --> 00:50:45.000
+You know they're in a path that someone has set for them.
+
+00:50:45.000 --> 00:50:50.000
+But there's a problem with resources we don't have the resources to provide the support.
+
+00:50:50.000 --> 00:50:53.000
+Everybody would need to get, you know, to that point of success and and cause. Sometimes you get you get systems that have.
+
+00:50:53.000 --> 00:50:58.000
+There's, you know. Sometimes they use this law of diminishing returns, like you would cost so much.
+
+00:50:58.000 --> 00:51:09.000
+It takes so much time to help you get to that point where you say you wanna go that we just we can't afford that.
+
+00:51:09.000 --> 00:51:14.000
+So right? Wrong doesn't matter it's the way the system is right now.
+
+00:51:14.000 --> 00:51:19.000
+And so it's. It's important to know that these things are out there when we talk about student success systems.
+
+00:51:19.000 --> 00:51:38.000
+Those are the student success systems that are often the ones that are being marketed and put into a higher education, and to some extent even lower secondary education levels.
+
+00:51:38.000 --> 00:51:45.000
+Right, so writing about that, as a matter of fact, this is this is the front end of our navigator system.
+
+00:51:45.000 --> 00:51:46.000
+So that I I have faculty access to this.
+
+00:51:46.000 --> 00:51:57.000
+This is supposed to been the picture they took me when I got hired here 2,003, so that would have been 20 years ago.
+
+00:51:57.000 --> 00:52:01.000
+I don't think it was updated since then.
+
+00:52:01.000 --> 00:52:04.000
+Maybe it was. Maybe it's my administrator. I don't know.
+
+00:52:04.000 --> 00:52:12.000
+Anyway, you'll notice I don't have any access to these students, because we only do this on our campus for undergraduate students.
+
+00:52:12.000 --> 00:52:16.000
+So I can't get any data. I wouldn't shouldn't show it to you, anyway. Of course.
+
+00:52:16.000 --> 00:52:17.000
+But you get this kind of data, and you can look at, there's a dashboard.
+
+00:52:17.000 --> 00:52:33.000
+You can get. That's popular with your students. So if I had students I was the official advisor for this would list all those different students and would talk about their activity, whatever activities we were tracking like they participated in the workshops.
+
+00:52:33.000 --> 00:52:44.000
+You know, or they completed things, or whatever maybe they had an advising appointment or a tutoring appointment that was tracked, and reported, and it would show up in my feed as well. Different appointments.
+
+00:52:44.000 --> 00:52:45.000
+They've made my appointments. I could run campaigns for students.
+
+00:52:45.000 --> 00:52:51.000
+I could search for all my students who haven't registered for classes next fall yet.
+
+00:52:51.000 --> 00:53:03.000
+Don't forget to register for your classes when you have an opportunity, so we can plan better, and then, you know, I could send out audited campaigns, using, you know, like a search for a certain set of students it's the ones who haven't graduated yet.
+
+00:53:03.000 --> 00:53:12.000
+But also are expected back. Blah blah, and I can send them messages and invite them to have an advising appointments.
+
+00:53:12.000 --> 00:53:17.000
+Those kinds of things enrollment for faculty. Now, there's an interesting thing in the system.
+
+00:53:17.000 --> 00:53:20.000
+If I do a search, there's a search function. Where is it?
+
+00:53:20.000 --> 00:53:29.000
+It's somewhere. Must be. I don't know it somewhere.
+
+00:53:29.000 --> 00:53:34.000
+I can search for students. And yeah, I don't use this because it doesn't have any of our students in.
+
+00:53:34.000 --> 00:53:37.000
+But I I I can actually search for students.
+
+00:53:37.000 --> 00:53:40.000
+And I I get I can get like I just did this earlier.
+
+00:53:40.000 --> 00:53:48.000
+I just typed for the last last name Smith, and I saw every single smith in the University database.
+
+00:53:48.000 --> 00:53:52.000
+I saw all their kind of basically all their information. Right here in my screen.
+
+00:53:52.000 --> 00:53:57.000
+I'm thinking I wonder if I should really have access to all that data?
+
+00:53:57.000 --> 00:53:59.000
+I mean, I think I'm in a trusted position.
+
+00:53:59.000 --> 00:54:04.000
+But do I really need access to all that data?
+
+00:54:04.000 --> 00:54:05.000
+I know why the date is there. I I was hope I was part of the team that helped set this up.
+
+00:54:05.000 --> 00:54:17.000
+The date is there? Because, especially a lot of our faculty who advise us for students, they might advise students who are not in their majors, so they wouldn't be assigned to them.
+
+00:54:17.000 --> 00:54:20.000
+As their students. And yet their students are interested in their major.
+
+00:54:20.000 --> 00:54:21.000
+So when the student wants to talk to them, they want some information about that students, so they can actually see that.
+
+00:54:21.000 --> 00:54:30.000
+So that we do give faculty access to every single student in the the university. But that's the kind of thing that they're talking about.
+
+00:54:30.000 --> 00:54:38.000
+A student success system. There's there's a reporting part of this as well.
+
+00:54:38.000 --> 00:54:48.000
+I used to when I was an administrator, had a lot more access to that, and it was interesting because you could see how many students in various colleges were ahead of their program.
+
+00:54:48.000 --> 00:54:49.000
+We're likely to succeed, you know. Basically on the green side.
+
+00:54:49.000 --> 00:54:54.000
+Then you had the students in a particular pros.
+
+00:54:54.000 --> 00:54:56.000
+How many are are falling way behind, are likely not to succeed.
+
+00:54:56.000 --> 00:55:03.000
+Kind of the red side, and then everyone in the middle, and the systems are set up so you can actually flag those students.
+
+00:55:03.000 --> 00:55:20.000
+So if you look at your roster you can get a little indication how many students are like in the red, in the yellow, in the green, and then, if you choose to show that to your faculty, we decided when we were setting up we did not want that data shown to faculty.
+
+00:55:20.000 --> 00:55:26.000
+Why would that be a challenge to show that data the faculty?
+
+00:55:26.000 --> 00:55:34.000
+Little indicator next to them. Oh, there's they're way behind, or they're way ahead, you know, doing fine, or they're in the middle State.
+
+00:55:34.000 --> 00:55:35.000
+I know. Adam, your hands up for the other hand. But what do you think?
+
+00:55:35.000 --> 00:55:47.000
+Can you try to tackle my question?
+
+00:55:47.000 --> 00:55:48.000
+No!
+
+00:55:48.000 --> 00:55:50.000
+Are you asking? I can keep my hand up for the other one, but.
+
+00:55:50.000 --> 00:55:55.000
+Okay, well, how about someone else? Anyone else wanna talk. And then you're here.
+
+00:55:55.000 --> 00:56:04.000
+I don't think you just. You didn't come just to hear me talk to you.
+
+00:56:04.000 --> 00:56:05.000
+Okay. Dr. B.
+
+00:56:05.000 --> 00:56:12.000
+Maybe there, I wouldn't be so vain to think so, so we're talking about identifying students in a roster, a class roster as being like red, yellow, or green.
+
+00:56:12.000 --> 00:56:17.000
+Red is in, you know who this is a student that may not make it green.
+
+00:56:17.000 --> 00:56:23.000
+This student's gonna make it no problem and yellow. The student, you know, probably will make it, but might not still kind of up in the air.
+
+00:56:23.000 --> 00:56:31.000
+We haven't decided yet. Sorry, Adrian, was I talking over you?
+
+00:56:31.000 --> 00:56:38.000
+Oh, yes, I was gonna type it in the chat. But yeah, it could be just maybe buy it.
+
+00:56:38.000 --> 00:56:39.000
+Uhhuh.
+
+00:56:39.000 --> 00:56:57.000
+Be a problem. If professors, I'm just thinking from my perspective as an English instructor, that being able to see that much data may lead to tracking into certain classes or bias that they should be in a developmental class for example.
+
+00:56:57.000 --> 00:57:04.000
+Yeah, exactly. I mean, it's the whole idea of the side of labeling because it's labeling students it's labeling students in the roster, as you know.
+
+00:57:04.000 --> 00:57:08.000
+Whoever, however, many, are like labeled red, it's like, Oh, this student's probably not gonna make it.
+
+00:57:08.000 --> 00:57:14.000
+I probably shouldn't expect that student to do very well right, or the green says, Oh, that's probably gonna be fine.
+
+00:57:14.000 --> 00:57:16.000
+You should expect unavailable to do your class well, because they've got a great preparation in their on track, and the rest.
+
+00:57:16.000 --> 00:57:23.000
+Well, you never know, but they've been studying done around this for decades.
+
+00:57:23.000 --> 00:57:29.000
+Labeling, right.
+
+00:57:29.000 --> 00:57:36.000
+Yeah, I'm curious about what? Yeah, I guess the data could be helpful if there's going to be something like intervention support coordination, right?
+
+00:57:36.000 --> 00:57:37.000
+Yeah. Hmm.
+
+00:57:37.000 --> 00:57:49.000
+Giving, getting people, the resources the support that they need to to succeed within the organization but I'm wondering, like, let's say you have that data right?
+
+00:57:49.000 --> 00:57:53.000
+Your professor, maybe at the undergrad level as well.
+
+00:57:53.000 --> 00:57:56.000
+What is S. S. Ssu's system? 2. A data.
+
+00:57:56.000 --> 00:58:05.000
+Does it? Can it trigger a certain intervention attempts, or is it mostly just like we teach students and professors?
+
+00:58:05.000 --> 00:58:16.000
+Yeah, it's good question. Actually, this is probably used mostly with professional advisors who are charged with advising a very large number of students in their various colleges and departments.
+
+00:58:16.000 --> 00:58:20.000
+And then the faculty primarily do what we call program advising.
+
+00:58:20.000 --> 00:58:21.000
+And so they'll talk to students when they're at looking for.
+
+00:58:21.000 --> 00:58:27.000
+Courses, you know, after they're done all their general education classes and they're just in the Majors.
+
+00:58:27.000 --> 00:58:35.000
+Then most of that advising goes to faculty faculty with large advising workloads will probably use the system, but many faculty still won't use it.
+
+00:58:35.000 --> 00:58:52.000
+The system is able, though, to trigger based on various triggering events or searches, it'll it can do a a regular search in the system based on student records which students might need some type of intervention and they can always do that.
+
+00:58:52.000 --> 00:58:55.000
+And send lists to faculty or advisors say, Hey, look!
+
+00:58:55.000 --> 00:58:59.000
+These are your advisors who are in. Have this kind of situation going on.
+
+00:58:59.000 --> 00:59:03.000
+We, you know this is a kind of, you know, communicating campaign.
+
+00:59:03.000 --> 00:59:09.000
+Maybe there's need to talk to Advisor. Let's invite them to advise him, or perhaps there's a particular action they need to take let's set up a reminder campaign to remind them to take that action or things like that.
+
+00:59:09.000 --> 00:59:20.000
+So the system can can do all of that. It's it's actually very robust in that way.
+
+00:59:20.000 --> 00:59:21.000
+Adam.
+
+00:59:21.000 --> 00:59:37.000
+I was just wondering I'm assuming. Well, you've been sfsu long enough that I'm assuming some of these platforms like you were there before these platforms were even rolled out at the school, and like I totally believe that these advising programs in
+
+00:59:37.000 --> 00:59:40.000
+the University should be tracking some of this data for students.
+
+00:59:40.000 --> 00:59:41.000
+Huh!
+
+00:59:41.000 --> 00:59:58.000
+And it's just about like how, 'cause like, I wonder if there's any like a B testing this this university or universities have done to say, like, Okay, this is what this is.
+
+00:59:58.000 --> 00:59:59.000
+Right.
+
+00:59:59.000 --> 01:00:00.000
+What we would do just for like I don't know the more like at Registrar type administrative data we collect in general versus using these platforms.
+
+01:00:00.000 --> 01:00:07.000
+I just put in the chalk. I wonder I did, from what I know, and I graduated college in 2,011, like what?
+
+01:00:07.000 --> 01:00:12.000
+What would my academic experience had been like had I been more tracked and advised versus like the free.
+
+01:00:12.000 --> 01:00:13.000
+For all that, I felt like I had of a huge State school.
+
+01:00:13.000 --> 01:00:20.000
+Of just trying to figure it out on my own, and like would I have been more successful one way or the other?
+
+01:00:20.000 --> 01:00:21.000
+Yeah.
+
+01:00:21.000 --> 01:00:25.000
+I'll never really know. But it is just an interesting thought. Now that we have these capabilities.
+
+01:00:25.000 --> 01:00:26.000
+Right. Well, here's an interesting thing at San Francisco State.
+
+01:00:26.000 --> 01:00:35.000
+Most undergraduates change their major at least twice as usually more like 3 times, and we have a.
+
+01:00:35.000 --> 01:00:41.000
+We have a debate on campus, so whether or not that's a is that a bad thing or or a good thing actually, and the people who are more about efficiency, and well, that's a bad thing.
+
+01:00:41.000 --> 01:00:59.000
+Every time they change their major they're usually taking at least 2, 3, sometimes you know, a whole semester's worth of classes differently than they had been going before, because now that Major, you know, since so compatible what the system will do is say if the students kind of at risk for not following through in
+
+01:00:59.000 --> 01:01:05.000
+a particular major. It'll look at what their, what their history has been, and give the advisors some suggestions.
+
+01:01:05.000 --> 01:01:06.000
+On these are these are related majors, that are more likely to have success.
+
+01:01:06.000 --> 01:01:24.000
+So, for example, we have students who are in a like a pre nursing program, or like kind of like a super light premed kind of track, and when it becomes clear that a student is not likely to succeed in us, they're getting relatively low grades and courses that we know you need to get these are
+
+01:01:24.000 --> 01:01:25.000
+classes you need A's and B's in order to get to your final destination.
+
+01:01:25.000 --> 01:01:32.000
+But you might be find some success in clinical sciences.
+
+01:01:32.000 --> 01:01:44.000
+You know some other health related Field. That doesn't have as much academic rigor in these particular courses required, so the student is more likely to finish on on time.
+
+01:01:44.000 --> 01:01:48.000
+So the question about students changing majors, yeah, it's not.
+
+01:01:48.000 --> 01:01:52.000
+It's not efficient, but if it gets to the student to a place where they're actually graduating with a degree they want, because they tried some other things out, didn't work out so well.
+
+01:01:52.000 --> 01:02:08.000
+So I really don't want to be a history major, or I really don't want to be a biology major, or whatever it might be, I find oh, actually, I want to study this. And they finished that.
+
+01:02:08.000 --> 01:02:12.000
+And they end up with a degree they actually like, and actually can use.
+
+01:02:12.000 --> 01:02:14.000
+Is is that more success? Right would have been would have been, not success if they get that initial history degree.
+
+01:02:14.000 --> 01:02:21.000
+And find out when they're done. Why did I do this?
+
+01:02:21.000 --> 01:02:27.000
+You know, and then it, you know, they end up just doing, you know, retail, because there's nothing else they want to do.
+
+01:02:27.000 --> 01:02:31.000
+And they really maybe don't want to work in the field of history.
+
+01:02:31.000 --> 01:02:33.000
+So that's one of our challenges.
+
+01:02:33.000 --> 01:02:38.000
+Actually, that's a challenge in the American system, because most of a lot of our campuses maybe not all of them.
+
+01:02:38.000 --> 01:02:46.000
+But many of them are. Allow. Allow students to make changes. There are other systems around the world in higher education that would not allow this, or might allow it technically.
+
+01:02:46.000 --> 01:02:51.000
+But it's never done, because there are other social reasons why it's not done.
+
+01:02:51.000 --> 01:02:54.000
+It's not allowed socially.
+
+01:02:54.000 --> 01:03:00.000
+Right like, there's an incredible embarrassment, maybe, for a student or a family.
+
+01:03:00.000 --> 01:03:07.000
+If someone's in a particular track and can't finish it and try and changes it, it might be technically okay.
+
+01:03:07.000 --> 01:03:16.000
+Yet the social, the social, you know, rules around behavior may say that we don't do here.
+
+01:03:16.000 --> 01:03:29.000
+There may be some schools that are like that, but in general the American public system has always seemed to at least, except that for the most part.
+
+01:03:29.000 --> 01:03:31.000
+Adam, yeah. Is, is still your hands up. Still more to say about.
+
+01:03:31.000 --> 01:03:38.000
+Yeah, well, this was just from the this is my question just regarding the other article.
+
+01:03:38.000 --> 01:03:39.000
+Okay, which one?
+
+01:03:39.000 --> 01:03:46.000
+Actually, the thoughts are the the one on higher order, thinking skills which somehow I didn't quite.
+
+01:03:46.000 --> 01:03:50.000
+I just they seem to throw it hot without actually saying what hops was.
+
+01:03:50.000 --> 01:04:07.000
+But now that now that you say it, it's obvious, anyway, my question, though, is around this, the reference to learning styles, which, like they defined, I thought it was interesting, because my understanding was that, like learning styles, as we have understood it historically has been
+
+01:04:07.000 --> 01:04:27.000
+debunked, but like there, this seem to be around like a specific type of learning styles that maybe gets more to learning preference, and not some sort of innate cognitive thing around like visual visual auditory, all that which which I understood has been debunked with something else but
+
+01:04:27.000 --> 01:04:31.000
+I I was always having a hard time understanding this article as a whole, but what they were getting at here.
+
+01:04:31.000 --> 01:04:36.000
+Yeah, yeah, cold's work is usually what they're referring to.
+
+01:04:36.000 --> 01:04:43.000
+At least a lot of people refer to that. So the thing I I would do is I would go down. Did you go down to the references?
+
+01:04:43.000 --> 01:04:47.000
+I went to the I did not.
+
+01:04:47.000 --> 01:04:48.000
+Okay, so this thing.
+
+01:04:48.000 --> 01:04:50.000
+I went very far down, but not as far as the references, and went there.
+
+01:04:50.000 --> 01:04:52.000
+I looked at this, and this made sense to me.
+
+01:04:52.000 --> 01:04:57.000
+Okay, well, what I will usually do is go back to the go down to the references.
+
+01:04:57.000 --> 01:05:02.000
+And look here for some of this work here.
+
+01:05:02.000 --> 01:05:03.000
+Gotcha!
+
+01:05:03.000 --> 01:05:11.000
+And and this is almost that's a book, right? So the library often has these right. Almost all these references will be available in the library.
+
+01:05:11.000 --> 01:05:13.000
+Gotcha!
+
+01:05:13.000 --> 01:05:14.000
+Books still mine. That might be a physical book. I don't know if they have.
+
+01:05:14.000 --> 01:05:28.000
+If there's an online version of that book or not, but that would be the place to kind of look, because oftentimes the book in particular, whatever the resources, if they don't do a good job of defining it in the article, I look at the reference, that they're using for this and
+
+01:05:28.000 --> 01:05:35.000
+that usually starts out with some sort of a definition in an introduction for it. Or it's the conclusion of the okay.
+
+01:05:35.000 --> 01:05:39.000
+Gotcha. Okay? But like, but this is, this is okay.
+
+01:05:39.000 --> 01:05:43.000
+So call this kind of the like now prevailing. I around learning styles.
+
+01:05:43.000 --> 01:05:45.000
+That's probably updated from.
+
+01:05:45.000 --> 01:05:48.000
+Well, it's another take on learning styles let's just put it that one.
+
+01:05:48.000 --> 01:05:50.000
+Okay.
+
+01:05:50.000 --> 01:05:51.000
+Gotcha. Okay.
+
+01:05:51.000 --> 01:05:57.000
+It's not talking about, really. The same thing. Okay, you know, you can talk about what do you mean when you say learning?
+
+01:05:57.000 --> 01:06:00.000
+Well, how do you? How are you? Gonna you know, basically, how do?
+
+01:06:00.000 --> 01:06:01.000
+How do you arrange it? What's your framework?
+
+01:06:01.000 --> 01:06:03.000
+Right, right.
+
+01:06:03.000 --> 01:06:05.000
+So that's what that is. Okay. So let's do this.
+
+01:06:05.000 --> 01:06:20.000
+Let's let's take a 5 min break, and then come back at quarter past the hour, and then we're going to do a group activity so that the rest of you can talk to, and you don't have to talk to me talk to each other.
+
+01:06:22.000 --> 01:06:26.000
+Okay, we're back.
+
+01:06:26.000 --> 01:06:32.000
+Cool, I wanna show you one more example. This is actually an example.
+
+01:06:32.000 --> 01:06:36.000
+I think I'll post the link over here. Have it on the screen.
+
+01:06:36.000 --> 01:06:41.000
+So I'm looking over to the side. This is from an assessment company.
+
+01:06:41.000 --> 01:06:45.000
+They basically will create tests. And you can buy their tests.
+
+01:06:45.000 --> 01:06:50.000
+But another nice thing they have is they they have some free tests. So you can actually sample out their stuff.
+
+01:06:50.000 --> 01:06:53.000
+That's so. They talk about an adaptive, reasoning test.
+
+01:06:53.000 --> 01:07:00.000
+But they also talk about using and basically adaptive testing questions.
+
+01:07:00.000 --> 01:07:05.000
+And they're gonna ask you questions like this. And so what you can do here if you go to the free tests, link it.
+
+01:07:05.000 --> 01:07:09.000
+It gets you actually to let me give you one more page.
+
+01:07:09.000 --> 01:07:13.000
+And here you can try some different ones, 4 to different packages.
+
+01:07:13.000 --> 01:07:19.000
+And actually, there are many here as well, you can take an antonyms test abstract reasoning, inductive reasoning, logical reasoning, lots of different things.
+
+01:07:19.000 --> 01:07:27.000
+They sell these tests to businesses, so the businesses can give these tests to employees or people who want to be employees.
+
+01:07:27.000 --> 01:07:30.000
+Perhaps so they get sense for this. I don't know if schools are using this or not.
+
+01:07:30.000 --> 01:07:35.000
+I've never heard of them before myself. Vocabulary tests.
+
+01:07:35.000 --> 01:07:46.000
+So this one, this one looked interesting, this Raymond's progressive matrices test.
+
+01:07:46.000 --> 01:07:50.000
+So it tests your non verbal, abstract, and cognitive function.
+
+01:07:50.000 --> 01:07:55.000
+Interesting, huh? And the candidates jobs choose the right diagram, right?
+
+01:07:55.000 --> 01:08:05.000
+So candidate has in like a maybe a hiring candidate, choose from the right diagram from the set of 5 answers, and then you get 10 questions.
+
+01:08:05.000 --> 01:08:08.000
+I think all of their packs. I think they're just basically make these for 10 questions.
+
+01:08:08.000 --> 01:08:14.000
+And you have 5 min to answer it. So if we click, start, it'll start.
+
+01:08:14.000 --> 01:08:20.000
+So we try this. So here we go. What? What replaces the question? Mark.
+
+01:08:20.000 --> 01:08:25.000
+So we're trying to look at our some spatial reasoning here.
+
+01:08:25.000 --> 01:08:29.000
+I think what should be in this lower right hand box. What letter?
+
+01:08:29.000 --> 01:08:35.000
+A, b, c, d, e, f, g, or H.
+
+01:08:35.000 --> 01:08:39.000
+Looks like it. I think it. Well, it's not the one I thought it should be.
+
+01:08:39.000 --> 01:08:42.000
+Hmm!
+
+01:08:42.000 --> 01:08:43.000
+Anyone have an idea?
+
+01:08:43.000 --> 01:08:49.000
+Hmm!
+
+01:08:49.000 --> 01:08:53.000
+Oh, they're not exactly the same.
+
+01:08:53.000 --> 01:08:54.000
+Which one?
+
+01:08:54.000 --> 01:08:55.000
+Is it? E, e, yeah.
+
+01:08:55.000 --> 01:08:57.000
+You said e well, I don't know. Let's find out.
+
+01:08:57.000 --> 01:09:03.000
+We'll answer E, and then go onto the next one.
+
+01:09:03.000 --> 01:09:08.000
+What replaces the question. But I guess we're only getting 3 questions, because this is a sample.
+
+01:09:08.000 --> 01:09:25.000
+What replaces the question. Mark, hmm! Now, what would this be?
+
+01:09:25.000 --> 01:09:30.000
+Alright! I have no idea.
+
+01:09:30.000 --> 01:09:32.000
+This is hard.
+
+01:09:32.000 --> 01:09:38.000
+Let's try. See? Okay? Why, I don't know what replaces the question.
+
+01:09:38.000 --> 01:09:48.000
+Mark, let's try this other one. Now I wonder how you know if this would be adaptive, and if it is it adapting to my answers? I don't know.
+
+01:09:48.000 --> 01:09:58.000
+Maybe it is.
+
+01:09:58.000 --> 01:10:05.000
+I get the feeling. This one is something other than H. But let me put H in there.
+
+01:10:05.000 --> 01:10:12.000
+That's similar. Answer. We got 0 out of 3.
+
+01:10:12.000 --> 01:10:15.000
+Well, I could buy a test for 39, 95. I don't think so.
+
+01:10:15.000 --> 01:10:21.000
+So? Can you tell me also, F is correct. So F would be correct.
+
+01:10:21.000 --> 01:10:26.000
+Just over here, which means the outer shape, is the same, but the minimum is in different.
+
+01:10:26.000 --> 01:10:34.000
+I'm not sure exactly. Why. Okay? Well, I've I've been trying to find examples of like adaptive tests that we could actually try out.
+
+01:10:34.000 --> 01:10:46.000
+And I really haven't found a good one yet, although I do know that if you want to do a good one yet, although I do know that if you want to do a Khan Academy, you could take a one of their simple courses, the content, you know you know maybe and go through that
+
+01:10:46.000 --> 01:10:48.000
+or content. You wanted to learn and run into that, and some of their courses are built more with that than others.
+
+01:10:48.000 --> 01:11:05.000
+Now they're also some of the some of the Mooc platforms are some of the kind of courses that are available in the online learning initiative through Carnegie Mellon University actually use adaptive assessments and kind of embedded so more of
+
+01:11:05.000 --> 01:11:10.000
+a adaptive learning kind of functionality, in part because they're doing research on that.
+
+01:11:10.000 --> 01:11:17.000
+And they want as many people as possible going through their courses so that they can grab data about how well the instructions working.
+
+01:11:17.000 --> 01:11:23.000
+And you know, they basically learning things. They're doing learning science research on.
+
+01:11:23.000 --> 01:11:28.000
+Yeah, there are other example don't mean there are lots of different places that are building this stuff.
+
+01:11:28.000 --> 01:11:31.000
+One of them that I know some I have some colleagues at Unc.
+
+01:11:31.000 --> 01:11:36.000
+Charlotte, and they use, realize it, realize it. That's another one.
+
+01:11:36.000 --> 01:11:39.000
+You can take a look at that as well.
+
+01:11:39.000 --> 01:11:44.000
+Realize it.com. I think if you can get through their marketing stuff.
+
+01:11:44.000 --> 01:11:47.000
+Oh, well, it's actually one word. Realize it, I think.
+
+01:11:47.000 --> 01:11:57.000
+What they do is they help institutions by developing. Excuse me, custom, adaptive assessment, built into adaptive learning systems.
+
+01:11:57.000 --> 01:12:02.000
+And so they go through a design process that takes a number of months to go through.
+
+01:12:02.000 --> 01:12:14.000
+And it's relatively expensive. But then an institution get its course, the content it wants for a particular course built into an adaptive adaptive assessment system. You don't have to rely on a publisher to build it for them.
+
+01:12:14.000 --> 01:12:23.000
+Well, it realize it becomes the publisher. Actually, I think it was a Uk company I met them at a conference line 8 or 9 years ago, and it was really interesting.
+
+01:12:23.000 --> 01:12:26.000
+I thought this guy's gonna make it as a business, and apparently he did.
+
+01:12:26.000 --> 01:12:31.000
+And tech startup. So there are places like that, smart sparrows, another one.
+
+01:12:31.000 --> 01:12:36.000
+A lot of people have used. I think they're still in business, still doing work.
+
+01:12:36.000 --> 01:12:49.000
+Where you can use their tool, I think, to build your own like adaptive e-learning systems, adaptive learning, learning, smart sparrow, other kinds of ones.
+
+01:12:49.000 --> 01:12:59.000
+Alright! Let's take. Let's let's take a take an opportunity to do some discussing about this.
+
+01:12:59.000 --> 01:13:19.000
+And really what what I'm interested in hearing from you, in your discussions was, what do you think it would take to have adaptive learning and you're in your system, your instructional environment, whether it's a school or an institution of you know a training, organization or something like
+
+01:13:19.000 --> 01:13:20.000
+that? What do you? You know? Where do you think it could really help?
+
+01:13:20.000 --> 01:13:25.000
+And what do you think is kind of holding it, holding it back?
+
+01:13:25.000 --> 01:13:29.000
+Is it just a matter of don't know if it's available we'd have to build it ourselves.
+
+01:13:29.000 --> 01:13:33.000
+Don't know if we can do that, or we know it's available.
+
+01:13:33.000 --> 01:13:35.000
+But it's to expensive for us, or may we never.
+
+01:13:35.000 --> 01:13:40.000
+We don't really think we need it. You know that kind of thing that could be very true.
+
+01:13:40.000 --> 01:13:43.000
+I mean, schools that aren't using especially higher education, where it's available.
+
+01:13:43.000 --> 01:13:49.000
+And it's kind of got a track record of success often aren't using it.
+
+01:13:49.000 --> 01:13:52.000
+Wine.
+
+01:13:52.000 --> 01:13:57.000
+Thank 2 major reasons, cost, although the cost. It's not.
+
+01:13:57.000 --> 01:14:03.000
+It's not as expensive as it used to be, and it's not that much more than traditional costs.
+
+01:14:03.000 --> 01:14:18.000
+For 2 faculty faculty control, exactly, one it to do things their way in the systems that they get from publishers are usually not very adaptable to faculty desires cause they're built.
+
+01:14:18.000 --> 01:14:26.000
+They're highly designed there's a lot of a lot of engineering kind of, you know, learning engineering kind of goes into that adaptive learning piece of it.
+
+01:14:26.000 --> 01:14:28.000
+Any adaptive assessment, part of it, as well.
+
+01:14:28.000 --> 01:14:34.000
+And that's not easy just to change out. Oh, you want those 10 questions okay, we'll just take hours out and put yours in.
+
+01:14:34.000 --> 01:14:36.000
+There be a lot of work that we've done with that?
+
+01:14:36.000 --> 01:14:37.000
+So let's go into breakouts. We'll do 3 breakouts.
+
+01:14:37.000 --> 01:14:44.000
+So that means we'll have 3 groups. Okay, 3 groups.
+
+01:14:44.000 --> 01:14:50.000
+We got that got the mass down. That means there'll be a couple of groups of 3, one group of 2 be randomly assigned.
+
+01:14:50.000 --> 01:14:54.000
+You can put your notes into the the document I shared.
+
+01:14:54.000 --> 01:15:05.000
+There's a place there for session. 12. Those of you who are watching the recording I'm gonna pause the recording while we do the breakout, and then we'll bring it back for the debrief. I'd actually I'd like you to put your ideas.
+
+01:15:05.000 --> 01:15:14.000
+In there as well. Alright! Just add your notes to next to the group that you think that maybe you want to comment right on, but make make sure your name is on your notes, so I can see it's you.
+
+01:15:14.000 --> 01:15:18.000
+So you get credit for being here asynchronously.
+
+01:15:18.000 --> 01:15:27.000
+Any questions?
+
+01:15:27.000 --> 01:15:29.000
+Hi! Everyone! Welcome! Back! We're not gonna have that error.
+
+01:15:29.000 --> 01:15:34.000
+Alright. So we're back on the record here. That was a quick 15 min for those of you online, asynchronously.
+
+01:15:34.000 --> 01:15:41.000
+Maybe you got something to eat. Maybe you didn't it only took 30 s, probably of the computer tape group one is back first.
+
+01:15:41.000 --> 01:15:43.000
+And so they're gonna tell us what they came up with.
+
+01:15:43.000 --> 01:15:48.000
+Let me share it while you start talking. Group one.
+
+01:15:48.000 --> 01:15:57.000
+Yeah, I mean, and we really didn't unfortunately have a whole lot in the way of our experience with adaptive instruction or assessment.
+
+01:15:57.000 --> 01:16:00.000
+I mean, I think that we're each gonna share our part.
+
+01:16:00.000 --> 01:16:02.000
+So for me. I can just like, I said.
+
+01:16:02.000 --> 01:16:10.000
+I think the canvas quizzes, and in my settings, for that is the closest I get to adapt to assessment.
+
+01:16:10.000 --> 01:16:17.000
+I do differentiate instruction even within my class.
+
+01:16:17.000 --> 01:16:22.000
+So I think you know as much as possible, using universal design.
+
+01:16:22.000 --> 01:16:26.000
+But I don't think that that's the same thing.
+
+01:16:26.000 --> 01:16:33.000
+So all that my group members talk about their experience.
+
+01:16:33.000 --> 01:16:36.000
+Yeah, I just agree, that's not the same. Not exactly the same thing.
+
+01:16:36.000 --> 01:16:37.000
+Yeah.
+
+01:16:37.000 --> 01:16:43.000
+But but the the principle. It's a valid principle, right?
+
+01:16:43.000 --> 01:17:04.000
+The principle is, you give people things that ways of learning that are more custom, fit to them as much as possible, and that we're talking about the same thing now for assessment, assessing learners in ways that that are that are adaptable to them, so that we have a better opportunity to
+
+01:17:04.000 --> 01:17:05.000
+Right.
+
+01:17:05.000 --> 01:17:06.000
+measure whatever we think is a relevance, whatever it might be.
+
+01:17:06.000 --> 01:17:11.000
+Now is state performance, ability, whatever it might be. Anyone else from Group One.
+
+01:17:11.000 --> 01:17:17.000
+Yeah. I'll go next. So I think I'm speaking about my work experience.
+
+01:17:17.000 --> 01:17:20.000
+I lead a group of students systems in my office from time to time, based on my student assistance performance based on, you know.
+
+01:17:20.000 --> 01:17:34.000
+The questions they asked me. I can tell if there are like repeated questions there, keep the bringing up on a certain topics.
+
+01:17:34.000 --> 01:17:44.000
+I can tell. They are probably lack of knowledge or information about some, and that can, you know, put 'em aside, or during my one-on-one meetings with them?
+
+01:17:44.000 --> 01:17:51.000
+Kinda just know. Show them a role, and then maybe gonna a reminder, refresh their information once again.
+
+01:17:51.000 --> 01:18:09.000
+But really this is down by for me the way I do it is just based on my observation, you know, whenever whenever I'm looking at my group chats Microsoft teams or in office chat, you know, verbally, I can hear it, and I notice something's coming up over and over then I can
+
+01:18:09.000 --> 01:18:26.000
+do that. I don't really have a on my process, or like systematically way to, you know, search through a keywords in our chats or transcripts, and then sort of different topics stuff like that for our students.
+
+01:18:26.000 --> 01:18:35.000
+I think it could be doable but to create automate process or something like this, to track the conversations could be very time consuming.
+
+01:18:35.000 --> 01:18:36.000
+So, yeah.
+
+01:18:36.000 --> 01:18:49.000
+Yeah, you think about the systems that do this? Well, I mean, even outside of the world of computer based systems this, this, you know, if you've got people who are being coached let's say it's let's say, some sort of a sports.
+
+01:18:49.000 --> 01:18:55.000
+Sports or other kind of performance area, or, you know, music even somewhere, performance is important.
+
+01:18:55.000 --> 01:19:04.000
+You know the time and effort it takes into the give individualized instruction, but also a kind of like a dive or individualized assessment.
+
+01:19:04.000 --> 01:19:21.000
+It's pretty pretty phenomenal. Some of the most expensive schools to provide like, I'm thinking, in Higher Ed, are music schools or art schools where there's a lot of studio work involved in the studio work or the performance work requires a lot of like individual
+
+01:19:21.000 --> 01:19:29.000
+kind of assessments. And if you then you would, you know, basically give people their own path towards improvement because of where they are at.
+
+01:19:29.000 --> 01:19:36.000
+And you would maybe assess them differently. And so I mean, that's kind of what the computers doing.
+
+01:19:36.000 --> 01:19:41.000
+Is that super highly individualized kind of under identifying? Well, what do you know?
+
+01:19:41.000 --> 01:19:50.000
+Where do we wanna go with this? And how do we get you there, and how we are doing along the path I mean, it happens humans to do this, but they do it in the context?
+
+01:19:50.000 --> 01:20:00.000
+Of very highly, you know, expensive in terms of time and effort, and you know proximity oftentimes one to one, you know, one coach, one tutor, 2 T.
+
+01:20:00.000 --> 01:20:10.000
+You know, one person being coached in an individual. Maybe the coach is in charge of a bunch of people, but they're working with individuals as opposed to groups for assessment.
+
+01:20:10.000 --> 01:20:17.000
+That's that's not always true, but that's that's kind of some of the some of the analogy there to the noncomputer based world.
+
+01:20:17.000 --> 01:20:20.000
+Lisa. I can think of.
+
+01:20:20.000 --> 01:20:24.000
+Anything else. From Group One.
+
+01:20:24.000 --> 01:20:25.000
+Last Chance.
+
+01:20:25.000 --> 01:20:26.000
+Way you're muted.
+
+01:20:26.000 --> 01:20:31.000
+Yeah, yeah, sorry. I I turned the notes.
+
+01:20:31.000 --> 01:20:36.000
+Said I wasn't not really familiar with the concept of adapting, learning.
+
+01:20:36.000 --> 01:20:44.000
+I mean the technology, I mean, adoptive instruction of the teacher would do that all the time.
+
+01:20:44.000 --> 01:21:00.000
+But as a technology, I was not familiar with it. I at work in my own study from process I took the Tofo exam and took the Gr. Exam.
+
+01:21:00.000 --> 01:21:07.000
+I think, yeah, this they give you a next question based on your previous performance.
+
+01:21:07.000 --> 01:21:08.000
+Yup!
+
+01:21:08.000 --> 01:21:10.000
+I think that is exactly adaptive assessment, but at work I first I didn't know.
+
+01:21:10.000 --> 01:21:28.000
+Hmm! And there's this stuff. And a second. I I don't know when we can use this technology.
+
+01:21:28.000 --> 01:21:32.000
+Well way. Do you ever use Duolinga with your students?
+
+01:21:32.000 --> 01:21:37.000
+I recommend they use, but not in class. We haven't done together.
+
+01:21:37.000 --> 01:21:39.000
+I recommend the use, their self Staff.
+
+01:21:39.000 --> 01:21:42.000
+Duolingo is an example of adaptive assessment.
+
+01:21:42.000 --> 01:21:43.000
+Got it. Got it?
+
+01:21:43.000 --> 01:21:47.000
+That's really all that platform is. Well, 99% of that platform is assessment. You know.
+
+01:21:47.000 --> 01:21:52.000
+Can. Can can you put this words again, you know, and they're asking different styles of questions.
+
+01:21:52.000 --> 01:21:53.000
+But they're really asking you to produce language or recognize language.
+
+01:21:53.000 --> 01:22:04.000
+And if you read what they, what they talk about, how they work, their systems they talk about a lot of a adaptive assessment, AI power.
+
+01:22:04.000 --> 01:22:12.000
+We give you questions based on your history of responses, those kind of things, so it it may not be as complex as you think.
+
+01:22:12.000 --> 01:22:13.000
+It is to actually try it.
+
+01:22:13.000 --> 01:22:17.000
+I I see. Okay, thank you. Thank you. That's very good point.
+
+01:22:17.000 --> 01:22:19.000
+Okay. Alright. I don't know which group was back next.
+
+01:22:19.000 --> 01:22:27.000
+Does anyone want to volunteer? Group 2 or Group 3? I know you have Speakers volunteered for sure.
+
+01:22:27.000 --> 01:22:28.000
+Right.
+
+01:22:28.000 --> 01:22:35.000
+We group 2, we can go. Dot Dalton had to leave a little early, but let's see.
+
+01:22:35.000 --> 01:22:46.000
+So, yeah, I mean for Dalton. It was that he needs the tools and then needs to like, go through that evaluation process.
+
+01:22:46.000 --> 01:22:54.000
+To then figure out like how to implement it, and that was similar to what I know.
+
+01:22:54.000 --> 01:22:59.000
+My company, I think essentially work for like an education, consulting company.
+
+01:22:59.000 --> 01:23:06.000
+So you would think this could be something we could implement. Hmm, implement with the university.
+
+01:23:06.000 --> 01:23:13.000
+However, what I found to be the challenge was, you kind of just need, like everything in the right place to do it?
+
+01:23:13.000 --> 01:23:28.000
+And there was always some sort of barrier. So once you decide you want to use it, then you need, like the expertise to implement it, and we just don't have like someone that's an expert in psycho metrics and like even like the the subject matter.
+
+01:23:28.000 --> 01:23:39.000
+Expert in their field of economics, or something like that, like, who's to say what is a challenging question?
+
+01:23:39.000 --> 01:23:40.000
+Right.
+
+01:23:40.000 --> 01:23:49.000
+I was using the analogy of jeopardy that, like sometimes you will jeopardy in that $200 question is really hard, and the $1,000 question is really easy.
+
+01:23:49.000 --> 01:23:50.000
+Yeah.
+
+01:23:50.000 --> 01:23:54.000
+And so how do you know how to actually design a test that's going to give you the outcome?
+
+01:23:54.000 --> 01:23:57.000
+And so there's the kind of like this. If it ain't broke, don't fix it.
+
+01:23:57.000 --> 01:23:58.000
+Mentality, too, of like, or maybe, if any broke, don't disrupt it.
+
+01:23:58.000 --> 01:24:00.000
+Cause like, you know, this in theory, could work. But how? And then you need to figure out, where do you want to pilot this or invest it like?
+
+01:24:00.000 --> 01:24:02.000
+Right, right.
+
+01:24:02.000 --> 01:24:12.000
+What is the right area, where you really know this will work like?
+
+01:24:12.000 --> 01:24:15.000
+Is it that finance course? Is it the is it the calculus course?
+
+01:24:15.000 --> 01:24:19.000
+Of where cause you kind of don't want to just roll that wholesale.
+
+01:24:19.000 --> 01:24:28.000
+And so I feel like there's just all of this like administrative and bureaucratic stuff that really gotten me over like we really want to do this.
+
+01:24:28.000 --> 01:24:29.000
+This is so cool, but then all these other, this decision things came.
+
+01:24:29.000 --> 01:24:37.000
+It's like, let's just do the thing we know we've done for centuries.
+
+01:24:37.000 --> 01:24:50.000
+This. This would have to be a strategic project that is treated like a strategic project with funding, with buy in at the highest levels, you know, a path, etc., etc.
+
+01:24:50.000 --> 01:24:52.000
+So you'd have the investment resources it would take to do it.
+
+01:24:52.000 --> 01:24:59.000
+It certainly can be done. And actually, there's there's an open, open access tool that Carnegie Mellon has created.
+
+01:24:59.000 --> 01:25:04.000
+It's called Taurus. I just added a link to it in the resources for Module 12.
+
+01:25:04.000 --> 01:25:07.000
+But that's a kind of a development tool.
+
+01:25:07.000 --> 01:25:12.000
+I think it's also a delivery tool, the way their languages that's free for anyone to download and use.
+
+01:25:12.000 --> 01:25:18.000
+I think it's going to be. The next version is available, or maybe the first version April wall, like last week or the earlier this week.
+
+01:25:18.000 --> 01:25:25.000
+But that requires a technology team to kind of implement and also to understand how to actually work it and build it.
+
+01:25:25.000 --> 01:25:32.000
+But if you had a group, you know, if it was an important strategic imperative for an institution or a business, you could put a team together to do this.
+
+01:25:32.000 --> 01:25:34.000
+You can hire people who can do this. You just have to decide.
+
+01:25:34.000 --> 01:25:37.000
+It's worth worth doing that's the kind of thing.
+
+01:25:37.000 --> 01:25:47.000
+And that's what Carnegie Mellon is trying to do with this they're trying to get more people doing this, especially in a platform. They're trying to create an open platform so that it's not all locked behind.
+
+01:25:47.000 --> 01:25:55.000
+You know smart sparrow was bought by Prentice. All, I think. What for Pearson, I think, bought it.
+
+01:25:55.000 --> 01:25:58.000
+And so all this and they kind of tell a little bit of that story.
+
+01:25:58.000 --> 01:26:05.000
+So these technologies that people were using to build their adaptive systems kind of get locked into the proprietary system, so that when they go away, what do they get bought up?
+
+01:26:05.000 --> 01:26:06.000
+It's not available anymore for whatever reason. So anyway, that's what they're trying to do with this.
+
+01:26:06.000 --> 01:26:13.000
+And so it is possible, but it it is like you, said.
+
+01:26:13.000 --> 01:26:20.000
+It's it takes people, skills, time, money, all that kind of stuff.
+
+01:26:20.000 --> 01:26:21.000
+Anything else. From Group 2.
+
+01:26:21.000 --> 01:26:27.000
+Hey, Adrian, did you have anything else to add?
+
+01:26:27.000 --> 01:26:30.000
+No, that was, you know. We spent a lot of time talking about buy in.
+
+01:26:30.000 --> 01:26:36.000
+So that was perfect. I feel motivated. Dr. B. To try to build a team.
+
+01:26:36.000 --> 01:26:47.000
+Yeah, well, the faculty buy into I mean one of one of the sales to faculty is this, can reduce your workload for assessment, and then I know faculty, and I've had think this myself sometimes as well.
+
+01:26:47.000 --> 01:26:50.000
+Okay. So you're my marginal cost to take it.
+
+01:26:50.000 --> 01:26:57.000
+Take my marginal time to teach students and then what's gonna happen when now, my class of 25, let's say 50.
+
+01:26:57.000 --> 01:27:01.000
+So well, actually, we're gonna take away like 20% of your assessment time.
+
+01:27:01.000 --> 01:27:04.000
+So can we get put like 5 more students in your class.
+
+01:27:04.000 --> 01:27:05.000
+And you know, maybe that's a fair trade out.
+
+01:27:05.000 --> 01:27:17.000
+I don't know, but that's the kind that's that's another kind of thing you run into with it with the buy in is that not everybody is sold on let's just do it because it's a better way of assessing learning it's like okay, well, what are the
+
+01:27:17.000 --> 01:27:36.000
+downstream. Consequences of this and this especially if we feel like there's some, you know, administrator faculty kind of you know, we're not on the same page about this that could cause, you know, social political backlash and a we left us to try things.
+
+01:27:36.000 --> 01:27:44.000
+And you know it can be kind of messy. As a matter of fact, it often as this is higher education.
+
+01:27:44.000 --> 01:27:49.000
+Okay. Alright. Well, thank you very much. Group 2, yeah. So many notes here.
+
+01:27:49.000 --> 01:27:57.000
+Oh, using glass. Okay, how about group 3.
+
+01:27:57.000 --> 01:28:04.000
+Yeah, so we kind of like, did like the small we didn't like write like full paragraphs or anything.
+
+01:28:04.000 --> 01:28:26.000
+We just kind of tried to keep it. Sure, we talked about how like budgets and like limited resources, having those like a small budget, or like limited resources, could be tough when investing in new technology, not having someone to train, not having someone to train the people to use technology and hop
+
+01:28:26.000 --> 01:28:44.000
+making, sure, that there's like support for potential issues that could arise like with the technology being to have like of it, or having available content and making sure, like students are like, I don't know about you guys.
+
+01:28:44.000 --> 01:28:51.000
+But like for me personally, we're doing standardized testing in our class or in our classes right now, and those kinds of assessments or kids don't have super like high levels of engagement.
+
+01:28:51.000 --> 01:29:01.000
+So like I feel like having an assessment tool that allows them to have higher levels of engagement.
+
+01:29:01.000 --> 01:29:21.000
+I think is tough to come across, which I feel like is why we put that as like a gap and like having collectible data, we're also talking about like how people might question the the validity of the process, and how it might be tough to like rely on those kinds, of systems when
+
+01:29:21.000 --> 01:29:25.000
+we've always done it like ourselves. At least, that's like my interpretation of that.
+
+01:29:25.000 --> 01:29:35.000
+And then, if there's students, if the students performance is being measured accurately.
+
+01:29:35.000 --> 01:29:41.000
+So I was like what we talked about with the first question, sorry did you wanna take the second one?
+
+01:29:41.000 --> 01:29:48.000
+Yeah, sure. So like the second one, like, what's keeping us not to do that like it could be the resources or access to content.
+
+01:29:48.000 --> 01:29:57.000
+But especially like school districts that's serving underground.
+
+01:29:57.000 --> 01:30:04.000
+A resource committee, or maybe they're having tough time with me or a school bus.
+
+01:30:04.000 --> 01:30:15.000
+They would not think about this kind of thing actually, and there could be extra effort needed from the teachers or instructors.
+
+01:30:15.000 --> 01:30:16.000
+Yeah.
+
+01:30:16.000 --> 01:30:18.000
+Yeah, there are. If there are.
+
+01:30:18.000 --> 01:30:24.000
+One of us is breaking up my Internet connection's unstable.
+
+01:30:24.000 --> 01:30:26.000
+Okay.
+
+01:30:26.000 --> 01:30:27.000
+Sorry.
+
+01:30:27.000 --> 01:30:29.000
+Sorry, Dr. Betty, you were saying something.
+
+01:30:29.000 --> 01:30:33.000
+Yeah, I was just saying my Internet, my Internet connection's unstable.
+
+01:30:33.000 --> 01:30:38.000
+And I I was probably breaking into what you were still saying.
+
+01:30:38.000 --> 01:30:40.000
+No please. Go ahead.
+
+01:30:40.000 --> 01:30:43.000
+Well, I just put it. I put a link into the chat, you know. K.
+
+01:30:43.000 --> 01:30:44.000
+12 adaptive assessment can show up in different places.
+
+01:30:44.000 --> 01:30:50.000
+As a matter of fact, in Hawaii their public schools use standardized testing.
+
+01:30:50.000 --> 01:30:54.000
+Like everyone else, but they use an adaptive adaptive assessment platform to do it.
+
+01:30:54.000 --> 01:30:57.000
+So it's adaptive assessment, but it's in.
+
+01:30:57.000 --> 01:30:59.000
+It's it's their standardized testing.
+
+01:30:59.000 --> 01:31:03.000
+And so, you know, those words sort of sort of don't go together.
+
+01:31:03.000 --> 01:31:04.000
+The standards kind of means. Everybody's the same right?
+
+01:31:04.000 --> 01:31:10.000
+So kind of the same for everyone when at reality the test is the same. Exam.
+
+01:31:10.000 --> 01:31:15.000
+But within the exam, students are actually getting unique sets of questions based on, you know, their answers.
+
+01:31:15.000 --> 01:31:21.000
+Those kind of things, so it can show up in places where you might not, where you might not expect it.
+
+01:31:21.000 --> 01:31:41.000
+Oh, that's nice. Yeah, I'll check that. And like, I was talking about the point of like from teachers perspective, having to share extra time and afford to learn new technologies and the access to new contents so that they can apply that to the classroom that could be another reason.
+
+01:31:41.000 --> 01:31:42.000
+Yes, this?
+
+01:31:42.000 --> 01:31:53.000
+And oh, I'm sorry. And also me and I'm not talking like we didn't have much experience in success.
+
+01:31:53.000 --> 01:31:54.000
+Alright!
+
+01:31:54.000 --> 01:31:56.000
+In the success part. So if if you want to share something.
+
+01:31:56.000 --> 01:32:03.000
+Yeah, what I was gonna say is that pretty much anytime you try to get?
+
+01:32:03.000 --> 01:32:10.000
+Teachers are not just teachers, but lots of other people to do things differently, especially when they're personally comfortable with the way they're doing things.
+
+01:32:10.000 --> 01:32:28.000
+It's very difficult. One of the ways, to look for opportunities to introduce new things without as much resistance as when teachers or the professionals, or whoever they are, recognize that there's a serious problem, and they are not satisfied with the current state of things and so they're more likely to try new things
+
+01:32:28.000 --> 01:32:34.000
+which means they're also more likely to try things that they may not completely trust or they're not completely bought into.
+
+01:32:34.000 --> 01:32:43.000
+But they're willing to try it out, so that might be the situation if everyone's comfortable with the way things are are not a problem.
+
+01:32:43.000 --> 01:32:53.000
+So someone wanted to be a change agent around this. They'd have to start by making the case for why the current practice is not good enough.
+
+01:32:53.000 --> 01:32:58.000
+Maybe there's a new opportunity. We're not taking advantage of, and it's such a strong opportunity.
+
+01:32:58.000 --> 01:33:00.000
+How can we possibly not do this? Or this is the we are.
+
+01:33:00.000 --> 01:33:05.000
+We are so broken in this area, we have to try something differently.
+
+01:33:05.000 --> 01:33:09.000
+This might be a solution, can we at least agree to try it out?
+
+01:33:09.000 --> 01:33:25.000
+Those kinds of things, because, you know, if you're gonna be working in a technology area, especially in part of your work, is bringing in new technology as whether it's a training environment or a school environment or anything else, or selling into a market, you have to be able to make the case that this is going to
+
+01:33:25.000 --> 01:33:31.000
+solve a problem right? And maybe the problem is, you're not able to do something you should be able to do, or you're doing something.
+
+01:33:31.000 --> 01:33:34.000
+But it's not working out very well, is it's not working out very well, is it so?
+
+01:33:34.000 --> 01:33:38.000
+Those are some things to kind of. Keep in mind when we're looking at any of these newer technologies.
+
+01:33:38.000 --> 01:33:41.000
+That might be something you bring into your project.
+
+01:33:41.000 --> 01:33:42.000
+You know Case as well, you know. Why is it emerging?
+
+01:33:42.000 --> 01:33:51.000
+And why? Why would someone in your situation actually be interested in something like this?
+
+01:33:51.000 --> 01:33:56.000
+What's the y?
+
+01:33:56.000 --> 01:33:59.000
+Okay. Thank you very much. Groups, thank you for the breakouts.
+
+01:33:59.000 --> 01:34:00.000
+So our asynchronous learners, those of you out there.
+
+01:34:00.000 --> 01:34:06.000
+If you're still listening, I hope you are. Add your comments into this. This discussion.
+
+01:34:06.000 --> 01:34:07.000
+Make sure you put your names on those I do have a link there to this this site from Carnegie Mellon.
+
+01:34:07.000 --> 01:34:13.000
+The open learning, initiative, there's a lot of different things here.
+
+01:34:13.000 --> 01:34:17.000
+Torus is their platform, that they've just released, publicly available.
+
+01:34:17.000 --> 01:34:22.000
+But it is something that's a technology system. So you need technology people to work it.
+
+01:34:22.000 --> 01:34:29.000
+But here's another example of what they have in their system to help, and in their courses they'll you.
+
+01:34:29.000 --> 01:34:33.000
+You can have students use their courses if they find one that needs.
+
+01:34:33.000 --> 01:34:37.000
+But they had. These are the kind of dashboards that they're looking about looking at the dashboards that I was talking about in the Eab navigate system.
+
+01:34:37.000 --> 01:34:45.000
+All work on historical data. None of it is live data on students as far as their academics.
+
+01:34:45.000 --> 01:34:52.000
+It's all about what they did, and it's almost all, probably all of it, based on grades in courses.
+
+01:34:52.000 --> 01:34:58.000
+This dashboard is based on students interactions in a particular course.
+
+01:34:58.000 --> 01:35:05.000
+Okay, so individual level class level, lots of different reports. You can take a look through this and see what they're promising.
+
+01:35:05.000 --> 01:35:08.000
+This is the kind of data that's being generated.
+
+01:35:08.000 --> 01:35:12.000
+You can see they're also using the red, green, and yellow marks right?
+
+01:35:12.000 --> 01:35:19.000
+So students at risk are identified here, too. But this might be interesting for you if you're interested in looking at that.
+
+01:35:19.000 --> 01:35:23.000
+And actually here's of course, Kevin probably most of these are designed for higher education.
+
+01:35:23.000 --> 01:35:24.000
+But that doesn't mean they couldn't actually work in like a like a secondary environment.
+
+01:35:24.000 --> 01:35:31.000
+And if we can do this in higher education, you know these things could be done in K. 12.
+
+01:35:31.000 --> 01:35:34.000
+If someone cared to do them.
+
+01:35:34.000 --> 01:35:39.000
+Carnegie Mellon spent a lot of effort into this because they have a lot of research money from the Nsf.
+
+01:35:39.000 --> 01:35:41.000
+In other places, but they also, you know, they want to attract graduate students and other kind of research opportunities.
+
+01:35:41.000 --> 01:35:49.000
+And so for them. It's a real win, and it is.
+
+01:35:49.000 --> 01:36:00.000
+Yes, they have a big. There's a big Carnegie Foundation to. I don't know if it's connected to the Carnegie Mellon University other than maybe the original funders.
+
+01:36:00.000 --> 01:36:07.000
+Alright. Only thing left for you to do then, I believe, is interact and are wonderful, and soon to be exciting.
+
+01:36:07.000 --> 01:36:13.000
+Session. 12 discussion. We're talking about practical implementations.
+
+01:36:13.000 --> 01:36:16.000
+And here you can. You can kind of mix in this adaptive learning and adaptive assessment, or even more traditional assessment using technology into this post.
+
+01:36:16.000 --> 01:36:30.000
+This is kind of think about this. Maybe try out some ideas you might even throw out some ideas that you're formulating to put into your final paper in a couple of weeks.
+
+01:36:30.000 --> 01:36:34.000
+Did I say? A couple of weeks? Yeah, it's a couple of weeks, just a couple of weeks.
+
+01:36:34.000 --> 01:36:44.000
+If you look at our list of modules, you can see our reorganized everything, and session 13 is now our personal learning environments and assistive technology.
+
+01:36:44.000 --> 01:36:53.000
+Take a look at those readings and articles to look at, and and then session 14 is when we're gonna do our final learning technology project presentations.
+
+01:36:53.000 --> 01:36:58.000
+We have questions about that don't hesitate to send those along, or put them in a forum post somewhere, or we can talk about it in the live class next week as well.
+
+01:36:58.000 --> 01:37:03.000
+Maybe we can start with a few minutes on that.
+
+01:37:03.000 --> 01:37:07.000
+If if there're questions.
+
+01:37:07.000 --> 01:37:12.000
+Yes, I we were. We did. Our group did have questions, but we can.
+
+01:37:12.000 --> 01:37:19.000
+We can bring them up in the live class, or is is there a forum?
+
+01:37:19.000 --> 01:37:22.000
+I forgot in your canvas site.
+
+01:37:22.000 --> 01:37:25.000
+Well, let's find out.
+
+01:37:25.000 --> 01:37:34.000
+You know. I I think there is. There always used to be, but I might have taken it out because it never got used, and if it's not here, it's because I never oh, here it is I think I should PIN this.
+
+01:37:34.000 --> 01:37:36.000
+Okay, it's cool.
+
+01:37:36.000 --> 01:37:40.000
+I'll PIN this up at the top. Next to the reflection form.
+
+01:37:40.000 --> 01:37:41.000
+Thank you. What?
+
+01:37:41.000 --> 01:37:44.000
+And actually, there's there's a new post in there I haven't seen. I saw.
+
+01:37:44.000 --> 01:37:47.000
+I saw. I see it now. I haven't seen it over a month.
+
+01:37:47.000 --> 01:37:52.000
+Oh, my gosh! That's not good!
+
+01:37:52.000 --> 01:37:58.000
+It's okay. It happens to me, too. I, my students, don't usually use a, they just email me directly.
+
+01:37:58.000 --> 01:38:05.000
+I really? Quickly we noticed that, you know, we can do this as part of a group.
+
+01:38:05.000 --> 01:38:06.000
+Yes.
+
+01:38:06.000 --> 01:38:08.000
+I'm not sure if that's what anybody wants to do.
+
+01:38:08.000 --> 01:38:12.000
+But that's different from previous tech. Demos right like.
+
+01:38:12.000 --> 01:38:13.000
+Yes.
+
+01:38:13.000 --> 01:38:16.000
+And this is not necessarily a tech demo, but it cut. It can be.
+
+01:38:16.000 --> 01:38:23.000
+It's really more focused on like like an instructional lesson.
+
+01:38:23.000 --> 01:38:36.000
+Right? Yeah. So for this project, I think the I think the emphasis should be more on explained how the technology supports learning in the various areas we've talked about, then how does the technology specifically work right?
+
+01:38:36.000 --> 01:38:37.000
+You might talk a little bit about how it works, especially with something that's either that we haven't done.
+
+01:38:37.000 --> 01:38:41.000
+But I'm not really expecting that much of that.
+
+01:38:41.000 --> 01:38:49.000
+I'd rather have it focused more on and they'll focus on some supporting learning in a particular context.
+
+01:38:49.000 --> 01:38:52.000
+The instructional context.
+
+01:38:52.000 --> 01:38:55.000
+And so are you looking for us to kind of took it.
+
+01:38:55.000 --> 01:39:07.000
+Look at one technology that supports all 3 aspects of learning, or really just a design that supports all 3 aspects of learning with some technologies that are facilitating that.
+
+01:39:07.000 --> 01:39:11.000
+Yes, I would expect to have technology supporting each of the aspects of learning.
+
+01:39:11.000 --> 01:39:15.000
+It could be a single technology that's doing, you know, doing all of it.
+
+01:39:15.000 --> 01:39:23.000
+It could very much easily be that way, or individual technologies, you know, in each area, or some.
+
+01:39:23.000 --> 01:39:29.000
+Yeah, so could be a single technology. It might also be a suite of technologies.
+
+01:39:29.000 --> 01:39:30.000
+Okay. Great. Thank you.
+
+01:39:30.000 --> 01:39:38.000
+Okay. Alright. Any other questions.
+
+01:39:38.000 --> 01:39:52.000
+All right. Well, thank you very much. See you later. Online, maybe next week in another class, maybe in this class again, or maybe just asynchronously, have a good evening.
+
+01:39:52.000 --> 01:39:53.000
+Bye, bye!
+
+01:39:53.000 --> 01:39:56.000
+And
+

@@ -1,0 +1,1666 @@
+WEBVTT
+
+1
+00:02:19.080 --> 00:02:20.250
+Brian Beatty: Hello! Hello!
+
+2
+00:02:21.200 --> 00:02:22.230
+Adam Hill: Hi!
+
+3
+00:02:23.700 --> 00:02:24.960
+Brian Beatty: Can you hear me? Okay.
+
+4
+00:02:25.310 --> 00:02:26.060
+Adam Hill: Yeah.
+
+5
+00:02:30.100 --> 00:02:32.100
+Brian Beatty: that's practically
+
+6
+00:02:32.420 --> 00:02:35.700
+Brian Beatty: would be something together for class. And I realized
+
+7
+00:02:36.180 --> 00:02:38.010
+Brian Beatty: It's 70'clock.
+
+8
+00:02:39.160 --> 00:02:46.730
+Brian Beatty: I have to open the zoom. Actually, it opens by itself, and it starts recording. So it's recording right now. I'm gonna pause it.
+
+9
+00:02:49.120 --> 00:02:53.930
+Brian Beatty: Okay, welcome. This is our session, 8 in
+
+10
+00:02:54.710 --> 00:03:07.290
+Brian Beatty: hi tech 8, 30 Internet. We're gonna talk primarily about using games and education games to help people learn. And we're going to focus on a couple of things we're gonna spend, probably at least half our time tonight
+
+11
+00:03:07.480 --> 00:03:08.650
+Brian Beatty: playing a game
+
+12
+00:03:08.740 --> 00:03:11.180
+Brian Beatty: and probably
+
+13
+00:03:11.260 --> 00:03:13.530
+Brian Beatty: talking about the game play itself.
+
+14
+00:03:13.560 --> 00:03:23.090
+Brian Beatty: That'll be the most most of what we do. So basically we're gonna we're gonna discuss this kind of in context of game playing. What better way to do that than to share a game
+
+15
+00:03:23.450 --> 00:03:43.100
+Brian Beatty: that many none of you i'm sure I've played it's not the kind of you you would. You would normally be looking to play like with your friends, or or you, or even your students, maybe, but but I do. I think it's a good good, a good game for us to play, anyway. But before we get into that, let's take a quick look at
+
+16
+00:03:43.190 --> 00:03:52.240
+Brian Beatty: the discussion from last week before we jump into that to today's topic. So i'm going to share my screen, and
+
+17
+00:03:54.400 --> 00:04:00.400
+Brian Beatty: we'll also open this up. And, Adam, I know you had something else you wanted to bring into the conversation.
+
+18
+00:04:03.390 --> 00:04:06.390
+Brian Beatty: so makes the moment space for that as well.
+
+19
+00:04:06.870 --> 00:04:20.310
+Brian Beatty: and it and you know it kind of at any point. So in session 7, I don't know most of you, I think, have gone, been able to participate already. I went through, and i've, you know, been kind of adding comments to each of the
+
+20
+00:04:22.310 --> 00:04:31.340
+Brian Beatty: each of the each of the threads here. Does anyone want to pull out any of these comments or the things that you were talking about to to highlight?
+
+21
+00:04:32.680 --> 00:04:34.600
+Brian Beatty: There's there's quite a few here.
+
+22
+00:04:37.910 --> 00:04:43.120
+Brian Beatty: you know, a lot of a lot of talk about. You know various types of
+
+23
+00:04:43.710 --> 00:04:52.860
+Brian Beatty: Xr. You know. Any any letter in front of ours immersive a reality, but also just so augmented reality, virtual reality.
+
+24
+00:04:53.060 --> 00:05:02.880
+Brian Beatty: And just to reiterate this stuff's been around for quite a long time. It it Hasn't Hasn't so much into the mainstream of education. I think a lot because of the
+
+25
+00:05:03.090 --> 00:05:17.870
+Brian Beatty: 2 things, really the technology that's required to use it at a highly immersive level, but also creating the in experiences, typically still takes a substantial amount of design and effort for those immersive experiences.
+
+26
+00:05:18.330 --> 00:05:29.200
+Brian Beatty: There are other things we can use, like immersive video, 360 video things like that that can actually build a more engaging experience for students or watching those that are
+
+27
+00:05:29.280 --> 00:05:33.100
+Brian Beatty: simple to create these days. You just have to have a $400 camera
+
+28
+00:05:33.160 --> 00:05:37.090
+Brian Beatty: to do so. But that's not really what we were talking about
+
+29
+00:05:37.200 --> 00:05:38.750
+Brian Beatty: when we were talking about this.
+
+30
+00:05:43.410 --> 00:05:45.210
+Brian Beatty: Okay, No interest.
+
+31
+00:05:45.750 --> 00:05:46.440
+Brian Beatty: All right.
+
+32
+00:05:47.300 --> 00:05:49.380
+Brian Beatty: Okay. Well
+
+33
+00:05:50.860 --> 00:05:54.010
+Brian Beatty: go ahead, Adam. I was just gonna say I I
+
+34
+00:05:54.090 --> 00:05:59.190
+Adam Hill: I This discussion has gotten me more
+
+35
+00:05:59.830 --> 00:06:11.510
+Adam Hill: open to extended reality environments. I I think I have just seen so many limitations to them in my work
+
+36
+00:06:12.280 --> 00:06:13.770
+Adam Hill: based on cost.
+
+37
+00:06:14.160 --> 00:06:27.560
+Adam Hill: It's like, yeah, the the 2 things you said like the cost, the access to them, and then the time, investment, and resources investment, which is also cost to design something that can actually be used for learning.
+
+38
+00:06:27.690 --> 00:06:44.530
+Adam Hill: But this conversation definitely got me more open to the idea. And I think, Dalton, you even mentioned, like your your prediction, that, like the cost, will go down, and there might be more like open source or other types of accessible
+
+39
+00:06:44.540 --> 00:07:02.130
+Adam Hill: pieces of software. Then to then design to for a to enable an instructional design, or or a teacher to design something which is, which got me more open to this, because it's kind of been off my radar because I just haven't I haven't been in a position to ever really
+
+40
+00:07:02.190 --> 00:07:05.350
+Adam Hill: consider extended reality.
+
+41
+00:07:06.310 --> 00:07:14.310
+Brian Beatty: One of the one of the the things I posted earlier today is this article from 20
+
+42
+00:07:14.560 --> 00:07:21.510
+Brian Beatty: 22 that talks about creating an immersive learning experience for students
+
+43
+00:07:21.550 --> 00:07:40.610
+Brian Beatty: by educators. And it talks about the kind of what it takes to do this. You know the design aspects. What what do you have to plan out? What is some of the tools you might want to use. And if you read through this it seems to be something that's it's I think it's. I think it's something that teachers could do if they were really interested in doing it.
+
+44
+00:07:40.610 --> 00:07:45.520
+Brian Beatty: It is not. It's not easy. The path that they're talking about. It's not a simple path.
+
+45
+00:07:45.520 --> 00:08:03.980
+Brian Beatty: but it is something that you know, technology, savvy teachers, with some access to to some of some resources, especially time, could probably do this. If you're interested in learning a little bit more about that. It's it You can. You know it's a free online Pdf: You can least scan through it and look at some of the things that they're talking about some of the platforms and things like that. Dalton.
+
+46
+00:08:05.110 --> 00:08:16.110
+Dalton Lobo Dias (he/him): Yeah, I think one thing that i'm also noticing that is growing are places where you can go to to VR: I mean, that's the have buying the headset and all that stuff, and all software can be pretty expensive.
+
+47
+00:08:16.200 --> 00:08:19.370
+But I see a lot of people using them for gaming.
+
+48
+00:08:19.390 --> 00:08:27.320
+Dalton Lobo Dias (he/him): and this is I'm. Posting a list of some spots and services I haven't been anywhere in San Francisco yet, but I've done some of these. You know the places
+
+49
+00:08:27.410 --> 00:08:35.780
+Dalton Lobo Dias (he/him): a couple of times, and they're pretty fun, and also they can have better equipment there as well, and sort of like accessories to kind of go with it.
+
+50
+00:08:37.450 --> 00:08:46.710
+Dalton Lobo Dias (he/him): And I I could see it sort of going that way, too, where, instead of like everybody having their own thing. It's kind of shared right like sort of like a lift or uber model type thing.
+
+51
+00:08:48.760 --> 00:08:56.660
+Brian Beatty: Yeah, there, there's a Comp. Who's what's the company that's doing this kind of on the entertainment side. Is it the dreamscape, or
+
+52
+00:08:57.570 --> 00:09:00.800
+Dalton Lobo Dias (he/him): something like that? There's there's one called Sandbox
+
+53
+00:09:02.540 --> 00:09:04.640
+Dalton Lobo Dias (he/him): Black Box Game Day.
+
+54
+00:09:05.030 --> 00:09:06.850
+Adam Hill: Yeah, sandbox.
+
+55
+00:09:07.200 --> 00:09:29.310
+Brian Beatty: Yeah, there's one that I know they have. They've had. They've had like spaces, and like malls and things like that. I don't know how many. There's probably Not that many, because they're pretty. They're pretty costly to build, and you can't charge people a couple of $100 an hour to use them right, because who would do that they worked with as you on on the biology experience, and I I don't know. I think I I think I mentioned that at some point, maybe
+
+56
+00:09:30.000 --> 00:09:30.870
+Brian Beatty: somewhere.
+
+57
+00:09:30.930 --> 00:09:48.730
+Brian Beatty: But that was a special special situation. But there, but their business model essentially is to build these. You know, these experiences that are based more on edge entertainment in places where people gather and let them come in kind of like, you know, like a laser tag. Remember those days.
+
+58
+00:09:48.730 --> 00:09:56.260
+Brian Beatty: or those kinds of things. That's the that's the kind of model that they're there to be trying to do with that. And then and then part of their other model is to.
+
+59
+00:09:56.270 --> 00:10:00.990
+Brian Beatty: I have other people by their services to build them out for their specific uses.
+
+60
+00:10:01.870 --> 00:10:03.740
+Dalton Lobo Dias (he/him): Yeah, I see your dreams, Cape.
+
+61
+00:10:04.380 --> 00:10:14.530
+Brian Beatty: Yeah, but there are other ways. You can do simple things, even with you, You know you can do things with Xr with just smartphones.
+
+62
+00:10:14.540 --> 00:10:42.210
+Brian Beatty: All right. It's like they're limited, of course, but you could, if you, you know creative thinking, you know teachers with creative thinking. you know, have make, make the world go around in many ways. You can do simple things, and they can still be engaging for students. So even though yeah, the the deep in deeply immersive environments cost a lot to build, deploy, and take some, some, some substantial technology to make them work. You can still do simple things, and it can still be really engaging for students, especially if they're used to nothing.
+
+63
+00:10:42.450 --> 00:10:59.480
+Brian Beatty: You know nothing like this. I want a virtual tour, right if you've if you've done those with a class of students there for some some students that may be the closest they ever get to seeing a place like that, and for many of them it can be quite engaging, especially if they got something meaningful to do while they're kind of walking around a space.
+
+64
+00:10:59.570 --> 00:11:02.240
+Brian Beatty: or even just using their arrows to.
+
+65
+00:11:02.400 --> 00:11:09.190
+Brian Beatty: you know, to to go around there. There's a couple of places, you know. There were a bunch of links that were put into the discussion Forum.
+
+66
+00:11:09.930 --> 00:11:10.750
+Brian Beatty: We're on that.
+
+67
+00:11:13.300 --> 00:11:14.040
+Brian Beatty: Okay.
+
+68
+00:11:15.100 --> 00:11:18.980
+Brian Beatty: so, Adam Adam, you want to want to. You want to bring in your
+
+69
+00:11:19.380 --> 00:11:28.460
+Adam Hill: yeah extra time. Well, i'm just interested like, so I know. And I is it? Is it really just in 2 weeks, potentially, that we have? We're presenting on
+
+70
+00:11:28.580 --> 00:11:30.940
+Adam Hill: our next and
+
+71
+00:11:31.050 --> 00:11:35.740
+Brian Beatty: potentially
+
+72
+00:11:35.860 --> 00:11:42.920
+Adam Hill: emerge on engagement technology? And so I think i'm just. I I guess in.
+
+73
+00:11:43.610 --> 00:11:52.200
+Adam Hill: I find that in I do see that, like all 3 of these areas, do overlap of assessment, instruction, and engagement, they all overlap in some way.
+
+74
+00:11:52.220 --> 00:11:55.210
+Adam Hill: but when it comes to engagement
+
+75
+00:11:55.340 --> 00:11:57.550
+Adam Hill: I see it as like a pretty broad
+
+76
+00:11:57.580 --> 00:12:04.960
+Adam Hill: topic, and maybe that's intentional. But like i'm assuming you Don't just mean. like VR games.
+
+77
+00:12:05.330 --> 00:12:16.310
+Adam Hill: and I think coding was is the other topic we're exploring. But, like engagement, can be much more broadly defined for the purposes of this project.
+
+78
+00:12:16.530 --> 00:12:22.730
+Adam Hill: even like, because even in like in my work, student engagement even encompasses like admissions and stuff like that, so like.
+
+79
+00:12:22.880 --> 00:12:24.230
+Brian Beatty: where does it?
+
+80
+00:12:24.340 --> 00:12:35.920
+Adam Hill: Of just like that's engaging a student to come to the school. So just like, where does engagement start in the context of education technology? And where does it end
+
+81
+00:12:36.120 --> 00:12:50.830
+Brian Beatty: a a a bunch of institutions are are basically creating immersive tours, right? And using that as part of the admissions. Or there, you know, the the process to bring a student in to get them interested in the campus.
+
+82
+00:12:50.830 --> 00:13:00.230
+Brian Beatty: but also then to once. They've kind of signed, some, some intention to be there to auto to push this stuff out. Then yeah, come and see what it's like, and you can't be here fine.
+
+83
+00:13:00.230 --> 00:13:17.180
+Brian Beatty: You can do this immersive tour, and the only there's even a there's a company that has a platform that essentially allows the student to to join a tour or to join a do a virtual tour, but also then talk to someone who's like on call to take a call from a student
+
+84
+00:13:17.290 --> 00:13:28.160
+Brian Beatty: online chatting, or maybe even a phone call about this the campus, and especially about specific things on campus. I forget the company that was trying to. They were trying to sell that service to us, but
+
+85
+00:13:28.400 --> 00:13:38.600
+Brian Beatty: as a way of making that more of a more engaging using technology to do things that they couldn't do, because they weren't they weren't regionally located, or just, you know the time it didn't work, or whatever it was.
+
+86
+00:13:39.280 --> 00:14:04.080
+Brian Beatty: So yeah, I think I what what we're looking for are the uses of technologies, newer technologies, or or even older technologies and new ways, emerging, as you would to find emerging for your situation that are focused on engaging learners in some particular way could be students in school, but it also could be trainees like in a workspace, or things like that. I don't want to make it just just school focused on the that's what majority of us are probably thinking about.
+
+87
+00:14:04.400 --> 00:14:15.990
+Brian Beatty: But engagement right, You know. There are a lot of things we we did with with content that we were. We're we're engaging ways of interacting with content. But Don't, I wouldn't want to focus on that.
+
+88
+00:14:16.380 --> 00:14:26.630
+Brian Beatty: That. We kind of we kind of done, and some some people were were talking about con accessing, content in, and very engaging in interesting ways, even though engagement wasn't the focus of that
+
+89
+00:14:26.710 --> 00:14:27.710
+Brian Beatty: right?
+
+90
+00:14:30.030 --> 00:14:32.790
+Adam Hill: So in some ways it's kind of like how we make the case
+
+91
+00:14:32.880 --> 00:14:36.350
+Adam Hill: for engagement.
+
+92
+00:14:36.770 --> 00:14:37.870
+Brian Beatty: Yeah, exactly.
+
+93
+00:14:37.930 --> 00:14:47.860
+Adam Hill: Okay, meaning it could be, it doesn't necessarily have to be games, or VR. Or it does not have to necessarily be games. Gotcha.
+
+94
+00:14:48.200 --> 00:14:53.670
+Brian Beatty: No great. But I bet a bunch of people will pick something like one of these areas.
+
+95
+00:14:55.320 --> 00:15:08.130
+Brian Beatty: Hopefully, hopefully, hopefully, hopefully, you, you're find some interest in it. There's so many resources to out there. If you look at the additional resources that are posted for this week. There's some really cool stuff to play with
+
+96
+00:15:08.140 --> 00:15:12.820
+Brian Beatty: in, as one of the sites in particular. Forget exactly. I think it might be the third.
+
+97
+00:15:12.830 --> 00:15:17.990
+Brian Beatty: I don't know if there's 3. There is probably the third one. I had to fix a link to make it work again.
+
+98
+00:15:18.030 --> 00:15:19.360
+but and so
+
+99
+00:15:19.480 --> 00:15:25.770
+Brian Beatty: so it'll be interesting to you the any other comments on
+
+100
+00:15:26.330 --> 00:15:27.520
+Brian Beatty: the discussion.
+
+101
+00:15:33.600 --> 00:15:45.000
+Brian Beatty: All right. Well, let me jump over them. Let's take a quick look. Let me. Let's take a look at the kind of the plan for this week. I hope you found that to be way too much to expect you to read.
+
+102
+00:15:45.110 --> 00:16:04.820
+Brian Beatty: Did you find it to be way too much? I hope it's like a 100 pages right. But I you know as I, as I I got the book from I, and I know Kurt Square, and and so I got the book from the library, and I was just going through it said, well, can't just stop at Chapter one. There's so much there, and so we'll how about Chapter 2? Well, yeah, then, look at Chapter 3.
+
+103
+00:16:04.820 --> 00:16:08.930
+Brian Beatty: It's talking about how to use this with students in the class, how to kind of arrange this?
+
+104
+00:16:08.940 --> 00:16:30.660
+Brian Beatty: Yeah. And then there was some really other cool things I wanted to bring in later, so I probably brought in a little more than a book than I should have. But the intention is not for you to read all of that. The intention is for you to kind of scan it re hopefully reading the first chapter at least kind of all the way through, and then looking, starting to scan for things that were most interesting
+
+105
+00:16:30.660 --> 00:16:40.110
+Brian Beatty: to you. That's and that's that's typically the way I have. I've been doing this, even though I may not specifically say that that is generally my intention.
+
+106
+00:16:40.110 --> 00:17:08.650
+Brian Beatty: and the way the class is kind of designed. You pick this up. If you're if you're not able to do all the readings it does it doesn't really stop you from participating effectively in the class, although if you do more of the reads, you can bring in more of the ideas from the readings into your discussion posts and our discussions in class and things like that. So but I also know that that's a Pdf. You can download, and you could go back and refer to that later, when you have more time to look through it, and something that seems to be more interesting for you or specifically interesting for you.
+
+107
+00:17:09.300 --> 00:17:11.660
+Brian Beatty: So, anyway, that's
+
+108
+00:17:12.700 --> 00:17:25.720
+Brian Beatty: that's that is what it is. Okay, so there was a reading, and there was a video. We could talk more about that a little bit later before we get into any of that. I think what we want to do. What i'd like to do is
+
+109
+00:17:27.150 --> 00:17:29.050
+is engage you in playing again.
+
+110
+00:17:30.610 --> 00:17:33.490
+Brian Beatty: All right. So to do this
+
+111
+00:17:34.370 --> 00:17:43.140
+Brian Beatty: we're going to use the the game that was created, and it created by people actually in the instructional design and technology field.
+
+112
+00:17:43.190 --> 00:17:56.820
+Brian Beatty: And so Indiana University, where I got my Phd. Had built this game a long time ago it started actually as a board game. and the idea was to help students basic students who were learning about.
+
+113
+00:17:57.170 --> 00:18:11.220
+Brian Beatty: Generally speaking, the world of human performance. Technology wanted to work in organizations or or work, as you know, teachers or technology specialists, and part of the job is always been to to help in implementation, move through an organization.
+
+114
+00:18:11.220 --> 00:18:29.330
+Brian Beatty: help people change their minds about adopting things, deciding to do things differently because oftentimes what we're in the business of doing in this world, at least as an instructional designer is helping, create, change. You become an a, a change in an agent, a change agent, and every teacher is a change engine as well
+
+115
+00:18:29.330 --> 00:18:44.740
+Brian Beatty: off with their own students, but also some. Some, you know, teachers also start acting more as change agents in their school in their organization, even in their district, right? Because they see we could do this better. Or here's a really wonderful way of doing this. How do I help
+
+116
+00:18:44.780 --> 00:18:59.780
+Brian Beatty: people will understand how to do this better or or these. The institution may do this and say, okay, we want we're all going to change over to this new kind of curriculum path, or a different way of teaching this to to these grade levels. But they often
+
+117
+00:19:00.090 --> 00:19:15.560
+Brian Beatty: don't do that very well, as far as helping people adopt the change in more of an actual pattern. And so this game is to help you kind of understand some of those principles, and it works best if you know a little bit about the fusion of innovations
+
+118
+00:19:15.560 --> 00:19:32.300
+Brian Beatty: theory. And so there's the summary guide. That's the Pdf that's linked here in the on the agenda page, but it it's also. It's also linked actually from the game itself. And this is a simple thing to scan. It's simply 7 pages long, and it talks about some of the principles
+
+119
+00:19:32.300 --> 00:20:01.540
+Brian Beatty: that you will want to apply, because, as you, you may have read in squires reading, that good games are built on us, you know, to reveal systems, right? And so there's a there's a system. There's a systemic approach to how to create change in an organization, especially a social organization, which means that people talk to each other, and they make decisions based on their interactions and relationships with other people, and so that becomes a really important thing to take advantage of.
+
+120
+00:20:01.700 --> 00:20:14.570
+Brian Beatty: or to kind of the leverage all in a good way in our case, to help people make some decisions to do things differently, and so what helps innovation spread right, their relative advantage, their compatibility with what
+
+121
+00:20:14.570 --> 00:20:34.880
+Brian Beatty: we're doing already, and our values. How simple are they? How easy to use? Can I try it and go back? If I don't like it? Can I see results right away? Those are some principles, these 5 qualities of a change that help them help make it more adoptable. And then that talks about the importance of peer-to-peer conversations and peer networks understanding who talks to who
+
+122
+00:20:35.080 --> 00:20:53.880
+Brian Beatty: and what's their relationship? What are the power relationships you know that that you would want to know about, so that you don't try to come in and convince someone who has absolutely no power in their network. It's been a lot of time and energy convincing that person to adopt it, and no one listens to that person for whatever reason.
+
+123
+00:20:53.880 --> 00:20:57.600
+Brian Beatty: right? So those are some other principles.
+
+124
+00:20:57.830 --> 00:21:10.510
+Brian Beatty: so you can. You can scan through this pretty quickly. You can download it. It's linked in a couple of places different. You. You are probably familiar with this graph. You may have seen this before. You may have seen it. One of my classes.
+
+125
+00:21:10.620 --> 00:21:27.030
+Brian Beatty: I'm not sure, anyway. So we're gonna try to implement. Use some of these principles to play this game. And so the game is basically the way the game is gonna work is there's there's a link here. It's an online game. Now, it's not a board game anymore.
+
+126
+00:21:27.060 --> 00:21:32.030
+Brian Beatty: and the online game works. You're gonna work in it in a group of
+
+127
+00:21:32.140 --> 00:21:34.140
+Brian Beatty: of 2 or 3 people
+
+128
+00:21:35.080 --> 00:21:42.910
+Brian Beatty: and at least one of you will have to create a login for this, and you just need an email, an active email address and a password. They will never.
+
+129
+00:21:42.910 --> 00:22:05.930
+Brian Beatty: They will never market anything to you if they have nothing to market to you. They just want to make sure that you have a chance to actually come back into the game later and pick up on an old game If you don't have a chance to finish it. And you apps and you do, you can all you can all sign up for this if you want to, but at least one of your will work, for you will do this, and and the idea is you're making decisions as a as a small team here.
+
+130
+00:22:05.930 --> 00:22:22.630
+Brian Beatty: right, and your your the challenge is to bring an adoption of a new curriculum. I think it's a new math curriculum into a school, and you know some of you may actually work in in situations where this is part of what you need to be able to do as a job
+
+131
+00:22:22.750 --> 00:22:28.090
+Brian Beatty: if you haven't registered yet you can register. You just give them a email address
+
+132
+00:22:28.100 --> 00:22:40.700
+Brian Beatty: and a password, and it verifies your email, and then you just go. You you validate your email, and then you're ready to go when you. When you do get into that i'll. I'll show you how it starts and what it looks like. Right here. I do have an account.
+
+133
+00:22:40.700 --> 00:22:56.260
+Brian Beatty: I have to refresh it. I think they. I think they they kind of roll out all the old passwords after every couple of weeks, so that an old password doesn't stick around, and that's probably a good security thing for them others. You you don't putting data in here, but it's probably a good practice.
+
+134
+00:22:56.350 --> 00:23:00.390
+Brian Beatty: Oh, no. Maybe you have to change this.
+
+135
+00:23:00.410 --> 00:23:01.480
+Let's try again.
+
+136
+00:23:02.700 --> 00:23:06.370
+Brian Beatty: I might have my old password in there. That's too long.
+
+137
+00:23:10.860 --> 00:23:13.620
+Brian Beatty: So they're not really grabbing any data other than your
+
+138
+00:23:14.770 --> 00:23:19.940
+Brian Beatty: you're on. You know your email and your Well, I guess they keep your password so you can log in.
+
+139
+00:23:20.040 --> 00:23:22.840
+You can come back. I'm going to start a new game, so you see what it looks like
+
+140
+00:23:23.110 --> 00:23:28.440
+Brian Beatty: I mean, you hit enter. and then do I want it? Yeah, I do thank you for for checking.
+
+141
+00:23:28.730 --> 00:23:31.660
+Brian Beatty: And so this is the game board, all right.
+
+142
+00:23:32.240 --> 00:23:38.780
+Brian Beatty: and what I what i'd like you to do while you're playing the game is to be taking some notes about what you're noticing
+
+143
+00:23:38.820 --> 00:23:49.980
+Brian Beatty: in our breakout notes, Page. And so if you go to the breakout notes, Page, I'm gonna step up aside from this for us in Session 8. There's 2 things I'd like you to take some notes on.
+
+144
+00:23:50.020 --> 00:24:00.000
+Brian Beatty: and we're just gonna do this as a group, so it's not each individual group. I want you to under to take a look at in this area. Talk about what you phone
+
+145
+00:24:00.000 --> 00:24:11.570
+Brian Beatty: to be successful in playing this scheme? Basically, how how does the game play work? Well, what did you have to do to to to make some success? And there's gonna be a there's gonna be a path of success
+
+146
+00:24:11.570 --> 00:24:22.280
+Brian Beatty: that that you will all find some more than others. So that's one thing about the game play. And then the second part is: Well, okay, what about the game design?
+
+147
+00:24:22.320 --> 00:24:40.050
+Brian Beatty: You know. What do you see in the game design the way it's played? Maybe some of the rules, maybe the systems that it's showing you those kinds of things, the the possible is, it engages, and not again, anyways, but basically tying it back to the principles that you found in in scanning at least the first chapter of the Squire reading.
+
+148
+00:24:40.390 --> 00:24:51.560
+Brian Beatty: Okay, and if you want to, if you're going to add notes to this, and if you're not ready for a notes on this one that might be something to do after class for those of you who are watching the recording. I won't expect you to play the game as well.
+
+149
+00:24:51.610 --> 00:25:03.810
+Brian Beatty: and to add your own notes to this page. All right, and so we should late when you, When you add a chunk of notes, put a label on it. So I know who's doing it. So I can give people attribution for that all right. So
+
+150
+00:25:04.300 --> 00:25:15.490
+Brian Beatty: back to the game. So here's Basically, here's the the challenge is is, where do we find? We let's see how we we should look at the game rules.
+
+151
+00:25:16.070 --> 00:25:26.310
+Brian Beatty: The game rules is the first screen that I would want to look at. And here's the objective. You're going to be a change agent, right? A lot of instructional designers end up in this kind of a role.
+
+152
+00:25:26.640 --> 00:25:51.940
+Brian Beatty: You're going to persuade as many of the staff members as possible. Adopt a particular innovation. Oh, pure tutoring. And so we're going to bring it up here, tutoring emphasis in the next. Well, I don't know. Let's say the next year. So this is going to be the the thing we're trying to do, and and how do we do it better? And so we're. Let's say, here's your role. So it gives you a role. You're a reading specialist, and you've assigned to conduct a federally funded project at
+
+153
+00:25:51.980 --> 00:26:03.660
+Brian Beatty: some high school, You These people were all in in Bloomington, Indiana, when they wrote this, so they probably had a school in mind. So it's gonna look like, you know, kind of like mid America. There.
+
+154
+00:26:03.850 --> 00:26:08.890
+Brian Beatty: your resources you have time.
+
+155
+00:26:09.090 --> 00:26:25.260
+Brian Beatty: Okay, you get 2 years to achieve this. And so you case basically get 72 weeks, because the schools don't work for the whole year. And so there's about 36 working weeks in a school year. So every what you're going to do is you're going to be asked to make some decisions about
+
+156
+00:26:25.260 --> 00:26:44.810
+Brian Beatty: approaches. You want to take. I want to. I want to talk to this person. I want to provide a presentation to this group. I want to, you know. Go, you know. Do see if I can get a reference for someone, etc. But all these things are gonna take you a certain amount of time. Some take a very short amount of time, like one week. Some might take 3 or 4 weeks.
+
+157
+00:26:44.810 --> 00:26:58.900
+Brian Beatty: and based on kind of the expense of that. And then you're gonna be burning that time over over as you go. Okay, and the game ends when you've used up all your time, or you've achieved a 100% adoption across the school. Everybody wants to do peer tutoring.
+
+158
+00:26:59.500 --> 00:27:10.360
+Brian Beatty: So this is a couple of things you can do about about getting adopters, so you probably need some information about the people before you start figuring out. Well, who do I talk to first?
+
+159
+00:27:10.370 --> 00:27:36.390
+Brian Beatty: How do I talk to a particular one? Is this person someone who's gonna be a, you know, maybe a early adopter. And it could be part of an initial piloting team. Or is this person likely to be someone who is not interested until they have to do it. You know more on the language side of it scale, and so gather information. That's a good, a good starting point. Talk to people All right, then. You have different activities, and there's 13 different ones. We can take a look at that on the board, and then you end up with
+
+160
+00:27:36.390 --> 00:27:38.910
+Brian Beatty: you. Get influence points and you get adoption.
+
+161
+00:27:38.950 --> 00:27:58.330
+Brian Beatty: Influence points are how much influence you have with a particular player role, and when you get to, when you some some require more influence points to do an adoption. Some take very little, and there are some actions that actually get you a a whole block of people, you know, based on the the word. So you can read about the rest of this.
+
+162
+00:27:58.500 --> 00:28:10.880
+Brian Beatty: of course. Read through that the rules, and then we're going to play play the game, and then you have the game log, which I believe is what you what you try to do to do so. This is like the record keeping.
+
+163
+00:28:10.880 --> 00:28:19.520
+Brian Beatty: So you don't have to remember who you talk to, or what activity you did and what the feedback was. It'll keep a record of that for you so to play the game, then
+
+164
+00:28:21.760 --> 00:28:27.170
+Brian Beatty: the one of the things that I you know is important to do, I think, is to find out, get some information.
+
+165
+00:28:27.220 --> 00:28:30.660
+and so what you would do then is that you would
+
+166
+00:28:31.010 --> 00:28:38.000
+Brian Beatty: Let's see, how do I? How do I do this? So I want to get some. I want some information.
+
+167
+00:28:39.550 --> 00:28:57.390
+Brian Beatty: and so clicked on the personal information list. And now, who do? I want information, and I can gather 5 at least 5 people at once. I don't know who to go for, but maybe it's important to get some information about. Oh, the principal, the secretary, and maybe some of the maybe the chairs.
+
+168
+00:28:57.430 --> 00:29:01.190
+Brian Beatty: Sometimes those are important people. Sometimes they're not.
+
+169
+00:29:01.820 --> 00:29:16.890
+Brian Beatty: They're probably some other teachers that'd be really important. Sometimes the you know, like the library could be really important, too. So that's what i'm gonna do. I'm gonna get in. I'm going to get information for them. I'm getting information, and then it gets some results. So now what's happening over on the left here? Because
+
+170
+00:29:16.930 --> 00:29:22.230
+Brian Beatty: is that i'm getting more information about these people. So now I can start to say, okay. Hmm.
+
+171
+00:29:22.360 --> 00:29:29.310
+Brian Beatty: Now I can do some other things. I've already got some information. So now I can look for Well, Who do they? Who do they share lunch with?
+
+172
+00:29:29.330 --> 00:29:38.770
+Brian Beatty: Who do they serve on committees, live with? Who do they have some sort of social interaction with it that somehow I would know about or do I want to talk to them? Do I ask them for help?
+
+173
+00:29:38.770 --> 00:29:59.030
+Brian Beatty: Want to pilot with with them already. You might want to wait a little bit for that. You could do all these other kinds of things, you know. Do a local mass media output, etc., and you pick something else to do. So let's say, for example, what how? What if I start by talking to somebody? Now, who do? I want to talk to now. I can only picked on one person to talk to at once.
+
+174
+00:29:59.090 --> 00:30:05.520
+Brian Beatty: so maybe pure tutoring. What's a good area for pure tutoring.
+
+175
+00:30:09.120 --> 00:30:27.410
+Brian Beatty: especially someone who might know a little bit about it already. Well, i'm gonna i'm gonna go with i'm gonna go with the math chair and see what happens. I'm gonna go down a submit and let's see what happens there. So now what I get from that is, I get an awareness point this person, apparently. Oh, they don't like the fads, and they think it's maybe a fad.
+
+176
+00:30:27.410 --> 00:30:41.380
+Brian Beatty: and but it gives me smarter information. If a principal or a math teacher, a science teacher, or a language arts chairman is in the trial phase, or has adopted, then it could have I. I don't get 2 more points because they weren't in the trial fees. Yeah.
+
+177
+00:30:41.420 --> 00:31:00.280
+Brian Beatty: So I was just looking for awareness. And so what? What? So what shows up here for the Math chairperson is that I can continue, and it will update the score card. Now I can see this little red mark here that's an influence piece, and so I have. I have a bunch more to get with this person before I get them into the adoption phase.
+
+178
+00:31:00.330 --> 00:31:10.990
+Brian Beatty: The only people who have to adopt are the ones who are actually, I think they're the the well, there's teachers and guys counselors. For some reason the Secretary doesn't have to adopt the janitor doesn't have to adopt, probably because they don't work directly with students.
+
+179
+00:31:11.430 --> 00:31:27.020
+Brian Beatty: Okay? And then you just kind of continue to go through here and use what use what you know about, or what you've learned about, or maybe your personal experience with how do we help people make decisions to adopt things in an organization like a school and see how that works out.
+
+180
+00:31:27.020 --> 00:31:37.230
+Brian Beatty: You can always, If you get really frustrated with this, you can always just say, start a new game, and you can back out, and you can log in and start a new game. It'll give you that option.
+
+181
+00:31:37.770 --> 00:31:48.930
+Brian Beatty: or someone else can be playing a game. You could also be playing this in parallel if you wanted to. If you're in a group of 2 or 3, both of you could be running the game. But I want you to be talking together about this and sharing your strategies.
+
+182
+00:31:48.940 --> 00:31:51.800
+And so if you you can also share your screen in your breakout.
+
+183
+00:31:52.140 --> 00:31:53.010
+Brian Beatty: Okay.
+
+184
+00:31:53.910 --> 00:31:56.780
+what questions do you have?
+
+185
+00:31:57.780 --> 00:32:12.280
+Brian Beatty: So it sounds like we we can choose once to run our breakouts. Either we both do individual or we what it shares a screen of it. You, you! You decide how you want it, how you want to manage your own, your own group. Play on that. You don't have to be stuck on one screen.
+
+186
+00:32:13.170 --> 00:32:26.260
+Brian Beatty: you you You could even start with one screen, and then and then you could also then branch off if you wanted to. Still talking about what's going on, or how i'm gonna try this. What it happened, and you can share screens and show that if you want to, the you know you can. You decide how that would work
+
+187
+00:32:26.360 --> 00:32:27.460
+Brian Beatty: best for you?
+
+188
+00:32:30.810 --> 00:32:32.120
+Brian Beatty: Other questions
+
+189
+00:32:34.200 --> 00:32:38.420
+Brian Beatty: I can tell you, just excited to get started with this, so
+
+190
+00:32:40.310 --> 00:32:44.200
+Brian Beatty: let's see if I can get to breakouts.
+
+191
+00:32:44.560 --> 00:32:46.030
+One of my breakouts
+
+192
+00:32:49.920 --> 00:32:51.900
+Brian Beatty: breakout rooms. Great.
+
+193
+00:32:51.920 --> 00:32:55.530
+all right. I think we have what 8 people
+
+194
+00:32:56.720 --> 00:33:00.220
+Brian Beatty: 8 people. So i'm gonna do 3 breakouts.
+
+195
+00:33:00.220 --> 00:33:30.210
+Brian Beatty: and I know if you have to. If you have to leave, step away for a moment. If you're in a group of 3, you know you need a break or whatever. Take a break through in a group with 2. You can still take a break, but you know, figure it out how to do this. We'll play this for a while. It's gonna take a little bit. I'll check back in. I'll start checking in in about 15 min or so, once you had a chance to kind of talk through how you want to approach this, and it's you may be by then you've got a couple of moves done, and then i'll. I'll just be kind of going around from room room. We're not going to record while we're doing.
+
+196
+00:33:30.210 --> 00:33:45.990
+Brian Beatty: but we will do some recording afterwards. And so don't delete your game when we do our debrief. We want to see some of the things that you're going to be talking through, and we'll do it. We'll do a more substantial deb to, because in that debrief we can also talk about. You know the elements of game
+
+197
+00:33:45.990 --> 00:33:51.120
+game games to help people learn that you saw we're done. Well, maybe that weren't done so. Well.
+
+198
+00:33:51.440 --> 00:33:56.160
+Brian Beatty: questions no more questions. All right, let's get started. I'm going to open up all
+
+199
+00:33:56.250 --> 00:34:05.440
+Brian Beatty: all the rooms. and I might have to gonna move. Let's say, I know you're taking a break right in a moment.
+
+200
+00:34:05.850 --> 00:34:12.170
+Sadia Shaheed: Are you going already? I can stay for some time and take the break later after maybe 10 min.
+
+201
+00:34:12.650 --> 00:34:22.150
+Brian Beatty: Okay. So what i'm gonna do is as you're in room 3 right now. I'm just gonna i'm gonna i'm gonna move some people around so so i'm gonna put you in your rooms, and i'm gonna move a couple of people on.
+
+202
+00:34:22.270 --> 00:34:24.100
+Brian Beatty: Okay, so thank you. There.
+
+203
+00:34:29.790 --> 00:34:31.630
+Brian Beatty: I guess I'm just moving one person around
+
+204
+00:34:34.699 --> 00:34:36.179
+Brian Beatty: Linda. I'm going to pick on you.
+
+205
+00:34:37.909 --> 00:34:39.590
+Brian Beatty: Moving to move room, 3
+
+206
+00:35:35.320 --> 00:35:38.810
+Brian Beatty: on the recording. We'll pick it up again when we do our debrief.
+
+207
+00:35:40.020 --> 00:35:42.620
+Brian Beatty: Okay. we are back
+
+208
+00:35:45.110 --> 00:35:58.100
+Brian Beatty: if you yeah, I don't know If you were able to take a a a break if you needed one. If you need to take a break, you could, you know, do so at any time. My intention is not to keep you here for 2 h without you getting a body your seat. That's not good for anybody.
+
+209
+00:35:58.600 --> 00:36:18.000
+Brian Beatty: Let's take a look what i'd like you to do as when your group has a chance to talk is to show your screen. Show your game board, and talk about some of the things that what you have talked about, how you, how you did, what you did, what were some of the challenges, what were some of the things you learned about successful, and if you have anything else to add that'd be great. We have some time
+
+210
+00:36:18.000 --> 00:36:21.460
+to spend on this. So do we have a volunteer group to go. First
+
+211
+00:36:23.200 --> 00:36:24.930
+Linda Kim: group. 3 can go first.
+
+212
+00:36:25.190 --> 00:36:27.530
+Brian Beatty: Okay, Group 3. You are up.
+
+213
+00:36:27.640 --> 00:36:32.130
+Brian Beatty: We're recording again. By the way, welcome to those of you watching our recording.
+
+214
+00:36:32.870 --> 00:36:36.310
+Everett Estkowski: So do you want me to share the screen? You said, or.
+
+215
+00:36:36.370 --> 00:36:37.960
+Linda Kim: yeah, we can do that.
+
+216
+00:36:38.050 --> 00:36:50.520
+Brian Beatty: We didn't really get a chance to screenshot anything and list our thought process on the share notes. Yeah, you can you? What the other thing is, you guys could be filling out notes if you want to.
+
+217
+00:36:50.570 --> 00:36:55.530
+Brian Beatty: while we're doing the debrief as well. We all have access to that. So.
+
+218
+00:37:00.070 --> 00:37:07.520
+Linda Kim: Server, did you want me to talk first, and do you come? You can kind of fill in whatever.
+
+219
+00:37:07.660 --> 00:37:09.660
+so we
+
+220
+00:37:10.040 --> 00:37:14.990
+Linda Kim: it to for us. It took a couple of minute for us to kind of understand the whole setting.
+
+221
+00:37:15.370 --> 00:37:31.440
+Linda Kim: So that's why we went, kind of went back and forth, back and forth in terms of who's doing what? So? And once we finally started to catch up on and learn, know what it the entire thing meant to be that when things started flow.
+
+222
+00:37:33.540 --> 00:37:39.500
+Linda Kim: So we first chose. I think, the first 5 people that we chose. Were
+
+223
+00:37:39.860 --> 00:37:50.680
+Linda Kim: at first we were just like, oh, yeah, let's go with the decision makers, or like, you know what it seems like. So we want for principals, I think. First we want with the math chairman.
+
+224
+00:37:50.790 --> 00:37:59.550
+Linda Kim: and then one of the social stars, teacher and science teacher, and then library person. I would, I believe so.
+
+225
+00:37:59.770 --> 00:38:11.440
+Linda Kim: and we were kind of looking at it without really looking at the the chart on the side, on on, like the in awareness, interest, and trial first. We also kind of didn't really realize what that meant.
+
+226
+00:38:12.190 --> 00:38:15.460
+Linda Kim: Oh, did this, is it not sharing
+
+227
+00:38:19.830 --> 00:38:31.040
+Linda Kim: it ever? I think you're sharing the lunch? Me? Oh, that's fine, too, but I can. Everybody's looking at the same screen, so we don't have to. I thought that that might help you Just kind of talk about
+
+228
+00:38:31.050 --> 00:38:35.980
+Everett Estkowski: what our thought process was with. We chose. Yeah, I can go back to it.
+
+229
+00:38:35.990 --> 00:38:40.180
+Linda Kim: Yeah, but no, that's okay. That's okay, because we're we're already looking at the screen.
+
+230
+00:38:40.210 --> 00:38:45.330
+so that the first people were kind of random, without really any thought behind it.
+
+231
+00:38:45.390 --> 00:38:57.430
+Linda Kim: And once we started, realizing what the interests column meant what the like awareness column meant. We are we the second batch of personal to get more information? We were a little bit more careful.
+
+232
+00:38:57.430 --> 00:39:17.330
+Linda Kim: and then, when we got to the lunch base that the screen is showing is show who's close to what or not? I'm. So close to who? Who's hanging out with you, so that this information helped a lot for us to figure out who we could talk to like in the diffusion activities, and then ask for help.
+
+233
+00:39:17.420 --> 00:39:28.710
+Linda Kim: So for me personally, I first all I was like. Let's go with the big guys, which is, seems like group ones like there are 2 chairman in there. There's principal in that group.
+
+234
+00:39:28.870 --> 00:39:39.750
+Linda Kim: but at at the same time later realize. Oh, and not everybody is easy to convince, and they're not really all willing to open their ears to whatever we're trying to do.
+
+235
+00:39:39.790 --> 00:39:57.930
+Linda Kim: So Everett kinda stepped in, and so we chose for a couple of people from different groups as well. That group 2 was if okay, they're not too hard, too easy. Group theory was like easiest to group to convince and and then group 4 was another pretty okay group.
+
+236
+00:39:57.930 --> 00:40:08.520
+Linda Kim: So we decided to, you know, talk to like a a couple of people I could not couple of people like at first. I think.
+
+237
+00:40:08.860 --> 00:40:13.130
+Linda Kim: ever I forgot what order we went, but I I think we
+
+238
+00:40:13.420 --> 00:40:37.540
+Linda Kim: select the people from group one first or no. We try to do somebody who's come? Work easy to convince. So I there's a time that we're just. Oh, yeah, let's just go after people who are easy to convince. But when we actually started to pay attention to the information of people we're like, okay, just because they're easy to convince. Doesn't mean they're going to be a lot of help to our whole decision, making process.
+
+239
+00:40:37.560 --> 00:40:47.600
+Linda Kim: for example, like Group the Stephenburg, G. The Science Chairman is very easy to convince, but, like his this information that he's a little erratic.
+
+240
+00:40:47.870 --> 00:40:57.070
+Linda Kim: So with that characteristic it it may not be a good mix or not. So much help from, you know, when he's together with other
+
+241
+00:40:57.180 --> 00:41:06.720
+Linda Kim: people, so that might cause some trouble, so he could definitely maybe help. But like you know, we didn't want to rely on that just just easy to convince factor of it
+
+242
+00:41:08.040 --> 00:41:31.610
+Linda Kim: for group the Member H Science teacher. That person was okay, like he has like a 5 points on like a convincing level. But if you read that this information on that this person is seems like it's logic driven has a lot of respect from the teachers. And so, once we convince this person, then it will be able to get a lot of help from it.
+
+243
+00:41:31.610 --> 00:41:49.800
+Linda Kim: So once we started understanding that factor, we were be able to, we were able to kind of like plot a little better in terms of what next? Our next movement movement was going to be, so we were about to try the presentation factor and to see how how it's going to go. But unfortunately we were in a time we didn't get to do that
+
+244
+00:41:50.200 --> 00:41:53.590
+Linda Kim: ever Did you want to add anything? How our thought process? What?
+
+245
+00:41:54.320 --> 00:41:56.170
+Everett Estkowski: Yeah. I think the
+
+246
+00:41:56.250 --> 00:42:01.810
+Everett Estkowski: the presentation we had to do something first. I think that was going a little bit too far into it.
+
+247
+00:42:01.840 --> 00:42:06.290
+Everett Estkowski: But at that point we're we. We ran out of time so
+
+248
+00:42:06.930 --> 00:42:09.730
+Everett Estkowski: curious. If you guys got any further to see
+
+249
+00:42:09.950 --> 00:42:12.300
+Everett Estkowski: how that went. Or.
+
+250
+00:42:12.430 --> 00:42:23.790
+Brian Beatty: yeah, they're gonna They're gonna show you what they got. We're gonna go from your group to the first group and then to the second group. Can do you know where the change the log is?
+
+251
+00:42:24.330 --> 00:42:32.660
+Brian Beatty: Can you click on the log tab? It's on the top? Yeah, the game log. This I don't know if anyone use this, but this shows you everything you did.
+
+252
+00:42:32.820 --> 00:42:55.670
+Linda Kim: If you wanted to keep track, I didn't show you that. Oh, I did show you that. But it was mine wasn't populated with anything because I had hadn't done any moves yet. So that's okay. So if you're that change agent. You probably have a notebook, a digital or physical notebook where you're writing everything down, anyway.
+
+253
+00:42:55.760 --> 00:43:09.270
+Linda Kim: I mean it's very fun, like I I when you were when you popped into a room. I kind of sort of complain. I was like this is like politics like playing politics. Who Who are we going to be Buddy Buddy with. But I guess that's
+
+254
+00:43:09.270 --> 00:43:31.360
+Brian Beatty: that's reality. Right? So it was very fun at the end. We started having phone because you're you're trying to influence people right. You're trying to help them to, to, to, to to do something that they are not doing now, then they may not even know know about it, right? So you start with awareness, and then and then you know various pro pieces of that. It's very real.
+
+255
+00:43:31.360 --> 00:43:40.330
+Brian Beatty: I mean, the specifics are are obviously made up. But there's there's there are real experiences behind much of this.
+
+256
+00:43:40.540 --> 00:43:45.290
+Linda Kim: Yeah, I think that's pretty much it on this.
+
+257
+00:43:45.350 --> 00:43:58.580
+Brian Beatty: Let's let's let's just go. What what do you have with anything else to add about what you did? So you ended up with what 2 adopters and a a bunch of in you made some influence with some other people
+
+258
+00:43:59.620 --> 00:44:03.800
+Brian Beatty: You went through. What did you go through a whole academic here, or just
+
+259
+00:44:06.400 --> 00:44:09.160
+Everett Estkowski: what? What do you mean by a whole academic.
+
+260
+00:44:10.510 --> 00:44:24.760
+Brian Beatty: Well, you had, so you there were 2. There were 2 academic years Each one had 36 weeks. That's just go back to your main screen and up to the top. I just want to see how far you will, because the pace you go through here will obviously add or to.
+
+261
+00:44:25.770 --> 00:44:28.260
+Everett Estkowski: Yeah, not too far through the first year.
+
+262
+00:44:28.610 --> 00:44:29.880
+Adam Hill: That's impressive.
+
+263
+00:44:30.890 --> 00:44:37.260
+Linda Kim: Oh, thank you. We were yeah, we took some time on figuring out what we're supposed to do so. That's why we're
+
+264
+00:44:37.370 --> 00:44:39.580
+Linda Kim: We're ended there. So
+
+265
+00:44:40.530 --> 00:44:43.290
+Brian Beatty: yeah, so you use just a little over half a year.
+
+266
+00:44:43.350 --> 00:44:56.330
+Brian Beatty: Pretty pretty efficient. I think that if you'd continue this, probably you probably would have been very successful and completed. Well, within your timeframe of 2 years.
+
+267
+00:44:56.710 --> 00:45:01.130
+Brian Beatty: hey? We probably would renew your grant for another year of implementation.
+
+268
+00:45:03.250 --> 00:45:07.900
+Brian Beatty: Okay, let's let's go. Let's go on to group one
+
+269
+00:45:08.460 --> 00:45:14.050
+Brian Beatty: group, one can you can you? This is Adam and Adrian and and Dalton Can you share your work.
+
+270
+00:45:15.310 --> 00:45:16.270
+Adam Hill: Yes.
+
+271
+00:45:18.520 --> 00:45:21.210
+all right, here we are.
+
+272
+00:45:22.760 --> 00:45:26.330
+Adam Hill: So we
+
+273
+00:45:26.510 --> 00:45:32.720
+Adam Hill: we made it through, we we we we are, you know, in the fall of our second year
+
+274
+00:45:32.840 --> 00:45:40.420
+Adam Hill: we have one adopter, the Science Chairman, which I believe, Everett and Linda you also had as a adopter.
+
+275
+00:45:40.830 --> 00:45:49.250
+Adam Hill: I think one key was when the Doctor B. You. You pointed out that these bars are significant in getting someone
+
+276
+00:45:49.580 --> 00:45:50.880
+Adam Hill: to adopt
+
+277
+00:45:55.230 --> 00:45:59.050
+Adam Hill: Dalton or Adrian. Do you have anything else to add? I'm
+
+278
+00:45:59.830 --> 00:46:01.850
+Adam Hill: have other things I want to say, but i'm trying. I
+
+279
+00:46:02.040 --> 00:46:15.400
+Adam Hill: I think, as I was the one sharing my screen trying to think about what our process was, and if you all could in a little bit, because I mean I was so impressed by the first group because we're like in year 2.
+
+280
+00:46:15.480 --> 00:46:23.550
+Adrienne Oliver: Our strategy was more of like getting intel on everybody in the school which cost us a lot of weeks.
+
+281
+00:46:23.600 --> 00:46:40.770
+Adrienne Oliver: but we thought that we could be strategic and approaching people. But I definitely think, going through this process, we're learning about the diffusion theory, and we end up pulling up the reading about. You know the characteristics of an early adopter, and
+
+282
+00:46:41.630 --> 00:46:46.220
+Adrienne Oliver: the late adopters to help us later on in the game.
+
+283
+00:46:47.700 --> 00:46:56.010
+Adam Hill: I think that was yeah, I I was really we we you when you made that point, Adrian, later later on. That was helpful. Because I think, as
+
+284
+00:46:56.110 --> 00:47:12.890
+Adam Hill: I I must say, maybe kind of went into this just a gamer. It was like, oh, we're just playing a game. It didn't quite think about it in the context of learning. And once I did, it was like, oh, we're trying to be. We're trying to apply what we're learning to this game. And that helped me think about this in a different way.
+
+285
+00:47:17.660 --> 00:47:22.040
+Dalton Lobo Dias (he/him): Yeah. And then the thing I Oh.
+
+286
+00:47:23.280 --> 00:47:24.090
+Brian Beatty: go ahead.
+
+287
+00:47:24.640 --> 00:47:32.380
+Dalton Lobo Dias (he/him): I think I struggle with this as a teacher, you know I sort of. I relate to a lot of things that we're. We're set in within the game, and also comments here.
+
+288
+00:47:32.710 --> 00:47:44.250
+Dalton Lobo Dias (he/him): and I assumed certain things would have some kind of effect. and it the AIM just didn't really follow up. So I was a bit confused about what actions were triggering, what things like the
+
+289
+00:47:44.300 --> 00:47:46.100
+Dalton Lobo Dias (he/him): the relationship diagrams.
+
+290
+00:47:46.170 --> 00:47:49.420
+Dalton Lobo Dias (he/him): We were making assumptions that like, oh, we're gonna.
+
+291
+00:47:49.850 --> 00:47:54.070
+Dalton Lobo Dias (he/him): you know. Have this whole group of our friends who sit together
+
+292
+00:47:54.190 --> 00:48:05.710
+Dalton Lobo Dias (he/him): at lunch travel together? Maybe that's gonna have a bigger impact, and it didn't seem to have any pact on the game. So we were making a bunch of assumptions. But we just didn't know which inputs led to what outputs
+
+293
+00:48:11.370 --> 00:48:28.520
+Brian Beatty: Yeah, that that's certainly one of the challenges. The other thing is that sometimes the things you might think have an impact. May the game may be program so that other things have to be in place before the impact can be there, especially if it's a logical impact. Well, yeah, it makes sense that this would happen. Why didn't this happen?
+
+294
+00:48:28.520 --> 00:48:46.400
+Brian Beatty: Well, maybe so. Maybe the way the game is coded. Essentially the model the game is following says these are the the they have to be at a certain level or other kinds of things before you can have the impact that you think you're gonna have. I don't know exactly what it is, but that is part of using games right. Games are all built on models.
+
+295
+00:48:46.400 --> 00:48:48.790
+Brian Beatty: and those models have assumptions in them.
+
+296
+00:48:49.190 --> 00:48:56.070
+Brian Beatty: and sometimes those assumptions. You may not be aware of them, and they may. They may not be accurate all the time, either
+
+297
+00:48:57.070 --> 00:48:57.770
+Brian Beatty: right.
+
+298
+00:49:01.170 --> 00:49:04.850
+Brian Beatty: My network seems to be having some trouble. So I put my video off
+
+299
+00:49:06.070 --> 00:49:12.130
+Brian Beatty: all right. So, you guys, what was your your score? Was one adopter? Hum! And you went through over a year. Right?
+
+300
+00:49:12.990 --> 00:49:16.230
+Brian Beatty: See? Yeah, just over a year. Okay?
+
+301
+00:49:16.400 --> 00:49:22.850
+Brian Beatty: And you are learning along the way Clearly, there's a difference between the game that's built
+
+302
+00:49:22.910 --> 00:49:28.360
+Brian Beatty: around certain concepts that you're trying to help students learn, or people learn
+
+303
+00:49:28.420 --> 00:49:41.680
+Brian Beatty: as opposed to a game that's built as a game that you end up using to help people learn something important, even though it's may not be the intention of the game. This is this: is this is more of a educational game, as opposed to a
+
+304
+00:49:42.100 --> 00:49:47.760
+Brian Beatty: a game used in education. I guess I guess there's a difference there.
+
+305
+00:49:48.050 --> 00:49:48.860
+Adam Hill: right?
+
+306
+00:49:51.800 --> 00:49:58.890
+Brian Beatty: All right. We will talk more about that in a minute. How about how about Group 2. How did you guys do? Can you? Can you share your work?
+
+307
+00:50:02.820 --> 00:50:07.070
+Danny Cheng: And it's with our group. Right? Let me go ahead and share my screen.
+
+308
+00:50:07.490 --> 00:50:08.130
+Brian Beatty: Yeah.
+
+309
+00:50:09.700 --> 00:50:13.190
+Danny Cheng: all right. So we play through again. Let me know if you guys can see my screen.
+
+310
+00:50:17.740 --> 00:50:29.780
+Danny Cheng: Is it it? Get low? Good. Yes. all right. So we played pretty much throughout the 2 school years, the 72 weeks. And basically
+
+311
+00:50:30.430 --> 00:50:34.530
+Danny Cheng: I just want to point out that this gets a lot of reading. It's not really
+
+312
+00:50:34.640 --> 00:50:41.170
+Danny Cheng: really a relaxing kind of G. In a first place, where you try to learn this thing because it's a lot of rule and things. You try to work.
+
+313
+00:50:41.380 --> 00:50:46.460
+Danny Cheng: but once you get it, it's pretty simple to understand Just
+
+314
+00:50:50.690 --> 00:50:57.330
+Danny Cheng: there are certain strategies and texts that here to bring out their awareness interest, and even up to trial and adoption.
+
+315
+00:50:57.600 --> 00:50:59.460
+Danny Cheng: And but
+
+316
+00:50:59.630 --> 00:51:00.550
+Danny Cheng: I think.
+
+317
+00:51:00.630 --> 00:51:18.670
+Danny Cheng: like what everybody has been point out, basically this is just like a playing with policies and knowing what people and doing, what and how people are related to each other. So, for example, if you know the launch mates and also the committee diagrams and a social diagrams. You know, the generator is not really hanging out with people.
+
+318
+00:51:18.800 --> 00:51:26.160
+Danny Cheng: and I think also one of the the staff also here, as mentioned. I forgot where who that individual was.
+
+319
+00:51:26.250 --> 00:51:26.990
+But
+
+320
+00:51:27.320 --> 00:51:29.480
+Danny Cheng: you need to know who is body body is, who
+
+321
+00:51:29.580 --> 00:51:41.550
+Danny Cheng: and who is doing things with who and if you using those to get to, you know, to increase their to make them know, like a where, what you do, and bring up their interests.
+
+322
+00:51:41.960 --> 00:51:57.410
+Danny Cheng: And I guess we think it Each departments, like, you know, once you get the chair person. or at least one of it. Yeah, once you get ahead the chairperson, it's really easy to get a rest of the departments.
+
+323
+00:51:57.470 --> 00:52:00.090
+Danny Cheng: and principle is kind of tricky.
+
+324
+00:52:00.180 --> 00:52:04.270
+Danny Cheng: because before you can talk to principals, you need to get, you need to get really close to the
+
+325
+00:52:04.320 --> 00:52:15.330
+Danny Cheng: secretary, and then you you can bring out a principal's interest and principle. Doesn't really do much; but when you reach to when your principal is all full, like you know. Get adoption from here.
+
+326
+00:52:15.380 --> 00:52:18.630
+Danny Cheng: I think you can use the complaints or the confrontation.
+
+327
+00:52:20.160 --> 00:52:22.140
+Danny Cheng: Those 2 last 2 moves
+
+328
+00:52:22.160 --> 00:52:28.240
+Danny Cheng: that's gonna cost you a lot of weeks. If you roll it, die if you use it.
+
+329
+00:52:28.330 --> 00:52:38.450
+Danny Cheng: it's pretty. It it. It could be amazing too bad. We're issue to the end of again. We don't, have we don't? Have. We only had like one week left. so we couldn't really pull out of both
+
+330
+00:52:38.610 --> 00:52:44.420
+Danny Cheng: to use the principle to make a big influence over the campus over, I mean over the school.
+
+331
+00:52:45.390 --> 00:52:56.010
+Danny Cheng: but I think one of the options was using the local media to promote. Now, one is really helpful in principle. We like stuff. So
+
+332
+00:52:56.970 --> 00:52:59.570
+Danny Cheng: yeah, the overall, I think this is all I can share.
+
+333
+00:53:00.690 --> 00:53:06.870
+Danny Cheng: And, Dan Danny, can you share the the game log?
+
+334
+00:53:07.490 --> 00:53:10.110
+Danny Cheng: Give me 1 s. We can walk.
+
+335
+00:53:10.980 --> 00:53:13.290
+Brian Beatty: You got 13 adopters.
+
+336
+00:53:13.890 --> 00:53:15.720
+Adam Hill: Oh, it's not impressive.
+
+337
+00:53:16.060 --> 00:53:17.520
+Danny Cheng: Thanks. I appreciate it.
+
+338
+00:53:18.820 --> 00:53:30.470
+Danny Cheng: So this is my game lock at the beginning. We kind of wasting a lot times just to know people and talk to people. We find out people we try to talk to, you know, couldn't work.
+
+339
+00:53:30.700 --> 00:53:37.510
+Danny Cheng: and then eventually realize you gotta get everybody's info first. and then you can talk to them.
+
+340
+00:53:38.010 --> 00:53:49.280
+Danny Cheng: and once you start talking to them, or, you know, try to ask for help. Those starting, bringing their awareness and interest to what you do. and you can do a lot of things from there.
+
+341
+00:53:49.960 --> 00:53:53.870
+Danny Cheng: so really like Lean us. It's it's a policy game.
+
+342
+00:53:53.970 --> 00:53:57.000
+Dalton Lobo Dias (he/him): Well, hold on, let me get this right. So move.
+
+343
+00:53:57.520 --> 00:54:04.120
+Dalton Lobo Dias (he/him): move 30. You're doing mass media like I don't I mean good on you to figure this out. But like
+
+344
+00:54:04.300 --> 00:54:08.940
+Dalton Lobo Dias (he/him): I just, I can't get past this like that. Is, that seems to be so unrealistic.
+
+345
+00:54:09.500 --> 00:54:15.950
+Danny Cheng: It is unrealistic. I'm: not really looking at it realistically. I'm: just playing this. You: yeah.
+
+346
+00:54:15.990 --> 00:54:17.190
+Dalton Lobo Dias (he/him): no. Well done.
+
+347
+00:54:20.070 --> 00:54:20.790
+Danny Cheng: Yeah.
+
+348
+00:54:24.840 --> 00:54:31.140
+Brian Beatty: This is also. It's it's written for a context that's very different than any of the contexts around the bay area. I'd say
+
+349
+00:54:31.460 --> 00:54:40.270
+Brian Beatty: that that's that's just one of the things. So that's part of understanding. I mean, as part of the game is the context that it's it's created for
+
+350
+00:54:44.670 --> 00:54:52.210
+Danny Cheng: Yeah. And we're trying to do the confrontation. But only one week left, so we couldn't use it, and they they can't just say you you you're not getting it.
+
+351
+00:54:52.980 --> 00:54:53.790
+Danny Cheng: Yeah.
+
+352
+00:54:53.800 --> 00:54:54.500
+Brian Beatty: huh?
+
+353
+00:54:55.040 --> 00:55:08.030
+Danny Cheng: What? What what did you think that was gonna do I? I I'm. I'm. Not sure. I think that I remember. It is being explained that when, like when you have the option available. It's gonna cost you like 5 to 6 weeks.
+
+354
+00:55:08.240 --> 00:55:12.250
+Danny Cheng: But basically, if you get a principle.
+
+355
+00:55:12.480 --> 00:55:17.900
+Danny Cheng: your principal is fully it's in the adoption, and if you use confrontation or composing one of them
+
+356
+00:55:18.000 --> 00:55:27.340
+Danny Cheng: like you can roll a die. And then to just, you know, massively increase everybody's interest in that. You know the red. The red sales
+
+357
+00:55:28.460 --> 00:55:32.690
+Danny Cheng: like it's a it's like a
+
+358
+00:55:33.810 --> 00:55:45.130
+Brian Beatty: yeah. Is it like a a a point where you just basically are telling people we're gonna do this. It's just basically reinforce like, Listen: we're doing this now.
+
+359
+00:55:45.200 --> 00:55:47.390
+Danny Cheng: if you can.
+
+360
+00:55:48.070 --> 00:55:51.960
+Brian Beatty: And either it works or it Doesn't. Hmm. Okay.
+
+361
+00:55:52.370 --> 00:55:55.930
+Brian Beatty: yeah, interesting. Okay, we anything to add
+
+362
+00:55:58.250 --> 00:56:04.990
+Wei Lu: it. Just take a long while for us to figure out how to. How do you understand the game?
+
+363
+00:56:05.010 --> 00:56:12.940
+Wei Lu: And at the very beginning we all complained this of game wasn't. It is not fun. It's about the reading.
+
+364
+00:56:12.990 --> 00:56:22.720
+Wei Lu: but a little while we got into it, and a especially Danny progress a lot, and he feel very interested in this game. Then
+
+365
+00:56:24.490 --> 00:56:29.760
+Brian Beatty: Yeah, Well, here's a question for you. Do Games have to be fun to be effective
+
+366
+00:56:31.310 --> 00:56:32.520
+Wei Lu: for me. Yes.
+
+367
+00:56:33.180 --> 00:56:48.460
+Brian Beatty: right. But these are these are games. So these are games, I mean, I I guess I think part of a defense. I'm on how you define a game if the game is something I am choosing to do and choosing to stay, engage with. And obviously the fun factor
+
+368
+00:56:48.560 --> 00:57:08.860
+Brian Beatty: might be really important there. But you can have an a, you can have a you can have an application like this, which is, which is a game. Essentially it. It follows the typical rules of games and things like that characteristics of games. But it doesn't necessarily have to be fun to be effective in this situation. Why? Because you're being tasked to to to play it.
+
+369
+00:57:08.860 --> 00:57:12.290
+Brian Beatty: You know it's like an assignment you're going to do
+
+370
+00:57:12.420 --> 00:57:42.420
+Brian Beatty: now, whether you go off and you all have the link to it now so, and go off and play on your own time, and see if you can actually get to all those adopters and see what the what the success might be. But if you were, if this was part of your real job, and this is what you needed to do. When you went through this you you'd find some things that like, okay. So the literature is saying that some of these things would be effective. I go through it, and I don't do very well, and maybe you give yourself a limit of an hour. Okay, I'll play for an hour, and you don't do as well. But You've learned some things you can go back through again and play it again
+
+371
+00:57:42.420 --> 00:57:58.020
+Brian Beatty: and see if you're improving your score. And so you're You're learning as you go. And so that's where it becomes really a learning tool when you have the opportunity to go, could go back and and go through it multiple times, especially if your goal personally is. I want to be able to solve
+
+372
+00:57:58.020 --> 00:58:03.770
+Brian Beatty: the challenges that are presented in this. You know a situation like this, because this is what I want to be able to do.
+
+373
+00:58:06.580 --> 00:58:21.320
+Brian Beatty: We should, you know. I tell you, if I I I spent a long time as an administrator here. It would have been really helpful to have something like this. Not this came, but something like this for new administrators, especially in academic affairs, because none of us came from.
+
+374
+00:58:21.330 --> 00:58:35.950
+Brian Beatty: You know this kind of a, you know. There's a lot of politics, a lot of influence that goes on and helping people make decisions, and everybody's got projects they want your support for. but no one is really trained in how to do that. So you all have to. We all have to learn kind of by
+
+375
+00:58:36.080 --> 00:58:37.090
+Brian Beatty: trial in there.
+
+376
+00:58:38.490 --> 00:58:39.920
+Brian Beatty: You know it's a game of life.
+
+377
+00:58:42.180 --> 00:58:42.920
+Brian Beatty: So
+
+378
+00:58:45.450 --> 00:59:00.240
+Brian Beatty: okay, I think this is challenging it's challenging for me. I don't know, was I. Whenever I do this I usually play off on the side. I didn't this time, but I don't do much better than anyone else on this in part, because i'm just doing it on my own.
+
+379
+00:59:00.950 --> 00:59:07.650
+Brian Beatty: But yeah, there's there, there's some kind of key principles there. So what's
+
+380
+00:59:09.370 --> 00:59:37.140
+Brian Beatty: So for those of you who are able to put some notes in here. Thank you for that. If you want to put some more notes in here, it would be helpful, I think, and I I hope that our asynchronous learners, you guys, will also try to do the game you've you've seen and heard some of the things that we did see what you do. Put yourself. Get yourself a clock for an hour and say, okay, i'll play this game for an hour and see what I learned, and then you can add to this as well. The last thing for you to do this week really, then, is to be part of the asynchronous discussion, and we've got.
+
+381
+00:59:37.140 --> 00:59:51.980
+Brian Beatty: you know we've got a week week to do that next week we'll we'll pick it up with engaging students through coding and making. One thing I I want to also call your attention to is I was able to
+
+382
+00:59:51.980 --> 01:00:06.370
+Brian Beatty: make arrangements for our digital media studio in the library at San Francisco State to host us or anyone who wants to be there. Wednesday. That's next week, not next week, 2 weeks from tonight.
+
+383
+01:00:06.410 --> 01:00:14.980
+Brian Beatty: It's a little earlier. They're not usually open in our our normal hours, and so they would like to have us there from 5 to 7 at the most. So 5 to 6 30. Ish.
+
+384
+01:00:15.570 --> 01:00:29.620
+Brian Beatty: Some of us will be there. If you want to be part of this, let me know, and i'll make sure that I give. I help you make you know. Figure out what what information you need to get there, and what what we're gonna specifically be doing, and how that's gonna gonna work out
+
+385
+01:00:29.850 --> 01:00:35.560
+Brian Beatty: after. This is our normal class, which is the presentations for tech demo.
+
+386
+01:00:35.840 --> 01:00:58.200
+Brian Beatty: not tech, yeah tech demo 2. And we'll we'll do those, because, you know many of you won't be part of this of the V. Our piece probably. So I don't want to keep that from you, so we'll do that live. If you are here on campus at the library, and you want to do a live presentation, we do have a room in per call that we can use for that, or we could just continue to do them all online. Either way. I'll be online.
+
+387
+01:00:58.220 --> 01:01:05.400
+Brian Beatty: either in my office, in the classroom. perhaps even in the library. So that's on Wednesday, April, April twelfth.
+
+388
+01:01:06.290 --> 01:01:11.350
+Brian Beatty: Okay. Wanted to make sure I put that up. I I did that instead of doing the game myself.
+
+389
+01:01:11.510 --> 01:01:15.100
+Brian Beatty: so it would be there for everyone. So let me know. I've heard from a few of you already.
+
+390
+01:01:16.580 --> 01:01:17.300
+Brian Beatty: All right.
+
+391
+01:01:19.240 --> 01:01:23.750
+Brian Beatty: any final questions or comments. Everyone knows what to do.
+
+392
+01:01:25.140 --> 01:01:36.160
+Adam Hill: I had 1 one question just about like when we're talking about games is that different than like the G. The term gamification? Are they like related, but also distinct.
+
+393
+01:01:37.970 --> 01:01:46.610
+Brian Beatty: I don't think I I think someone else can answer that. But i'm i'll I'll answer it if no one else can I'm sure someone else can. They're clearly related.
+
+394
+01:01:47.010 --> 01:01:49.580
+Brian Beatty: right? But they're not the same thing.
+
+395
+01:01:51.560 --> 01:01:53.430
+Brian Beatty: Anyone want to take a stab at that.
+
+396
+01:01:54.730 --> 01:01:57.430
+Brian Beatty: What's the difference between games
+
+397
+01:01:57.460 --> 01:02:05.930
+Brian Beatty: get, or learning games even, and gamification or gamification. I don't even sure how to pronounce it. Really, I usually say gamification. But
+
+398
+01:02:06.550 --> 01:02:08.920
+Brian Beatty: I think it matters Dalton, what do you think?
+
+399
+01:02:09.380 --> 01:02:16.010
+Dalton Lobo Dias (he/him): Yeah, I I could pull up my notes, but it's during Google drive Barrett somewhere, but gamification will be something like.
+
+400
+01:02:16.400 --> 01:02:20.410
+Dalton Lobo Dias (he/him): For instance, you onboarding to a company, and as you achieve
+
+401
+01:02:20.950 --> 01:02:22.080
+Dalton Lobo Dias (he/him): some.
+
+402
+01:02:22.850 --> 01:02:30.900
+Dalton Lobo Dias (he/him): you know, sort of batches that are important within the company like demonstrating their values right? You like a little badge, or let's say you give feedback
+
+403
+01:02:31.020 --> 01:02:35.490
+Dalton Lobo Dias (he/him): to appear. and you get badges for that right or like.
+
+404
+01:02:35.530 --> 01:02:40.720
+Dalton Lobo Dias (he/him): let's say you give a shadow to somebody, and then a little like mascot
+
+405
+01:02:40.750 --> 01:02:44.020
+Dalton Lobo Dias (he/him): dances on their screen and their
+
+406
+01:02:44.300 --> 01:02:45.410
+Dalton Lobo Dias (he/him): interface.
+
+407
+01:02:45.660 --> 01:02:58.960
+Dalton Lobo Dias (he/him): that those are like kind of examples of gamification as opposed to like game based learning, which is kind of what we just did just now, right? So gamification will be like adding elements of games into an experience. But it is but the experience itself is not a game.
+
+408
+01:02:59.410 --> 01:03:05.530
+Brian Beatty: Yeah, exactly. So. It's not a game. Gamification is using elements from games like competition.
+
+409
+01:03:05.710 --> 01:03:22.630
+Brian Beatty: all right or leader. But the idea of leaderboards and competition kind of go together leveling up, having some having some choice over how i'm going through something where i'm choosing my own path and some of that could be an element of a game that you'd bring into that. You know those kinds of things
+
+410
+01:03:22.720 --> 01:03:27.430
+Brian Beatty: so that would be gamification. And if you do a quick search on a gamification, you will find so much on that.
+
+411
+01:03:28.570 --> 01:03:34.900
+Adam Hill: Okay, yeah, that's what I thought. But it was helpful to get clarity now that we did something like this.
+
+412
+01:03:35.230 --> 01:03:37.390
+Brian Beatty: Right? Okay.
+
+413
+01:03:38.640 --> 01:03:53.990
+Brian Beatty: All right. Well, thanks a lot. I look forward to seeing you online again in the forums and through the notes and all the other stuff that we do, and let me know if you're interested in on April twelfth, and we'll get that together, and then I will see you back online next week.
+
+414
+01:03:55.470 --> 01:03:56.280
+Brian Beatty: So long.
+
+415
+01:03:56.990 --> 01:03:58.030
+Adam Hill: My.
+
+416
+01:03:58.730 --> 01:04:00.270
+Brian Beatty: thank you. Bye, bye.
+

@@ -1,0 +1,2962 @@
+WEBVTT
+
+1
+00:00:05.570 --> 00:00:11.660
+Brian Beatty: So welcome everyone. This is session 12 in I tech 8, 30. We are talking about assessment
+
+2
+00:00:11.850 --> 00:00:13.640
+Brian Beatty: for another week.
+
+3
+00:00:13.920 --> 00:00:22.000
+Brian Beatty: This week we're going to focus more on the adaptive assessment, and essentially the use of AI in assessment. As part of that
+
+4
+00:00:23.520 --> 00:00:39.030
+Brian Beatty: last week we talked more about some classic ideas about assessment, and as a way of starting, I wanted to look back through the discussion just a little bit, because I've only I didn't get a chance to get in there much today or yesterday, and so I know there was a lot of action in there
+
+5
+00:00:39.110 --> 00:00:43.670
+Brian Beatty: after Monday. Looks like a lot of busy people today.
+
+6
+00:00:43.710 --> 00:00:56.970
+Brian Beatty: So what I like to do is see who's here, who has a post in there that I haven't had a chance to comment on yet. So we have Steven and Amanda. Not here, or at least not yet.
+
+7
+00:00:57.120 --> 00:01:14.320
+Brian Beatty: Tony. Not here yet. Mostly asynchronous, typically users. That's good, sad. Yeah, I haven't a chance, I think, to even look at yours. I want to. I want to say that you Usually you use graphics pretty nicely in these posts. Yeah, it look like blog posts to me sometimes a night.
+
+8
+00:01:14.320 --> 00:01:25.550
+Brian Beatty: Yeah. Yeah. So so I just wanted to to give you a chance to you're talking about VR AI
+
+9
+00:01:25.620 --> 00:01:32.660
+Brian Beatty: Ml. Machine learning kind of the new directions for assessment and learning that looks pretty psychedelic over here.
+
+10
+00:01:35.650 --> 00:01:37.280
+Brian Beatty: Yes, for this. I guess the
+
+11
+00:01:37.640 --> 00:01:43.460
+Brian Beatty: child on the right is in the VR space, and the person on the left is an AR space. I think right?
+
+12
+00:01:44.960 --> 00:01:45.920
+Yes.
+
+13
+00:01:46.520 --> 00:01:48.910
+Brian Beatty: yeah. So how do you think that changes assessment?
+
+14
+00:01:56.060 --> 00:02:03.520
+Brian Beatty: Can we do things differently with the AR and VR. And assessment? Then we can do just with regular kind of like, whatever you want to call flat file assessment.
+
+15
+00:02:03.930 --> 00:02:12.760
+Sadia Shaheed: So I think the environment, especially for the like a student's point of view. Like the environment they're getting like I I used to
+
+16
+00:02:12.760 --> 00:02:33.150
+Sadia Shaheed: in my biology class. I used to do everything on pain and paper. I never imagined like having something in front of me a sale, or something like in a 3D version floating in front of me, so I I never imagined that. But it's it's very normal. For now students who are learning, so I think
+
+17
+00:02:33.300 --> 00:02:35.450
+Sadia Shaheed: it. It makes a huge difference.
+
+18
+00:02:37.310 --> 00:02:45.470
+Brian Beatty: Yeah, I just put into the chat. I just Khan Academy you may be familiar with, and they do a lot of online training, essentially, and
+
+19
+00:02:45.540 --> 00:02:50.870
+Brian Beatty: you know, started out with lots of simple class support. And I've gotten pretty big in that.
+
+20
+00:02:50.990 --> 00:02:59.190
+Brian Beatty: And and they talk about personalizing and learning. I'm not sure exactly how much AI they use in their regular programming. They do adapt of some adaptive
+
+21
+00:02:59.220 --> 00:03:12.410
+Brian Beatty: content and practicing. I'm not sure about the testing, but they're also they're They're introducing this new AI powered tutor. I think it's called Con Migo. I'm not quite sure. But if you go to the website. I'm sure it'll pop up with their their market to it.
+
+22
+00:03:12.410 --> 00:03:23.220
+Brian Beatty: And you can. You can basically this so students can ask questions, and then the system can kind of walk through through trying to find answers to it, where, without just giving them the answer
+
+23
+00:03:23.310 --> 00:03:33.680
+Brian Beatty: right it, maybe walking through the structure of Well, Here's how you would solve that problem. What would you do next? Kind of like things? A a good, real tutor might do You kind of the next step in
+
+24
+00:03:33.980 --> 00:03:44.190
+Brian Beatty: what we might call intelligent tutoring systems, intelligent tutoring systems as a technology been around for decades. And there's a lot written about them, and they kind of have shown up at various places
+
+25
+00:03:44.260 --> 00:03:46.240
+Brian Beatty: in different ways. And so that's
+
+26
+00:03:46.430 --> 00:03:56.480
+Brian Beatty: it's it's an example of some of this, not it's not using virtual reality or augmented reality using VR and a or I'm. Sure you can do some different things right because you can have some different experiences.
+
+27
+00:03:56.850 --> 00:04:10.440
+Brian Beatty: typically an assessment. What we're trying to do is have give students some experience. Maybe it's just asking them a question or giving them a problem to solve, but it's an experience that they can use to demonstrate their understanding in a way that we can see it.
+
+28
+00:04:10.440 --> 00:04:21.050
+Brian Beatty: You know it it it seeing it, seeing it just as a general see not necessarily visually seeing it, but seeing what they know or helping us understand what they know, so that we can provide some.
+
+29
+00:04:21.070 --> 00:04:33.340
+Brian Beatty: you know, feedback and correction. Perhaps you know, maybe feedback and praise, maybe just assessing how much they know, so that they could be sorted. If that's the function for assessment, or advanced or or not.
+
+30
+00:04:33.440 --> 00:04:34.790
+Brian Beatty: lots of different things.
+
+31
+00:04:36.620 --> 00:04:46.580
+Brian Beatty: It'll be interesting. I'm not. I haven't seen VR. And a are used in a sesame yet, but I also Haven't seen full instructional programs in VR. And and they probably do exist.
+
+32
+00:04:47.020 --> 00:04:53.060
+Brian Beatty: There are people who are teaching in in, you know, virtual spaces now. and have been.
+
+33
+00:04:53.200 --> 00:04:58.080
+Brian Beatty: and i'm. And so i'm sure that some of this is actually being done.
+
+34
+00:04:59.940 --> 00:05:01.540
+Brian Beatty: Anyone else have comments on that
+
+35
+00:05:03.610 --> 00:05:16.010
+Adam Hill: I was just thinking about. The more VR. Is used. It kind of blends all the lines between engagement. assessment and instruction delivery, because it kind of seems to happen all at once. You're like.
+
+36
+00:05:16.210 --> 00:05:27.290
+Adam Hill: immersed in learning, and then getting feedback, as you're doing it, and get in and engaged and assess, and it it, rather than like, in a lot of classroom environments where it's like, that's right.
+
+37
+00:05:27.530 --> 00:05:46.500
+Brian Beatty: The days of just a kind of discrete buckets of instruction. Right? This is your content. This is your engagement. This is your assessment. You're right. I think those days are fastly kind of going by the wayside, for most of us is the more we blend other kinds of things like we're blending content
+
+38
+00:05:46.510 --> 00:06:01.170
+Brian Beatty: and engagement through online tools. When we talk about students producing content, usually we're doing that in some engaging manner or or through engagement activities to kind of draw it out from them. Give them an opportunity to that. When we talk about using games or gamification.
+
+39
+00:06:01.960 --> 00:06:12.610
+Brian Beatty: All that's kind of wrapping this stuff together, and if we have students doing interactions with content, why can we put some assessment in there, especially formative assessment to give them an idea how well they're learning. It's probably a really good idea.
+
+40
+00:06:14.550 --> 00:06:15.960
+Brian Beatty: kind of like real life.
+
+41
+00:06:16.980 --> 00:06:19.500
+Brian Beatty: How do people used to learn before formal schools?
+
+42
+00:06:23.880 --> 00:06:43.790
+Brian Beatty: Well, by experience, and if they were trying to do something intentionally, it might have been. They'll probably often been in some sort of apprenticeship You, even in informal oppression, apprenticeship. How did you learn what to do, how to live your life? You follow the people who came before you? Right, the the the elders, whether they, you know, a family unit or just a community group, but you learn how to
+
+43
+00:06:43.790 --> 00:06:50.900
+Brian Beatty: how to. You know how to do things by watching others, and then, and then helping them do that, and then eventually taking it over for for yourself.
+
+44
+00:06:51.230 --> 00:07:04.410
+Brian Beatty: You know that you know sometimes it back in the late eighties, and when we started talking about cognitive apprenticeship and things like that, it's like, Wow! We discovered this new way to help people learn it's called apprenticeship. It's based on a model that has existed throughout human history.
+
+45
+00:07:04.410 --> 00:07:14.760
+Brian Beatty: and we sort of forgot happened when we created a lot of our formal schools and kind of extracted, you know, took them out of that environment, taught them all the stuff that they would never have to use in their real life, at least not immediately.
+
+46
+00:07:15.180 --> 00:07:16.560
+Brian Beatty: So, anyway.
+
+47
+00:07:17.930 --> 00:07:21.200
+Brian Beatty: All right. Adam. I Haven't looked at yours, either.
+
+48
+00:07:21.210 --> 00:07:24.990
+Brian Beatty: I did. I did. I remember. What were you talking about here?
+
+49
+00:07:25.920 --> 00:07:39.180
+Adam Hill: I was talking about the use of data in formative assessment in particular, to then help teachers assess their own teaching and direct students, especially because
+
+50
+00:07:39.620 --> 00:07:42.880
+Adam Hill: in the Lav, the Lms environments I've worked in. They're actually
+
+51
+00:07:43.100 --> 00:07:50.960
+Adam Hill: for a variety of reasons. There, just Hasn't been able good systems for getting meaningful data, and like it's it's it's
+
+52
+00:07:51.500 --> 00:07:57.210
+Adam Hill: sad and hilariously bad sometimes what we've had in the past, and so like the more it's like
+
+53
+00:07:57.300 --> 00:08:10.890
+Adam Hill: the better systems we can have to collect data, the more I think we can. Tailor instruction, however, like it quickly, can get into these ethical and privacy areas When what kinds of data are you collecting? We certainly don't necessarily want to have like.
+
+54
+00:08:11.970 --> 00:08:22.750
+Adam Hill: I think, from last week's class like brain, eg. Activity. But we want we want something better than what I've seen in a lot of other systems. So
+
+55
+00:08:23.270 --> 00:08:26.470
+Brian Beatty: yeah, you know, one of the things that we sometimes run into
+
+56
+00:08:26.520 --> 00:08:34.909
+Brian Beatty: is the fact that when we've tried to use systems to give us more of this kind of insightful information about what's really going on with students is
+
+57
+00:08:35.289 --> 00:08:54.210
+Brian Beatty: There's there's always interpretation that goes on with that. So the student performs or does something that project that generates data. And the system has to say, okay, here's some data. Now to make this really useful for you. We're we're going to interpret that in a way. You've trained us to do right. You've given us an algorithm. To follow, and we're going to spit out a result. Oh, student, at risk
+
+58
+00:08:54.210 --> 00:09:10.220
+Brian Beatty: or student, not learning well or student, you know learning well, and you know, maybe maybe they're not so th that that's one of the challenges is that a lot of teachers? In fact, I think i'm most familiar with higher education faculty that Don't Trust kind of a lot of the black box kind of systems that they often get exposed to.
+
+59
+00:09:10.370 --> 00:09:19.980
+Brian Beatty: because they don't know how their crew, how they're generating. You know the results. The the highly processed results that they're being fed, and they don't know if they should trust them or not.
+
+60
+00:09:20.030 --> 00:09:23.490
+Brian Beatty: at least at some level. Sometimes it's not much of an issue.
+
+61
+00:09:23.590 --> 00:09:29.890
+Brian Beatty: But sometimes it is especially when you know more more unique and specific Student data is being used
+
+62
+00:09:29.910 --> 00:09:38.900
+Brian Beatty: like their history. You know their their academic history or other kinds of factors. Sometimes they'll they'll work in demographic factors, too.
+
+63
+00:09:38.910 --> 00:09:53.120
+Brian Beatty: older students, students from particular background, and use that in a way to generate information about maybe what's a Bath P Best password this student, based on who they are.
+
+64
+00:09:53.120 --> 00:09:58.950
+Brian Beatty: Maybe their demographics, maybe their profile. Maybe maybe other kinds of things that that may not be
+
+65
+00:09:59.110 --> 00:10:17.140
+Brian Beatty: always accurate, but they're based on statistically kind of the statistics would say, Well, the probability is a student like this is going to have this challenge, or or or going to serve, you know, do best in a program like this, or in a course like this, or with the next set of questions.
+
+66
+00:10:17.140 --> 00:10:24.100
+Brian Beatty: when in reality it might be based on some assumptions that aren't valid. For you know the students sitting right in front of you or in your class.
+
+67
+00:10:24.130 --> 00:10:28.710
+Brian Beatty: And so that's always. That's also always one of the challenges, I think, with a bunch of this.
+
+68
+00:10:30.100 --> 00:10:32.560
+Brian Beatty: It's kind of like, you know, basing
+
+69
+00:10:32.840 --> 00:10:43.870
+Brian Beatty: input from the data you have, and it's not. It's not usually unique for individual students. Now, when you get down to the individual students in the adaptive assessment approaches that we're talking about tonight.
+
+70
+00:10:44.170 --> 00:10:50.160
+Brian Beatty: You know, those are based on usually very specific sets of content and activities with that content.
+
+71
+00:10:50.270 --> 00:11:03.240
+Brian Beatty: We're they're asking students to answer questions. Do you know basic recall information or generate solutions to simple problems? Can you solve problems like this? And so you might. You might say that. Well, that seems to be a lot cleaner, and perhaps it is.
+
+72
+00:11:03.450 --> 00:11:04.780
+Brian Beatty: you know, but it's also an
+
+73
+00:11:04.820 --> 00:11:21.700
+Brian Beatty: not very broad. It's just really specific, and that's probably the best role for that. At this, At this stage it says real, relatively specific states kind of stay in your lane kind of first predicting. You know something about students based on their immediate. Can they answer questions like this?
+
+74
+00:11:21.720 --> 00:11:26.890
+Brian Beatty: Yes, we have data that shows they can answer questions like this correctly 9 out of 10 times.
+
+75
+00:11:28.790 --> 00:11:37.140
+Brian Beatty: But is a student likely to succeed, you know, after they leave your instructional, you know, setting your class or your your training program. Whatever can they do the work?
+
+76
+00:11:37.260 --> 00:11:43.020
+Brian Beatty: Well, that might be more more of a interpretation and more more probabilistic as opposed to deterministic.
+
+77
+00:11:45.400 --> 00:11:50.270
+Brian Beatty: Okay, anything else anyone else want to pipe in here with.
+
+78
+00:11:50.420 --> 00:11:55.130
+Brian Beatty: I think everyone all right, Joanna. I didn't get a chance to look at her post, either her her thread.
+
+79
+00:11:57.460 --> 00:11:59.410
+Brian Beatty: and let's see what else
+
+80
+00:12:01.280 --> 00:12:03.340
+Brian Beatty: everything else I've been able to participate in.
+
+81
+00:12:04.390 --> 00:12:07.910
+Brian Beatty: Okay? Well, any any remaining questions or comments from last week.
+
+82
+00:12:12.170 --> 00:12:17.500
+Brian Beatty: None great super, because I really want to move on to.
+
+83
+00:12:17.610 --> 00:12:20.160
+Brian Beatty: Let's go on. Let's talk about
+
+84
+00:12:20.290 --> 00:12:26.420
+Brian Beatty: adaptive assessment. So let me ask you a question, and have any of you ever used adaptive assessment tools.
+
+85
+00:12:26.560 --> 00:12:37.960
+Brian Beatty: either as a learner or as a teacher, facilitator, trainer, or designer. Anyone tried to design any of these. not the tool itself, but the stuff that goes into the tool.
+
+86
+00:12:38.500 --> 00:12:40.620
+Maristella Tapia: So I I have a question
+
+87
+00:12:40.770 --> 00:12:48.540
+Maristella Tapia: on canvas. I am able to set my quizzes so that students can
+
+88
+00:12:48.770 --> 00:12:50.090
+Maristella Tapia: see there
+
+89
+00:12:50.240 --> 00:12:56.170
+Maristella Tapia: their questions that were wrong. It doesn't tell them the right answer, but it just says this was not right.
+
+90
+00:12:56.580 --> 00:13:00.090
+Maristella Tapia: and then they can retake it another time.
+
+91
+00:13:01.880 --> 00:13:06.240
+Maristella Tapia: and then I just I said it to like, give them the average of both attempts.
+
+92
+00:13:06.910 --> 00:13:10.880
+Maristella Tapia: Is that the same thing as adaptive in some way? Or is that? Not?
+
+93
+00:13:12.280 --> 00:13:25.430
+Brian Beatty: Well, so i'm going to type a question into the chat. and maybe we can spend a few minutes at addressing this. Actually, there's there's a lot. There's an active question in the chat before I pose mine. This was from a few minutes ago. I missed it.
+
+94
+00:13:25.800 --> 00:13:30.350
+Brian Beatty: Wait. You bought the VR program right for your students. You told us that
+
+95
+00:13:31.400 --> 00:13:40.780
+Wei Lu: I applied for the grant in the process of reviewing. I think I can get a grant.
+
+96
+00:13:40.820 --> 00:13:53.300
+Wei Lu: So I contacted that website call what what.com? And they gave us
+
+97
+00:13:55.370 --> 00:14:05.550
+Wei Lu: a quote. No, I actually not a quote, because the content, the content of the we are teaching material.
+
+98
+00:14:05.570 --> 00:14:13.390
+Wei Lu: Yeah, you showed us that if the fund get approved, I think I will.
+
+99
+00:14:14.790 --> 00:14:18.230
+Wei Lu: We will start using next as a semester.
+
+100
+00:14:18.550 --> 00:14:24.410
+Brian Beatty: right? So you don't have it yet. That's what. Okay, All right. Well, next semester
+
+101
+00:14:24.730 --> 00:14:30.370
+Brian Beatty: in a class with us, you can tell us all about it. Okay.
+
+102
+00:14:30.590 --> 00:14:38.840
+Brian Beatty: all right. So my question is all right. It's a simple question. You think we can answer this one what is adaptive assessment?
+
+103
+00:14:40.120 --> 00:14:41.120
+Brian Beatty: You can
+
+104
+00:14:41.240 --> 00:14:48.890
+Brian Beatty: define it verbally. You can type into the chat. You can start a definition and not finish it, and someone else can pick up on it what is adaptive assessment?
+
+105
+00:14:58.670 --> 00:15:16.350
+Brian Beatty: I'm not sure. I gave you resources that cover just a really super basics unless you want to, unless you look at some of the the videos or so looked on the round on your own. And so we we have some elements of answers in their Adrian assessment that adjusts to students
+
+106
+00:15:16.420 --> 00:15:17.860
+Brian Beatty: learning level.
+
+107
+00:15:18.030 --> 00:15:30.310
+Brian Beatty: Yes, that's true, I would say so how does it adjust adjusting the difficulty level? So yeah, that's true. Adjustments assessment that just for what students knows and doesn't
+
+108
+00:15:30.480 --> 00:15:45.300
+Brian Beatty: from Mari also true Adam computer based assessment that takes in student learning data to adapt to students needs. That's more. This is the most most most most specific in general. At the same time.
+
+109
+00:15:46.570 --> 00:15:52.230
+Brian Beatty: I think there I mean all the adaptive assessment pieces I see these days and have ever seen really
+
+110
+00:15:52.450 --> 00:15:57.830
+Brian Beatty: our computer based. But that doesn't mean you couldn't do adaptive assessment
+
+111
+00:15:58.580 --> 00:16:01.610
+Brian Beatty: verbally or with pencil and paper.
+
+112
+00:16:01.880 --> 00:16:15.980
+Brian Beatty: As a matter of fact, the first adaptive assessments were done with pencil and paper, where students would be given questions in an in an order, and based on the answer to a particular question that might determine the next question they get to.
+
+113
+00:16:16.600 --> 00:16:35.670
+Brian Beatty: So they might actually, you know, go through a little section, and if they scored well on that section which could be scored relatively quickly, with a quick glance. If it's simple, simple grading. Okay, here's the next section of your your test, and it might be different than someone else is based on their answers. So you. You can envision this being done manually, although today it's all computer based. Why?
+
+114
+00:16:35.670 --> 00:16:50.140
+Brian Beatty: Because it's so much faster and it can be a lot more complex. You can use a lot more different decision making factors based on the data that's been gathered, and then process to what comes next. The point is that as it's assessment
+
+115
+00:16:50.480 --> 00:16:55.140
+Brian Beatty: that really adapts to the students level of learning. Do you want to ask questions
+
+116
+00:16:55.570 --> 00:16:58.830
+Brian Beatty: that students know the answers to all the time?
+
+117
+00:17:00.470 --> 00:17:01.630
+Brian Beatty: It's a good question.
+
+118
+00:17:01.750 --> 00:17:08.410
+Brian Beatty: you know, in a perfect exam. And if you really want to know what students know, I want to know exactly how much they know about this particular topic
+
+119
+00:17:08.780 --> 00:17:12.410
+Brian Beatty: is the ideal test something that they can get all the answers correct on.
+
+120
+00:17:16.400 --> 00:17:19.119
+Maristella Tapia: Not a rhetorical question.
+
+121
+00:17:19.630 --> 00:17:21.589
+Brian Beatty: Okay, why not?
+
+122
+00:17:25.060 --> 00:17:29.920
+Maristella Tapia: Well, I mean, I guess I don't know. I guess I guess it depends.
+
+123
+00:17:30.580 --> 00:17:33.350
+Maristella Tapia: I think the I ideal test
+
+124
+00:17:33.930 --> 00:17:35.450
+Maristella Tapia: is one that
+
+125
+00:17:36.160 --> 00:17:45.710
+Maristella Tapia: has varying levels of difficulty, but not necessarily one that is so easy that students can get everything right on.
+
+126
+00:17:45.790 --> 00:17:56.100
+Maristella Tapia: But, for example, if I created an exam that a student got a 100% on, I wouldn't necessarily see it as a failure of my exam.
+
+127
+00:17:56.410 --> 00:18:03.140
+Maristella Tapia: If that makes sense. unless everybody was getting a 100, then I would know, like.
+
+128
+00:18:03.380 --> 00:18:06.430
+Maristella Tapia: Okay, this this is
+
+129
+00:18:07.200 --> 00:18:22.250
+Maristella Tapia: this is not really test. How do I know if this is testing learning as much as if it's it's it's testing just basic common knowledge that maybe students have. You know that is way too easy. You know. To what extent are I my assessing what they've learned
+
+130
+00:18:23.500 --> 00:18:25.140
+Maristella Tapia: react to, that.
+
+131
+00:18:29.090 --> 00:18:32.180
+Brian Beatty: You might ask yourself what's the goal of the test?
+
+132
+00:18:35.740 --> 00:18:47.130
+Brian Beatty: And you have a comment in the chat. It sounds similar to choose your adventure, style, experience and video games with branching scenario possibilities based response. Yeah, essentially your response. What you get next depends upon what you just did
+
+133
+00:18:47.240 --> 00:18:50.380
+Brian Beatty: what you just what you just indicated. In some way.
+
+134
+00:18:50.650 --> 00:18:51.390
+Adam Hill: Hi!
+
+135
+00:18:52.010 --> 00:19:00.520
+Adam Hill: I was gonna say that. My my! My only exposure to designing something that's close to branching, and i'm not even that immersive. But I'm
+
+136
+00:19:01.000 --> 00:19:06.550
+Adam Hill: kind of familiar with directing people to it is like articulate. 360, I think, has like a branching
+
+137
+00:19:07.440 --> 00:19:15.030
+Adam Hill: thing you can do. But I almost don't even call that adaptive learning, because from what I understand
+
+138
+00:19:15.330 --> 00:19:23.010
+Adam Hill: it doesn't really provide data, or it doesn't like, you can't really get data out of the thing. It's more of just like a
+
+139
+00:19:24.300 --> 00:19:28.890
+Adam Hill: as you click buttons. It takes you to a different thing, but it
+
+140
+00:19:29.860 --> 00:19:35.040
+Adam Hill: like it doesn't seem like it's really providing the teacher with data. Rather it's a
+
+141
+00:19:35.490 --> 00:19:40.540
+Adam Hill: slide show that can take different paths which seems slightly.
+
+142
+00:19:40.720 --> 00:19:46.140
+Adam Hill: It's close to adaptive learning. But I don't necessarily know if it's providing like strong data for a.
+
+143
+00:19:46.260 --> 00:19:48.680
+Adam Hill: It's really not an assessment
+
+144
+00:19:49.120 --> 00:20:06.130
+Brian Beatty: kind of thing going on it. It. It. It can show you a path that they take it Doesn't. Necessarily it it depends on how you design it. It doesn't necessarily tell you what they know along the way. If they're just decisions that they're making or guessing quite honestly, a lot of branches, stars, people just click through and see. Where does this take me?
+
+145
+00:20:06.290 --> 00:20:07.210
+Adam Hill: Yeah.
+
+146
+00:20:07.990 --> 00:20:17.920
+Dalton Lobo Dias: yeah, it seems like that from the videos that we watch the area 9 service. It seems like that they does track all that data. And then
+
+147
+00:20:18.390 --> 00:20:34.080
+Dalton Lobo Dias: I thought it was also interesting how they also had that awareness button as opposed to that. You You make your choice. and then you can you can. There's an added confidence awareness, button that also gets filtered into the data. I don't They didn't show the algorithm what that looks like, but
+
+148
+00:20:35.770 --> 00:20:38.080
+Dalton Lobo Dias: it did it. It would create a little
+
+149
+00:20:38.400 --> 00:20:39.940
+Dalton Lobo Dias: like our
+
+150
+00:20:39.960 --> 00:20:41.570
+Dalton Lobo Dias: sort of for each person.
+
+151
+00:20:41.630 --> 00:20:46.990
+Dalton Lobo Dias: Then you could click on that on that person, and it would break up into like the skills and the
+
+152
+00:20:47.010 --> 00:20:51.950
+Dalton Lobo Dias: various. you know learning goals and objectives. So not that
+
+153
+00:20:52.290 --> 00:21:02.120
+Dalton Lobo Dias: that's I think that's that. That's pretty interesting, because it's that way. You don't just have people go through the experience, and it goes into some kind of black box that's not accessible.
+
+154
+00:21:03.200 --> 00:21:06.750
+Brian Beatty: Yeah, there is a i'm gonna put a link into a
+
+155
+00:21:06.910 --> 00:21:20.050
+Brian Beatty: into a tool, a an article that some of you may find interesting. It's about building adaptive assessments for moocs, and this is from a team at at Harvard. So it must have been whatever Mooc system. Harvard was in
+
+156
+00:21:20.050 --> 00:21:28.780
+Brian Beatty: one of the first, probably one of the first ones from a few years ago back, when this was still kind of all the rage in higher education. Actually, it talks about
+
+157
+00:21:28.960 --> 00:21:33.540
+Brian Beatty: the Edx platform. Yeah, there you go so.
+
+158
+00:21:33.600 --> 00:21:41.910
+Brian Beatty: And it's a team. I know. I know of some of those people. So i'm sure that reading it would be very interesting if you're really interested in that kind of stuff.
+
+159
+00:21:42.000 --> 00:21:46.590
+Brian Beatty: and because they talk about how what they go about a little bit. It's very short.
+
+160
+00:21:46.680 --> 00:21:57.610
+Brian Beatty: So I think the question, though, actually is, what's the goal of the of the of the assessment or of the of the program. If you're if the assessment is really trying to figure out, what exactly does someone know?
+
+161
+00:21:57.700 --> 00:22:11.040
+Brian Beatty: You really don't? You can't know that if all you're doing is asking questions that they can answer or giving them problems that they can solve. Why? Because you don't know the limit of their knowledge in those particular areas. You don't really find the limits until you understand also what they can't do
+
+162
+00:22:11.140 --> 00:22:14.340
+Brian Beatty: right. Remember the zone of proximal development with the Gotski and all that.
+
+163
+00:22:14.440 --> 00:22:29.360
+Brian Beatty: Well, if everything you ask them, they can answer, Where which area are you in? Are you in the zone of proximal development. No, you're inside that inner circle. This is obviously what they know. But you don't know how far out that extends you to have to start asking them questions that they can't answer.
+
+164
+00:22:29.620 --> 00:22:44.580
+Brian Beatty: or that they need help to answer. And that's what helps tell you exactly where to kind of where their knowledge is to the extent that you can actually measure that when I we took the Gr. For the I only took it once. But when that was the first time. This is back in the nineties.
+
+165
+00:22:44.750 --> 00:22:54.130
+Brian Beatty: It it was when they were just coming out with the adaptive, the well, the adaptive version, which is the computer based one. And I don't think they were using the term adaptive at that point.
+
+166
+00:22:54.430 --> 00:22:56.840
+Brian Beatty: because
+
+167
+00:22:57.710 --> 00:22:58.760
+the
+
+168
+00:23:00.650 --> 00:23:01.860
+Brian Beatty: the adaptive
+
+169
+00:23:02.220 --> 00:23:25.490
+Brian Beatty: it was, it was. It was just computer based so you could do at that time you could choose. You could do the paper based one or the computer based one. And what I had heard from people was that if you do the paper based one, you will probably get a better score. Why? Because you get all the questions you get, all the easy questions. And so you build up this record of being able to answer a lot of the easy questions, but it but it it supports your score.
+
+170
+00:23:25.490 --> 00:23:43.020
+Brian Beatty: If you take the computer based one, what it'll do is once it figures out all you know this stuff. It stops asking you that level of question, and moves on to the next higher level, and then the next higher level, so that you you might get the same level of questions right? But you have fewer correct answers to support your score.
+
+171
+00:23:43.040 --> 00:23:49.220
+Brian Beatty: and so I don't know. At that point it was still probably within a year or 2 of them kind of given the option for this.
+
+172
+00:23:49.530 --> 00:23:57.270
+Brian Beatty: And so that was that was the that was that was, that was what was on the street, at least with students, and so I took the I took the paper based one.
+
+173
+00:23:58.090 --> 00:24:21.260
+Brian Beatty: but the point was that kind of exam is not trying to see. Do you know all of this you want to know. What do you know where the limits of your knowledge in these particular areas? And there are some students who do go through, and they answer every question correctly. But the tests are designed so that that's a very small number of students, very, you know. Sats were classically done that way as well. They didn't. They don't want tests that a lot of people can answer all the questions for, because then they couldn't
+
+174
+00:24:21.490 --> 00:24:31.270
+Brian Beatty: sort students right. That was one of the main roles, for those is, is giving into institutions an indication of how likely someone is to succeed.
+
+175
+00:24:31.680 --> 00:24:42.040
+Brian Beatty: not high correlation or not not really good data, showing how effective that was, but it was the best individual tool that many could find. Yet it also
+
+176
+00:24:44.100 --> 00:24:48.290
+Brian Beatty: was designed to that. The the top score. Not that many people would get.
+
+177
+00:24:48.500 --> 00:25:04.430
+Brian Beatty: and of course there are also all any kind of times you do these kinds of assessments. You're always building bias into the testing. Because you're you're asking questions, making assumptions about the what people know or should know in particular fields, etc. So but the point about the testing is they're not design
+
+178
+00:25:04.580 --> 00:25:13.320
+Brian Beatty: to test for something you might call mastery. It kind of an old term these days. But if you want to test to see whether or not everybody can achieve the learning outcomes
+
+179
+00:25:13.510 --> 00:25:27.060
+Brian Beatty: an exam like that mit Ctl. And you ought to be fine with everyone getting everything correctly, because that tells you they've they've achieved. Maybe they already had achieved them. But at least when they're leaving the training one. they can do the things that they you told them they should be able to do when they're finished.
+
+180
+00:25:27.760 --> 00:25:36.080
+Brian Beatty: Right? So I this is where I don't really know why a lot of training programs, will, you know, walk away and say, Well, 80 is is on. This assessment is good enough.
+
+181
+00:25:36.360 --> 00:25:49.060
+Brian Beatty: Okay. So what 20 was useless? You know that you they don't need to know in order to do this on the job, or you know the next place, they're going with their what they're learning, you know, school class, or whatever it happens to be. or we just saying 80%, because you know, no one's perfect.
+
+182
+00:25:49.110 --> 00:26:00.170
+Brian Beatty: Yeah. And you know, we know they're not going to, really. They'll do everything. So there are some I saw, I guess. The answer to my question is that there are
+
+183
+00:26:00.240 --> 00:26:16.470
+Brian Beatty: some places where you want a test that everybody can get everything correct, because that's all you care about, do you? I don't care how much you know. I want to know. You know this. This is what the system needs you to be able to prove, you know, before you can move on. But in a lot of times
+
+184
+00:26:16.470 --> 00:26:36.470
+Brian Beatty: we we develop tests where we don't really want a 100. We want to, if we want to know exactly kind of where their knowledge is, and if you're trying to figure out what they know, so that you can help them move on to the next appropriate level, You kind of need to know what their knowledge stated is as as clearly as you can. So exams like that you don't want all the correct answers.
+
+185
+00:26:36.850 --> 00:26:38.700
+Brian Beatty: So adaptive assessments
+
+186
+00:26:38.800 --> 00:26:48.490
+Brian Beatty: typically are that kind of exams, or or that kind of practice where they get harder and harder and harder because they need to find out where you know where your knowledge. Failure point is.
+
+187
+00:26:51.140 --> 00:26:54.510
+Brian Beatty: Mar. You talk about the zone of proximal debt.
+
+188
+00:26:54.550 --> 00:27:09.880
+Maristella Tapia: do you? I? You can talk about that if you'd like. What do you mean by that i'm Head Development. I I I corrected it underneath. It was I didn't know if that was actually a term. Oh, no, I I slightly remember reading about
+
+189
+00:27:09.880 --> 00:27:15.880
+the Gotski's zone of proximal development. But I can. You just kind of summarize it again.
+
+190
+00:27:15.980 --> 00:27:19.690
+Brian Beatty: No, but I know there's someone in here who can
+
+191
+00:27:23.650 --> 00:27:32.600
+Maristella Tapia: right. It has to do with like
+
+192
+00:27:32.620 --> 00:27:35.120
+Maristella Tapia: a anyone anyone
+
+193
+00:27:35.540 --> 00:27:39.630
+Adam Hill: isn't it. The idea of this kind of like 3 areas is like what a learner can do without help
+
+194
+00:27:40.990 --> 00:27:46.130
+Adam Hill: with help, and it can't even do with help. And you want to get Yes.
+
+195
+00:27:46.230 --> 00:27:55.070
+Brian Beatty: yeah, there's like 3. Look space looking kind of things, and you would mention the space. Dalton, you had your hand up. Is there like the Black Hole of the Zpd.
+
+196
+00:27:55.330 --> 00:28:00.160
+Dalton Lobo Dias: Yeah, no, that's I think that's exactly it. Yeah, because it's. I think 1 one element that
+
+197
+00:28:00.270 --> 00:28:08.690
+Dalton Lobo Dias: I've noticed that people forget to include is that social element that it's not like just what you can do on your own. It's with help, right with people around you.
+
+198
+00:28:10.030 --> 00:28:15.580
+Brian Beatty: With a yeah, we the turn that's often uses a more knowledgeable other or more capable other.
+
+199
+00:28:15.680 --> 00:28:35.360
+Brian Beatty: And so so the zone approximately on it. You you you think about. Well, let's look at the set of everything a student knows in a particular topic that, and we would represent in a 2 dimensional, you know, diagram with a circle. And inside that circle I know all that I can answer all those questions I could solve those problems. You know I can do whatever it is, whatever the tasks are inside there.
+
+200
+00:28:35.360 --> 00:28:40.440
+Brian Beatty: And yet there are other tasks I could do, but I can't do them on my own, yet I can do them with help.
+
+201
+00:28:40.450 --> 00:28:59.150
+Brian Beatty: and that would be outside of that circle, you know. So kind of expand the circle to include all of those tasks and all that knowledge, and that would be what I can do with a more knowledgeable other that more knowledgeable other could be a person. It could be a teacher. It could be a stranger who just interacts with you like learning language
+
+202
+00:28:59.150 --> 00:29:02.770
+Brian Beatty: right? They can help you, maybe use language appropriately.
+
+203
+00:29:03.040 --> 00:29:17.440
+Brian Beatty: You know that you can't use on your own. Oh, yeah, I recognize. I just don't really how to use. Oh, that's how I do it. Now let me try it. You know that kind of thing. So that would be where scaffolding would be. And then, outside of there. There's there's other things that are there's you're just not ready for this. You don't have the the kind of the
+
+204
+00:29:17.440 --> 00:29:34.130
+Brian Beatty: you don't have the basics down enough so that you can actually do something like this, you know. So working with language right? Especially when you know when kids are learning language or when adults are learning language right, they can usually do some things. What do we learn how to do? First, let's say you're going to learn a different language because you're going to travel somewhere. What do you learn? First
+
+205
+00:29:37.180 --> 00:29:53.660
+Brian Beatty: basic survival basic things like time of day location, transportation things, how to ask for help, how to ask for this. You know how you know these days. You can, you know, talk into your phone and get it spinning out even your own and your own voice, sometimes not in a different language. Let's say that's not on the table.
+
+206
+00:29:53.790 --> 00:30:00.150
+Brian Beatty: Well, maybe that does like super, expand our Zbd for language, learning all of a sudden, and out of that, you know. But
+
+207
+00:30:00.250 --> 00:30:12.870
+Brian Beatty: that's what you would start with you. Don't: start with. Okay, let's write a a, a, a paragraph to answer an academic question, you know, at a at a college level. You know kind of exam that's not where you would. You wouldn't be able to do that yet, even with help, most likely.
+
+208
+00:30:14.600 --> 00:30:16.650
+Brian Beatty: Yeah. And we have a
+
+209
+00:30:16.870 --> 00:30:23.920
+Brian Beatty: a link in there for Zpd. A. J. A. Jpeg. Would you probably show that really nicely. Okay.
+
+210
+00:30:27.500 --> 00:30:30.370
+Brian Beatty: Okay, All right. Well, let's
+
+211
+00:30:31.730 --> 00:30:37.730
+Brian Beatty: Let's go back to this week. I think we're so
+
+212
+00:30:38.230 --> 00:30:41.470
+Brian Beatty: I at. I had put some articles in here, this first one.
+
+213
+00:30:42.060 --> 00:30:53.070
+Brian Beatty: What about this? This idea is getting a lot of attention. And that was a video. This is what I want to put up the future of testing and education, artificial intelligence. What did you? What did you bring out of this?
+
+214
+00:30:53.300 --> 00:30:54.690
+Brian Beatty: Is there any hope?
+
+215
+00:30:56.000 --> 00:30:57.360
+Brian Beatty: What is the hope?
+
+216
+00:31:15.560 --> 00:31:20.100
+Brian Beatty: What do you think about this idea? Stealth assessments
+
+217
+00:31:24.900 --> 00:31:25.710
+Brian Beatty: call to me.
+
+218
+00:31:26.690 --> 00:31:32.770
+Yeah, a couple of things. One is the the self assessment, you know. I I think about this a lot as a teacher
+
+219
+00:31:33.400 --> 00:31:43.030
+Dalton Lobo Dias: about. You know that that you know I don't. I don't know if we can ever get to a point where, like school is not a stressful thing, right where we have to
+
+220
+00:31:43.040 --> 00:31:47.080
+Dalton Lobo Dias: dance around the stress of students and like thee.
+
+221
+00:31:47.280 --> 00:32:00.110
+Dalton Lobo Dias: How schools sort of They're down on families and kids like I I you know. I wonder if is that how it really should be? And then we and then educators and instructors are trying to figure out ways to sneak in assessment
+
+222
+00:32:00.250 --> 00:32:13.260
+Dalton Lobo Dias: almost like putting sugar in the medicine for kids. Right? I don't know. I think this is. I think this is wrong wrong with society in general. but I think people are still going to push that, because there is, there is demand
+
+223
+00:32:13.320 --> 00:32:16.000
+Dalton Lobo Dias: to have medicine with sugar in it.
+
+224
+00:32:16.110 --> 00:32:17.890
+Dalton Lobo Dias: And
+
+225
+00:32:18.270 --> 00:32:26.030
+Dalton Lobo Dias: so yeah, I guess I guess this is one way to do it is is, have artificial intelligence. Do it Remove some of the stressors? Have you
+
+226
+00:32:26.230 --> 00:32:34.970
+Dalton Lobo Dias: have some more autonomy on the student, or maybe the the family or stakeholder side. But i'm also wondering, too, about how this
+
+227
+00:32:35.230 --> 00:32:37.750
+Dalton Lobo Dias: artificial touches can be used to
+
+228
+00:32:38.080 --> 00:32:51.930
+Dalton Lobo Dias: have education be more of a you know student-driven thing is like, okay, Well, let's let's have students be more in charge of their own learning, so that it doesn't have to be something that's imposed. Of course kids cannot make full decisions for themselves.
+
+229
+00:32:52.010 --> 00:32:53.960
+Dalton Lobo Dias: but I think it it
+
+230
+00:32:54.110 --> 00:33:04.810
+Dalton Lobo Dias: like. What if what if that was a possibility, right? We're like Here's something that you have to do right that your parents have signed you out for. But what if the rest of this stuff is something that
+
+231
+00:33:04.870 --> 00:33:15.460
+Dalton Lobo Dias: can be guided through artificial intelligence. And then in adults whose structures can be more taking on the role of facilitators right? And then with access to Smes and things like that.
+
+232
+00:33:15.570 --> 00:33:24.410
+Dalton Lobo Dias: So yeah, I think about that. The the sort of slide to stealth assessment. And also, you know, having students be more
+
+233
+00:33:24.500 --> 00:33:29.900
+Dalton Lobo Dias: in charge right, more more active in in participating in in decision making.
+
+234
+00:33:30.490 --> 00:33:34.290
+Brian Beatty: Yeah, the the the idea of stealth assessment to me
+
+235
+00:33:34.370 --> 00:33:47.870
+Brian Beatty: seems to be something that actually, if we could do that in in ways, and you know, you know, assess legitimately. I think that would be kind of wonderful for for things, because
+
+236
+00:33:48.000 --> 00:33:53.030
+Brian Beatty: I think in most situations outside of this formal school environments
+
+237
+00:33:53.410 --> 00:34:08.409
+Brian Beatty: assessments may not be stealth, but but there are a lot of stealth assessments going on. Which basically means that you don't know you're being assessed. At least it's not a it's not a discrete asset. Now, you're being assessed. No, you're actually living your life and practicing something and doing something.
+
+238
+00:34:08.409 --> 00:34:19.170
+Brian Beatty: And you're in someone, maybe watching. Maybe it's observation. Maybe it's looking at the results. And you're being assessed through how you actually are performing it's not a it's not a separate kind of thing.
+
+239
+00:34:19.659 --> 00:34:36.090
+Brian Beatty: Right. When do we add in the extra the separate assessments. Oh, let's make Well, you're gonna have to pass this exam before you can do this job, or you're gonna have to pass this exam before you can go on to these other kinds of problems. It's usually when we can't do this to health assessments to really what know what people are doing
+
+240
+00:34:36.159 --> 00:34:43.800
+Brian Beatty: in practice, or for some other reasons. One of the challenges with having the the discrete assessments from my perspective is
+
+241
+00:34:43.900 --> 00:34:51.030
+Brian Beatty: that when we take you out of the performance, environment, the regular knowledge, environment, right? The situation that you're learning in.
+
+242
+00:34:51.639 --> 00:34:56.600
+Brian Beatty: And we take you out of that and put you into an assessment. Environment that changes some things.
+
+243
+00:34:56.780 --> 00:35:11.560
+Brian Beatty: That's where stress comes in for a lot of students. That's where the artificial environment comes in for a lot of people. That's where we ask questions that like multiple choice questions that we think are giving us answers as to whether or not you can do this job. Can you solve that problem
+
+244
+00:35:12.810 --> 00:35:22.920
+Brian Beatty: right? When when that's just it's it's extracted. It's, an it's an abstraction of what we really want you to be able to do wouldn't it be better to have that assessment from what you're really doing when you're really doing it.
+
+245
+00:35:23.180 --> 00:35:34.180
+Brian Beatty: And if we can do that, why not help that kind of help for formative assessment. Let you know, hey, that's this is going really Well keep going. You're doing it. You're doing a great job, or things are Things may not be working out the way you think.
+
+246
+00:35:34.350 --> 00:35:41.960
+Brian Beatty: Maybe it's time to stop. Rethink this and move forward. That's what a adaptive of of, you know. Practice and feedback
+
+247
+00:35:42.180 --> 00:35:55.010
+Brian Beatty: connect to the content, and the learning experience itself can really do. At least that's the hope, for they can kind of catch you, you know, or help you when you need that help, while you're trying to do something that's relatively new to you.
+
+248
+00:35:55.160 --> 00:35:58.720
+Brian Beatty: that you're not quite doing right. or maybe you want to know you're doing it right?
+
+249
+00:36:01.300 --> 00:36:04.300
+Brian Beatty: Yeah, Charlie. And the trunk factory in the chat.
+
+250
+00:36:04.710 --> 00:36:06.110
+Brian Beatty: Yeah. So
+
+251
+00:36:06.300 --> 00:36:16.830
+Brian Beatty: yeah, so to that point. And to the second point you were talking about kids making some their own decisions. I I read some a while ago on this kind of concept of something called the Light directed
+
+252
+00:36:17.180 --> 00:36:23.620
+Brian Beatty: study. And this is this is some stuff being done in non-traditional school environments.
+
+253
+00:36:23.640 --> 00:36:41.320
+Brian Beatty: like you know not not not a scripted kind of environment, oftentimes well, clearly smaller schools, and a lot of independent learning situations, maybe even home schooling situations where students were given choices to ask them, what what would you like to be able to do. Let's say, let's take this next year of your your curriculum. What do you want to do?
+
+254
+00:36:41.470 --> 00:36:49.570
+Brian Beatty: And there's a kind of a classic example that there was a a 2 siblings, and they wanted to. They wanted to start a magazine for kids.
+
+255
+00:36:50.270 --> 00:36:52.780
+Brian Beatty: and so their entire school year
+
+256
+00:36:52.790 --> 00:36:57.140
+Brian Beatty: was all focused around them, launching a magazine for kids.
+
+257
+00:36:57.810 --> 00:37:14.230
+Brian Beatty: right? And so so that was like the delight of their heart or something. That's kind of where the language comes from. And so there, there, who whoever I think it was, I think it was homeschooling environment. So the parents were to figure out. What do you need and help them try to figure out. What what do you need to start a a magazine?
+
+258
+00:37:14.230 --> 00:37:21.380
+Brian Beatty: How do you get that? What do you have to know? What kind of mask do you need to know? What kind of other things? What about you know, writing and technology, all these other kinds of things that that.
+
+259
+00:37:21.760 --> 00:37:29.000
+Brian Beatty: And so that was a that was a you know a success story. It's not. It's not easy to do that. And you how could you do that at scale
+
+260
+00:37:31.760 --> 00:37:36.360
+Brian Beatty: probably very difficult. Now, what if you have AI tutors who can tool out of that?
+
+261
+00:37:36.380 --> 00:37:49.510
+Brian Beatty: You know that kind of like parental guidance along? Well, you know, help them through that whole big kind of problem solving it's really a project base, I guess. Learning a environment, you know. Maybe, that some become something that could be easier to do at scale.
+
+262
+00:37:52.510 --> 00:38:05.120
+Brian Beatty: Yeah, Adrian, that's a good example of this. Tell to some kind of the self assessment. We're just having a conversation. But we're really, you know, this is really an interview, but it's gonna be. We're just gonna have a conversation with Why? Because that's how we're going to interact on the day to day.
+
+263
+00:38:05.450 --> 00:38:16.650
+Brian Beatty: We're not going to interact by you coming into the office, and that's asking you a question. You know, if there are 3 questions for the day. and you know that kind of thing which is more like. more like interviews are
+
+264
+00:38:20.480 --> 00:38:25.100
+Brian Beatty: all right. Well, okay, what else. What if you, what else did you guys come out of here? Anything
+
+265
+00:38:25.830 --> 00:38:29.620
+Brian Beatty: There's that intelligent tutoring system term again. I I mentioned before.
+
+266
+00:38:42.000 --> 00:38:46.690
+Brian Beatty: I haven't seen this before snapping a picture of the equation and let me in the machine grade it
+
+267
+00:38:47.290 --> 00:38:48.580
+Brian Beatty: based on visual.
+
+268
+00:38:49.820 --> 00:38:52.720
+Brian Beatty: Oh, look, I can tweet this! And then
+
+269
+00:38:55.740 --> 00:39:15.630
+Adam Hill: I I thought it was interesting kind of when they got to the I think this is towards the end where they're talking about like the policy prescriptions, and how like government this this, this part actually kind of went over my head a little bit, but it was like how the how we need more government regulations around
+
+270
+00:39:16.270 --> 00:39:18.680
+Adam Hill: this, and maybe it's because, like I don't.
+
+271
+00:39:20.160 --> 00:39:37.610
+Adam Hill: I kind of like it. It's in such a fledgling state like the use of AI here that Yeah, Like, once we get to the bias area that we need that that there needs to be like more government investment, and even maybe even some regulations around
+
+272
+00:39:39.660 --> 00:39:41.570
+Adam Hill: the use of AI in education.
+
+273
+00:39:41.960 --> 00:39:48.590
+Brian Beatty: Yeah, it's a it's a tough one. because in in we well. my
+
+274
+00:39:49.010 --> 00:39:56.740
+Brian Beatty: my experience with government is that it's typically for a lot of things like this. It's always in. It's always lagging, and sometimes pretty severely
+
+275
+00:39:57.090 --> 00:40:04.500
+Brian Beatty: right. So so the fact that that our you know the Congress is talking about. Put let's put a break on AI. It's like we admit it.
+
+276
+00:40:04.680 --> 00:40:15.380
+Brian Beatty: This the the breaks don't they don't apply here right there may be some guardrails and things like that, but just saying, oh, let's just stop this for like 6 months. What what are you to even talking about?
+
+277
+00:40:15.540 --> 00:40:23.410
+Brian Beatty: So the fact that I I don't know. I guess I have. I don't have a really good attitude towards it as far as what they can actually do.
+
+278
+00:40:23.520 --> 00:40:30.870
+Brian Beatty: But I don't. I don't dispute that there needs to be some controls, and this is a perfect example. The bias is is all all over this stuff.
+
+279
+00:40:31.340 --> 00:40:33.710
+Brian Beatty: and you can't avoid it.
+
+280
+00:40:34.230 --> 00:40:50.830
+Brian Beatty: And to the in. So we we with something that we have to have on the table. Let's let's talk about this, and let's see how things these things are being designed. Every vendor I've ever talked to in my administrative role, and they were coming in with adaptive systems, whether it was about learning or whether it was a student performance.
+
+281
+00:40:50.830 --> 00:40:55.430
+Brian Beatty: You know, like advising systems that we're using some algorithms, but they would never share.
+
+282
+00:40:55.500 --> 00:41:01.200
+Brian Beatty: never share how they actually come up to the You know the determinations that they're making. This student knows this.
+
+283
+00:41:01.210 --> 00:41:11.780
+Brian Beatty: or, even more importantly, this student is likely to succeed, or likely not to succeed. This student needs this kind of intervention. They would tell us the general parameters of what they were looking at, but they would never.
+
+284
+00:41:11.870 --> 00:41:18.560
+Brian Beatty: It would never reveal exactly what they were doing. And I like a in a higher education campus like ours. We actually have data scientists.
+
+285
+00:41:18.710 --> 00:41:22.980
+Brian Beatty: And they said. Well, we'd like to see what you're doing, because we want to know that you know we
+
+286
+00:41:23.130 --> 00:41:31.400
+Brian Beatty: representing San Francisco State. you know, approved essentially of what you're doing with data the biases that you're introducing there.
+
+287
+00:41:32.490 --> 00:41:37.590
+Brian Beatty: And that's just not something that that they've been willing to do, because it's prior to proprietary. So they.
+
+288
+00:41:37.710 --> 00:41:50.450
+Brian Beatty: you know, kind of how they, how they, how they make their like their soup. So that would be something that actually might be something that that the governments could, you know, could help with like. Well, let's make sure that we've got transparency
+
+289
+00:41:50.880 --> 00:42:00.800
+Brian Beatty: when we are putting all this data in that we have a way of knowing what's how that data is being processed, and then spit out. So that's one area. How are these decisions being made?
+
+290
+00:42:00.810 --> 00:42:15.840
+Brian Beatty: Especially when it's around. You know the quality of people learning, or the or the likelihood of people succeeding in their various paths. You know, especially with this, you know, human history is just full of, you know manipulation and all sorts of bad things. But there's another part of that.
+
+291
+00:42:16.030 --> 00:42:24.240
+Brian Beatty: That's not just about how your how you're how you're doing this, but also most of these vendors also they're They're taking in all this data.
+
+292
+00:42:24.280 --> 00:42:27.970
+Brian Beatty: and they're processing in a way that's returning valuable to the company.
+
+293
+00:42:28.070 --> 00:42:38.870
+Brian Beatty: Why, why? Why would you buy this? Well, because we can help your faculty, know. You know they can have a class of 1,000 students and never have to live with. Lift a finger for practice homework activities, and their students will learn better than they ever did before.
+
+294
+00:42:38.980 --> 00:42:40.090
+Brian Beatty: Probably true.
+
+295
+00:42:40.710 --> 00:42:50.610
+Brian Beatty: right. But all that data that's being brought in. They're using to kind of improve their systems. And who else, you know, I don't know I also using it, but that would never give that data back to schools.
+
+296
+00:42:51.870 --> 00:42:54.790
+Brian Beatty: Right? That was another thing we often ask: Can we get the data back?
+
+297
+00:42:55.390 --> 00:43:03.930
+Brian Beatty: No, we give you the results of our processing of your data. We don't give you the data back. We don't show you how we're processing. We don't give you the data back for yourself.
+
+298
+00:43:04.590 --> 00:43:15.780
+Brian Beatty: you know, because you might. Well, we might want to use this ourselves, you know, maybe some of something, a process of a different way that you're not processing, not not to replace you, but to do some other things that we care about now.
+
+299
+00:43:16.100 --> 00:43:20.040
+Brian Beatty: That was never, usually a a possibility. That would be another thing.
+
+300
+00:43:20.110 --> 00:43:24.090
+Brian Beatty: you know, who owns the data where I think governments could really be involved
+
+301
+00:43:25.800 --> 00:43:27.260
+Brian Beatty: quite potentially, at least.
+
+302
+00:43:30.980 --> 00:43:33.990
+Brian Beatty: Yeah, yeah. And Adam, I did hear something about that
+
+303
+00:43:34.100 --> 00:43:37.600
+Brian Beatty: we're, and actually wasn't there also suggestion that
+
+304
+00:43:39.450 --> 00:43:40.580
+Brian Beatty: you know
+
+305
+00:43:40.720 --> 00:43:54.700
+Brian Beatty: there ought to be, You know, people in Congress who know enough about AI. They can actually be not the expert in the room, but be able to understand what the experts are saying when they're talking about things like this, because, you know, like a lot of things most most people in Congress like the general public.
+
+306
+00:43:54.960 --> 00:43:59.290
+Brian Beatty: I have really no idea what this is. All they they get, what they know from.
+
+307
+00:43:59.650 --> 00:44:00.500
+I don't know
+
+308
+00:44:00.510 --> 00:44:01.940
+Brian Beatty: TV news or something.
+
+309
+00:44:10.420 --> 00:44:11.300
+Brian Beatty: Okay?
+
+310
+00:44:11.560 --> 00:44:13.480
+Brian Beatty: Well, the
+
+311
+00:44:14.930 --> 00:44:22.830
+Brian Beatty: you looked at some of these other things so that some papers, Generally speaking. we're talking about different tools. A lot of details in here.
+
+312
+00:44:22.940 --> 00:44:26.790
+Brian Beatty: H. O. Ts. I order thinking skills.
+
+313
+00:44:27.710 --> 00:44:32.020
+Brian Beatty: It's something that we have a faculty in our department. Stanley Pogro.
+
+314
+00:44:32.240 --> 00:44:43.370
+Brian Beatty: who has done a lot of work in that area for the last 30 years, or something like that. Nothing with AI, as far as I know. But but you know he's. If you're interested in that, you want to talk to someone about that, you can talk to
+
+315
+00:44:43.410 --> 00:44:44.760
+Brian Beatty: Dr. Po Grow.
+
+316
+00:44:44.940 --> 00:44:53.610
+Brian Beatty: and he he might be something that would be really interesting to showing you, and shows you some of the and now the detailed levels analysis, they're able to do with this
+
+317
+00:44:53.970 --> 00:44:56.570
+Brian Beatty: right, this other one.
+
+318
+00:44:56.740 --> 00:45:00.890
+Brian Beatty: this other one is talking about student success systems.
+
+319
+00:45:02.230 --> 00:45:09.040
+Brian Beatty: So when we talk about academic success or student success, oftentimes it comes down to academic success.
+
+320
+00:45:10.880 --> 00:45:12.710
+Brian Beatty: all right, and they define it.
+
+321
+00:45:14.920 --> 00:45:16.360
+Brian Beatty: You know. How do they define it?
+
+322
+00:45:18.910 --> 00:45:23.460
+Brian Beatty: How did it find student success? How would you define student success?
+
+323
+00:45:29.760 --> 00:45:31.100
+Brian Beatty: Is there trying to predict it?
+
+324
+00:45:32.250 --> 00:45:38.970
+Brian Beatty: Right? They're trying to predict the likelihood of a student succeeding in a particular path.
+
+325
+00:45:39.140 --> 00:45:46.900
+Brian Beatty: Given a particular background and a you know a variety of other kind of factors that they can input into the into their calculation machine
+
+326
+00:45:47.160 --> 00:45:48.490
+Brian Beatty: their computator.
+
+327
+00:45:54.770 --> 00:45:58.360
+Brian Beatty: So Dalton has an answer copied from somewhere.
+
+328
+00:45:58.640 --> 00:46:02.010
+Brian Beatty: What is it? Tell? Give us a give us the
+
+329
+00:46:02.110 --> 00:46:04.020
+Brian Beatty: 15 s version of this.
+
+330
+00:46:05.580 --> 00:46:12.330
+Dalton Lobo Dias: Yeah, I mean, success is a lot of things for them. Right? It was. I thought I was interesting that they also include
+
+331
+00:46:12.510 --> 00:46:16.670
+Dalton Lobo Dias: the post college performance. I think that that's over the key. One
+
+332
+00:46:17.040 --> 00:46:22.020
+Dalton Lobo Dias: that usually isn't is not talked about. because when
+
+333
+00:46:23.160 --> 00:46:32.840
+Dalton Lobo Dias: when a lot of folks, you know express like hey, you know, education should really lead to these certain outcomes and careers, sometimes there is pushback about how education should be for its own sake, and like
+
+334
+00:46:32.990 --> 00:46:36.130
+Dalton Lobo Dias: this and that. But very few people actually go
+
+335
+00:46:36.190 --> 00:46:40.500
+Dalton Lobo Dias: to call your University for just just just learn and hang out.
+
+336
+00:46:41.740 --> 00:46:44.410
+Dalton Lobo Dias: So yeah, I appreciate the data that I've been in there
+
+337
+00:46:46.250 --> 00:46:52.030
+Brian Beatty: right? Yeah, that you know it's a great case in point, because every student success system in the world
+
+338
+00:46:52.150 --> 00:47:00.770
+Brian Beatty: is going to, at least for higher education. It's going to try to identify students, or like who is likely to see a particular path, and they're often the greedy pass
+
+339
+00:47:00.800 --> 00:47:03.110
+Brian Beatty: and and paces.
+
+340
+00:47:03.180 --> 00:47:14.440
+Brian Beatty: so that the institution knows where they should invest their intervention funds like advising time or tutoring time, who needs the most help and will try to do is identify students who are
+
+341
+00:47:14.680 --> 00:47:32.370
+Brian Beatty: already. They're likely to succeed, no matter what you do, so don't bother them. You know you don't need to throw advising at them or tutoring at them, you know forcefully. At least you let them go because they're going to be fine, and then you have the students. They will always identify students. This is some of the controversial part that you know there's like.
+
+342
+00:47:32.410 --> 00:47:38.520
+Brian Beatty: I don't know what the percent would be. 1020, 30%. These students are not likely to succeed, no matter what you do.
+
+343
+00:47:38.660 --> 00:47:44.080
+Dalton Lobo Dias: based on their path through so far. They they've changed their major 4 or 5 times. They've failed all these core seeds.
+
+344
+00:47:44.120 --> 00:47:58.330
+Brian Beatty: you know. They got a relatively low gpa Their poor performance in this class means the following class: they're likely to fail. So they almost are saying, Look, these students are not, are likely not to succeed. Maybe what you need to do is counsel them out.
+
+345
+00:47:58.360 --> 00:48:15.640
+Brian Beatty: Maybe there's a different way for them to be spending their time, money, and resources that would be more successful for them than in the path that you've got them on right now and then. You've got the people in the middle and the people in the middle, and your systems will say, okay, these are students who who could succeed, but they need some intervention.
+
+346
+00:48:15.700 --> 00:48:31.130
+Brian Beatty: They need some help at some point. Maybe they just need to talk to an advisor. Maybe they need to get some tutoring. Maybe they need this. Maybe they need that. Maybe they need to reorder their course, load a little bit, take a little less load next semester, so they can get caught up, whatever it might be. So they try to identify these kind of 3 groups of students.
+
+347
+00:48:31.130 --> 00:48:41.710
+Brian Beatty: you know, likely to succeed. Don't really need intervention likely to fail. Try to counsel them into a different path, and then the ones in the middle. Sometimes they call it the murky middle, for whatever reason that need your help.
+
+348
+00:48:41.720 --> 00:48:49.610
+Brian Beatty: and it's modeled after health care. Most of these systems are some of the big players in the system.
+
+349
+00:48:49.620 --> 00:49:01.200
+Brian Beatty: actually the one that we contract with for our student success system basically made there made their system out in the health care environment because there was a lot of re. You know, a lot of reason that you know health care
+
+350
+00:49:01.210 --> 00:49:05.890
+Brian Beatty: which is in the in the countries like ours is very expensive to produce, which provide.
+
+351
+00:49:05.910 --> 00:49:10.920
+Brian Beatty: you know, so they wouldn't be spending a lot of extra money on things that people who are very healthy. Don't need.
+
+352
+00:49:11.150 --> 00:49:24.790
+Brian Beatty: you know, used to be you every year. You'd have an exam, and you know we got a certain age, you know you did do different testing at various points every single year. And now, now that doesn't happen that much, if you need the test and you'll get it. But you don't often get the testing unless
+
+353
+00:49:24.820 --> 00:49:29.880
+Brian Beatty: you know it's been like 3 or 4 years, and you know, or something else has happened.
+
+354
+00:49:30.320 --> 00:49:32.110
+Brian Beatty: So you've got those students
+
+355
+00:49:32.270 --> 00:49:44.190
+Brian Beatty: or those students, those people where you know the health care system. You know we're here if you need us. But you know we're not going to push ourselves on you, because one it's expensive for us to that in 2. You don't really need it, and then you've got the students at the health care system.
+
+356
+00:49:44.270 --> 00:49:45.760
+Brian Beatty: This you know the same.
+
+357
+00:49:45.840 --> 00:49:59.230
+Brian Beatty: There's not a lot we can do. You know there are so many things going on here we can treat a condition, but it's likely just to be overcome by another condition. So at some point there are cost decisions made in our health care system based on the likelihood of success.
+
+358
+00:49:59.480 --> 00:50:08.180
+Brian Beatty: And then there's a whole bunch in the middle. These are the ones who you would get more interaction with from the health care system, because that's a likelihood that they can actually help.
+
+359
+00:50:08.540 --> 00:50:11.910
+Brian Beatty: So this is this is a you know, for what it's worth.
+
+360
+00:50:11.920 --> 00:50:24.300
+Brian Beatty: That system financially. Resource Wise is something we've been doing in our country for quite a while since we've had these kind of computer systems, so probably at least 10 or 15 years, maybe longer.
+
+361
+00:50:25.270 --> 00:50:31.330
+Brian Beatty: and now they've kind of rolled it into this idea of Well, maybe we can do this to help education because we have similar problems
+
+362
+00:50:31.380 --> 00:50:41.790
+Brian Beatty: huge. You know range of students and what they know, and where they're going, and what they knew, and some are on track. Some are in the right past, some are probably in the wrong past, but don't know it.
+
+363
+00:50:41.960 --> 00:50:52.840
+Brian Beatty: You know they're in a path that that someone has set for them. But there's a problem with resources. We don't have the resources to provide the support everybody would need to get, you know, to that point of success. And
+
+364
+00:50:53.080 --> 00:51:03.770
+Brian Beatty: and because sometimes you get, you get systems that have. There's, you know. Sometimes they use this law of diminishing returns like it would cost so much. It takes so much time to help you get to that point
+
+365
+00:51:03.800 --> 00:51:07.050
+Brian Beatty: where you say you want to go, that we just we can't afford that.
+
+366
+00:51:08.850 --> 00:51:11.850
+Brian Beatty: So right wrong. Doesn't matter.
+
+367
+00:51:11.860 --> 00:51:18.820
+Brian Beatty: It's the way the system is right now, and so it it's on. It's important to know that these things are out there When we talk about student success systems.
+
+368
+00:51:18.900 --> 00:51:27.660
+Brian Beatty: Those are the student success systems that are often the ones that are being marketed and put into a higher education and to some extent even more secondary education levels
+
+369
+00:51:38.060 --> 00:51:51.320
+Brian Beatty: right? So right in about that. As a matter of fact. this is this is the front end of our navigator system, so that I have a I have faculty access to this. This is it's supposed to have been the picture They' to me when I had
+
+370
+00:51:51.340 --> 00:51:55.110
+Brian Beatty: got hired here 2,003, so that would have been
+
+371
+00:51:55.670 --> 00:52:00.230
+Brian Beatty: 20 years ago. So I don't think it was updated since then.
+
+372
+00:52:01.140 --> 00:52:07.480
+Brian Beatty: Maybe it's my administrative code. I don't know. Anyway, you'll notice I. I don't have any access to these students, because
+
+373
+00:52:07.510 --> 00:52:10.710
+Brian Beatty: we only do this on our campus for undergraduate students.
+
+374
+00:52:11.540 --> 00:52:28.160
+Brian Beatty: so I can't get any data. I I wouldn't shouldn't show it to you, anyway, of course, but you get this kind of data, and you can look at there's a dashboard. You can get this populated with your students. So if I had students, I was the official advisor, for this would list all those different students, and would talk about
+
+375
+00:52:28.160 --> 00:52:32.940
+Brian Beatty: their activity, whatever activities we were tracking, like they participated in the workshops.
+
+376
+00:52:32.970 --> 00:52:50.910
+Brian Beatty: you know, or they completed things, or or whatever that maybe they had an advising appointment or a tutoring appointment that was tracked and reported, and it would show up in my feed as well different appointments They've made my appointments. I can run campaigns for students. I could search for all my students who haven't registered for classes next fall. Yet
+
+377
+00:52:50.940 --> 00:53:02.580
+Brian Beatty: Don't forget to register for your classes when you have an opportunity, so we can plan better. And then, you know, I could send out automated campaigns, using using them, you know, like a search for a certain set of students.
+
+378
+00:53:02.710 --> 00:53:13.120
+Brian Beatty: maybe the ones who Haven't graduated yet, but also are expected back. Blah blah, blah! And I can send them messages and invite them to have an advising appointment, those kinds of things
+
+379
+00:53:13.370 --> 00:53:26.100
+Brian Beatty: and enrollment for faculty. Now there is an interesting thing of this system. If I do a search, there is a search function. Where is it? It's somewhere Must be.
+
+380
+00:53:26.590 --> 00:53:42.610
+Brian Beatty: I don't know it somewhere. I can search for students and you. I don't use this because it doesn't have any of our students in it. But I I can. I can actually search for students. and I could I I get I can get like I just did this earlier. I just type for the last me last name, Smith.
+
+381
+00:53:42.850 --> 00:53:47.860
+Brian Beatty: and I saw every single smith in the University database.
+
+382
+00:53:47.920 --> 00:53:53.280
+Brian Beatty: I saw all their kind of basically all their information right here on my screen. I'm thinking.
+
+383
+00:53:53.630 --> 00:53:56.170
+Brian Beatty: I wonder if I should really have access to all that data.
+
+384
+00:53:56.440 --> 00:54:01.400
+Brian Beatty: I mean, I think i'm in a trusted position. But do I really need access to all that data?
+
+385
+00:54:03.520 --> 00:54:11.370
+Brian Beatty: I know why the data is there. I was. I was. I was part of the team that helped set this up the the data is there because, especially a lot of our faculty going to advising
+
+386
+00:54:11.430 --> 00:54:28.360
+Brian Beatty: for students, they might advise students who are not in their major, so they wouldn't be assigned to them as their students, and yet their students are interested in their major. So when the student wants to talk to them, they want some information about that students, so they can actually see that, so that we do give faculty access to every single student
+
+387
+00:54:28.710 --> 00:54:34.210
+Brian Beatty: in the the university. But that's the kind of thing that they're talking about a student success system.
+
+388
+00:54:35.660 --> 00:54:46.460
+Brian Beatty: There's a there's a reporting part of this as well. I used to when I was an administrator, had a lot more access to that, and it was interesting because you could see how many students in various colleges were were ahead
+
+389
+00:54:46.650 --> 00:54:59.550
+Brian Beatty: of their program. We're likely to succeed, you know, basically on the green side. Then you had the students in in a particular pros. How many are are falling way behind are likely not to succeed. Kind of the red side, and then everyone in the middle
+
+390
+00:54:59.730 --> 00:55:04.940
+Brian Beatty: and the systems are set up so you can actually flag those students. So if you look at your roster.
+
+391
+00:55:05.140 --> 00:55:10.220
+Brian Beatty: you can get a little indication how many students are like in the red in the yellow in the green.
+
+392
+00:55:10.440 --> 00:55:19.630
+Brian Beatty: And then. if you choose to show that to your faculty. we decided when we were setting this up. We did not want that data shown to faculty.
+
+393
+00:55:20.030 --> 00:55:22.680
+Brian Beatty: Why would that be a a challenge
+
+394
+00:55:22.700 --> 00:55:24.290
+Brian Beatty: to show that data and faculty
+
+395
+00:55:25.760 --> 00:55:32.250
+Brian Beatty: little indicator next to them. Oh, they're they're way behind, or they're way ahead, you know, doing fine, or they're they're in the middle somewhere.
+
+396
+00:55:33.790 --> 00:55:37.950
+Brian Beatty: I know Adam. Your hands up for the other hand. But what do you think? Can you try to tackle my question?
+
+397
+00:55:43.740 --> 00:55:46.190
+Adam Hill: Are you asking?
+
+398
+00:55:46.350 --> 00:55:51.690
+Adam Hill: No, I can keep my hand up for the other one. But okay, well, how about someone else?
+
+399
+00:55:51.850 --> 00:55:54.020
+Brian Beatty: Anyone else want to talk? I mean, you're here.
+
+400
+00:55:55.060 --> 00:55:58.170
+Brian Beatty: I don't you just you didn't come just to hear me talk to you.
+
+401
+00:55:59.330 --> 00:56:02.360
+Brian Beatty: Maybe we did. I thought it wouldn't be so vain to think so.
+
+402
+00:56:03.340 --> 00:56:12.630
+Brian Beatty: So we're talking about identifying students in a roster, a class roster as being like red, yellow, or green, red is in.
+
+403
+00:56:12.700 --> 00:56:24.720
+Brian Beatty: You know this is a student that may not make it green. This student's going to make it no problem. And Yellow, the student, you know, probably will make it, but might not still kind of up in the air we Haven't decided yet.
+
+404
+00:56:25.410 --> 00:56:27.770
+Brian Beatty: Sorry, Adrian. Was I talking over you?
+
+405
+00:56:31.160 --> 00:56:37.000
+Adrienne Oliver: Oh, yes, I was gonna type it in the chat. But yeah, it could be just maybe bias
+
+406
+00:56:38.750 --> 00:56:42.400
+Adrienne Oliver: be a problem if professors can. I'm just thinking for my
+
+407
+00:56:42.420 --> 00:56:47.690
+Adrienne Oliver: perspective as an English instructor, then being able to see that much data
+
+408
+00:56:47.920 --> 00:56:54.870
+Adrienne Oliver: may lead to tracking into certain classes or bias that they should be in a developmental class, For example.
+
+409
+00:56:56.970 --> 00:57:07.930
+Brian Beatty: Yeah, exactly. I mean it's the whole idea of this idea of labeling because it's labeling students. It's labeling students and the Rosters, you know Whoever, however, when you are like, labeled Red, it's like, oh, this is probably not going to make it.
+
+410
+00:57:08.120 --> 00:57:22.660
+Brian Beatty: I probably shouldn't expect that student to do very well, right, or the Green says, oh, that's per, you know. Probably going to be fine. You should expect them to be able to do your class well, because they've got a great preparation, and they're on track, and then the rest. Well, you never know. But there there been studies done around this for decades
+
+411
+00:57:22.920 --> 00:57:24.230
+Brian Beatty: labeling right?
+
+412
+00:57:26.360 --> 00:57:27.210
+Brian Beatty: Walton.
+
+413
+00:57:28.570 --> 00:57:39.680
+Dalton Lobo Dias: Yeah. I'm: curious about what? Yeah, I guess the data could be helpful if there's going to be something like intervention, support, coordination, right giving, getting people
+
+414
+00:57:39.870 --> 00:57:48.800
+Dalton Lobo Dias: the the resources, the support that they need to to succeed within within the the organization. But i'm wondering like. Let's say you have that data right?
+
+415
+00:57:49.340 --> 00:57:52.640
+Dalton Lobo Dias: Your professor, maybe at the undergrad level as well.
+
+416
+00:57:52.760 --> 00:58:04.420
+Dalton Lobo Dias: What does Sfs use system? Do it like, Does it? Can it trigger certain intervention attempts, or is it mostly just like between student and professors?
+
+417
+00:58:05.180 --> 00:58:15.290
+Brian Beatty: Yeah, it's good question. Actually, this is probably used mostly with professional advisors who are charged with advising a very large number of students in their various colleges and departments.
+
+418
+00:58:15.320 --> 00:58:29.300
+Brian Beatty: And then the faculty primarily do what we call a program advising, and so they'll talk to students when they're at looking for courses, you know, after they've done all their general education classes, and they're just in the majors, then most of that advising goes to faculty
+
+419
+00:58:29.300 --> 00:58:44.400
+Brian Beatty: faculty with large advising workloads will probably use this system, but many faculty do won't won't use it. The system is able, though, to to to trigger, based on various triggering events or or searches it'll, it can do a a a regular search
+
+420
+00:58:44.900 --> 00:58:47.800
+Brian Beatty: in the system based on student records
+
+421
+00:58:48.060 --> 00:58:58.590
+Brian Beatty: which students might need some type of intervention, and they can always do that and send list to to faculty or advisors. Say, hey, look! These are your advisors who are in have this kind of situation going on.
+
+422
+00:58:58.600 --> 00:59:05.480
+Brian Beatty: We, you know this is a kind of. you know, communicating campaign. Maybe this need to talk to an advisor. Let's invite them to advise him.
+
+423
+00:59:05.580 --> 00:59:14.240
+Brian Beatty: Or perhaps there's a particular action they need to take. Let's set up a reminder campaign to remind them to take that action or or things like that, so the system can
+
+424
+00:59:14.280 --> 00:59:17.920
+Brian Beatty: can do all of that it's pretty. It's actually very robust in that way.
+
+425
+00:59:20.060 --> 00:59:20.890
+Brian Beatty: Adam.
+
+426
+00:59:22.020 --> 00:59:27.230
+Adam Hill: I was just wondering. I'm assuming. Well, you've been sfs you long enough that i'm assuming
+
+427
+00:59:27.820 --> 00:59:47.560
+Adam Hill: some of these platforms pre like you were there before these platforms were even rolled out at the school, and, like I I totally believe these advising programs in the University should be tracking some of this data for students, and it's just about like how cause like. I wonder if there's any like a B testing this the the this university or universities have done
+
+428
+00:59:47.560 --> 00:59:59.580
+Adam Hill: to say like, okay, this is what this is what we we we would do just with, like, I don't know the more like at registrar type administrative data we collect in general versus using these platforms.
+
+429
+00:59:59.630 --> 01:00:06.390
+Adam Hill: I just put in the challenge. I wonder I did, from what I know. And I graduated college in 2,011, like what?
+
+430
+01:00:06.470 --> 01:00:16.640
+Adam Hill: What would my academic experience had been like had I been more tracked and advised versus like the free. For all that, I felt like I had of a huge State school of just try and figure it out on my own, and like
+
+431
+01:00:16.890 --> 01:00:32.830
+Adam Hill: would I have been more successful one way or the other, I'll never really know. But it is just an interesting thought now that we have these capabilities.
+
+432
+01:00:32.830 --> 01:00:43.520
+Brian Beatty: and we have a. We have a a debate on campus. So whether or not that's a is that a bad thing, or a, or or a good thing? Actually? And the people who are more about efficiency, saying, Well, that's a bad thing.
+
+433
+01:00:43.520 --> 01:00:54.440
+Brian Beatty: Every time they change their major they're usually taking at least 2, 3. Sometimes you know a whole semester is worth of classes differently than they had been going going before. Because now that Major, you know, since so compatible.
+
+434
+01:00:54.440 --> 01:01:14.060
+Brian Beatty: what the system will do is say, if there's if a students kind of at risk for not following through in a particular major, it'll look at what their what their history has been, and give the advisors some suggestions. On these are these are related majors that are more likely to have success. So, for example, we have students who are in a like a pre nursing program, or or like kind of like a
+
+435
+01:01:14.060 --> 01:01:16.420
+Brian Beatty: super light pre-med kind of track.
+
+436
+01:01:16.730 --> 01:01:27.750
+Brian Beatty: and when it becomes clear that a student is not likely to succeed in this. They're getting relatively low grades and courses that we know you need to get. These are classes. You need a and B's. And in order to get to your final destination, but
+
+437
+01:01:27.810 --> 01:01:33.680
+Brian Beatty: you might be, find some success in clinical sciences. You know some other health related field
+
+438
+01:01:34.000 --> 01:01:42.900
+Brian Beatty: that doesn't have as as much academic rigor in these particular courses required, so the student is more likely to finish on on time.
+
+439
+01:01:43.290 --> 01:01:50.350
+Brian Beatty: So the question about students changing majors. Yeah, it's not. It's not efficient. But if it gets to the student
+
+440
+01:01:50.520 --> 01:02:09.730
+Brian Beatty: to a place where they're actually graduating with a degree, they want because they tried some other things out. Didn't work out so well. So you know, I really don't want to be a history, Major, or I really don't want to be a biology major, or whatever it might be, I I find. Oh, actually, I want to study this, and they finish that, and they end up with a degree they actually like
+
+441
+01:02:10.110 --> 01:02:18.470
+Brian Beatty: and actually can use. Is that is that more success, right would have been a would have been, not success If they get that initial history degree and find out when they're done.
+
+442
+01:02:18.730 --> 01:02:29.740
+Brian Beatty: Why did I do this. you know. And then they, you know they end up just doing, you know, retail, because there's there's nothing else they want to do, and they really maybe don't want to work in the field of history.
+
+443
+01:02:30.550 --> 01:02:34.500
+Brian Beatty: So that's that's that's one of our challenges. Actually, that's a challenge in the American system.
+
+444
+01:02:34.700 --> 01:02:45.910
+Brian Beatty: because most of our a lot of our campuses maybe not all of them, but many of them are. Allow allow students to make changes. There are other systems around the world in higher education that would not allow this, or might allow it technically.
+
+445
+01:02:46.000 --> 01:02:50.660
+Brian Beatty: but it's never done, because there are other social reasons why it's not done.
+
+446
+01:02:50.930 --> 01:02:52.440
+It's not allowed socially
+
+447
+01:02:53.930 --> 01:03:04.140
+Brian Beatty: right like there's an you know incredible embarrassment. Maybe for a a student or a family. If someone starts in a particular track and can't finish it and try and changes it.
+
+448
+01:03:04.180 --> 01:03:05.980
+it might be technically okay.
+
+449
+01:03:06.270 --> 01:03:13.610
+Brian Beatty: Yet the social, the social, you know, rules around around behavior may say, no. We we don't do that
+
+450
+01:03:14.340 --> 01:03:25.270
+Brian Beatty: here. There are maybe some schools that are like that. But in general the American public system has always seemed to at least accept that for the most part
+
+451
+01:03:28.370 --> 01:03:39.620
+Adam Hill: out of your as you still your hands up. Still, this this is just from the this is my question is regarding the other article, actually
+
+452
+01:03:39.830 --> 01:03:43.960
+Adam Hill: the pots or the the the one a higher order, thinking skills, which
+
+453
+01:03:44.140 --> 01:03:45.760
+Adam Hill: somehow I didn't quite
+
+454
+01:03:45.990 --> 01:03:58.970
+Adam Hill: I just. They seem to throw out hots without actually saying what hops was. But now that now that you say it, it's obvious, anyway. My question, though, is around this the the reference to learning styles which, like
+
+455
+01:03:59.610 --> 01:04:00.920
+Adam Hill: they defined.
+
+456
+01:04:01.060 --> 01:04:12.240
+Adam Hill: I I thought it was interesting because my understanding was that, like learning styles, as we had have understood it historically, it has been debunked, but, like they are, this seem to be around like a specific type of
+
+457
+01:04:12.440 --> 01:04:17.450
+Adam Hill: learning styles that maybe gets more to learning preference and not some sort of innate.
+
+458
+01:04:17.520 --> 01:04:26.060
+Adam Hill: cognitive thing around, like visual visual auditory all that which which I understood has been debunked with something else.
+
+459
+01:04:26.300 --> 01:04:30.790
+Adam Hill: But I I was always having a hard time understanding this article as a whole, but
+
+460
+01:04:31.660 --> 01:04:42.360
+Brian Beatty: what they were doing here. Yeah, Co: Coles work is usually what they're referring to. At least a lot of people refer to that. So so the thing I would I would do is I would go down. Did you go down to the references?
+
+461
+01:04:42.850 --> 01:04:52.750
+Adam Hill: I went to the I I I I I did not so, but not as far as the references I went there I got. I looked at this, and this made sense to me.
+
+462
+01:04:52.910 --> 01:05:00.330
+Brian Beatty: Well, what I will usually do is go back to the go down to the references. And look here for some of this work here.
+
+463
+01:05:02.290 --> 01:05:05.670
+Adam Hill: Gotcha, and and this almost. That's a book
+
+464
+01:05:05.860 --> 01:05:17.150
+Brian Beatty: right? So the library often has these right. Almost all these references will be available in the library books still might. That might be a physical book. I don't know if they have. If there's an online version of that book or not.
+
+465
+01:05:17.240 --> 01:05:34.930
+Brian Beatty: But that would be the place to kind of look, because oftentimes the book in particular, whatever the resources, if they don't do a good job of the finding it in the article. I look in the reference that they're using for this and that usually starts out with some sort of a definition, and in an in an introduction for or it's like, or it's the conclusion of the of the result.
+
+466
+01:05:35.220 --> 01:05:44.770
+Adam Hill: Gotcha. Okay. but like Co. But but this is a specific. So call this kind of the like now prevailing idea around learning styles that's probably updated from
+
+467
+01:05:44.920 --> 01:05:50.270
+Brian Beatty: Well, it's another Take on learning styles. Let's just put it that way. It's not talking about really the same thing.
+
+468
+01:05:50.480 --> 01:05:52.320
+Adam Hill: Gotcha. Okay.
+
+469
+01:05:53.270 --> 01:05:56.050
+Brian Beatty: you know you can talk about. What do you mean when you say learning?
+
+470
+01:05:56.260 --> 01:06:05.990
+Brian Beatty: Well, how do you? How you gotta? You know, basically, how do you? How do you? How do you arrange it? What's your frame? So that's what that is. Okay. So let's do this. Let's.
+
+471
+01:06:06.420 --> 01:06:20.650
+Brian Beatty: Let's take a 5 min break and then come back at quarter past the hour, and then we're going to do a a group activities so that the rest of you can talk to, and you don't have to talk to me. You can talk to each other. So i'm gonna stop sharing. I'm gonna pause the recording and we'll be back in 5 min.
+
+472
+01:06:21.840 --> 01:06:23.220
+Brian Beatty: Okay, we're back.
+
+473
+01:06:25.920 --> 01:06:31.950
+Brian Beatty: Yeah, I want to show you one more example. This is actually a an example. I think i'll post the link
+
+474
+01:06:32.610 --> 01:06:34.430
+Brian Beatty: over here.
+
+475
+01:06:34.950 --> 01:06:37.210
+Brian Beatty: I have it on the screen. So i'm looking over to the side.
+
+476
+01:06:38.260 --> 01:06:44.860
+Brian Beatty: This is from an assessment company. They They basically will create tests and you can buy their tests.
+
+477
+01:06:45.030 --> 01:06:53.390
+Brian Beatty: But one of the nice things they have is they have. They have some free test. So you can actually sample out their stuff and say they talk about an adaptive reasoning test.
+
+478
+01:06:53.680 --> 01:06:58.430
+Brian Beatty: but they also talk about using an at basically adaptive testing
+
+479
+01:06:59.350 --> 01:07:06.930
+Brian Beatty: questions. And they're gonna ask you questions like this. And so what you can do here If you go to the free tasks, Link, it gets it gets you actually to
+
+480
+01:07:07.050 --> 01:07:10.590
+Brian Beatty: let me give you one more page in here. You can try some different ones.
+
+481
+01:07:11.410 --> 01:07:16.240
+Brian Beatty: 4 different packages. And actually, there are more here as well. You can take an Antonyms test.
+
+482
+01:07:16.350 --> 01:07:18.420
+Brian Beatty: abstract reasoning.
+
+483
+01:07:18.830 --> 01:07:34.880
+Brian Beatty: inductive reasoning, logical reasoning, lots of different things. They They sell these tests to businesses, so the businesses can give these tests to employees or people who want to be employees. Perhaps so they get sense for this. I don't know if schools are using this or not. I've never heard of them before myself.
+
+484
+01:07:35.150 --> 01:07:39.110
+Brian Beatty: Vocabulary tests. So
+
+485
+01:07:41.320 --> 01:07:49.860
+Brian Beatty: this one, this one looked interesting, this Ravens progressive matrices test. So it tests your nonverbal, abstract and cognitive functioning.
+
+486
+01:07:49.980 --> 01:07:58.140
+Brian Beatty: Interesting. Huh? And the candidates jobs and choose the right diagram. Right? So, candidate as in like a maybe a hiring candidate.
+
+487
+01:07:58.480 --> 01:08:10.160
+Brian Beatty: Choose from the right diagram from a set of 5 answers. and then you get 1010 questions. I think all of their packs. I think they just basically make these for 10 questions, and you have 5 min to answer it.
+
+488
+01:08:10.520 --> 01:08:13.430
+Brian Beatty: So if we click, start, it'll start.
+
+489
+01:08:13.590 --> 01:08:14.650
+Brian Beatty: So we try this.
+
+490
+01:08:15.910 --> 01:08:17.210
+Brian Beatty: So here we go.
+
+491
+01:08:17.590 --> 01:08:24.630
+Brian Beatty: What? What replaces the question? Mark? So we're trying to look at our some spatial reasoning here, I think.
+
+492
+01:08:24.720 --> 01:08:31.670
+Brian Beatty: What should be in this lower right hand box? What letter? A, B, C, d, e, F. G. Or H.
+
+493
+01:08:34.640 --> 01:08:37.710
+Brian Beatty: Looks like it. I think it. Well, it's not the one I thought it should be.
+
+494
+01:08:38.859 --> 01:08:39.680
+Brian Beatty: Hmm.
+
+495
+01:08:39.740 --> 01:08:40.660
+Adam Hill: I
+
+496
+01:08:41.609 --> 01:08:43.229
+Brian Beatty: Anyone have an idea.
+
+497
+01:08:43.500 --> 01:08:44.229
+Adam Hill: Hmm.
+
+498
+01:08:48.649 --> 01:08:50.760
+Brian Beatty: Oh, they're not exactly the same I
+
+499
+01:08:50.920 --> 01:08:52.319
+Amanda Deigan: is it e.
+
+500
+01:08:52.460 --> 01:08:53.250
+Brian Beatty: which one?
+
+501
+01:08:53.630 --> 01:08:54.520
+Amanda Deigan: E
+
+502
+01:08:54.770 --> 01:08:55.870
+Brian Beatty: You said it?
+
+503
+01:08:55.899 --> 01:09:00.350
+Brian Beatty: Well, I don't know. Let's find out we'll answer e, and then go on to the next one.
+
+504
+01:09:02.430 --> 01:09:06.430
+Brian Beatty: What replaces the question? My, I guess we're only getting 3 questions, because this is a sample.
+
+505
+01:09:07.430 --> 01:09:10.210
+Brian Beatty: What replaces the question? Mark?
+
+506
+01:09:11.240 --> 01:09:12.760
+What would this be?
+
+507
+01:09:25.189 --> 01:09:27.000
+Brian Beatty: I I have no idea
+
+508
+01:09:30.430 --> 01:09:33.170
+Adam Hill: this is hard. Let's try. C.
+
+509
+01:09:33.970 --> 01:09:34.930
+Brian Beatty: Okay.
+
+510
+01:09:35.529 --> 01:09:39.950
+Brian Beatty: Why, I don't know what replaces the question. Mark this to this other one.
+
+511
+01:09:40.600 --> 01:09:48.160
+Brian Beatty: Now I wonder how you know if this would be a adaptive, and if it is it adapting to my answers, I don't know. Maybe it is.
+
+512
+01:09:53.149 --> 01:09:53.740
+Brian Beatty: Hmm.
+
+513
+01:09:58.150 --> 01:10:02.520
+Brian Beatty: I get the feeling. This one is something other than H. But let me put H in there
+
+514
+01:10:04.640 --> 01:10:08.440
+Brian Beatty: that's similar. We got 0 out of 3.
+
+515
+01:10:11.370 --> 01:10:22.140
+Brian Beatty: Well, I can buy a test for 39, 95. I don't think so. So can you tell me? I said, F is correct. so F. Would be correct. This is over here.
+
+516
+01:10:22.450 --> 01:10:40.450
+Brian Beatty: which means the outer shape is the same. But the anyone's in different. I'm not sure exactly why. Okay? Well, I've been. I've been trying to find examples of like adaptive test that we can actually try out. And I really haven't found a good one yet, although I do know that if you want to do a Khan academy, you know. You could take a simple
+
+517
+01:10:40.460 --> 01:10:52.710
+Brian Beatty: one of their simple courses, the content, you know, you know, maybe, and go through that or content. You wanted to learn and run into that, and some of their courses are built more with that than than others. They're also
+
+518
+01:10:52.770 --> 01:11:01.170
+Brian Beatty: some of the some of the mood platforms are some of the clinical courses that are available in the Online Learning initiative through Carnegie Mellon University
+
+519
+01:11:01.280 --> 01:11:20.610
+Brian Beatty: actually use adaptive assessments and kind of embedded some more of adaptive learning kind of functionality, in part because they're doing research on that, and they want as many people as possible going through their courses so that they can grab data about how well the instruction is working. And you know, they basically learning things. They're doing a learning science research on that.
+
+520
+01:11:22.240 --> 01:11:22.940
+Brian Beatty: Yeah.
+
+521
+01:11:23.460 --> 01:11:33.130
+Brian Beatty: there are other example, the me. There are lots of different places that are building this stuff, one of them that I had. I know some. I have some colleagues at you and see Charlotte, and they use realize it.
+
+522
+01:11:33.730 --> 01:11:37.690
+Brian Beatty: Realize it. That's another one. You can also take a look at that as well
+
+523
+01:11:39.180 --> 01:11:43.240
+Brian Beatty: realize it.com. I think if you can get through their marketing stuff
+
+524
+01:11:44.460 --> 01:11:48.300
+Brian Beatty: well, it's actually one word. Realize it. I think what they do is they help
+
+525
+01:11:48.370 --> 01:11:52.040
+Brian Beatty: institutions by developing? Excuse me, custom.
+
+526
+01:11:52.800 --> 01:11:54.260
+Brian Beatty: adaptive assessment
+
+527
+01:11:54.830 --> 01:12:08.270
+Brian Beatty: built into adaptive learning systems, and so they go through a design process. It takes a number of months to go through, and it's relatively expensive. But then a an institution get its course, the content it wants. First particular course
+
+528
+01:12:08.280 --> 01:12:18.760
+Brian Beatty: built into an adaptive adaptive assessment system. They don't have to rely on a publisher to build it for them. Well, it realize it becomes the publisher. Actually, I think it was a Uk company. I met them at a conference line.
+
+529
+01:12:19.210 --> 01:12:26.920
+Brian Beatty: you know, 9 years ago. and it was really interesting, I thought, what if this guy's gonna make it as a business, and apparently he did. and tech startup.
+
+530
+01:12:27.650 --> 01:12:34.960
+Brian Beatty: So there there are places like that smart sparrows another one a lot of people have used. I think they're still in business, still doing work
+
+531
+01:12:35.860 --> 01:12:47.240
+Brian Beatty: where you can use their tool, I think, to build your own like Adaptive E. Learning systems. Dr. Learning into e learning smart sparrow. other kinds of ones.
+
+532
+01:12:48.700 --> 01:12:49.510
+Brian Beatty: All right.
+
+533
+01:12:50.020 --> 01:12:54.610
+Brian Beatty: let's take. Let's let's let's take a. Let's take an opportunity
+
+534
+01:12:54.720 --> 01:12:58.320
+Brian Beatty: to do some discussing about this.
+
+535
+01:12:58.380 --> 01:13:02.750
+Brian Beatty: and really what I'm. What I'm interested in hearing from you in your discussions
+
+536
+01:13:02.890 --> 01:13:13.340
+Brian Beatty: is was what you think it would take to have adaptive learning in your in your system, your instructional environment, whether it's a school
+
+537
+01:13:13.560 --> 01:13:26.950
+Brian Beatty: or an institution of you know, a a training organization, or something like that. What you you know. Where do you think it could really help? And what do you think is kind of holding it holding it back? Is it just a matter of don't know If it's available.
+
+538
+01:13:27.010 --> 01:13:42.580
+Brian Beatty: we'd have to build it ourselves. Don't know if we can do that, or we know it's available, but it's too expensive for us, or may we never? We don't really think we need it. You know that kind of thing that that could be very true. I mean schools that aren't, using especially higher education
+
+539
+01:13:42.610 --> 01:13:49.490
+Brian Beatty: where it's available, and it's kind of got a a track record of success often Aren't using it line
+
+540
+01:13:51.450 --> 01:13:53.550
+Brian Beatty: and 2 major reasons cost.
+
+541
+01:13:53.930 --> 01:14:02.100
+Brian Beatty: Although the cost is, is, it's not. It's not as expensive as it used to be, and it's not that much more than traditional costs.
+
+542
+01:14:02.150 --> 01:14:07.020
+Brian Beatty: but 2 faculty faculty control
+
+543
+01:14:07.230 --> 01:14:14.590
+Brian Beatty: luckily wanted to do things their way, and the systems that they get from publishers are usually not very adaptable to faculty
+
+544
+01:14:14.600 --> 01:14:27.610
+Brian Beatty: desires because they they're built. They're highly designed. There's a lot of a lot of engineering kind of you know. Learning engineering kind of goes into that adaptive learning piece of it and the adaptive assessment part of it as well.
+
+545
+01:14:27.690 --> 01:14:33.540
+Brian Beatty: And that's not easy just to change out. Oh, you want those 10 questions. Okay, we'll just take ours out and put your in there.
+
+546
+01:14:33.810 --> 01:14:41.910
+Brian Beatty: It' be a lot of work that we done with that. So let's let's go into breakouts. We'll do a 3 breakouts. So that means we'll have 3 groups.
+
+547
+01:14:42.630 --> 01:14:49.110
+Brian Beatty: Okay, 3 groups. We got that cut the mass down. That means there'll be a couple of groups of 3, one group of 2
+
+548
+01:14:49.270 --> 01:15:05.230
+Brian Beatty: be randomly assigned. You can put your notes into the the document I shared, or is there a place there for session? 12, Those of you who are watching the recording. I'm gonna pause the recording while we do the breakout, and then we'll bring it back for the debrief. I'd actually i'd like you to put your ideas in there as well.
+
+549
+01:15:05.490 --> 01:15:15.030
+Brian Beatty: All right. Just add your notes to next to the group that you think that maybe you want to comment right on, but make your make sure your name is on your notes, so I can see it's you seeing it credit for being here
+
+550
+01:15:15.220 --> 01:15:16.370
+Brian Beatty: asynchronously
+
+551
+01:15:17.530 --> 01:15:18.800
+Brian Beatty: any questions.
+
+552
+01:15:21.620 --> 01:15:24.230
+Brian Beatty: Okay. So we'll do this for about 15 min.
+
+553
+01:15:24.340 --> 01:15:27.790
+Brian Beatty: Won't. Take that long, and then i'll call you back and we'll we'll debrief.
+
+554
+01:15:28.500 --> 01:15:39.110
+Maristella Tapia: Alright. So we're back on the record here. That was a quick 15 min for those of you online asynchronously. Maybe you got something to eat. Maybe you didn't. It only took 30 s, probably of the computer tape
+
+555
+01:15:39.500 --> 01:15:45.950
+Brian Beatty: group. One is back first, and so they're gonna tell us what they came up with. Let me share it while you start talking group One
+
+556
+01:15:48.560 --> 01:15:57.260
+Maristella Tapia: Yeah, I mean. And we we really didn't unfortunately have a whole lot in the way of our experience with adaptive instruction or assessment.
+
+557
+01:15:57.470 --> 01:16:10.470
+Maristella Tapia: I mean, I think that we're each gonna share our part. So for me, I can just like, I said. I. I think that canvas quizzes and and my settings, for that is the closest I get to adapt to assessment.
+
+558
+01:16:10.700 --> 01:16:13.810
+Maristella Tapia: I do differentiate instruction
+
+559
+01:16:15.450 --> 01:16:22.500
+Maristella Tapia: even within my class. So I think you know as much as possible using universal design.
+
+560
+01:16:22.610 --> 01:16:27.350
+Maristella Tapia: But I don't think that that's the same thing.
+
+561
+01:16:27.450 --> 01:16:29.330
+Maristella Tapia: So
+
+562
+01:16:29.470 --> 01:16:32.780
+Maristella Tapia: i'll let my group members talk about.
+
+563
+01:16:33.080 --> 01:16:44.990
+Maristella Tapia: I I just agree. That's not the same, not exactly the same thing, but but the you, you, the principal. It's a valid principle, right? The principal is, you give people things that
+
+564
+01:16:45.240 --> 01:16:57.070
+Brian Beatty: ways of learning that are more custom fit to them as much as possible, and that we're talking about the same thing now for assessment. assessing workers in ways that are that are that are adaptable to them.
+
+565
+01:16:57.090 --> 01:17:01.940
+Brian Beatty: so that we have a better opportunity to measure whatever we think is a relevance.
+
+566
+01:17:04.270 --> 01:17:05.680
+Brian Beatty: whatever it might be
+
+567
+01:17:07.020 --> 01:17:11.900
+Brian Beatty: now the state performance ability, whatever it might be. anyone else from Group one.
+
+568
+01:17:11.950 --> 01:17:15.740
+Danny Cheng: Yeah, i'll go next. So I think i'm speaking about
+
+569
+01:17:15.950 --> 01:17:20.420
+Danny Cheng: my work experience. I lead a group of student systems in my office.
+
+570
+01:17:20.480 --> 01:17:34.190
+Danny Cheng: and from time to time based on my student assistance performance based on you know the questions they ask me. I can tell if there are like repeated questions there. Keep the bringing it up on certain topics.
+
+571
+01:17:34.250 --> 01:17:39.060
+Danny Cheng: I can tell. They are probably lack of a knowledge or information about something.
+
+572
+01:17:39.140 --> 01:17:44.120
+Danny Cheng: and I can, you know, put them aside, or during my one on one meetings with them.
+
+573
+01:17:44.200 --> 01:17:53.820
+Danny Cheng: kinda just, you know. Show them a rope in them. maybe kind of a reminder refresh their information once again. But really this is down.
+
+574
+01:17:53.910 --> 01:18:00.620
+Danny Cheng: I for me the way I do. It is just based on my observation, you know, when I may. Whenever i'm looking at my group chats
+
+575
+01:18:00.720 --> 01:18:05.660
+Danny Cheng: i'm Microsoft teams or in the office chat, you know verbally I can hear it.
+
+576
+01:18:06.100 --> 01:18:12.790
+Danny Cheng: and I notice something is coming up over and over. Then I can do that. I don't really have to on my process.
+
+577
+01:18:12.900 --> 01:18:26.000
+Danny Cheng: or like a systematically way to, you know, search through the keywords in our chats or transcripts, and then sort them out different topics. That stuff like that. Our student assistance.
+
+578
+01:18:26.140 --> 01:18:33.160
+Danny Cheng: I think it could be doable but to create an automated process or something like this to track the conversations
+
+579
+01:18:33.880 --> 01:18:35.620
+Danny Cheng: could be very time consuming.
+
+580
+01:18:35.940 --> 01:18:42.870
+Danny Cheng: So you think about the systems to do this? Well, I mean, even out outside of the world of computer based systems.
+
+581
+01:18:43.560 --> 01:18:46.820
+Brian Beatty: This this, you know, if you've got people who are being coached.
+
+582
+01:18:46.880 --> 01:18:55.140
+Brian Beatty: let's say it's. Let's say some sort of a sports, sports or other kind of performance area, or you know music. Even a similar performance is important.
+
+583
+01:18:55.260 --> 01:19:07.920
+Brian Beatty: You know the the the time and effort it takes into the give individualized instruction, but also a kind of like adaptive or individualized assessment. It's pretty pretty phenomenal, some of the most expensive schools
+
+584
+01:19:08.180 --> 01:19:13.740
+Brian Beatty: to to to to provide, like I'm. Thinking and higher at our music schools
+
+585
+01:19:13.950 --> 01:19:22.920
+Brian Beatty: or arts schools where there's a lot of studio work involved in the studio work or the performance Work requires a lot of like individual kind of assessments.
+
+586
+01:19:22.940 --> 01:19:29.240
+Brian Beatty: and it. But then you would, you know, basically give people their own path towards improvement because of where they are at.
+
+587
+01:19:29.500 --> 01:19:35.880
+Brian Beatty: And you would that maybe a system differently. And so it I mean, that's kind of what the computer is doing.
+
+588
+01:19:36.090 --> 01:19:46.320
+Brian Beatty: It's that super highly individualized kind of an identifying. Well, what do you know. Where do we want to go with this? And how do we get you there, and how how are you doing along the path?
+
+589
+01:19:46.880 --> 01:19:51.020
+Brian Beatty: I mean, it happens humans to do this, but they do it in the context of very
+
+590
+01:19:51.050 --> 01:20:11.770
+Brian Beatty: highly, you know, expensive in terms of time and effort. And you know, proximity oftentimes one to one, you know, one coach, one tutor, 2 t you know, one person being coached in an individual. Maybe the coaches in charge of a bunch of people, but they're working with individuals as opposed to as opposed to it. Whole groups for assessment. That's that's not always true.
+
+591
+01:20:12.060 --> 01:20:18.420
+Brian Beatty: But that's that's kind of some of the some of the analogy there to the non-computer based world. We said, I can PIN up
+
+592
+01:20:20.420 --> 01:20:22.050
+Brian Beatty: anything else in group one
+
+593
+01:20:24.670 --> 01:20:36.580
+Wei Lu: last chance. We your mute. Yeah, yeah. Yeah. Sorry. I actually the notes that I was not really familiar with the concept of of adapting
+
+594
+01:20:36.580 --> 01:20:51.050
+Wei Lu: learning. I I mean the tech knowledge. I mean adaptive instruction or the teacher. We do that all the time. But the technology I was not familiar with it. I, in my at work
+
+595
+01:20:51.140 --> 01:21:10.510
+Wei Lu: in my own study process that I took that to full exam and took the Gr. Exam. I think, yeah, this they give you a next question based on your previous performance. I think that is exactly adaptive assessment of technology.
+
+596
+01:21:10.510 --> 01:21:15.520
+Wei Lu: But at work I first I didn't know
+
+597
+01:21:15.590 --> 01:21:21.900
+Wei Lu: there's this stuff. No, and a second. I
+
+598
+01:21:22.180 --> 01:21:31.910
+Wei Lu: I don't know when we we can use this technology.
+
+599
+01:21:32.110 --> 01:21:42.550
+Wei Lu: Hmm. I recommend they use it, but not in class. We we haven't the do together. I recommend they use their self.
+
+600
+01:21:42.610 --> 01:21:47.220
+Wei Lu: It's really all that platform is Well, 99% of that platform is assessment
+
+601
+01:21:47.420 --> 01:22:04.710
+Brian Beatty: You know can you can you? Can you put this words you get, you know, and they're asking different styles of questions. But they're really asking you to produce language or recognize language. And if you read what they, you know what they talk about, how they work their systems. They talk about a lot about adapt, adaptive assessment, AI power.
+
+602
+01:22:04.710 --> 01:22:09.160
+We give you questions based on your your history of responses, those kind of things.
+
+603
+01:22:09.510 --> 01:22:12.550
+Brian Beatty: So it may. It may not be as complex as you think it is.
+
+604
+01:22:12.930 --> 01:22:18.110
+Wei Lu: I see. Okay, Thank you. Thank you. That's very good point to
+
+605
+01:22:19.390 --> 01:22:26.410
+Brian Beatty: all right. I don't know which group was back next. Is anyone want to volunteer Group 2 or group 3. I know you have Speakers volunteered for sure.
+
+606
+01:22:27.760 --> 01:22:28.560
+Brian Beatty: Right
+
+607
+01:22:30.590 --> 01:22:45.940
+Adam Hill: we group 2. We can go. Don't know. Dalton had to leave a little early. But let's see. So yeah. I mean for Dalton it was that he needs the tools and then needs to like.
+
+608
+01:22:45.980 --> 01:22:49.570
+Adam Hill: go through that evaluation process to then
+
+609
+01:22:49.820 --> 01:22:57.040
+Adam Hill: figure out like on how to implement it, and and and that was similar to Well.
+
+610
+01:22:57.660 --> 01:23:05.410
+Adam Hill: I know my company. I essentially work for like an education consulting company. So you would think this could be something we could implement.
+
+611
+01:23:05.860 --> 01:23:06.520
+Hmm.
+
+612
+01:23:06.530 --> 01:23:18.990
+Adam Hill: Implement with with the university. However. what I found to be the challenge was, You kind of just need, like everything in the right place to do it, and there was always some sort of barrier. So
+
+613
+01:23:19.340 --> 01:23:30.690
+Adam Hill: once you decide, you want to use it, then you need like the expertise to implement it, and we just don't have like someone that's an expert in psychometrics, and like even like the
+
+614
+01:23:30.730 --> 01:23:39.590
+Adam Hill: the a subject matter expert in their field of economics, or something like that like who's to say what is a
+
+615
+01:23:39.710 --> 01:23:55.690
+Adam Hill: challenging question? I was using the the analogy of jeopardy that like Sometimes you watch jeopardy, and that $200 question is really hard, and the $1,000 question is really easy. And so, how do you know how to actually design a test that's going to give you
+
+616
+01:23:55.690 --> 01:24:05.300
+Adam Hill: the outcome. And so there's like kind of like this, if it ain't broke don't fix it. Mentality, too, of like, or maybe, if any broke don't, disrupt it, because, like you know, this in theory, could work. But
+
+617
+01:24:05.630 --> 01:24:17.520
+Adam Hill: how? And then you need to figure out. Where do you want to pilot this or invest it like? What is the right area where you really know this will work like. Is it that finance course? Is it the
+
+618
+01:24:17.920 --> 01:24:21.150
+Adam Hill: Is it the calculus course? Where? Because you kind of don't want to just
+
+619
+01:24:21.660 --> 01:24:40.270
+Adam Hill: roll that wholesale? And so I feel like there's just all of this like administrative and bureaucratic stuff that really gotten them over like we really want to do this. This is so cool. But then all these other, this decision things came. It's like, let's just do the thing we know we've done for centuries.
+
+620
+01:24:40.300 --> 01:24:41.270
+Brian Beatty: Project
+
+621
+01:24:41.300 --> 01:25:00.730
+Brian Beatty: that is treated like a strategic project with funding with buy in at the highest levels, you know, a a a path, etc., etc. So you'd have the investment resources. It would take to do it. It it certainly can't be done. And actually, there's a there's an open open access tool that Carnegie Mellon has created it's called Torres.
+
+622
+01:25:00.750 --> 01:25:04.440
+Brian Beatty: I just added a link to it in the resources for Module 12.
+
+623
+01:25:04.490 --> 01:25:18.510
+Brian Beatty: But that's that's that's a kind of a development. Tool. I think it's also a delivery tool the way their languages that's free for anyone to download and use. I think it's going to be the next versions available. Or maybe the first version April. Well like last week or the earlier this week.
+
+624
+01:25:19.000 --> 01:25:30.700
+Brian Beatty: But that requires a technology team to kind of implement, and also to understand how to actually work it and build it. But if you had a group, you know, if it was an important strategic imperative for an institution or a business.
+
+625
+01:25:30.760 --> 01:25:36.270
+Brian Beatty: you could put a team together to do this. You can hire people who can do this. You just have to decide it's worth worth doing.
+
+626
+01:25:36.450 --> 01:25:54.220
+Brian Beatty: That's the kind of thing, and that's what Carnegie Mellon is trying to do with this. They're trying to get more people doing this, especially in a platform, and they're trying to create an open platform, so that it's not all locked behind, you know. A smart sparrow was bought by Prentice Hall printers all, I think. What for Pearson, I think.
+
+627
+01:25:54.220 --> 01:26:05.170
+Brian Beatty: got it. And so all this, and they they kind of tell a little bit of that story. So these technologies that people are using to build their adaptive systems kind of get locked into the proprietary system, so that when they go away, what do they get bought up?
+
+628
+01:26:05.170 --> 01:26:14.440
+Brian Beatty: It's not available anymore, for whatever reason. So, anyway, that's what they're trying to do with this. And so it it is possible. But it is. It is like you said it's. It takes
+
+629
+01:26:14.610 --> 01:26:18.440
+Brian Beatty: people, skills, time, money, all that kind of stuff.
+
+630
+01:26:20.150 --> 01:26:21.550
+Brian Beatty: anything else in group 2.
+
+631
+01:26:23.660 --> 01:26:25.370
+Adam Hill: Adrian, Did you have anything else to add?
+
+632
+01:26:27.180 --> 01:26:42.490
+Adrienne Oliver: No, that was, you know we spent a lot of time talking about buying, so that was perfect. I will motivate it, Dr. B. To try to build a team.
+
+633
+01:26:42.690 --> 01:26:48.780
+Brian Beatty: and then I know faculty, and I've had. Think you think this myself sometimes as well. Okay. So your workers.
+
+634
+01:26:48.800 --> 01:26:54.460
+Brian Beatty: my marginal cost to take it. Take my marginal time to teach students. And then what's going to happen when
+
+635
+01:26:54.520 --> 01:27:04.010
+Brian Beatty: now my class of 25, let's say 50 say, Well, actually we're gonna take away like 20 of your assessment time, so can we give put like 5 more students in your class.
+
+636
+01:27:04.360 --> 01:27:13.340
+Brian Beatty: And you know, maybe maybe that's a fair trade. I don't know, but that's the kind of that's that's another kind of thing you run into with it with the buy-in is that not everybody is sold on.
+
+637
+01:27:13.350 --> 01:27:19.120
+Brian Beatty: Let's just do it because it's it's a better way of assessing learning. It's like, okay? Well, what are the downstream consequences of this?
+
+638
+01:27:19.190 --> 01:27:24.160
+Brian Beatty: And especially if we feel like, there's some, you know, administrator faculty kind of.
+
+639
+01:27:24.220 --> 01:27:28.930
+Brian Beatty: you know. We're not on the same page about this that could cause.
+
+640
+01:27:29.890 --> 01:27:32.800
+Brian Beatty: you know, social political back backlash.
+
+641
+01:27:32.990 --> 01:27:34.150
+Brian Beatty: and a. We.
+
+642
+01:27:34.370 --> 01:27:38.670
+We reluctance to try things, and you know it's. It can be kind of messing.
+
+643
+01:27:39.560 --> 01:27:42.670
+Brian Beatty: As a matter of fact, as often as this is higher education.
+
+644
+01:27:44.380 --> 01:27:45.360
+Brian Beatty: Okay.
+
+645
+01:27:45.370 --> 01:27:48.910
+Brian Beatty: all right. Well, thank you very much. Group 2: yeah. So many notes here.
+
+646
+01:27:49.340 --> 01:27:51.340
+Brian Beatty: Oh. using glass.
+
+647
+01:27:52.270 --> 01:27:55.430
+Brian Beatty: Okay, how about group 3?
+
+648
+01:27:57.150 --> 01:28:06.310
+Amanda Deigan: Yeah. So we kind of like did like the small. We didn't like, write like full paragraphs or anything. We just kind of tried to keep it
+
+649
+01:28:06.470 --> 01:28:11.470
+Amanda Deigan: sure. And we we've talked about how like budgets and like limited resources.
+
+650
+01:28:12.720 --> 01:28:17.020
+Amanda Deigan: having those like a small budget, or like limited resources, could
+
+651
+01:28:17.110 --> 01:28:22.170
+Amanda Deigan: be tough when investing in new technology, not having someone to train.
+
+652
+01:28:22.900 --> 01:28:33.180
+Amanda Deigan: not having someone to train the people to use technology, and how making sure that there is like support for potential issues that could arise like with the technology
+
+653
+01:28:34.520 --> 01:28:42.890
+Amanda Deigan: being to have like of it, or having available content and making sure, like students are like.
+
+654
+01:28:43.440 --> 01:28:51.090
+Amanda Deigan: I don't know about you guys. But for me. Personally, we're doing standardized testing in our class or in our classes right now. And
+
+655
+01:28:51.200 --> 01:29:01.280
+Amanda Deigan: those kinds of assessments our kids don't have super like high levels of engagement, so like I feel like having an assessment tool that allows them to have higher levels of engagement.
+
+656
+01:29:01.330 --> 01:29:09.060
+Amanda Deigan: I think it's tough to come across, which I feel like is why we put that as like a gap and like having collectable data.
+
+657
+01:29:09.930 --> 01:29:16.460
+Amanda Deigan: we're also talking about like how people might question the the the validity of the process.
+
+658
+01:29:16.520 --> 01:29:27.820
+Amanda Deigan: and how it might be tough to like. Rely on those kinds of systems when we've always done it like our ourselves, like. That's like my interpretation of that. And then.
+
+659
+01:29:28.020 --> 01:29:32.620
+Amanda Deigan: if their students, if the students performance is being measured accurately.
+
+660
+01:29:36.010 --> 01:29:38.220
+Amanda Deigan: so it was like what we talked about with the first question.
+
+661
+01:29:39.280 --> 01:29:41.350
+Amanda Deigan: Sorry. Did you want to take the second one?
+
+662
+01:29:41.360 --> 01:29:42.700
+Sadia Shaheed: Yeah, sure.
+
+663
+01:29:42.790 --> 01:29:48.250
+Sadia Shaheed: So like the second one like, what's keeping us not to do that like
+
+664
+01:29:48.320 --> 01:30:06.720
+Sadia Shaheed: it could be the resources or access to content, but especially like school districts that's serving understand the resource communities. Or maybe they're having tough time with me or a school bus. They would not think about this kind of thing actually.
+
+665
+01:30:06.730 --> 01:30:16.400
+Sadia Shaheed: and there could be a extra for needed, for from the teachers or instructors.
+
+666
+01:30:18.070 --> 01:30:23.670
+Brian Beatty: Someone I don't know. Maybe one of us is breaking up my Internet connections unstable.
+
+667
+01:30:24.100 --> 01:30:24.870
+Brian Beatty: apparently.
+
+668
+01:30:26.350 --> 01:30:27.130
+Brian Beatty: Sorry.
+
+669
+01:30:27.400 --> 01:30:29.900
+Sadia Shaheed: Sorry, Dr. Vita, You are saying something.
+
+670
+01:30:29.910 --> 01:30:34.100
+Brian Beatty: Yeah, I was just saying my Internet state and my Internet connections unstable. And I
+
+671
+01:30:34.160 --> 01:30:37.670
+Brian Beatty: I was probably breaking into what you were still saying.
+
+672
+01:30:38.070 --> 01:30:39.640
+Sadia Shaheed: No, please go ahead.
+
+673
+01:30:40.020 --> 01:30:54.570
+Brian Beatty: Well, I just put it. I put a link into the chat, you know, K. 12 adaptive assessment can show up in different places. As a matter of fact, in Hawaii. Their public schools use standardized testing, like everyone else, but they use an adaptive Sis adaptive assessment platform
+
+674
+01:30:54.840 --> 01:30:56.850
+Brian Beatty: to do it. So it's adaptive assessment.
+
+675
+01:30:56.860 --> 01:31:03.310
+Brian Beatty: but it's in stand it, since it's their standardized testing. And so you know those words sort of sort of don't go together.
+
+676
+01:31:03.350 --> 01:31:16.680
+Brian Beatty: The standards kind of means. Everybody's the same right, so kind of the same for everyone when in reality the test, it's the same exam. But within the exam, students are actually getting a unique set of questions based on You know their answers, those kind of things.
+
+677
+01:31:16.800 --> 01:31:20.200
+Brian Beatty: so it can show up in places where you might not, where you might not expect it.
+
+678
+01:31:21.310 --> 01:31:40.110
+Sadia Shaheed: Oh, that's nice, you know. We check that. And like us talking about the point of like from teachers perspective having to share extra time and afford to learn new technologies and the access to new contents, so that they can apply that to the classroom. That could be another reason.
+
+679
+01:31:40.710 --> 01:31:42.610
+Brian Beatty: Right? Yes.
+
+680
+01:31:42.630 --> 01:31:50.800
+Sadia Shaheed: and i'm sorry. And also me and I'm. Not that we're talking like we didn't have much experiencing success
+
+681
+01:31:50.990 --> 01:31:52.760
+Sadia Shaheed: in the success part.
+
+682
+01:31:52.780 --> 01:31:55.240
+Sadia Shaheed: So if you want to share something.
+
+683
+01:31:56.890 --> 01:31:58.540
+Brian Beatty: Yeah, what I was gonna say is that
+
+684
+01:32:01.150 --> 01:32:11.420
+Brian Beatty: pretty much anytime you try to get teachers or or not just teachers, but lots of other people to do things differently, especially when they're personally comfortable with the way they're doing things. It's very difficult.
+
+685
+01:32:11.650 --> 01:32:23.390
+Brian Beatty: one of the ways to look for opportunities to introduce new things without as much resistance is when teachers or the professionals, or whoever they are, recognize that there's a serious problem.
+
+686
+01:32:23.550 --> 01:32:36.580
+Brian Beatty: and they are not satisfied with the current state of things, and so they're more likely to try new things, which means they're also more likely to try things that they may not completely trust. or they're not completely bought into, but they're willing to try it out.
+
+687
+01:32:37.110 --> 01:32:42.500
+Brian Beatty: So that might be the situation. If everyone's comfortable with the way things there are
+
+688
+01:32:42.520 --> 01:32:51.310
+Brian Beatty: not a problem. So if someone wanted to be a change agent around this, they'd have to start by making the case for why the current
+
+689
+01:32:51.400 --> 01:32:53.520
+Brian Beatty: practice is not good enough.
+
+690
+01:32:53.630 --> 01:33:00.690
+Brian Beatty: Maybe there's a new opportunity we're not taking advantage of. And such a strong opportunity. How can we possibly not do this? Or
+
+691
+01:33:00.880 --> 01:33:10.620
+Brian Beatty: this is the we are. We are so broken in this area we have to try something differently. This might be a solution. Can we at least agree to try it out those kinds of things.
+
+692
+01:33:10.720 --> 01:33:25.810
+Brian Beatty: because, you know, if you're going to be working in the technology area, especially in part of your work, is bringing in new technologies, whether it's a training, environment, or a school environment, or anything else, or selling into a market, you have to be able to make the case that this is going to solve a problem.
+
+693
+01:33:26.670 --> 01:33:41.770
+Brian Beatty: right? And maybe the problem is, you're not able to do something you should be able to do or you're doing something, but it's not working out very well. Is it so? Those are some things to kind of keep in mind when we're looking at any of these newer technologies. That might be something you bring into your your your project.
+
+694
+01:33:41.880 --> 01:33:50.740
+Brian Beatty: you know Case as well, you know. Why is it emerging? And why would? Why would someone in your situation actually be interested in something like this?
+
+695
+01:33:51.460 --> 01:33:52.610
+Brian Beatty: What's the Why.
+
+696
+01:33:56.170 --> 01:34:13.010
+Brian Beatty: okay? Thank you very much. Groups. Thank you for the breakout. So our asynchronous learners those of you out there. If you're still listening, I hope you are. Add your comments into this this discussion. Make sure you put your names on those. I do have a link there to this this site from Carnegie Mellon, the Open Learning initiative.
+
+697
+01:34:13.040 --> 01:34:17.550
+Brian Beatty: There's a lot of different things here. Torus is their platform that they've just released
+
+698
+01:34:17.580 --> 01:34:35.420
+Brian Beatty: publicly available. But it is something that's a technology system. So you need technology people to work it. But here's another example of what they have in their system to help, and in their courses they'll they'll. You can have students use their courses if they find one that needs, but they have. These are the kind of dashboards
+
+699
+01:34:35.560 --> 01:34:42.510
+Brian Beatty: that they're looking about looking at the the dashboards that I was talking about in the Eab navigate system. All work on historical data.
+
+700
+01:34:42.810 --> 01:34:52.090
+Brian Beatty: None of it is live data on students as far as the Academics. It's all about what they did, and it's all. Almost all, probably all of it based on grades in courses.
+
+701
+01:34:52.190 --> 01:34:57.870
+Brian Beatty: This dashboard is based on students interactions in a particular course.
+
+702
+01:34:58.990 --> 01:35:08.480
+Brian Beatty: Okay, so individual level class level lots of different reports. You can take a look through this and see what they're promising. This is the kind of data that's being generated.
+
+703
+01:35:08.510 --> 01:35:23.450
+Brian Beatty: You can see they're also using the red, green and yellow marks. Right? So students at risk are identified here, too. But this might be interesting for you if you're interested in looking at that. And actually it here is, of course, Catalon. Probably most of these are designed for higher education.
+
+704
+01:35:23.450 --> 01:35:30.250
+Brian Beatty: but that doesn't mean they couldn't actually work in like a like a secondary environment. And if we can do this in higher education, you know, these things could be done
+
+705
+01:35:30.270 --> 01:35:32.520
+Brian Beatty: in K 12 if someone cared to do them.
+
+706
+01:35:34.030 --> 01:35:47.620
+Brian Beatty: Carnegie Mellon puts a lot of effort into this because they have a lot of research money from the Nsf. In other places, but they also. you know, they want to attract graduate students and other kind of research opportunities. And so for them it's a real win.
+
+707
+01:35:48.950 --> 01:35:58.290
+Brian Beatty: and it is Yes, they have a big. There's a big Carnegie foundation to. I don't know if it's connected to the Carnegie Mellon University other than maybe the original funders
+
+708
+01:36:00.510 --> 01:36:10.460
+Brian Beatty: all right. Only thing left for you to do then, I believe, is interact in our wonderful and soon to be exciting session. 12 discussion
+
+709
+01:36:10.900 --> 01:36:24.910
+Brian Beatty: we're talking about practical implementations. And here you can. You can kind of mix in this adaptive learning and adaptive assessment, or even more traditional assessment using technology into this post. This is kind of Think of. Think about this. Maybe try out some ideas.
+
+710
+01:36:25.060 --> 01:36:38.190
+Brian Beatty: You might even throw out some ideas that you're formulating to put into your your final paper in a couple of weeks. Did I say a couple of weeks? Yes, a couple of weeks, just a couple of weeks. If you look at our list of modules. You can see our reorganized everything.
+
+711
+01:36:38.680 --> 01:36:47.670
+Brian Beatty: and Session 13 is now our personal learning, environment, and assistant technology. Take a look at those readings and articles to look at.
+
+712
+01:36:47.830 --> 01:36:58.740
+Brian Beatty: and and then Session 14 is when we're gonna do our final learning technology project presentations, we have questions about that Don't hesitate to send those along and or put them in a forum post somewhere.
+
+713
+01:36:58.750 --> 01:37:05.600
+Brian Beatty: or we can talk about it in the live class next week as well. Maybe maybe we can start with a few minutes on that if there, if there are questions.
+
+714
+01:37:07.940 --> 01:37:12.780
+Maristella Tapia: Yes, I we were. We did. Our group did have questions, but we can.
+
+715
+01:37:12.940 --> 01:37:15.910
+Maristella Tapia: We can bring them up in the live class, or
+
+716
+01:37:16.230 --> 01:37:22.190
+Maristella Tapia: is there is there a. Q. A. Forum I forgot in in your canvas site?
+
+717
+01:37:22.470 --> 01:37:24.640
+Brian Beatty: Well, let's find out.
+
+718
+01:37:25.850 --> 01:37:34.870
+Brian Beatty: you know. I think I think there is. There always used to be, but I might have taken it out because it never got used, and if it's not here, it's because I never oh, here it is.
+
+719
+01:37:34.970 --> 01:37:39.540
+Brian Beatty: I'll PIN this up at the top next to the reflections for him.
+
+720
+01:37:40.810 --> 01:37:47.910
+Brian Beatty: Actually, there's a there's a new post in there. I haven't seen. I saw I I see it now. I haven't seen it in the over a month.
+
+721
+01:37:47.920 --> 01:37:50.140
+Brian Beatty: Oh, My gosh. that's not good.
+
+722
+01:37:52.240 --> 01:37:58.330
+Maristella Tapia: It's okay. It happens to me, too. I, my students don't usually use a. Q. A. They just email me directly.
+
+723
+01:37:59.670 --> 01:38:08.560
+Maristella Tapia: I really quickly. We noticed that you know we can do this as part of a group. I'm not sure if that's what anybody wants to do. But
+
+724
+01:38:08.800 --> 01:38:18.870
+Maristella Tapia: that's different from previous tech demos, right like. And this is not necessarily a tech demo, but it can. It can be. It's really more focused on, like
+
+725
+01:38:18.920 --> 01:38:22.850
+Maristella Tapia: like an instructional lesson.
+
+726
+01:38:23.360 --> 01:38:33.100
+Brian Beatty: Right? Yeah. So for this project, I think the I think the emphasis should be more on. Explain how the technology supports learning in the various areas we've talked about.
+
+727
+01:38:33.230 --> 01:38:36.220
+Brian Beatty: Then how does the technology specifically work?
+
+728
+01:38:36.570 --> 01:38:46.410
+Brian Beatty: Right? You might talk a little bit about how it works, especially with something that you that we haven't done. But but but I i'm not really expecting that much of that. I'd rather have it focus more on.
+
+729
+01:38:46.710 --> 01:38:51.250
+Brian Beatty: and the focus on supporting learning in a particular context, the instructional context.
+
+730
+01:38:52.320 --> 01:39:02.030
+Maristella Tapia: And so are you looking for us to kind of take it? Look at one technology that supports all 3 aspects of learning, or really just a design that
+
+731
+01:39:02.220 --> 01:39:07.580
+Maristella Tapia: supports all 3 aspects of learning with some technologies that are facilitating that.
+
+732
+01:39:07.890 --> 01:39:22.550
+Brian Beatty: Yes, I would expect to have technology supporting each of the aspects of learning. It could be a single technology that's doing, you know, doing all all of it. It could very easily be that way or individual technologies, you know, in in each area or some overlap.
+
+733
+01:39:23.700 --> 01:39:28.350
+Brian Beatty: Yeah, so it could be a single technology. It might also be a suite of technologies.
+
+734
+01:39:29.820 --> 01:39:31.450
+Maristella Tapia: Okay, great. Thank you.
+
+735
+01:39:32.040 --> 01:39:35.310
+Brian Beatty: All right. Any other questions.
+
+736
+01:39:38.590 --> 01:39:40.940
+Brian Beatty: All right. Well, thank you very much.
+
+737
+01:39:41.140 --> 01:39:46.290
+Brian Beatty: See you later online, maybe next week in another class, maybe in this class again.
+
+738
+01:39:46.300 --> 01:39:50.760
+Brian Beatty: or or maybe just asynchronously have a good evening.
+
+739
+01:39:52.290 --> 01:39:53.030
+Brian Beatty: bye, bye.
+
+740
+01:39:54.730 --> 01:39:55.360
+Adrienne Oliver: and.
+

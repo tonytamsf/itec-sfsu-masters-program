@@ -1,0 +1,2552 @@
+WEBVTT
+
+00:01:31.000 --> 00:01:38.000
+Is that review activities and other kinds of thing very simple, not in not really in depth, but to give that kind of game experience.
+
+00:01:38.000 --> 00:01:42.000
+And it's they're really sold primarily to e-learning developers.
+
+00:01:42.000 --> 00:01:48.000
+And those are usually not in schools. And so what we found is that we always had adults.
+
+00:01:48.000 --> 00:01:49.000
+Almost every context, we developed, e-learning for that seem to love playing these little games.
+
+00:01:49.000 --> 00:01:56.000
+You know we would put a board game together. We might use a jeopardy, or wheel of fortune, or something like that.
+
+00:01:56.000 --> 00:02:02.000
+Kind of resin it a little bit, so we didn't violate intellectual property rights and all that stuff.
+
+00:02:02.000 --> 00:02:06.000
+But Adam.
+
+00:02:06.000 --> 00:02:12.000
+Yeah, you kind of just answer my question with raptivity, cause what I was saying was, I was. I didn't.
+
+00:02:12.000 --> 00:02:35.000
+I wasn't too involved with this project, my company, but we were working with a professor in a public health program that had a course on Maternal and child health, and she had designed this board game in person to help students kind of understand all the different factors that impact like women's health and birthing bodies and it was
+
+00:02:35.000 --> 00:02:36.000
+Hmm!
+
+00:02:36.000 --> 00:02:38.000
+a really interesting way to like, understand, just like sometimes the randomness that can happen and how and how to develop policies around that.
+
+00:02:38.000 --> 00:02:42.000
+And so we were challenged with like, how do you translate this very analog board game?
+
+00:02:42.000 --> 00:02:50.000
+She developed to online. And we ended up essentially like filming videos to kind of like help.
+
+00:02:50.000 --> 00:02:59.000
+Students understand how game works we couldn't find a way to translate it.
+
+00:02:59.000 --> 00:03:00.000
+Yeah, yeah.
+
+00:03:00.000 --> 00:03:01.000
+But I was wondering if there are like easy plug and play instructional design tools like this one that can make cause.
+
+00:03:01.000 --> 00:03:07.000
+I mean, it's like it's pretty basic stuff to just like, have a dice move things around us.
+
+00:03:07.000 --> 00:03:08.000
+With things around a board, and have 5 cards.
+
+00:03:08.000 --> 00:03:11.000
+Right, right.
+
+00:03:11.000 --> 00:03:13.000
+Surely there's something like this. So maybe this is what raptivity is.
+
+00:03:13.000 --> 00:03:14.000
+Yeah, it is. And it's it's not inexpensive.
+
+00:03:14.000 --> 00:03:18.000
+It's not something I would buy myself, but for a company.
+
+00:03:18.000 --> 00:03:28.000
+Who's investing in building e-learning, or other kinds of things and having the rights to do use all this software over and over and over and over again.
+
+00:03:28.000 --> 00:03:29.000
+Yeah.
+
+00:03:29.000 --> 00:03:30.000
+It's cheap, right? And you can. I think you can buy different packs of templates for different kinds of applications and things like that.
+
+00:03:30.000 --> 00:03:41.000
+So it's the kind of thing that you know gets you to a great, to a certain point in the custom e-learning world.
+
+00:03:41.000 --> 00:03:45.000
+What we did is we would we would try to reuse the games we had already coded.
+
+00:03:45.000 --> 00:03:46.000
+Hmm!
+
+00:03:46.000 --> 00:03:58.000
+And as much as we could. But if we came up with a you know, a design situation where we needed a different kind of game, then we would we would spend the time and resources to have our coders actually build it for us.
+
+00:03:58.000 --> 00:04:00.000
+But then in the back of our minds we always know.
+
+00:04:00.000 --> 00:04:04.000
+Okay, now, we have another game you know that we can, you know, rescind and reuse.
+
+00:04:04.000 --> 00:04:07.000
+In other words, in other projects.
+
+00:04:07.000 --> 00:04:10.000
+Cool. So it's been around quite a while. It seems like.
+
+00:04:10.000 --> 00:04:14.000
+Reactivity. Yeah, has been, yeah. And there may be other sites like that, too.
+
+00:04:14.000 --> 00:04:20.000
+That's just the one I'm most familiar with.
+
+00:04:20.000 --> 00:04:26.000
+Now there was something else. I was gonna say, I did start the recording so welcome to session 9.
+
+00:04:26.000 --> 00:04:34.000
+I think if I take 8 30 for those of you who are watching the recording, sorry we cut off the first 10 min or so of looking through the session.
+
+00:04:34.000 --> 00:04:40.000
+8 the discussion, but that's what happens when I forget, and no one reminds me.
+
+00:04:40.000 --> 00:04:48.000
+But it's not your job to remind me. Well, looks like Stevens joining us too online, at least in the discussion.
+
+00:04:48.000 --> 00:04:52.000
+Forum. Thanks for your comments, Steve. We'll have to look at those after class.
+
+00:04:52.000 --> 00:05:06.000
+He actually posted that before class. So right on time, yeah.
+
+00:05:06.000 --> 00:05:07.000
+Yeah. For Monday.
+
+00:05:07.000 --> 00:05:08.000
+That should be. Yeah. I was wondering if anybody actually in here went to the event that you posted about gaming and trauma.
+
+00:05:08.000 --> 00:05:12.000
+Yeah, that's sounded so interesting about I couldn't make it.
+
+00:05:12.000 --> 00:05:19.000
+Did anybody get a chance to go? Because when you ask the question, like, Are there some things that you can't gameify like?
+
+00:05:19.000 --> 00:05:22.000
+I would think trauma would be one of those. You know.
+
+00:05:22.000 --> 00:05:29.000
+Or, you know, really heavy- heavy topics that are traumatic would be one of those.
+
+00:05:29.000 --> 00:05:38.000
+But I was really curious to learn more about it, and if you know, maybe if it was recorded.
+
+00:05:38.000 --> 00:05:41.000
+Yeah, I don't know for sure, but I can probably look.
+
+00:05:41.000 --> 00:05:55.000
+Let me write a note to do that. I saw a couple of messages come in around that, but it I think that was probably reactions to to the announcement.
+
+00:05:55.000 --> 00:05:59.000
+I think I put it in the announcements, didn't I?
+
+00:05:59.000 --> 00:06:01.000
+Yeah, let's see, I don't know if anyone replied to this or not.
+
+00:06:01.000 --> 00:06:03.000
+Yeah, well, Adam replied and Tony replied, and Tony has a link here to some of her interviews.
+
+00:06:03.000 --> 00:06:19.000
+Her media. So if you 2 take a look at that link that might be helpful. And this is the which organization is this.
+
+00:06:19.000 --> 00:06:25.000
+Oh, that's actually, this is, this is inside a, E, C T, which is an organization.
+
+00:06:25.000 --> 00:06:27.000
+I'm part of, and I think that they probably recorded that.
+
+00:06:27.000 --> 00:06:34.000
+So I will look for that. I'll ask I'm part of this division.
+
+00:06:34.000 --> 00:06:40.000
+I just didn't have time. I didn't find out about this until wasn't Monday morning.
+
+00:06:40.000 --> 00:06:45.000
+And if I can find a recording I'll see if I can share it with you.
+
+00:06:45.000 --> 00:06:48.000
+Alright. I'm just writing a note to myself, not trying to double.
+
+00:06:48.000 --> 00:06:59.000
+Do well tell you.
+
+00:06:59.000 --> 00:07:05.000
+Too many words. Okay? Alright. Well, that that was last week.
+
+00:07:05.000 --> 00:07:06.000
+This is this week. So this week we're really looking at 2 different things.
+
+00:07:06.000 --> 00:07:21.000
+Coding and making and we haven't. We have an expert coder, at least one of them in our class, Tony, who's professionally this is his career, and so Tony was. There.
+
+00:07:21.000 --> 00:07:26.000
+I I would be relying a little bit on his judgment as well but Tony's not here. Live Tony!
+
+00:07:26.000 --> 00:07:30.000
+I hope you're watching the recording and then you you can correct me when I if I if I it, looks like I'm misleading anybody as we kind of go through this.
+
+00:07:30.000 --> 00:07:38.000
+But I did ask. I gave you a few things to read couple of things.
+
+00:07:38.000 --> 00:07:44.000
+Of course, most of them are pretty simple. This coding in the elementary school cloudroom.
+
+00:07:44.000 --> 00:07:50.000
+Where is that one? What was it called?
+
+00:07:50.000 --> 00:07:55.000
+I thought I had it. Oh, there it is, this one simple little 4 pager!
+
+00:07:55.000 --> 00:08:02.000
+I'm wondering if and this is, this is free. I think this is for yeah, younger.
+
+00:08:02.000 --> 00:08:06.000
+I know many of you aren't teaching elementary school kids, but some of the things that they're talking about here.
+
+00:08:06.000 --> 00:08:07.000
+Some of the values that they get from even learning to add.
+
+00:08:07.000 --> 00:08:20.000
+Younger ages, with simple coding applications, you know, are benefits that can be, you know, kind of realize that almost any level, even adults, right?
+
+00:08:20.000 --> 00:08:27.000
+Some of the things that you learned through this and I know some of you probably use computing exercises in your own classes.
+
+00:08:27.000 --> 00:08:35.000
+So did anybody did this appeal to anybody? Did this convince you that this is something that may be to be considered?
+
+00:08:35.000 --> 00:08:40.000
+Maybe not for your class, but for others.
+
+00:08:40.000 --> 00:08:44.000
+Is coding, does it? Are they making a case?
+
+00:08:44.000 --> 00:08:45.000
+That coding is something that would be valuable.
+
+00:08:45.000 --> 00:09:00.000
+Maybe to teach, even at younger agents.
+
+00:09:00.000 --> 00:09:07.000
+I was kinda looking at it from like a workforce perspective of like if one school is doing it, and some schools are starting to do it.
+
+00:09:07.000 --> 00:09:19.000
+Then like just to think about like all it puts other students at a disadvantage if they're not knowing coding and like, you know me personally in my thirties, like, I'm even thinking about like probably generations of workers that.
+
+00:09:19.000 --> 00:09:23.000
+Are like even 10 years younger than I am, because I know this has.
+
+00:09:23.000 --> 00:09:28.000
+You know this is from 2014, like they probably know coding now, and so like, how are we?
+
+00:09:28.000 --> 00:09:31.000
+It almost seems like there's like a.
+
+00:09:31.000 --> 00:09:32.000
+There's just like a competition effect like you would want all students to know this.
+
+00:09:32.000 --> 00:09:43.000
+It's not. It's summer, and only to learn it because it's definitely going to make them more competitive in all aspects of their, you know, development in education.
+
+00:09:43.000 --> 00:09:48.000
+Right. Well, the this little book chapter asked you to read this introduction here.
+
+00:09:48.000 --> 00:10:04.000
+If this is about coding, and K. 12, and so this book is all about kind of exploring the values and the benefits of teaching, coding even at in the K 12 classrooms, right?
+
+00:10:04.000 --> 00:10:25.000
+And there are, there's a lot of money being spent right now to help prepare teachers who are not in the computer science field to learn how to the basics of comput quoting for programming so that they can actually teach it to their students either in a class for computer program or within the context of their their domain
+
+00:10:25.000 --> 00:10:28.000
+specific class, like a science class, or even a history class, or things like that.
+
+00:10:28.000 --> 00:10:36.000
+There are tools and applications that can be used, and the principles can be used in various platforms, not necessarily just coding platforms.
+
+00:10:36.000 --> 00:10:44.000
+But you know this whole idea of, you know, engineering prompts for AI are being an AI whisper.
+
+00:10:44.000 --> 00:11:05.000
+Those kinds of ideas. I mean, there are some aspects of understanding how this system is working. This technical system is working behind the scenes that could help you actually perhaps learn how to use it better if you understand a little bit about how it's working and how it understands language those kinds of things.
+
+00:11:05.000 --> 00:11:09.000
+So there is actually to continue my original thought.
+
+00:11:09.000 --> 00:11:29.000
+There, there is a project at San Francisco State with there's a combination of of a education faculty and computer science faculty who are working and do an annual kind of cohort based approach teaching students are enough to students teachers and the San Francisco Unified school district and other
+
+00:11:29.000 --> 00:11:34.000
+local school districts, how do the basics of computer programming, coding?
+
+00:11:34.000 --> 00:11:41.000
+Essentially so that then they can use that with their students. And it's been going on for a couple of years now, and it they've just got another.
+
+00:11:41.000 --> 00:11:48.000
+I think 3 or 4 million dollars from the National Science Foundation to continue and expand this grant I think it's called Cs.
+
+00:11:48.000 --> 00:11:52.000
+For all, and so there's a lot of there's a lot of stuff going on towards this.
+
+00:11:52.000 --> 00:11:59.000
+I mean, I think it's still relatively low volume as far as not a lot of not a lot of teachers are being exposed to this.
+
+00:11:59.000 --> 00:12:00.000
+But teachers in every school pretty much are being exposed to this in larger systems.
+
+00:12:00.000 --> 00:12:06.000
+It was.
+
+00:12:06.000 --> 00:12:10.000
+And Dalton, what do you want to say about this?
+
+00:12:10.000 --> 00:12:14.000
+Yeah, we do a lot of this. I do a little bit of computer science in my classes.
+
+00:12:14.000 --> 00:12:20.000
+And I, some electives here and there, and the one that we sent to space.
+
+00:12:20.000 --> 00:12:22.000
+That was a partnership through a company that was testing us.
+
+00:12:22.000 --> 00:12:31.000
+As you know, to see if students could actually handle designing the experiment using Lego software and hardware.
+
+00:12:31.000 --> 00:12:37.000
+And the you know this. This is a group of 10 to 12 year olds, and and they were able to do it.
+
+00:12:37.000 --> 00:12:44.000
+There was some glitches along the way, but it was on like NASA and Spacex side, so it wasn't our fault.
+
+00:12:44.000 --> 00:12:51.000
+But after the second launch it it did work, but of course they need a lot of scaffolding.
+
+00:12:51.000 --> 00:12:52.000
+Hey! There's you!
+
+00:12:52.000 --> 00:12:57.000
+I there was yeah to teach me. And another teacher, the other teacher wasn't more of the coer.
+
+00:12:57.000 --> 00:13:01.000
+I sort of facilitate the process there, but yeah, it's possible.
+
+00:13:01.000 --> 00:13:11.000
+And I think that there's more and more tools coming out that take the need for the teacher to be the expert right and so the teacher can be more of a facilitator.
+
+00:13:11.000 --> 00:13:12.000
+Right.
+
+00:13:12.000 --> 00:13:16.000
+So another, yeah, like, for instance, microbid, mic, but has so much resources out there.
+
+00:13:16.000 --> 00:13:20.000
+That if you wanna try something like this in your classroom, you don't need to be the expert.
+
+00:13:20.000 --> 00:13:23.000
+Yeah.
+
+00:13:23.000 --> 00:13:34.000
+Yeah, I used to teach computer programming and many, many years ago, and I found that as more as the software as the systems, we got to learn how to code Yup more more.
+
+00:13:34.000 --> 00:13:49.000
+I guess complex. They also became less. It became less on me to be like the person showing them how to do this all the time, because now the platform could do that, and like you said I could be more of the facilitator of the learning as long as I still knew a little bit more than many of them
+
+00:13:49.000 --> 00:13:51.000
+did, but still some of them would run ahead of me, and that's that was fine, because they were.
+
+00:13:51.000 --> 00:14:00.000
+They were diving into an area that I hadn't explored myself that much.
+
+00:14:00.000 --> 00:14:13.000
+So gave them, they gave them one of the things that you can give them is a sense of accomplishment, too, is they're building some stuff and solving some problems to make a computer do things that are potentially useful.
+
+00:14:13.000 --> 00:14:21.000
+Not just an assignment, they can really go for it. We're gonna take a look at a couple of these sites here in just a second.
+
+00:14:21.000 --> 00:14:25.000
+Okay.
+
+00:14:25.000 --> 00:14:26.000
+Sorry can I ask what is micro bit? I looked at that website.
+
+00:14:26.000 --> 00:14:28.000
+It looks like a tiny little like microchip, but like what is it?
+
+00:14:28.000 --> 00:14:35.000
+What does it do? It's okay. If we don't have time.
+
+00:14:35.000 --> 00:14:37.000
+But I'm really curious.
+
+00:14:37.000 --> 00:14:41.000
+Yeah, I I I could talk about it. So it's a super just super quickly.
+
+00:14:41.000 --> 00:14:45.000
+It's a very small computer that was made, but with apprenticeship, the BBC.
+
+00:14:45.000 --> 00:14:49.000
+And Microsoft to put a small computer in the hands of every middle schooler in the Uk.
+
+00:14:49.000 --> 00:14:50.000
+So it's it's a very small computer that has some inputs and some IP address.
+
+00:14:50.000 --> 00:14:56.000
+So it's very small. So you plug into your computer, you code it you send a code in there.
+
+00:14:56.000 --> 00:15:01.000
+It will do a bunch of a bunch of different tasks.
+
+00:15:01.000 --> 00:15:07.000
+So it's it's pretty neat. It's like a raspberry pi, but very much more simplified and cheaper.
+
+00:15:07.000 --> 00:15:10.000
+Wait a what's a raspberry pi up for something delicious.
+
+00:15:10.000 --> 00:15:15.000
+Oh, by the way, I understand it's like it's a more complicated piece of hardware.
+
+00:15:15.000 --> 00:15:20.000
+So there's a faster componing. There's, I think, higher.
+
+00:15:20.000 --> 00:15:24.000
+CPU power. You can attach more sensors to it.
+
+00:15:24.000 --> 00:15:29.000
+So it's a bit more involved. But the micro bit is much more simplified.
+
+00:15:29.000 --> 00:15:34.000
+I think it's a much better entry to get into coding, because it's kid proof.
+
+00:15:34.000 --> 00:15:41.000
+It's very. It's very robust, it's not intimidating, and you can very quickly make some gangs with it.
+
+00:15:41.000 --> 00:15:44.000
+So that's part of the hook.
+
+00:15:44.000 --> 00:15:45.000
+So how does it get for a kid who's just starting out for this?
+
+00:15:45.000 --> 00:15:51.000
+A screen like this, not to be intimidating.
+
+00:15:51.000 --> 00:15:52.000
+Yeah, this is probably not the best screen to start with.
+
+00:15:52.000 --> 00:15:57.000
+The best screen is a second link that I dropped in there.
+
+00:15:57.000 --> 00:15:58.000
+Alright. Let me get that. Okay.
+
+00:15:58.000 --> 00:16:05.000
+The project. Yeah, click on that. That's much better.
+
+00:16:05.000 --> 00:16:06.000
+Okay. All right. So here.
+
+00:16:06.000 --> 00:16:10.000
+Now that one is more for the teachers. Yeah, here we go.
+
+00:16:10.000 --> 00:16:18.000
+Yeah, get started, maybe. And yeah, so that thing on the left is the front face that has a little lights and then on the back. So you see, there's 2 buttons.
+
+00:16:18.000 --> 00:16:19.000
+I got it.
+
+00:16:19.000 --> 00:16:23.000
+So you could treat this as a joystick, and then in the back there's a accelerometer.
+
+00:16:23.000 --> 00:16:25.000
+There's a Bluetooth, so you could have them talk to each other.
+
+00:16:25.000 --> 00:16:31.000
+The talking to each other. There is a temperature sensor, light, sensor.
+
+00:16:31.000 --> 00:16:39.000
+What else in there? So it's very simple, and you can code it like sort of Java type code or python type code.
+
+00:16:39.000 --> 00:16:48.000
+Or you can code it with the dragon. Drop scratch style code, and that is, you know, way simpler for us to start going, and you can.
+
+00:16:48.000 --> 00:16:49.000
+Right.
+
+00:16:49.000 --> 00:16:52.000
+You can do something very small like. Make a smiley face on the screen right?
+
+00:16:52.000 --> 00:16:53.000
+And then kind of build from there.
+
+00:16:53.000 --> 00:16:56.000
+Let me show you. Yeah, let's take a look at some of these other.
+
+00:16:56.000 --> 00:17:03.000
+I got some of these other sites loaded up here that are often used in coding for kids.
+
+00:17:03.000 --> 00:17:10.000
+And so what's this? First one is the Google site, Google for education.
+
+00:17:10.000 --> 00:17:15.000
+Cs versus, have you used this site? Anybody use this site?
+
+00:17:15.000 --> 00:17:16.000
+No!
+
+00:17:16.000 --> 00:17:18.000
+Yeah, so it's a Google site. And you can get started with it and learn how to basically do coding.
+
+00:17:18.000 --> 00:17:29.000
+Either. You know student, teacher, etc., in I guess you have to log in I wonder if you can just get in with your regular Google account.
+
+00:17:29.000 --> 00:17:32.000
+Look at my accounts. Let's try this one.
+
+00:17:32.000 --> 00:17:38.000
+See if this one has the magic. Now it's another thing connected to my Google universe.
+
+00:17:38.000 --> 00:17:44.000
+It's not gonna get ads for I don't know what.
+
+00:17:44.000 --> 00:17:52.000
+Okay. So you have to sign up alright. I'm looking for curriculum to teach my students.
+
+00:17:52.000 --> 00:17:59.000
+And let's use Doctor baby. I got asked the other day what kind of doctor I was.
+
+00:17:59.000 --> 00:18:02.000
+I said, Well, I'll go. I'm not really a doctor, a medical cause.
+
+00:18:02.000 --> 00:18:06.000
+I thought to medical people, let's go for school.
+
+00:18:06.000 --> 00:18:10.000
+Oh, wasn't nice! I don't know. What do I want to be today?
+
+00:18:10.000 --> 00:18:18.000
+Hmm!
+
+00:18:18.000 --> 00:18:23.000
+Let's go up north. Well, up the hill let's go up to Trucky.
+
+00:18:23.000 --> 00:18:26.000
+Yeah. I don't know what this is.
+
+00:18:26.000 --> 00:18:29.000
+Oops!
+
+00:18:29.000 --> 00:18:32.000
+Colleague.
+
+00:18:32.000 --> 00:18:41.000
+Yes. Start teaching. So we're kind of walking through this to see what it would take check out your dashboard, create a class and explore. Okay, got it?
+
+00:18:41.000 --> 00:18:46.000
+I don't wanna create a class. So then I'd have to go in here.
+
+00:18:46.000 --> 00:18:49.000
+I guess start doing this. Let's see if we can find some projects.
+
+00:18:49.000 --> 00:18:56.000
+Oh! These are my projects! Here we go, curriculum!
+
+00:18:56.000 --> 00:19:01.000
+Hands on lessons with instructional videos.
+
+00:19:01.000 --> 00:19:03.000
+Hmm!
+
+00:19:03.000 --> 00:19:08.000
+We'll do it. Take a look at the left. Look at it!
+
+00:19:08.000 --> 00:19:17.000
+Scratch for Cs, so scratch is the Mit simple programming awesome. Let's take a walk.
+
+00:19:17.000 --> 00:19:22.000
+It's scratch considered a language itself, because I feel like I've heard of other.
+
+00:19:22.000 --> 00:19:27.000
+I guess it is. This is like the style of program. Gotcha. Okay?
+
+00:19:27.000 --> 00:19:31.000
+Yeah, I guess you probably call it. I don't know if you call it a language.
+
+00:19:31.000 --> 00:19:36.000
+It's a platform to use.
+
+00:19:36.000 --> 00:19:44.000
+So I have a a lesson. I'm gonna do a quick tour.
+
+00:19:44.000 --> 00:19:47.000
+I don't need that.
+
+00:19:47.000 --> 00:19:50.000
+Okay.
+
+00:19:50.000 --> 00:20:02.000
+Okay, I'm supposed to do that. Okay, let's get coding.
+
+00:20:02.000 --> 00:20:05.000
+Okay. So you can see what this is, what what?
+
+00:20:05.000 --> 00:20:08.000
+What are some of your comments already? Just by looking at this?
+
+00:20:08.000 --> 00:20:09.000
+What level of students do you think this would be appropriate for?
+
+00:20:09.000 --> 00:20:10.000
+Or maybe, is there a level where this would just not work?
+
+00:20:10.000 --> 00:20:20.000
+For you. We're no. It's gotta be probably older students.
+
+00:20:20.000 --> 00:20:24.000
+Do we see how you do it? How do you actually do it like?
+
+00:20:24.000 --> 00:20:28.000
+How do you? Is the object to make the little hedgehog move?
+
+00:20:28.000 --> 00:20:34.000
+Yeah. Taking a walk. Umhm.
+
+00:20:34.000 --> 00:20:40.000
+So do we just do you drag and drop those things from that side to the other side.
+
+00:20:40.000 --> 00:20:41.000
+Or how do you do that?
+
+00:20:41.000 --> 00:20:45.000
+I'm not. I haven't done this so I I don't know exactly.
+
+00:20:45.000 --> 00:20:49.000
+I think this is. These are your motion controls, and then you can do looking controls.
+
+00:20:49.000 --> 00:20:53.000
+So you've got a like a toolbox over here on the left.
+
+00:20:53.000 --> 00:20:57.000
+And then you drag things out here onto the whatever that. I guess this is the code we're doing.
+
+00:20:57.000 --> 00:21:01.000
+And so this is supposed to say, like's go for 2 s, say hello for 2 s.
+
+00:21:01.000 --> 00:21:06.000
+Say, it looks like a nice day, a walk, 2 s, and then I have to build in the walk.
+
+00:21:06.000 --> 00:21:10.000
+Right, so maybe I have to move. Move 10 steps and I don't know.
+
+00:21:10.000 --> 00:21:14.000
+Let's turn.
+
+00:21:14.000 --> 00:21:23.000
+I don't know where that would go. Maybe here, and there must be a way to play this as well, but I don't know exactly where that is, so it's something that you could play around with if you wanted to.
+
+00:21:23.000 --> 00:21:32.000
+But clearly, it's relied on there's a lot of text here and so someone's gonna have to have reading skills in English.
+
+00:21:32.000 --> 00:21:36.000
+I don't know it could be. I don't know if this could be translated or not.
+
+00:21:36.000 --> 00:21:37.000
+You know, if there's a chance.
+
+00:21:37.000 --> 00:21:40.000
+Yeah. Maybe, like my third grader could do it.
+
+00:21:40.000 --> 00:21:43.000
+Like 8 or 9.
+
+00:21:43.000 --> 00:21:44.000
+Years, old.
+
+00:21:44.000 --> 00:21:48.000
+Yeah, yeah. As long as you can understand. You know the language here.
+
+00:21:48.000 --> 00:21:50.000
+The words so, but that's one of the things that you know.
+
+00:21:50.000 --> 00:21:56.000
+A lot of coding languages still rely a lot on language.
+
+00:21:56.000 --> 00:22:02.000
+And so that is one of the factors. That kind of keeps some students from being able to do them use them.
+
+00:22:02.000 --> 00:22:05.000
+Maybe as well as others.
+
+00:22:05.000 --> 00:22:06.000
+And like the way it would you call this gameified on some level?
+
+00:22:06.000 --> 00:22:36.000
+Cause it of the way that they're adding this hedgehog moving around, which leads me to think that, like something like this, like maybe a high schooler wouldn't be as excited about.
+
+00:22:36.000 --> 00:22:37.000
+Right.
+
+00:22:37.000 --> 00:22:40.000
+Yeah, maybe. But I tell you, when I learn how to code in or just create a the you know stuff in the predecessor of Flash with a Mac Ormedia director way back, when the first things we did were just move little balls around a screen and just getting them to move in a controlled
+
+00:22:40.000 --> 00:22:45.000
+manner was something that most of us, at least seem to be really happy about.
+
+00:22:45.000 --> 00:22:47.000
+Look what we are. Do we got to, even back in?
+
+00:22:47.000 --> 00:22:54.000
+I don't know if you've ever. I don't know if any of you are old enough to remember Hypercard days, but just using a hyper card stack to get something to move on.
+
+00:22:54.000 --> 00:22:58.000
+The screen was such an accomplishment the first time you do it, I mean, you know, these are 20, something, 30, something 40, something year old.
+
+00:22:58.000 --> 00:23:02.000
+People say, Wow! This is so cool. Look what we're able to do, cause you could do it yourself.
+
+00:23:02.000 --> 00:23:22.000
+Not just allow, you know. Rely on some other programmer who would build it for you and so I don't know that I don't know that the hedgehog itself is, you know, it is, you know it's like cute, etc.
+
+00:23:22.000 --> 00:23:23.000
+Huh!
+
+00:23:23.000 --> 00:23:29.000
+It's not something that a lot of high school kids would probably pick if they had to, but if they could get it to move in a way they wanted to, it would be interesting to see how they would make it move but then and I think if they knew this was in the context of just learning how to
+
+00:23:29.000 --> 00:23:35.000
+create, you know, some structured language here, and put it together in a way that would make it do what you're telling it to do.
+
+00:23:35.000 --> 00:23:41.000
+I think they would. I think most of them would be able to say, Okay, I'm not gonna build this for myself, but it is.
+
+00:23:41.000 --> 00:23:44.000
+It is a way for me to learn how to make this anymore.
+
+00:23:44.000 --> 00:23:49.000
+I mean going on to something more complicated.
+
+00:23:49.000 --> 00:23:51.000
+Okay.
+
+00:23:51.000 --> 00:23:52.000
+Alright so! Well, that's that's this.
+
+00:23:52.000 --> 00:23:55.000
+The Google site. So there's a lot of stuff built in there.
+
+00:23:55.000 --> 00:24:00.000
+And I haven't explored it well enough to really understand exactly how it works.
+
+00:24:00.000 --> 00:24:03.000
+But it's a Google site. And so there's gonna be a lot of stuff built in there. And I haven't explored it well enough.
+
+00:24:03.000 --> 00:24:07.000
+There's been a lot a lot of design, I'm sure, put into this.
+
+00:24:07.000 --> 00:24:10.000
+I'm not sure if they sponsor projects on it, or things like that.
+
+00:24:10.000 --> 00:24:18.000
+But scratch itself is something that is a project that was has been run out of Mit for a long time.
+
+00:24:18.000 --> 00:24:20.000
+I don't know exactly how long it's been there for quite a while.
+
+00:24:20.000 --> 00:24:22.000
+It's these are some of the projects that they do. There.
+
+00:24:22.000 --> 00:24:30.000
+And this is another one that's students. Can you know this classic to make to help students kind of learn how to drag and drop kind of programming rather than typing that things out.
+
+00:24:30.000 --> 00:24:41.000
+So here's a I don't know. You could look at some of the projects, and you can see what's going on here.
+
+00:24:41.000 --> 00:24:46.000
+And so they have a. They wrote code just to make this happen right?
+
+00:24:46.000 --> 00:24:50.000
+And then you can take a look inside.
+
+00:24:50.000 --> 00:24:51.000
+And this is this is the code that they end up building.
+
+00:24:51.000 --> 00:25:01.000
+So you can see this is the scratch interface, just like we saw on the other side the Cs, the Google Cs one.
+
+00:25:01.000 --> 00:25:05.000
+Another interesting thing about what they built here. Where was it?
+
+00:25:05.000 --> 00:25:13.000
+If I if I wanna hide that oh, you can control it's got some controllers built in, so you can make it faster or slower.
+
+00:25:13.000 --> 00:25:21.000
+You can change the number of waves right? When you can look at whatever the quality would be, whatever.
+
+00:25:21.000 --> 00:25:25.000
+Yeah.
+
+00:25:25.000 --> 00:25:26.000
+See.
+
+00:25:26.000 --> 00:25:28.000
+There you go!
+
+00:25:28.000 --> 00:25:39.000
+And so a lot. So what you could if you want if you're interested in looking at this, take a look at the various projects, lots of different things, and they can get a lot more complicated than that.
+
+00:25:39.000 --> 00:25:52.000
+Obviously but they're also good things for simple things and what it does is it teaches them this, the idea of the structured language that the computer will only do what you tell it to do in the order that you tell us to do it it can make some decisions.
+
+00:25:52.000 --> 00:25:57.000
+If you kind of set up that decision like a looping decision, you know, keep doing this until this other thing is set.
+
+00:25:57.000 --> 00:26:04.000
+You get understanding the concepts of variables and other kinds of things. Yeah.
+
+00:26:04.000 --> 00:26:09.000
+Alright! Let me! Don't let me load this when you put into the chat.
+
+00:26:09.000 --> 00:26:16.000
+Yeah, this one is really impressive, my student included our equations of acceleration and gravity into it.
+
+00:26:16.000 --> 00:26:19.000
+So, I don't remember exactly how we did it.
+
+00:26:19.000 --> 00:26:20.000
+But yeah, so the simulation shows things following the earth mars the moon.
+
+00:26:20.000 --> 00:26:37.000
+An asteroid and an exoplanet, and so he had to include the acceleration equation there, which is pretty neat, and if you change the mass, the free fault doesn't change, which is what you would expect.
+
+00:26:37.000 --> 00:26:38.000
+So it's really it's really well done.
+
+00:26:38.000 --> 00:26:44.000
+That's right for me. Alright! Let's pull it all over.
+
+00:26:44.000 --> 00:26:45.000
+Yeah.
+
+00:26:45.000 --> 00:26:47.000
+It'll just drop right down. That's how gravity works.
+
+00:26:47.000 --> 00:26:51.000
+Well, this one is going so slow, which is this one? An asteroid?
+
+00:26:51.000 --> 00:26:52.000
+Yeah.
+
+00:26:52.000 --> 00:26:54.000
+That's an asteroid. 67 p. The one that they try to land something on.
+
+00:26:54.000 --> 00:27:01.000
+Okay, so let me ask someone, not Dalton. Why would it be dropping so much slower on an asteroid compared to these other, these other celestial bodies?
+
+00:27:01.000 --> 00:27:09.000
+Or not so much deal with the planetary bodies. Maybe.
+
+00:27:09.000 --> 00:27:11.000
+Anyone, know?
+
+00:27:11.000 --> 00:27:13.000
+I don't really know, but I can try.
+
+00:27:13.000 --> 00:27:15.000
+Go for it, Amanda.
+
+00:27:15.000 --> 00:27:21.000
+Can you tell me again what the other like? Once earth and ones?
+
+00:27:21.000 --> 00:27:22.000
+What is the?
+
+00:27:22.000 --> 00:27:25.000
+Mars Moon, the asteroid, and the next to planet.
+
+00:27:25.000 --> 00:27:31.000
+Exoplanet, which is like what Pluto has been relegated to.
+
+00:27:31.000 --> 00:27:32.000
+Uhhuh.
+
+00:27:32.000 --> 00:27:33.000
+I believe, okay.
+
+00:27:33.000 --> 00:27:37.000
+No, no, that's the door planet. That's a that's a that's around another star. It is huge.
+
+00:27:37.000 --> 00:27:38.000
+Oh, okay.
+
+00:27:38.000 --> 00:27:39.000
+It's much heavier than the earth.
+
+00:27:39.000 --> 00:27:40.000
+Does it have something to? I don't know how to like?
+
+00:27:40.000 --> 00:27:56.000
+Say what I'm thinking? Does it have something to do with the fact that, like the asteroid, is like moving through space in the sense of like, not in its own like orbit?
+
+00:27:56.000 --> 00:27:57.000
+Okay. Cool.
+
+00:27:57.000 --> 00:27:59.000
+No, that's not no. Oh, I could ask you. Well, okay.
+
+00:27:59.000 --> 00:28:00.000
+So why do you think that it might be? And then we could explore that?
+
+00:28:00.000 --> 00:28:05.000
+But we are not gonna do that. No, it doesn't have anything to do with the.
+
+00:28:05.000 --> 00:28:24.000
+It doesn't have anything to do, really, with the motion cause, I think what we would assume is that the the following object is within the same motion, you know, system, I guess, of the object itself, like like someone falling on the earth is gonna fall to the earth, and they're actually moving through
+
+00:28:24.000 --> 00:28:30.000
+space just as fast as the earth is moving through space, you know, with maybe some very, very, very slight, different differences.
+
+00:28:30.000 --> 00:28:35.000
+But there's still much.
+
+00:28:35.000 --> 00:28:37.000
+Anyone else want to give it a try?
+
+00:28:37.000 --> 00:28:39.000
+Is that the weight of gravity, or something like that?
+
+00:28:39.000 --> 00:28:46.000
+It's another. There's the force of gravity is gonna be independent of.
+
+00:28:46.000 --> 00:28:52.000
+Well, it it is actually has to do with the force of gravity.
+
+00:28:52.000 --> 00:28:57.000
+Right, and that depends on the mass of the 2 of the objects involved.
+
+00:28:57.000 --> 00:29:06.000
+And so the more massive the like. The body that it's falling down to is.
+
+00:29:06.000 --> 00:29:16.000
+The higher that force would be so if if we what what this is not really the purpose of this whole thing, I mean are looking at it.
+
+00:29:16.000 --> 00:29:23.000
+But you can. This is a way you can use this, or I guess I lost it. Let me go back to it.
+
+00:29:23.000 --> 00:29:27.000
+How do I reset this?
+
+00:29:27.000 --> 00:29:31.000
+Oh! The black at the stops, or the green.
+
+00:29:31.000 --> 00:29:32.000
+Yeah. The green runs it again.
+
+00:29:32.000 --> 00:29:36.000
+The okay, and then the red would stop it so we could stop it right there.
+
+00:29:36.000 --> 00:29:37.000
+I think so. Yeah.
+
+00:29:37.000 --> 00:29:45.000
+So, okay, what's going on here? Right? And so, yeah, and then you can look at the code.
+
+00:29:45.000 --> 00:29:49.000
+So you did a student do this by themselves, or was it a group?
+
+00:29:49.000 --> 00:29:53.000
+Yeah, just kidding myself and show it to me. And it's like blew me away.
+
+00:29:53.000 --> 00:29:57.000
+I you know I haven't. I haven't looked at this in a while.
+
+00:29:57.000 --> 00:30:01.000
+I wonder if you actually got the derivative there? It seems it seems like, yeah.
+
+00:30:01.000 --> 00:30:13.000
+So he's got a 9.8. There, he's got it, you know that he's got the distance changing.
+
+00:30:13.000 --> 00:30:14.000
+Uhhuh.
+
+00:30:14.000 --> 00:30:15.000
+With the time twice. Right? So it's a change of change which is acceleration.
+
+00:30:15.000 --> 00:30:22.000
+So, yeah, I mean it. It kinda works.
+
+00:30:22.000 --> 00:30:23.000
+Sixth grade.
+
+00:30:23.000 --> 00:30:27.000
+And this is a what great student, just crazy. Yeah, okay.
+
+00:30:27.000 --> 00:30:30.000
+This is from a few years ago, and correct, was very popular at the time.
+
+00:30:30.000 --> 00:30:38.000
+Yeah. Oh, still, being used quite a bit.
+
+00:30:38.000 --> 00:30:39.000
+Huh!
+
+00:30:39.000 --> 00:30:40.000
+Yeah, I don't know. Yeah, these days. I think I see my students like just using regular code.
+
+00:30:40.000 --> 00:30:44.000
+Scratch seems to be kind of moved down the grades.
+
+00:30:44.000 --> 00:30:47.000
+Hmm. So earlier grades.
+
+00:30:47.000 --> 00:30:48.000
+You're really great, too.
+
+00:30:48.000 --> 00:30:52.000
+Okay, there's another one. Just real. Briefly, I wanted to show you around the coding aspect.
+
+00:30:52.000 --> 00:30:55.000
+There's these things that they're called code Clubs.
+
+00:30:55.000 --> 00:30:57.000
+I don't know if they're as popular as they.
+
+00:30:57.000 --> 00:30:59.000
+They used to be. But there's there were code clubs.
+
+00:30:59.000 --> 00:31:12.000
+I think it was in the Uk. And the Us. And Australia, and what these are able to do is to provide opportunities for students to, you know, to basically work, you know, in a kind of a socialized atmosphere to learn how to do coding in various projects and things like this now I don't, know if these numbers.
+
+00:31:12.000 --> 00:31:23.000
+Are still valid. They probably are, I mean it's a website still is working.
+
+00:31:23.000 --> 00:31:24.000
+But that's a couple 100,000 students around the world who are learning how to do this.
+
+00:31:24.000 --> 00:31:46.000
+You know, 160 different countries. Wow, so you can look more about this if you want and take a look at some of the projects that they're doing when my kids were in some of my older kids were in high school this is quite a while ago, what was this 15 years ago, maybe they were involved in
+
+00:31:46.000 --> 00:32:00.000
+a competition called Botball, and this this was a thing that you had to learn how to program a robot to do a do some, you know.
+
+00:32:00.000 --> 00:32:04.000
+Take some balls from one part in in a plane area and move them in another into another area.
+
+00:32:04.000 --> 00:32:07.000
+Maybe put them over a height or something like that.
+
+00:32:07.000 --> 00:32:11.000
+Anyway, it was a competition and so they they would have these robots.
+
+00:32:11.000 --> 00:32:25.000
+Each team would run, their robot against another team, and then have a timed competition, and you would basically, you know, work your way up a ladder, you know, against, you know, kind of like the Ncaa tournament or any any other kind of turnnament plan against your opponents and need to move
+
+00:32:25.000 --> 00:32:38.000
+up, up in brackets, and it was a long project, and they would have engineers volunteer their time, for, like one afternoon a week to work with these teams, and then the team would work with the engineer, and they talk about the design process.
+
+00:32:38.000 --> 00:32:43.000
+They have to build the robot from a kid, but then they also have to program the robot and that's to all the testing.
+
+00:32:43.000 --> 00:32:50.000
+And they by big part of it, was the documentation that they would be expect to have, you know, kind of as an engineering kind of project.
+
+00:32:50.000 --> 00:32:52.000
+And so this was, and that are the team are kids.
+
+00:32:52.000 --> 00:33:13.000
+But they ended up being like a second place or third place in the competition overall for for the actual movement of the robot, as far as how well they could do the task but they were, second place in their documentation so that they learned a lot about this and in the various people on the team they could
+
+00:33:13.000 --> 00:33:15.000
+focus on different errors. Some of them were stronger in the programming.
+
+00:33:15.000 --> 00:33:18.000
+Some of them may have been stronger in the kind of mechanical putting things together.
+
+00:33:18.000 --> 00:33:30.000
+Some of them may have been stronger in the documentation side of it, and so they were able to kind of work as a group, but also develop a little bit of you know, work in their strengths as well as working overall.
+
+00:33:30.000 --> 00:33:37.000
+As the group. And so and I I just saw on the news the other day.
+
+00:33:37.000 --> 00:33:46.000
+So it was called that there was another competition that a local school was working to be in.
+
+00:33:46.000 --> 00:33:51.000
+You know some national companies for it. Did anyone notice that? It's like Monday or Tuesday?
+
+00:33:51.000 --> 00:33:55.000
+It's on the local news. Anyone watching if I know what now, it's just local news.
+
+00:33:55.000 --> 00:33:59.000
+You know it looked very similar. It was not the same, but it would look very similar with.
+
+00:33:59.000 --> 00:34:08.000
+They had a like a robotic kind of thing, and it would have to do a certain task, and I'm sure there was coding involved that as well as well as just building them.
+
+00:34:08.000 --> 00:34:13.000
+You know the device.
+
+00:34:13.000 --> 00:34:16.000
+But for the students who get involved in that, these kinds of things, you know.
+
+00:34:16.000 --> 00:34:24.000
+Oftentimes they find this to be a really rewarding and interesting and very engaging way of learning, and they learn things.
+
+00:34:24.000 --> 00:34:41.000
+Yeah. Some of them are STEM kinds of things that are running, but they also learn so much about working together as a team and communication and clear communication, and especially when there's written communication as well as maybe presentation information, as well as just communicating to each other that there are things that they can get involved
+
+00:34:41.000 --> 00:34:50.000
+in in solving problems like this problem solving itself, that you know, they just don't often get in their regular curriculum. Or maybe they do.
+
+00:34:50.000 --> 00:34:52.000
+But it's a great opportunity for many of them.
+
+00:34:52.000 --> 00:34:57.000
+If you've got kind of the resources. So.
+
+00:34:57.000 --> 00:35:01.000
+Alright!
+
+00:35:01.000 --> 00:35:09.000
+Okay, so coding. And Tony as you're watching this, you can bring into the discussion anything you wanted to say about any of those other ones.
+
+00:35:09.000 --> 00:35:13.000
+I know, probably would have had some things to say in our live environment.
+
+00:35:13.000 --> 00:35:16.000
+Let's take a few minutes and talk a little bit about making.
+
+00:35:16.000 --> 00:35:19.000
+And how is it similar? Make how's a little different?
+
+00:35:19.000 --> 00:35:24.000
+I gave you one chapter to take a look at and I believe it's over here.
+
+00:35:24.000 --> 00:35:32.000
+I think I have that loaded up here. This is a chapter, and I what I gave you was like a advanced draft, because this was a chapter that went into a book.
+
+00:35:32.000 --> 00:35:35.000
+I wasn't editor for, and so I just had this copying around.
+
+00:35:35.000 --> 00:35:41.000
+It was easy for me to share for you in the talk. I think what one things I like about it.
+
+00:35:41.000 --> 00:35:47.000
+It does a good job of kind of introducing the whole idea of, you know, maker and maker space and things like that.
+
+00:35:47.000 --> 00:35:56.000
+And then it talks about a specific project that they did, and how they found that they were getting some value for students and what was what was actually, what were students walking away with right?
+
+00:35:56.000 --> 00:36:12.000
+So the in the different principles about doing makerspace ideas as well as a situational principles for their particular situation, you know, using this idea of inquiry, you know other value that they're getting from in this concepts of prototyping failure refinement.
+
+00:36:12.000 --> 00:36:16.000
+If you did, you read this?
+
+00:36:16.000 --> 00:36:21.000
+Should be easy to read.
+
+00:36:21.000 --> 00:36:35.000
+Shouldn't like a good Apa paper.
+
+00:36:35.000 --> 00:36:39.000
+Okay. Well, I would encourage you to read it if you're interested in that at all.
+
+00:36:39.000 --> 00:36:42.000
+And what's what we'll do then?
+
+00:36:42.000 --> 00:36:46.000
+Now is, take a break. And then we'll come back.
+
+00:36:46.000 --> 00:36:48.000
+We'll do a breakouts and then breakouts.
+
+00:36:48.000 --> 00:36:52.000
+You're gonna do a maker space kind of activity.
+
+00:36:52.000 --> 00:37:07.000
+Task, and so, if you haven't read that, maybe take a quick scan at that, or maybe look at some other resources around this cause, I'm gonna ask you to do a little bit of a simple kind of a design activity, as if you had space time and money to create
+
+00:37:07.000 --> 00:37:21.000
+a maker space for an educational environment. So but before we do that, let's pause, let's take a let's take a 5 min, break and come back at 7 55 pm.
+
+00:37:21.000 --> 00:37:28.000
+Pacific. Time.
+
+00:37:32.000 --> 00:37:36.000
+Okay.
+
+00:37:36.000 --> 00:37:37.000
+I may be the only one here, but I'm gonna get started.
+
+00:37:37.000 --> 00:37:40.000
+There as a as far as the makerspace.
+
+00:37:40.000 --> 00:37:41.000
+Bye, bye!
+
+00:37:41.000 --> 00:37:47.000
+Idea besides that reading. There's lots of other resources. You can take a look at this for makerspaces.
+
+00:37:47.000 --> 00:37:50.000
+There's a few things that are linked in the chat.
+
+00:37:50.000 --> 00:38:04.000
+There are 3 different links in there. I know they look like they're kind of running together, but if you click on you know the first one or the middle one of the last one, they should come up with different places if they don't, I can repost them, but I some of you probably use
+
+00:38:04.000 --> 00:38:11.000
+makerspaces, don't you?
+
+00:38:11.000 --> 00:38:21.000
+Or maybe not, or maybe not not ones here. I will say that the University has some maker space stuff in the digital media studio next week.
+
+00:38:21.000 --> 00:38:23.000
+Some of you will be here on campus earlier before our regular class to look at the VR. Stuff they have.
+
+00:38:23.000 --> 00:38:33.000
+Well in the same same general area. They also have some maker maker materials, and so I'll I'm gonna talk.
+
+00:38:33.000 --> 00:38:39.000
+Stop over there tomorrow and talk to them. Maybe there'd be something interesting to see with that for about that, too.
+
+00:38:39.000 --> 00:38:44.000
+But I don't think that they have a thing that's well developed like you would find in most spaces.
+
+00:38:44.000 --> 00:38:49.000
+Schools, libraries, other places. I've been doing makerspaces for a while.
+
+00:38:49.000 --> 00:39:01.000
+This is done at all levels, universities as well as you know, high schools, middle schools, lower grades, it's a place where you can make stuff, you know, intentionally.
+
+00:39:01.000 --> 00:39:19.000
+And you know, solve maybe solve a problem that you're doing or creating something to meet some particular need or things like that get learned design skills, lots of different things for those of you who use makerspaces any guidance on what or any ideas on are they what
+
+00:39:19.000 --> 00:39:37.000
+makes them click.
+
+00:39:37.000 --> 00:39:44.000
+What's say, my school, I observe, is that, yeah, whenever they make the project.
+
+00:39:44.000 --> 00:39:47.000
+Really, relevant to the kids, or some kind of challenge right?
+
+00:39:47.000 --> 00:39:53.000
+Maybe there's some kind of problems. So in eighth grade they get to do like a sort of thesis type project.
+
+00:39:53.000 --> 00:40:00.000
+I don't forget what it's called called quest, or something like that.
+
+00:40:00.000 --> 00:40:09.000
+And some kids build guitars, some other code. Other kids create, maybe wearables, technology, wearables.
+
+00:40:09.000 --> 00:40:14.000
+So having some choice element, is really powerful, especially for the older kids.
+
+00:40:14.000 --> 00:40:20.000
+And yeah, anything that evolves like something that you can make and crash.
+
+00:40:20.000 --> 00:40:25.000
+And I break it like that stuff seems to really get kids excited.
+
+00:40:25.000 --> 00:40:31.000
+And also, you know, relevant problems in the community that they can work towards solver.
+
+00:40:31.000 --> 00:40:41.000
+I think I think one of the challenges for designing projects that sometimes it can slip into sort of Saviorourism territory.
+
+00:40:41.000 --> 00:40:51.000
+So it's going back to. I think somebody mentioned was asked about like how to do like sort of heavier subjects in this types of classes, and it is kind of tough right?
+
+00:40:51.000 --> 00:41:08.000
+Because oftentimes they go through these projects without really acknowledging the massive amount of budget and money and privilege that goes into setting up these spaces and so yeah, that's something that I haven't really seen done well, yet.
+
+00:41:08.000 --> 00:41:19.000
+But however, the kids really love this class, it's it's one of the best places that we have, and it's sort of like that our we're a pioneer.
+
+00:41:19.000 --> 00:41:22.000
+I guess, in doing this kind of thing back in the day.
+
+00:41:22.000 --> 00:41:24.000
+So it's definitely a calling cart.
+
+00:41:24.000 --> 00:41:29.000
+Yeah, what? What I see pictures of these things.
+
+00:41:29.000 --> 00:41:32.000
+It reminds me of what what I would see sometimes like during in the physics labs I was teaching when we did projects where we were building projects.
+
+00:41:32.000 --> 00:41:56.000
+You know learning about, you know, statics, forces, and things like that, or building projects to, you know, the rocket project to shoot things oftentimes that whole space which it would be full of stuff that they could use to build things and test things, and then you know that would be part of what we're doing so you know some of
+
+00:41:56.000 --> 00:41:59.000
+the principles, even though I wouldn't have called it a maker space.
+
+00:41:59.000 --> 00:42:03.000
+We were doing that just not in a space that's always there.
+
+00:42:03.000 --> 00:42:14.000
+That's lots of different materials that they might be able to pick and choose from differently. It's usually kind of more structured for the specific project we are working on.
+
+00:42:14.000 --> 00:42:15.000
+Alright!
+
+00:42:15.000 --> 00:42:22.000
+Hey, my daughter, we have a volunteer at sometimes in her Maker space area.
+
+00:42:22.000 --> 00:42:32.000
+The school, but it's public school, so probably unlike unlike your school, dots in ours, is really focused on reusing materials.
+
+00:42:32.000 --> 00:42:38.000
+So it's just the kids. Basically, it's kind of just like crafting.
+
+00:42:38.000 --> 00:42:43.000
+And they just they repurpose like egg cartons and milk cartons.
+
+00:42:43.000 --> 00:42:49.000
+And just, it's really focusing on very low cost materials.
+
+00:42:49.000 --> 00:42:59.000
+And and the kids are very creative. They make all kinds of really cool things from like, basically stuff that would be trash.
+
+00:42:59.000 --> 00:43:01.000
+And it kind of sucks as a parent because they come home with all these projects.
+
+00:43:01.000 --> 00:43:10.000
+They just take up space in your house, and you don't want to throw them away.
+
+00:43:10.000 --> 00:43:16.000
+But then they're really creative, you know, like my kid made a purse out of like some old egg cartons.
+
+00:43:16.000 --> 00:43:21.000
+The other day, so I feel what you're saying.
+
+00:43:21.000 --> 00:43:28.000
+About the same year is a thing, but I also think that it kind of just depends on on the materials that are there and the the resources.
+
+00:43:28.000 --> 00:43:33.000
+And and you can also have it, be a lesson in how we can like repurpose things and reuse things with creativity and stuff like that.
+
+00:43:33.000 --> 00:43:37.000
+So!
+
+00:43:37.000 --> 00:43:38.000
+Yeah.
+
+00:43:38.000 --> 00:43:42.000
+So what's the value of that for for the students? Do you think?
+
+00:43:42.000 --> 00:43:45.000
+I think it's more for them. It's a little bit more artistic, like one thing I've noticed is they?
+
+00:43:45.000 --> 00:43:54.000
+And I think it's this is just an instructional flaw, but they don't really get a whole lot of guidance.
+
+00:43:54.000 --> 00:44:02.000
+You know, it's just more like have at it like, Go find something you wanna work with and decide what it's gonna be, you know.
+
+00:44:02.000 --> 00:44:07.000
+And in some ways I think that's really cool, because it's just kind of free play with materials that you don't always get to do.
+
+00:44:07.000 --> 00:44:17.000
+And and my kid will just make all kinds of different things.
+
+00:44:17.000 --> 00:44:28.000
+She's really crafty, and she so like the other day, she's like, I think, today in maker space, I'm gonna make some rats out of pine cones like, you know, like she had an idea what she wanted to do.
+
+00:44:28.000 --> 00:44:33.000
+And then she turned around and sold each one of them for a penny.
+
+00:44:33.000 --> 00:44:41.000
+She said, so she made a little business out of it, but I think that part of that I'm structured just like have added kind of thing is really cool, especially like in the public school system.
+
+00:44:41.000 --> 00:44:48.000
+That's so like, so structured and just focus on.
+
+00:44:48.000 --> 00:44:54.000
+Standards and focused on like, I think it's a really nice respite for them.
+
+00:44:54.000 --> 00:45:11.000
+But I kinda do think, though, like I wanna see what Dalton's maker space looks like, because I imagine they have the kids they're like creating water filters for like countries that don't have access to bottle water or something like you know, what I mean I
+
+00:45:11.000 --> 00:45:12.000
+mean? They're probably on the verge of some like Elon Musk type of like discoveries.
+
+00:45:12.000 --> 00:45:22.000
+Or something like that, whereas my kids making pine cones into rats.
+
+00:45:22.000 --> 00:45:26.000
+So you know.
+
+00:45:26.000 --> 00:45:27.000
+That's fine!
+
+00:45:27.000 --> 00:45:40.000
+Yeah, I mean the trash thing is a real problem. My classing is so messy during certain units I know that there's also some very skilled teachers out there that are trying to do like 0 waste design thinking challenges.
+
+00:45:40.000 --> 00:45:50.000
+I you know I haven't quite figured out how to do that, but I've definitely switched away from like using a lot of plastic like I used to do, like the edge drop challenge with straws.
+
+00:45:50.000 --> 00:45:55.000
+But then we switched to like paper straws so that they're using to recycle.
+
+00:45:55.000 --> 00:45:57.000
+So things like that. So, and at the middle school we have, like a wood shop on one end, and then like a table with 3D printers.
+
+00:45:57.000 --> 00:46:09.000
+They're small, and then a laser cutter, and and just that goes a long way.
+
+00:46:09.000 --> 00:46:18.000
+I know it's very expensive, but it's a really good place to start, and then in the Upper School, you know, high School, there's they have much fancy machines like Cnc.
+
+00:46:18.000 --> 00:46:22.000
+Machines and bunch of other stuff that we don't have.
+
+00:46:22.000 --> 00:46:23.000
+What's the Cnc machine for those who don't know?
+
+00:46:23.000 --> 00:46:28.000
+The middle school. Oh, it's I don't know if it stands for, but it's like you can.
+
+00:46:28.000 --> 00:46:32.000
+No metal, I guess. What's a better description for it.
+
+00:46:32.000 --> 00:46:35.000
+Wasn't that like a computer controlled kind of thing we can.
+
+00:46:35.000 --> 00:46:38.000
+Yeah, I. So they can cut like aluminum and things like that.
+
+00:46:38.000 --> 00:46:52.000
+Yeah, so with your, if people are using these big table kind of cutters to big, you know, designs indoors and windows and things like that they're using Cnc kind of machines, I don't even I don't know what stands for myself.
+
+00:46:52.000 --> 00:46:56.000
+But I know what I see it.
+
+00:46:56.000 --> 00:47:03.000
+Yeah. But I put the link of what the what the ilab looks like over there this is like from the architects when they built.
+
+00:47:03.000 --> 00:47:06.000
+Oh! And you would notice that there's like huge garage stores on it.
+
+00:47:06.000 --> 00:47:15.000
+So that's really because you want it's like, spill outdoors, because the space is a big problem like you wanna have a lot of space for students and adults.
+
+00:47:15.000 --> 00:47:20.000
+Anybody, too. It's like really spread out and and use outdoor's face tube.
+
+00:47:20.000 --> 00:47:25.000
+Okay, well, so here's what we're gonna do with a share of the screen.
+
+00:47:25.000 --> 00:47:27.000
+Again, if if you look at the breakout notes for today, session 9, it's all about either coding or making.
+
+00:47:27.000 --> 00:47:35.000
+And so I'm gonna give you 3 options. We're going to do 3 breakout rooms.
+
+00:47:35.000 --> 00:47:37.000
+Well, there's 3 breakout room opportunities. But I'm gonna let you choose your breakout room.
+
+00:47:37.000 --> 00:47:44.000
+And so the first breakout room would be the maker would be the coding.
+
+00:47:44.000 --> 00:47:56.000
+So if you wanna if you wanna talk about how coding could fit into your instructional context, not in a computer science course, but like in a regular course, how that might be worth worth worth worthwhile for your learners, you can talk about that.
+
+00:47:56.000 --> 00:48:09.000
+You can join. That would be the first breakout room, though you'll see them in just a second, and then there's 2 different ones around Makerspace, and what I'd like you to do is to take on the challenge of doing a simple you know, basically back on the napkin style
+
+00:48:09.000 --> 00:48:19.000
+kind of design. Little diagram, maybe a list of things you would do the other kinds of things you would need to have in place to create a maker space for a school environment and instructional environment.
+
+00:48:19.000 --> 00:48:23.000
+Probably a school, but 2 different challenges. The first one has lots of money.
+
+00:48:23.000 --> 00:48:30.000
+You got a big grant or donors with big pockets, and so you can have up to a couple of $100,000.
+
+00:48:30.000 --> 00:48:31.000
+But you you don't have very much space spaces. There.
+
+00:48:31.000 --> 00:48:37.000
+Limited resource. That's that could be plenty of space.
+
+00:48:37.000 --> 00:48:42.000
+Maybe that's even too much. But let's just say 200 square foot, and then the other one would be okay.
+
+00:48:42.000 --> 00:48:43.000
+You've got lots of space, but you don't have much money right?
+
+00:48:43.000 --> 00:48:47.000
+You could have I don't know. Perhaps a 1,000 square feet.
+
+00:48:47.000 --> 00:49:02.000
+That's a lot of space, but only $10,000, you know, for your startup, you know, for, like your first year or so of operations, what would what would you be able to do, do, you think you know what what would it be, design what would you want to support kind of activities?
+
+00:49:02.000 --> 00:49:06.000
+Kind of making. Would you want to support? Why, you know what would.
+
+00:49:06.000 --> 00:49:10.000
+What might the space look like, you know? Kind of diagramming it?
+
+00:49:10.000 --> 00:49:13.000
+What might it look like? Just a a, a concept?
+
+00:49:13.000 --> 00:49:18.000
+How would you? Maybe it may be part of the money would go to staffing. I don't know.
+
+00:49:18.000 --> 00:49:26.000
+You kind of decide, or other kinds of things we kind of what kind of equipment would you think you'd want to put in there to get started?
+
+00:49:26.000 --> 00:49:27.000
+And sometimes this equipment is quite expensive. Sometimes it's not expensive at all.
+
+00:49:27.000 --> 00:49:32.000
+You might find that these these limitations aren't really limitation.
+
+00:49:32.000 --> 00:49:34.000
+You can do everything you want to do, you know, without worrying about the money or the square feet.
+
+00:49:34.000 --> 00:49:40.000
+But those are just to get you focused a little bit on some different things.
+
+00:49:40.000 --> 00:49:49.000
+There so you can pick maker space challenge one that would be a maker space challenge, to which would be B or the coding discussion.
+
+00:49:49.000 --> 00:49:50.000
+Applying it to an initructional context, not computer science.
+
+00:49:50.000 --> 00:49:56.000
+And so that's that's what we'll do.
+
+00:49:56.000 --> 00:49:58.000
+We'll do that for I don't know. Probably 2025 min.
+
+00:49:58.000 --> 00:50:05.000
+I'll check in with your groups to see how you're doing, and then we'll do a debrief, and this will work as long as everybody doesn't choose the same.
+
+00:50:05.000 --> 00:50:13.000
+The same place, and what? So that if if you wanna choose, one of the maker space challenges, and there's already like 4 people in there, then pick the other one.
+
+00:50:13.000 --> 00:50:16.000
+And I can work on, you know, balancing students as well.
+
+00:50:16.000 --> 00:50:21.000
+So if there's too many students in one group and not enough any other, I'll move someone over and let's you know what I'm doing.
+
+00:50:21.000 --> 00:50:27.000
+That okay, questions.
+
+00:50:27.000 --> 00:50:29.000
+Okay. Well, let's see what you come up with. Now for those of you listening to the recording are asynchronous learners.
+
+00:50:29.000 --> 00:50:37.000
+You get to join in on one of these as well add your comments to one of the areas.
+
+00:50:37.000 --> 00:50:44.000
+Add your name to it, so that I know that you've been part of this as well, and that'll help help me decide whether or not your participants in this particular week.
+
+00:50:44.000 --> 00:50:48.000
+For that 10% of your class credit based on participation and 10% for the discussion.
+
+00:50:48.000 --> 00:50:54.000
+And 10% for the reflections and blah blah blah, alright. Okay.
+
+00:50:54.000 --> 00:51:02.000
+Well, I'm gonna pause the recording then, and I'll launch these rooms and and I will see you in the rooms.
+
+00:51:02.000 --> 00:51:10.000
+I'll start checking in, probably in about 10 or 15 min.
+
+00:51:10.000 --> 00:51:11.000
+See, here they are. You started the part of the thing. I'm gonna I'm gonna start the recording.
+
+00:51:11.000 --> 00:51:12.000
+Yeah, here, it's just yeah, okay.
+
+00:51:12.000 --> 00:51:15.000
+Sorry to just leave you guys like that. I accidentally click the button.
+
+00:51:15.000 --> 00:51:16.000
+Oh, we're like she's gone!
+
+00:51:16.000 --> 00:51:21.000
+And it just popped up and I clicked it.
+
+00:51:21.000 --> 00:51:26.000
+Robbie was leaving before you guys assigned the speaker.
+
+00:51:26.000 --> 00:51:30.000
+That's it.
+
+00:51:30.000 --> 00:51:31.000
+Yeah.
+
+00:51:31.000 --> 00:51:35.000
+The spokesperson. So all right. Well, let's start with Group One. I think.
+
+00:51:35.000 --> 00:51:44.000
+Group. One was working way up here.
+
+00:51:44.000 --> 00:51:45.000
+Okay, I think we're ready.
+
+00:51:45.000 --> 00:51:46.000
+Yeah, I can get it. We we talked about how we already, you know, most people are already using some form of coding.
+
+00:51:46.000 --> 00:52:03.000
+I guess you know, if we could define coding, you know, some commands to get things done where we use a lot of that right Home assistance, Siri Alexa.
+
+00:52:03.000 --> 00:52:08.000
+Things like that. Those are sort of form, you know. Voice commands code, code, form.
+
+00:52:08.000 --> 00:52:16.000
+We also know that a lot of people are already using chat to write code for them.
+
+00:52:16.000 --> 00:52:23.000
+And also coding. It already takes a lot place in like spreadsheets right?
+
+00:52:23.000 --> 00:52:30.000
+Like functions and spreadsheets, I guess, would be a form of coding, automating tasks, so that you don't have to calculate everything individually.
+
+00:52:30.000 --> 00:52:37.000
+So, yeah, coding is just, you know, language to get things done that computers can help us out with.
+
+00:52:37.000 --> 00:52:38.000
+Hmm!
+
+00:52:38.000 --> 00:52:52.000
+And Linda mentioned that in her recruiting world there's a lot of folks who will even add the language that they are proficient in in the resume, so to communicate which language they use, including language.
+
+00:52:52.000 --> 00:53:01.000
+But also there's a lot of drag and drop, you know, websites or tools that are kind of like scratch, rather, they're doing the coding behind the scenes.
+
+00:53:01.000 --> 00:53:08.000
+So you don't have to know the language. So, for instance, like our articular rise, or whatever you don't have to code the interface right?
+
+00:53:08.000 --> 00:53:29.000
+You just sort of drag it, drop the features that you want, and that seems to remove the barriers and having to learn coding, because, you know, if the tool is kind of like drag and drop, maybe you don't need to line and also things like slack, you can code your own chat bots or in this
+
+00:53:29.000 --> 00:53:35.000
+court. It's kind of like coding in a way.
+
+00:53:35.000 --> 00:53:40.000
+We also talked about automation, and that you know some things have been pretty slow to automate like our taxes right?
+
+00:53:40.000 --> 00:53:48.000
+Federal State taxes are very slow process, something that could pretty be pretty easily automated.
+
+00:53:48.000 --> 00:53:54.000
+But there's a lot of, you know, pressures, lobbying power, that kind of thing that keeps those things from happening in schools.
+
+00:53:54.000 --> 00:54:02.000
+Also, there's a lot of you know. Slow push to automate things because there are some things that people still want to be highly.
+
+00:54:02.000 --> 00:54:09.000
+You know, sort of human high touch things like assessment, student assessment.
+
+00:54:09.000 --> 00:54:26.000
+I experienced that as a teacher, too. Like if there's something that could actually increase my capacity to teach to, you know, sort of automate some of the more simpler task that'd be great.
+
+00:54:26.000 --> 00:54:27.000
+Hmm!
+
+00:54:27.000 --> 00:54:35.000
+But schools are pretty reluctant to make that happen. And I think I think that's the majority. Do you guys want to add anything else? Linda or Denny?
+
+00:54:35.000 --> 00:54:40.000
+No, I think the great job that's mostly things we discussed.
+
+00:54:40.000 --> 00:54:41.000
+Yeah.
+
+00:54:41.000 --> 00:54:54.000
+Well, that was what if you've been in the situation where you're in some production capacity, let's say your teacher kind of working with students that is still approaching kind of thing that we normally wouldn't think of it that way.
+
+00:54:54.000 --> 00:55:02.000
+And all of a sudden, now you're using technology to become more efficient and you've got an overlord over you, a supervisor who sees that.
+
+00:55:02.000 --> 00:55:09.000
+What do you think they're gonna do? I do think they're gonna say, oh, well, yeah, why don't you just take more time and do the softer side of this?
+
+00:55:09.000 --> 00:55:22.000
+You know, skills, the relationship things. The counselling of students and things like that, that we all know would really help a lot of students out, and yet has become much muscleles valued in today's kind of educational system.
+
+00:55:22.000 --> 00:55:29.000
+What what do you think they're gonna do? Just let you say, okay, I'll just do it I'll be a better teacher.
+
+00:55:29.000 --> 00:55:30.000
+Or will they say, Oh, okay. So now we're saving like 10% of your work from the normal stuff.
+
+00:55:30.000 --> 00:55:37.000
+Why can't we just give you? Let's give you a deal.
+
+00:55:37.000 --> 00:55:40.000
+We'll just put 5% more stupid in your class.
+
+00:55:40.000 --> 00:55:45.000
+I mean we've seen this creep in class sizes.
+
+00:55:45.000 --> 00:55:49.000
+In the us, I mean in other parts of the world we have nothing to complain about.
+
+00:55:49.000 --> 00:56:15.000
+Right 50 students, 70 students in some of these situations, with very few resources, yet here one of the things I think that, and also be a conservative factor is when, when the teachers or the faculty who are kind of making decisions about about adopting these productive tools feel like they're
+
+00:56:15.000 --> 00:56:16.000
+Yup!
+
+00:56:16.000 --> 00:56:18.000
+just gonna be kind of slammed with more students. Then, if it's not taking them as time per student.
+
+00:56:18.000 --> 00:56:32.000
+Yeah, here's here's an example that kinda addresses that this is a startup in Canada that helps teachers automate and streamline their student feedback workflow.
+
+00:56:32.000 --> 00:56:39.000
+So the the platform is not doing the assessing. You still input your own assessment.
+
+00:56:39.000 --> 00:56:46.000
+But you just sort of puts it together so like, for instance, you can rate things still in quantitative ways, right?
+
+00:56:46.000 --> 00:56:52.000
+One through 4, or whatever whatever skill you use, and you have those attached to comments.
+
+00:56:52.000 --> 00:57:00.000
+And then this program, which is the is basically the spreadsheet type thing we'll put it together in narrative form.
+
+00:57:00.000 --> 00:57:07.000
+And this, kind of thing. I've done something like this also.
+
+00:57:07.000 --> 00:57:08.000
+Yeah.
+
+00:57:08.000 --> 00:57:14.000
+This is a lot of time and some schools have hired this company to do that, for to do that part of that process for them.
+
+00:57:14.000 --> 00:57:18.000
+But I also know that a lot of teachers are doing this because this is the only way to maintain work.
+
+00:57:18.000 --> 00:57:20.000
+Life, Balance.
+
+00:57:20.000 --> 00:57:33.000
+Yeah, one of the things we're finding on our campus is that the some of the writing courses, especially like the first year writing courses, the Administration has decided to add 10% more students into each class.
+
+00:57:33.000 --> 00:57:34.000
+So going rather than teaching, 18, which the rest of us think.
+
+00:57:34.000 --> 00:57:40.000
+Well, that's a really small class size, you know, in graduate school we're saying, Wow, we're not gonna talk about class size because some of ours are pretty small.
+
+00:57:40.000 --> 00:57:48.000
+But they went from 18 to 20. It was either 18 or 20 or 20 to 22.
+
+00:57:48.000 --> 00:57:56.000
+I don't remember but the faculty are are very upset with that, because they don't feel like they are adequately consulted in.
+
+00:57:56.000 --> 00:57:58.000
+Nor would they have agreed to this ever. And yet, you know, with the kind of tools we have now, I think there's a there are ways to teach.
+
+00:57:58.000 --> 00:58:05.000
+Writing with some of these tool sets that could actually make it more efficient.
+
+00:58:05.000 --> 00:58:14.000
+But I don't think that the faculty overall are willing to kind of associate as long as they have some control in the decisioning.
+
+00:58:14.000 --> 00:58:18.000
+I don't know that they really will be willing to really willing to accept.
+
+00:58:18.000 --> 00:58:21.000
+Okay, we'll take 10% more students. And yeah, we'll be a little bit more productive with this cool tool you gave us.
+
+00:58:21.000 --> 00:58:28.000
+Because there, I think that there's the fear that okay, this is just a progression.
+
+00:58:28.000 --> 00:58:41.000
+And yet, on the other side of this, the people, with a resource, saying, Well, you know we don't have as many resources as we what used to do. We have to be able to teach more students how we're going to do that now, if it was a doing this I don't think there would be
+
+00:58:41.000 --> 00:58:44.000
+a a problem with that at all. Let's make it more productive.
+
+00:58:44.000 --> 00:58:53.000
+We get we basically, you know, become more productive. But on the faculty side, when they have a lot of control, at least perceive control that's a really hard one.
+
+00:58:53.000 --> 00:59:02.000
+It's kinda like the to the people on the tax software saying, No, don't automate this.
+
+00:59:02.000 --> 00:59:05.000
+Yeah. Exactly. Collective bargaining. That's right.
+
+00:59:05.000 --> 00:59:13.000
+And there are a lot of schools where there is no collective bargaining, and in those schools like that it wouldn't be an issue at all.
+
+00:59:13.000 --> 00:59:14.000
+I mean, it'd be an issue for the faculty.
+
+00:59:14.000 --> 00:59:26.000
+But they just have to say, Okay, I guess this is the conditions of work here, and they have to decide to continue to work there or not, like, I guess you said something the other thing about the tax thing that you were showing I think this is another really good example.
+
+00:59:26.000 --> 00:59:38.000
+If you think about it, if you've ever used one of any of this tax software, essentially, you're just giving the answers to questions that the Federal Government would probably have.
+
+00:59:38.000 --> 00:59:43.000
+Most of those at least, and so they are essentially automating.
+
+00:59:43.000 --> 00:59:46.000
+It, parceling right? You put you put the data in there and then kind of spit out the numbers.
+
+00:59:46.000 --> 00:59:56.000
+You give them your credit card and boom, they'll file the taxes for you, and so there is.
+
+00:59:56.000 --> 01:00:02.000
+There's some levels of automation in there. And even now for the Federal and State tax returns.
+
+01:00:02.000 --> 01:00:09.000
+There are online fillable forms or fillable forms, but also online things like the tax act and things like that.
+
+01:00:09.000 --> 01:00:15.000
+You can use, and it's it is pretty simple. And yet the question does remain why can't it be automated?
+
+01:00:15.000 --> 01:00:18.000
+And the answer is, it could be automated. But that's not the system.
+
+01:00:18.000 --> 01:00:25.000
+We haven't be like changing the way we we evaluate teaching effectiveness on campuses.
+
+01:00:25.000 --> 01:00:32.000
+It's like a third rail situation. Everyone knows it's broken, but no one has the witch to to fix it.
+
+01:00:32.000 --> 01:00:41.000
+12 billion dollars in revenue. Yeah, that's big money, almost pain. I hope they pay some taxes on that.
+
+01:00:41.000 --> 01:00:43.000
+So, okay, group one, thank you. All right. How about our Maker?
+
+01:00:43.000 --> 01:00:51.000
+Space people.
+
+01:00:51.000 --> 01:00:52.000
+Where are we?
+
+01:00:52.000 --> 01:00:57.000
+Sadia Adam anyone. We did a jam board.
+
+01:00:57.000 --> 01:00:58.000
+Yeah.
+
+01:00:58.000 --> 01:01:00.000
+Right. Let's open this up.
+
+01:01:00.000 --> 01:01:01.000
+Thank you.
+
+01:01:01.000 --> 01:01:02.000
+Okay. Great. Thank you.
+
+01:01:02.000 --> 01:01:11.000
+Cool. Look at that space.
+
+01:01:11.000 --> 01:01:12.000
+Okay.
+
+01:01:12.000 --> 01:01:13.000
+So we chose the the a lot of space, a little money.
+
+01:01:13.000 --> 01:01:31.000
+Cause I think we could actually do quite a bit on a small budget, because especially meeting about like using lower cost materials or repurposed, you know, in, you know, materials which is what I'm used to like, I said at my daughter's baker.
+
+01:01:31.000 --> 01:01:37.000
+Space. It's a lot of like recyclable kind of materials that are repurposed.
+
+01:01:37.000 --> 01:01:45.000
+So we had a budget of $10,000, and we just decided to spend that on some higher quality machines.
+
+01:01:45.000 --> 01:01:57.000
+So like a couple higher quality pieces of equipment, like a kiln, and of course, tables and chairs are expensive.
+
+01:01:57.000 --> 01:01:58.000
+Right.
+
+01:01:58.000 --> 01:02:18.000
+That's a big part of the budget, and we got a pottery wheel, a tool shop, and sewing machines to sewing machines, and a 3D printer art supplies a creek cut and again using sort of more inexpensive
+
+01:02:18.000 --> 01:02:45.000
+or repurposed materials. Sometimes there's a call out for parents to bring, like cardboard, or like empty milk cartons or egg cartons to school, or like empty like 2 liter bottles, like all of those things, they can be kind of crowd sourced from families.
+
+01:02:45.000 --> 01:02:46.000
+Right.
+
+01:02:46.000 --> 01:02:47.000
+and again it shows sort of a teaches the importance of reusing and repurposing things alright. I'll leave it there.
+
+01:02:47.000 --> 01:02:51.000
+Anybody wanna pick up the rest?
+
+01:02:51.000 --> 01:02:56.000
+I wanna be the only one talking in our group.
+
+01:02:56.000 --> 01:02:57.000
+I know how you feel.
+
+01:02:57.000 --> 01:02:59.000
+Go for it, Amanda.
+
+01:02:59.000 --> 01:03:08.000
+Okay, so bottom, right of the page, you can see like our like space.
+
+01:03:08.000 --> 01:03:20.000
+Physically, we decided that, having different stations for all of our materials would be helpful and beneficial to like creating.
+
+01:03:20.000 --> 01:03:25.000
+Oh, well organized in like well oiled machine, so to speak.
+
+01:03:25.000 --> 01:03:32.000
+So we have like a station for like sewing, and, like general crafting, whether it be like 3D.
+
+01:03:32.000 --> 01:03:51.000
+Prining, sewing, other kinds of art like glue guns, and like I don't know those pom Poms any kind of art supply crafting would happen in that corner, and then at the bottom, we had talked about Marty talked about how and was it in your Daughter's
+
+01:03:51.000 --> 01:03:55.000
+class that they had a bunch of.
+
+01:03:55.000 --> 01:03:58.000
+No, I just. I thought it was a cool idea. It was on that article.
+
+01:03:58.000 --> 01:03:59.000
+Oh!
+
+01:03:59.000 --> 01:04:02.000
+It was like one possible idea. It's like a bike repair shop.
+
+01:04:02.000 --> 01:04:10.000
+I thought that was such a cool idea, because, you know, you can have.
+
+01:04:10.000 --> 01:04:11.000
+Yeah.
+
+01:04:11.000 --> 01:04:23.000
+You know, kids learn how to like repair bikes, and even kind of have it be linked to like a community service.
+
+01:04:23.000 --> 01:04:24.000
+Yeah.
+
+01:04:24.000 --> 01:04:32.000
+So like, you know, fixing bikes that may be are donated to the school so that you can turn around and give those bikes to people who, you know, need them, or lower income, or something like that, but but teaching them a skill like preparing a bike or repairing things.
+
+01:04:32.000 --> 01:04:38.000
+Yeah, skills that people don't typically know anymore. Like, I couldn't tell you how to repair bike.
+
+01:04:38.000 --> 01:04:39.000
+Yeah.
+
+01:04:39.000 --> 01:04:47.000
+You know what I mean so like that along with sewing.
+
+01:04:47.000 --> 01:04:48.000
+Yeah.
+
+01:04:48.000 --> 01:04:57.000
+We talked about how it just like teaches them like skills that were seen as like really important and just have kind of gone pushed away like pushed to the side due to like emerging technology and stuff so there's like 2 them, a new skill like through their like use of their hands.
+
+01:04:57.000 --> 01:05:01.000
+And stuff we also like all the way to the right, has like a gallery to like display.
+
+01:05:01.000 --> 01:05:11.000
+There are, if it's like displayable, not like a bike repair, but like, if they were to make like really cool stuff, they wanted people to see right in front of the gallery.
+
+01:05:11.000 --> 01:05:25.000
+There's the like poetry. A pottery station where the the people can like make pottery and glazing.
+
+01:05:25.000 --> 01:05:26.000
+Break it!
+
+01:05:26.000 --> 01:05:38.000
+Bake it, and all the stuff, and then in the back, where you see what I would assume is the back, because there's like a area for materials that would be like donated materials or materials that we purchased like the art supplies.
+
+01:05:38.000 --> 01:05:49.000
+And stuff as we would keep all of our materials when, like the state, like the space isn't being used.
+
+01:05:49.000 --> 01:05:50.000
+Yeah.
+
+01:05:50.000 --> 01:05:53.000
+And then right in the middle is just like a communal kind of a huge table for people that come together and work together.
+
+01:05:53.000 --> 01:05:54.000
+Hmm!
+
+01:05:54.000 --> 01:05:56.000
+If they wanna work together.
+
+01:05:56.000 --> 01:05:57.000
+Yeah.
+
+01:05:57.000 --> 01:05:58.000
+To eat their lunches. I'm supposed to bring into the space.
+
+01:05:58.000 --> 01:05:59.000
+Yeah, perfect.
+
+01:05:59.000 --> 01:06:01.000
+Yeah.
+
+01:06:01.000 --> 01:06:08.000
+Oh, yeah. Well, I wonder, with your space limitations, if some of this could be more kind of like with a portable design.
+
+01:06:08.000 --> 01:06:12.000
+And so you you could maybe have the bike shop.
+
+01:06:12.000 --> 01:06:16.000
+Yeah, could be somehow be pushed out of the way when it's not actively being used.
+
+01:06:16.000 --> 01:06:17.000
+Yeah.
+
+01:06:17.000 --> 01:06:18.000
+And then kind of rolled out, and now it's now, or some of the other places, too.
+
+01:06:18.000 --> 01:06:24.000
+I'm not sure if the kiln is something that can be. I don't know if they put those on, you know.
+
+01:06:24.000 --> 01:06:29.000
+Big, heavy wheels or not, but a lot of the stuff you you might find.
+
+01:06:29.000 --> 01:06:32.000
+That would be one of the things you have to do, because, remember, you also have to put people into this right.
+
+01:06:32.000 --> 01:06:37.000
+Yeah. I was thinking the doorway could be like, sort of by the bike shop.
+
+01:06:37.000 --> 01:06:42.000
+Yeah.
+
+01:06:42.000 --> 01:06:45.000
+Yeah.
+
+01:06:45.000 --> 01:06:46.000
+True.
+
+01:06:46.000 --> 01:06:52.000
+We're like, you know, have a big garage door that rolls up cause like clay can get messy and dusty, and you do kind of ventilation there, and I'm thinking the clay stitch would have like a sink so maybe it
+
+01:06:52.000 --> 01:06:57.000
+Right.
+
+01:06:57.000 --> 01:06:58.000
+Yeah.
+
+01:06:58.000 --> 01:07:01.000
+wouldn't be very portable, but, like so there have to be like a fixed and just having a sink in the middle is good, anyway, just so that everybody can come and like wash hands pretty easy, and stuff like that.
+
+01:07:01.000 --> 01:07:02.000
+But.
+
+01:07:02.000 --> 01:07:13.000
+And you might even find magically that you actually do have an art a lab, a ceramic studio that someone was able to build many years ago.
+
+01:07:13.000 --> 01:07:14.000
+Hmm!
+
+01:07:14.000 --> 01:07:16.000
+That still has an operating kill, and so you wouldn't necessarily have to put it in here if it was already there, reusing and re-purpose.
+
+01:07:16.000 --> 01:07:17.000
+Yeah, yeah, kind of like reusing the things you already have on campus.
+
+01:07:17.000 --> 01:07:18.000
+Yeah, that'd be great. Yeah.
+
+01:07:18.000 --> 01:07:23.000
+I think that'd be the wise things about makerspace.
+
+01:07:23.000 --> 01:07:28.000
+But asking for donations to is your parent communities, especially the kinds of things you need to hear.
+
+01:07:28.000 --> 01:07:30.000
+People always have stuff laying around.
+
+01:07:30.000 --> 01:07:35.000
+Yeah, we were.
+
+01:07:35.000 --> 01:07:42.000
+Excellent. Yeah, yeah.
+
+01:07:42.000 --> 01:07:43.000
+Right.
+
+01:07:43.000 --> 01:07:44.000
+We're also talking about like businesses could donate to the yes, and then, like they could even like things could be made out of those, I think, brought back to local businesses. And it kind of creates this like relationship.
+
+01:07:44.000 --> 01:07:57.000
+Yeah, there. As a matter of fact, we just bought a new sewing machine, and when we had the old one that was still functional, we just don't want, we just wanted something that was more more, you know, whatever would do better things.
+
+01:07:57.000 --> 01:08:06.000
+And so we had the big give us the option that said, well, what we we can do is take it off your hands, and we don'tate it to.
+
+01:08:06.000 --> 01:08:07.000
+Hmm!
+
+01:08:07.000 --> 01:08:08.000
+Oh, cool!
+
+01:08:08.000 --> 01:08:10.000
+I think they have a like a sewing lab for veterans, and so they veterans can come in and use all use the sewing machine.
+
+01:08:10.000 --> 01:08:17.000
+That's the kind of thing you know, where you've got a shop that could actually help kind of facilitate some of those donations would be helpful, too.
+
+01:08:17.000 --> 01:08:22.000
+Or your parent communities, etc.
+
+01:08:22.000 --> 01:08:27.000
+I. When I worked at one school I went to the university or the High School administration.
+
+01:08:27.000 --> 01:08:29.000
+I said, I need money for. Well, I said that I didn't say I need money.
+
+01:08:29.000 --> 01:08:35.000
+That was my mistake, I think maybe, but I said, I want to outfit our science.
+
+01:08:35.000 --> 01:08:43.000
+Our physics lab with 6 computers. So we have 6 workstations and do this really new thing called microcomputer based laboratories.
+
+01:08:43.000 --> 01:08:48.000
+And I was so happy because the principal said, that sounds like a great idea.
+
+01:08:48.000 --> 01:08:52.000
+Let's do that once you go talk to the Development Office, and we had.
+
+01:08:52.000 --> 01:08:53.000
+It was a private school, so we had a development officers okay, they're going to do some fund raising for me.
+
+01:08:53.000 --> 01:08:59.000
+No, no, no, no, no! They weren't going to do fundraising for me.
+
+01:08:59.000 --> 01:09:19.000
+What they were gonna do is help me draft a letter to the parent community saying You know, we're looking for computers that we can use in in our physics lab, you know, could you donate your older computers and so what we ended up ended up being a almost a year long
+
+01:09:19.000 --> 01:09:32.000
+project for me to gather. I got. I must have had 50 different computers that were that were donated from the parent community because they just they didn't know what to do with them.
+
+01:09:32.000 --> 01:09:33.000
+Wow!
+
+01:09:33.000 --> 01:09:42.000
+So they brought them in, and I took them all apart to find pieces I could use to put together you know, Frankenstein, a half a dozen, but after a year we had a half a dozen working computers that could run the first version of you know the windows software which for at
+
+01:09:42.000 --> 01:09:53.000
+that time, I thought was a big accomplishment, but that was an example of looking for trying to use donations even for more complicated technology.
+
+01:09:53.000 --> 01:09:55.000
+But you had to have someone who was willing to put the work into make it work like if you're gonna work on donations, especially for equipment.
+
+01:09:55.000 --> 01:10:14.000
+Do you have someone on staff who can fix things right? I'm not sure if he had a if he had a significant maker space, there's probably gonna be someone whose job it is at least partially to make sure the thing is running cause it you know all the stuff.
+
+01:10:14.000 --> 01:10:21.000
+Yeah, and that's and that's something that we kind of wanted to emphasize to with the goals of makerspace is.
+
+01:10:21.000 --> 01:10:31.000
+Obviously it's it's a really important space for students to come and be creative and interact with materials and and learn how to make things and engineer things for sort of the stamp purposes or steam purposes.
+
+01:10:31.000 --> 01:10:41.000
+But also the idea of like it being a space for people just learn how to repair things right?
+
+01:10:41.000 --> 01:10:47.000
+And you know, like using a sewing machine is something not a lot of people know how to do anymore.
+
+01:10:47.000 --> 01:10:48.000
+Right.
+
+01:10:48.000 --> 01:11:03.000
+And so repairing clothes, repairing bikes like the idea of using recycling materials, and then also repairing things with the focus of like keeping things out of the landfill. You know.
+
+01:11:03.000 --> 01:11:06.000
+And yeah.
+
+01:11:06.000 --> 01:11:11.000
+Yeah, we have one of our, are, we have a apparel program on campus.
+
+01:11:11.000 --> 01:11:13.000
+It's more complicated than just that name.
+
+01:11:13.000 --> 01:11:28.000
+But one of the things they always did is they did a what's it called upcycling where they would take stray materials and create wearable garments from them, and then they would have a fashion show every year and the fastest show there was a fundraiser for
+
+01:11:28.000 --> 01:11:33.000
+the program, and so they had their outreach to their community supports, etcetera.
+
+01:11:33.000 --> 01:11:35.000
+But then they would. They would. Basically, the kids would design and make things based out of fabrics that they were just found, either donated or reusing from some other purpose.
+
+01:11:35.000 --> 01:11:44.000
+And things like that.
+
+01:11:44.000 --> 01:11:46.000
+I don't know if they're still doing that.
+
+01:11:46.000 --> 01:11:51.000
+But that was a was a really amazing thing. Okay?
+
+01:11:51.000 --> 01:11:58.000
+Yeah, there you go, all right. Alright. Thank you for that creative thinking.
+
+01:11:58.000 --> 01:12:01.000
+And for all your great ideas that you brought into that for those of you listening to us, please add your comments to our discussion notes for this week.
+
+01:12:01.000 --> 01:12:09.000
+Let's see what's left to do. What's coming up.
+
+01:12:09.000 --> 01:12:15.000
+We think we have something big coming up. I remember right.
+
+01:12:15.000 --> 01:12:19.000
+So we have a discussion to do so. Here's a good idea.
+
+01:12:19.000 --> 01:12:24.000
+Do the discussion over the next 2 or 3 days right, and then at or well, as you are writing your draft of your emerging technology, demo for Number 2.
+
+01:12:24.000 --> 01:12:35.000
+So pick a technology not it doesn't have to be one that we have been focused on so much in this class.
+
+01:12:35.000 --> 01:12:53.000
+I mean, I try to give you some ideas of things to think about, but it can be any other technology that is used for especially improving student engagement or enhancing student engagement, engaged learning is kind of what we're after with this. It doesn't mean it can't cross over into content
+
+01:12:53.000 --> 01:12:54.000
+it can cross over into assessment. If you need to.
+
+01:12:54.000 --> 01:12:59.000
+We're gonna spend a couple of weeks talking about specific technologies for assessment.
+
+01:12:59.000 --> 01:13:04.000
+But especially in this world of engagement. It doesn't necessarily have to be computer based either.
+
+01:13:04.000 --> 01:13:09.000
+Okay, doesn't have to be software, but doesn't have to be a platform doesn't have to be hardware.
+
+01:13:09.000 --> 01:13:11.000
+It could just be ideas, right? My definition of instructional technology includes the processes we use to help people learn.
+
+01:13:11.000 --> 01:13:21.000
+So instructional approaches are sort of technology as well.
+
+01:13:21.000 --> 01:13:29.000
+So if there's something out there that you would consider emerging you you can, you know, focus on that as well we. We don't really talk about that that much in in this class.
+
+01:13:29.000 --> 01:13:33.000
+But I wanna kinda make sure that's true as well.
+
+01:13:33.000 --> 01:13:35.000
+One thing we're going to try differently this time.
+
+01:13:35.000 --> 01:13:54.000
+So if you are not gonna do a live demonstration in our online class, then what I'd like you to do is put your presentation recording inside this discussion form that says, Post tech demo to presentation recordings here required, if you do not present the licenses that allows everybody to see your
+
+01:13:54.000 --> 01:13:59.000
+presentation, and not just a couple of students. That would be assigned to give you peer review.
+
+01:13:59.000 --> 01:14:05.000
+In the assignment activity. Okay, does that make sense?
+
+01:14:05.000 --> 01:14:14.000
+We talked about that last time, trying it out, and if that works well, then we'll do it again for the tech, Demo 3, and then we'll also do it for the final assignment.
+
+01:14:14.000 --> 01:14:20.000
+I think it'll be fine. And it doesn't seem to be too hard for me to manage in in the assignment tool itself.
+
+01:14:20.000 --> 01:14:32.000
+Put, please turn your dropped in once again. Turn it in before class, and then it'll kick off the peer review process no earlier than like midnight of that night.
+
+01:14:32.000 --> 01:14:38.000
+Sometimes I have it kick off on the next day, especially if someone asked me, can you give me an extra day to put that in there?
+
+01:14:38.000 --> 01:14:41.000
+And I can also manually assign peer reviews to.
+
+01:14:41.000 --> 01:14:44.000
+If you're a day late, I'd rather be, you know.
+
+01:14:44.000 --> 01:14:45.000
+Get you part of the process, even if it's a little late.
+
+01:14:45.000 --> 01:14:50.000
+As long as it's not everybody, it won't be everybody.
+
+01:14:50.000 --> 01:14:52.000
+Okay, that's where we're headed with this.
+
+01:14:52.000 --> 01:14:53.000
+We come back couple of weeks of student assessment. Sure.
+
+01:14:53.000 --> 01:14:56.000
+Okay. Sorry. Can I? Can I ask?
+
+01:14:56.000 --> 01:14:57.000
+Third tech demo. And then we have another week of personal learning environments.
+
+01:14:57.000 --> 01:15:04.000
+Assistive technology is in the final projects. Unless someone talks me out of that.
+
+01:15:04.000 --> 01:15:05.000
+Yeah, go ahead. Marie.
+
+01:15:05.000 --> 01:15:17.000
+Okay, I just had a quick question. You mentioned that. So the focus for this demo is or in this next paper is ways to increase student engagement.
+
+01:15:17.000 --> 01:15:26.000
+But we still have to demo a technology to do that right.
+
+01:15:26.000 --> 01:15:27.000
+Okay.
+
+01:15:27.000 --> 01:15:28.000
+You have to demonstrate the engagement. Okay? So if you're doing something that's completely not has no technology involved, I'd be very surprised.
+
+01:15:28.000 --> 01:15:34.000
+But it is possible you you could do the walkthrough of the process if you and if you plan on doing that, or you're thinking of that, you're not quite sure.
+
+01:15:34.000 --> 01:15:50.000
+Then let's talk about that. But yeah, normally, if you're using technology, that would be good to demonstrate the technology, you can demonstrate in the context of showing us what the instruction would look like.
+
+01:15:50.000 --> 01:15:51.000
+Okay.
+
+01:15:51.000 --> 01:15:55.000
+Okay. So you don't have to explain completely how how the technology worked.
+
+01:15:55.000 --> 01:15:58.000
+And then in the last minute, talk about how you would use it in instruction right?
+
+01:15:58.000 --> 01:16:09.000
+What you could do is demonstrate that technology in the context of this is what it would be like to be in an instructional environment that's using this technology that makes sense.
+
+01:16:09.000 --> 01:16:10.000
+Because your paper?
+
+01:16:10.000 --> 01:16:16.000
+Okay, yeah. But it doesn't have to surround technology. It could just be like an instructional strategy for engagement.
+
+01:16:16.000 --> 01:16:22.000
+Yes, it could be as long as it's new. And emerging in some particular way.
+
+01:16:22.000 --> 01:16:23.000
+Okay.
+
+01:16:23.000 --> 01:16:24.000
+Interesting. Okay, thank you.
+
+01:16:24.000 --> 01:16:25.000
+Alright! And I'm doing that. I don't think everyone would agree with this approach.
+
+01:16:25.000 --> 01:16:36.000
+But that's the approach I'm going to take, because I feel like sometimes I mean, we over emphasize the software and hardware that we're using, not that they're not important.
+
+01:16:36.000 --> 01:16:41.000
+But I think that the process itself of supporting learning is what's most important.
+
+01:16:41.000 --> 01:16:52.000
+And sometimes if we focus on that first, then we can decide whether or not we need to use technology to help us at all.
+
+01:16:52.000 --> 01:16:57.000
+Right rather than starting with technology and say, Oh, oh, how can we use this to help people learn?
+
+01:16:57.000 --> 01:16:59.000
+Cause. It's a design piece.
+
+01:16:59.000 --> 01:17:03.000
+Yeah, yeah, I'm fine. More on the instructional design aspect of it.
+
+01:17:03.000 --> 01:17:07.000
+Or I just don't. I don't wanna ignore that.
+
+01:17:07.000 --> 01:17:08.000
+I wanna make sure that's part of what we're doing.
+
+01:17:08.000 --> 01:17:12.000
+Which is why there's an instructional application. That part of all of these assigns.
+
+01:17:12.000 --> 01:17:16.000
+It's not just the technology. Okay.
+
+01:17:16.000 --> 01:17:19.000
+What's like? Linda has a question.
+
+01:17:19.000 --> 01:17:20.000
+Oh, sorry, Linda, you have a question.
+
+01:17:20.000 --> 01:17:21.000
+It's okay. Oh, I have a quick question. So this is regarding the demo again.
+
+01:17:21.000 --> 01:17:31.000
+So I did my first one. I did on the program called Synthesis.
+
+01:17:31.000 --> 01:17:38.000
+May. I is it allow for us to use the same software that we did?
+
+01:17:38.000 --> 01:17:42.000
+Demonstration on the first one and then by focus on engagement, on a second.
+
+01:17:42.000 --> 01:17:48.000
+This demonstration? Or do we have to find a new technology to?
+
+01:17:48.000 --> 01:17:49.000
+You know. Show off the demonstration.
+
+01:17:49.000 --> 01:17:50.000
+Well, I would say, that would be okay as long as it's really clear.
+
+01:17:50.000 --> 01:17:58.000
+And it's quite different than what you did the first time.
+
+01:17:58.000 --> 01:17:59.000
+Okay.
+
+01:17:59.000 --> 01:18:05.000
+Right, because if you do the first one and you're focused on content, and there's an engagement in an engagement and an engaging quality with the technology, then then that's fine.
+
+01:18:05.000 --> 01:18:09.000
+But the second one shouldn't be the same thing. It might be okay.
+
+01:18:09.000 --> 01:18:10.000
+We can use the same platform. But here now we're going to design something that's really designed for engagedment.
+
+01:18:10.000 --> 01:18:17.000
+And yeah, there's some, maybe some content that comes in with that.
+
+01:18:17.000 --> 01:18:18.000
+But it's really being designed for engagement. And so it ought to be distinguishable that way.
+
+01:18:18.000 --> 01:18:28.000
+And if you can't find that distinguishable key characteristics, then probably use a different look for a different software.
+
+01:18:28.000 --> 01:18:29.000
+Okay, understood. Thank you.
+
+01:18:29.000 --> 01:18:39.000
+Okay, alright cause. A lot of the tools that we're talking about can be used for lots of different things right?
+
+01:18:39.000 --> 01:18:41.000
+Right? Right? Thank you.
+
+01:18:41.000 --> 01:18:43.000
+Okay, Adam, you have a question brewing in there.
+
+01:18:43.000 --> 01:18:50.000
+Yeah, I'm so so if we're planning to come to campus I'm just trying to figure out how I'll do this.
+
+01:18:50.000 --> 01:18:51.000
+Okay.
+
+01:18:51.000 --> 01:18:59.000
+Oh, yeah, let's talk about that. So next week, if we were here, if you're here on campus for the VR experience, we'll wrap up probably by 6 30.
+
+01:18:59.000 --> 01:19:10.000
+That's kind of the plan. So that at 70'clock, if you wanna stay on campus and do a live presentation well, that we can go actually go over to Berkele, which is where we're assigned our classroom, I have my keys.
+
+01:19:10.000 --> 01:19:18.000
+And we can. You can do a live presentation. Actually, in person if you want to, and we'll have the zoom thing going in the camera.
+
+01:19:18.000 --> 01:19:27.000
+And and so what we we, we could make that work which is like used to be the way we always did these so that's a possibility to.
+
+01:19:27.000 --> 01:19:38.000
+Or you can just say, you know what I think. I'm just gonna do a recording and head home, or or whatever you wanna do.
+
+01:19:38.000 --> 01:19:39.000
+Okay.
+
+01:19:39.000 --> 01:19:42.000
+Okay, I'll figure that out. But we should. We'll plan a meet at the library.
+
+01:19:42.000 --> 01:19:46.000
+Yeah, we meet at the library of 50'clock. 50'clock is, if you're there late, fine, I will send out an email that includes like a map highlighted.
+
+01:19:46.000 --> 01:19:56.000
+Some of you have never been to campus, I imagine, and you know it's good to have a few words that just describe where to go to.
+
+01:19:56.000 --> 01:20:00.000
+But if you get lost, it's a digital media studio in the library.
+
+01:20:00.000 --> 01:20:03.000
+I think it's a library, too. 60, and it's on their website.
+
+01:20:03.000 --> 01:20:08.000
+And I'll have the link to the website on the message I send out to those who told me they're coming.
+
+01:20:08.000 --> 01:20:12.000
+I think I think we have a like 6 people who said they're interested.
+
+01:20:12.000 --> 01:20:15.000
+So should be fun.
+
+01:20:15.000 --> 01:20:17.000
+And I plan on stopping by tomorrow just to talk to them as well, to make sure that I've done this before.
+
+01:20:17.000 --> 01:20:30.000
+Many, many years ago, when it was just new. And so I'm gonna go back in and just make sure I know what I'm we're getting into.
+
+01:20:30.000 --> 01:20:33.000
+One of the people who said I was interested in. I am.
+
+01:20:33.000 --> 01:20:47.000
+I just worry a little bit because I got so motion sick once with, I think it was like this Disneyland right?
+
+01:20:47.000 --> 01:20:48.000
+Yeah.
+
+01:20:48.000 --> 01:20:52.000
+I forgot. I think it was like millennium, falcon, or something, and it's like one of those where you're sitting in a chair, and it's moving.
+
+01:20:52.000 --> 01:20:58.000
+But like it's a screen, and it looks very real.
+
+01:20:58.000 --> 01:20:59.000
+Yeah, this this is, I did.
+
+01:20:59.000 --> 01:21:02.000
+And it's anyway. Oh, do you know, if people get motion sick?
+
+01:21:02.000 --> 01:21:05.000
+I think, in this setup they typically, don't it?
+
+01:21:05.000 --> 01:21:06.000
+Okay.
+
+01:21:06.000 --> 01:21:18.000
+This, and it's not. I don't know if it's seated, or I don't remember but what you can also do is, there are 2 large screens, and there's usually there's 2 stations going at one time, and so you can watch what someone has seen projected
+
+01:21:18.000 --> 01:21:19.000
+Okay.
+
+01:21:19.000 --> 01:21:25.000
+onto the screen. If you don't wanna actually have the headset on yourself, and what they'll do is they'll they'll let pieces of where the headset.
+
+01:21:25.000 --> 01:21:27.000
+Then they'll have a you know the call.
+
+01:21:27.000 --> 01:21:31.000
+Wipe to wipe it down in between different users, and that's how that'll work.
+
+01:21:31.000 --> 01:21:32.000
+Okay.
+
+01:21:32.000 --> 01:21:35.000
+Okay.
+
+01:21:35.000 --> 01:21:44.000
+Okay. Well, I'm looking forward to it. And I'm looking forward to reading your paper drafts next week, and also being part of the discussion this week.
+
+01:21:44.000 --> 01:21:51.000
+So have a good evening. I'll see you online, and a few few people in person next week, too.
+
+01:21:51.000 --> 01:21:55.000
+See? Yeah.
+
